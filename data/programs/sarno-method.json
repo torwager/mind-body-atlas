@@ -1,0 +1,178 @@
+{
+  "slug": "sarno-method",
+  "name": "Sarno Method / Tension Myositis Syndrome (TMS, Mindbody Syndrome)",
+  "url": "https://www.tmswiki.org/",
+  "founders": [
+    "John E. Sarno, MD (Professor of Rehabilitation Medicine, NYU School of Medicine / Rusk Institute of Rehabilitation Medicine; 1923-2017)",
+    "PPD/TMS Peer Network (peer-run nonprofit, Brookline MA; TMS Wiki 2009)",
+    "Alan Gordon, LCSW (free Pain Recovery Program hosted on TMS Wiki)"
+  ],
+  "founded_year": 1975,
+  "founded_year_range": "1973-1982: concept developed at Rusk in the 1970s (approximate); first book Mind Over Back Pain 1982; Healing Back Pain 1991; TMS Wiki/Peer Network Jan 2009",
+  "category": "psychological/neuroplastic-pain therapy",
+  "delivery": ["book", "clinician-delivered", "group", "online course", "peer forum/community"],
+  "business_model": "mixed",
+  "cost_summary": "Books ~USD 10-18 (paperback, 2026). TMS Wiki Structured Educational Program (6 wk) and Alan Gordon's Pain Recovery Program are free (donation-supported nonprofit). TMS physicians/therapists are fee-for-service, roughly USD 150-300/hr (US market range, unverified per practitioner).",
+  "cost_usd_typical": 15,
+  "conditions_claimed": [
+    "TMS (tension myositis)",
+    "chronic back/neck pain",
+    "chronic pain (general)",
+    "fibromyalgia",
+    "headache/migraine",
+    "TMD/jaw",
+    "IBS/functional GI",
+    "ME/CFS",
+    "tinnitus",
+    "anxiety",
+    "depression",
+    "somatic symptom disorder",
+    "repetitive strain injury / carpal tunnel",
+    "plantar fasciitis / tendinopathy",
+    "GERD, urinary frequency, skin/allergy (TMS equivalents)"
+  ],
+  "conditions_primary": ["TMS (tension myositis)", "chronic back/neck pain", "fibromyalgia", "chronic pain (general)"],
+  "differentiation": "single unified mechanism",
+  "mechanisms": [
+    "repressed emotion / psychodynamic (rage, TMS)",
+    "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")",
+    "fear-avoidance / catastrophizing / cognitive appraisal",
+    "neuroplastic/learned pain (brain-generated danger signal / predictive processing)",
+    "attention & interoception / hypervigilance",
+    "conditioning / classical learning"
+  ],
+  "mechanism_summary": "Unconscious repressed emotion, chiefly rage from childhood, personality (perfectionism, \"goodism\") and life pressures, threatens to reach awareness. The brain creates physical symptoms as a distraction (defence). Sarno's original physiology: the brain uses the autonomic nervous system to cause mild, harmless ischaemia in muscles, nerves and tendons. This was never demonstrated. The \"symptom imperative\": if a symptom is treated physically, the brain substitutes another, producing \"TMS equivalents\" (IBS, headache, GERD, tinnitus, skin, anxiety/depression). Fear of structural diagnoses perpetuates the pain. The cure is knowledge: accepting the psychological diagnosis removes the distraction's purpose. Successors (Schubiner, Gordon) recast it as neuroplastic/brain-generated pain and threat conditioning.",
+  "roots": [
+    "Freudian psychoanalysis / psychodynamic theory",
+    "Selye stress theory",
+    "psychosomatic medicine (Franz Alexander lineage)",
+    "rehabilitation medicine / physiatry"
+  ],
+  "techniques": [
+    "physician diagnosis ruling out structural disease and confirming TMS tender points",
+    "education lectures (two ~2-hr seminars) / bibliotherapy",
+    "accepting the psychological diagnosis and rejecting structural explanations",
+    "12 daily reminders",
+    "daily reflection and journaling on childhood, personality and current stressors (15-30 min)",
+    "talking to the brain/unconscious",
+    "resuming all normal physical activity; stopping physical therapy and treatments",
+    "psychodynamic psychotherapy for non-responders",
+    "TMS Wiki 6-week Structured Educational Program (reading, journaling, meditation, forum)",
+    "Alan Gordon Pain Recovery Program (fear reduction, somatic tracking)",
+    "peer support forum and drop-in chat"
+  ],
+  "mainstream_adoption": "limited",
+  "mainstream_notes": "Practised within NYU Rusk Institute, but the diagnosis was rejected by mainstream medicine. Sarno said \"99.999%\" of physicians rejected it, and an NYU Langone pain specialist called his views \"on the fringe\" (2017). Wikipedia labels TMS a pseudomedical diagnosis. It is not in any guideline by name. Endorsed by Andrew Weil (the reported Mehmet Oz endorsement is unverified). Practised by a small physician network (Schechter, Schubiner, Sopher, Rashbaum). Its indirect influence is large: it is the root of PRT, EAET, psychophysiologic-disorder clinics (e.g. Donnino's PSRT at Beth Israel Deaconess) and apps such as Curable and Pathways.",
+  "insurance": "sometimes/indirect",
+  "insurance_notes": "The method is not reimbursed as such. Visits to TMS-oriented physicians and psychotherapy with TMS therapists can be billed under standard E/M and psychotherapy codes, though many therapists are out-of-network. Books and the free wiki programs are self-funded.",
+  "evidence_level": "case reports/observational only",
+  "key_trials": [
+    {
+      "citation": "Schechter D, Smith AP, Beck J, Roach J, Karim R, Azen S. Outcomes of a mind-body treatment program for chronic back pain with no distinct structural pathology--a case series of patients diagnosed and treated as tension myositis syndrome. Altern Ther Health Med 2007;13(5):26-35. PMID 17900039",
+      "design": "Uncontrolled case series, single physician's office (Los Angeles), 2002-03; follow-up 3-12 mo (Sarno method itself)",
+      "n": 51,
+      "finding": "Mean pain VAS -52% average, -35% worst, -65% least (P<.0001); SF-12 physical +9; less medication, more activity. No control group; investigator allegiance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17900039/"
+    },
+    {
+      "citation": "Hsu MC, Schubiner H, Lumley MA, Stracks JS, Clauw DJ, Williams DA. Sustained pain reduction through affective self-awareness in fibromyalgia: a randomized controlled trial. J Gen Intern Med 2010;25(10):1064-70. PMID 20532650",
+      "design": "RCT vs wait-list, blinded assessor (Sarno-derived affective self-awareness; descendant, not Sarno method)",
+      "n": 45,
+      "finding": "At 6 mo, lower pain, better function and higher tender-point threshold; 45.8% had >=30% pain reduction vs 0% of controls.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20532650/"
+    },
+    {
+      "citation": "Burger AJ, Lumley MA, Carty JN, et al. The effects of a novel psychological attribution and emotional awareness and expression therapy for chronic musculoskeletal pain: a preliminary, uncontrolled trial. J Psychosom Res 2016;81:1-8. PMID 26800632",
+      "design": "Uncontrolled pilot (descendant EAET precursor)",
+      "n": 72,
+      "finding": "Large pre-post improvements in pain, interference, depression and distress maintained at 6 mo; ~2/3 improved >=30% in pain.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26800632/"
+    },
+    {
+      "citation": "Lumley MA, Schubiner H, Lockhart NA, et al. Emotional awareness and expression therapy, cognitive behavioral therapy, and education for fibromyalgia: a cluster-randomized controlled trial. Pain 2017;158(12):2354-63. PMID 28796118",
+      "design": "Cluster RCT, 3 arms (descendant EAET)",
+      "n": 230,
+      "finding": "EAET did not differ from education on primary outcome (pain severity) but beat it on secondary outcomes (d 0.29-0.45). Did not differ from CBT on most outcomes; more >=50% pain responders (22.5% vs 8.3%).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28796118/"
+    },
+    {
+      "citation": "Donnino MW, Thompson GS, Mehta S, et al. Psychophysiologic symptom relief therapy for chronic back pain: a pilot randomized controlled trial. Pain Rep 2021;6(3):e959. PMID 34589642",
+      "design": "Pilot RCT: PSRT vs MBSR vs usual care (descendant)",
+      "n": 35,
+      "finding": "At 26 wk, RMDQ improved more with PSRT (9.5 to 3.3); 63.6% pain-free vs 25% (MBSR) and 16.7% (usual care).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34589642/"
+    },
+    {
+      "citation": "Ashar YK, Gordon A, Schubiner H, et al. Effect of Pain Reprocessing Therapy vs Placebo and Usual Care for Patients With Chronic Back Pain: A Randomized Clinical Trial. JAMA Psychiatry 2022;79(1):13-23. PMID 34586357",
+      "design": "RCT, 3 arms with fMRI, 1-yr follow-up (descendant PRT)",
+      "n": 151,
+      "finding": "Post-treatment pain 1.18 vs 2.84 (placebo) vs 3.13 (usual care); 66% pain-free or nearly vs 20%/10%; effects largely maintained at 1 yr.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34586357/"
+    },
+    {
+      "citation": "Yarns BC, Jackson NJ, Alas A, Melrose RJ, Lumley MA, Sultzer DL. Emotional Awareness and Expression Therapy vs Cognitive Behavioral Therapy for Chronic Pain in Older Veterans: A Randomized Clinical Trial. JAMA Netw Open 2024;7(6):e2415842. PMID 38869899",
+      "design": "RCT, EAET vs CBT, VA Greater Los Angeles, 6-mo follow-up (descendant EAET)",
+      "n": 126,
+      "finding": "EAET superior to CBT on pain severity post-treatment (-1.59) and at 6 mo (-1.01); >=30% pain reduction 63% vs 17%.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38869899/"
+    }
+  ],
+  "controversy": "Wikipedia labels it a pseudomedical diagnosis, and NYU colleagues called it \"on the fringe.\" Criticisms: unfalsifiable constructs (repressed rage, symptom imperative); an untested ischaemia hypothesis; no controlled trial of the method itself; a claimed ~85% cure rate never verified by studies; over-application risking missed structural disease (Rainville); advice to ignore imaging and stop physical therapy; perceived victim-blaming for contested illnesses; reliance on celebrity anecdotes (Stern, Stossel, who reported relapses); natural recovery of back pain as a confound. Descendant PRT/EAET trials are allegiance-led and test different mechanisms.",
+  "popularity": {
+    "indicators": [
+      {"metric": "Cumulative book sales (all Sarno titles)", "value": ">1 million copies", "source": "NYT obituary as cited by Shelf Awareness", "year": 2017},
+      {"metric": "Goodreads ratings, Healing Back Pain", "value": "~8,450 ratings, avg 4.10 (not re-verified)", "source": "goodreads.com", "year": 2026},
+      {"metric": "TMS Wiki forum size", "value": "13,689 members; 27,718 threads; 167,305 messages", "source": "tmswiki.org/forum", "year": 2026},
+      {"metric": "TMS Wiki articles", "value": "701 articles (not re-verified)", "source": "tmswiki.org", "year": 2026},
+      {"metric": "Documentary", "value": "All the Rage: Saved by Sarno (Larry David, Howard Stern, Andrew Weil)", "source": "Wikipedia; playhousecinema.ca", "year": 2016},
+      {"metric": "Founding of online community", "value": "TMS Wiki / PPD-TMS Peer Network founded January 2009", "source": "idealist.org; tmswiki.org", "year": 2009},
+      {"metric": "Patients treated by Sarno (self-reported)", "value": ">10,000 at Rusk", "source": "Wikipedia (John E. Sarno)", "year": null}
+    ],
+    "reach_estimate": "~1-5 million people: >1 million books sold (multiple readers per copy, plus decades of word of mouth and media such as Howard Stern and 20/20), plus Sarno's clinic patients (>10,000 self-reported) and TMS Wiki visitors (forum ~14k members, many more readers).",
+    "reach_log10": 6.3,
+    "trajectory": [
+      {"year": 1975, "relative_activity": 1},
+      {"year": 1982, "relative_activity": 2},
+      {"year": 1985, "relative_activity": 2},
+      {"year": 1991, "relative_activity": 4},
+      {"year": 1995, "relative_activity": 5},
+      {"year": 1998, "relative_activity": 5.5},
+      {"year": 2002, "relative_activity": 5.5},
+      {"year": 2006, "relative_activity": 6},
+      {"year": 2009, "relative_activity": 6.5},
+      {"year": 2012, "relative_activity": 6.5},
+      {"year": 2014, "relative_activity": 6.5},
+      {"year": 2016, "relative_activity": 7.5},
+      {"year": 2017, "relative_activity": 9},
+      {"year": 2018, "relative_activity": 8},
+      {"year": 2020, "relative_activity": 7.5},
+      {"year": 2021, "relative_activity": 8},
+      {"year": 2022, "relative_activity": 8},
+      {"year": 2024, "relative_activity": 7.5},
+      {"year": 2026, "relative_activity": 7}
+    ],
+    "method_notes": "Trajectory anchored on documented events: 1970s Rusk clinic; 1982, 1991, 1998 and 2006 book releases (Healing Back Pain as the inflection point); TMS Wiki founding in 2009; Sarno's retirement ~2012 (year not re-verified); 2016 documentary; June 2017 death with NYT/WaPo obituaries (peak media); 2021-22 PRT JAMA Psychiatry trial and Gordon's The Way Out, renewing interest. The level then declines slightly as successor brands (Curable, PRT, Sachs) absorb attention. Google Trends and Reddit (r/TMSHealing) counts were not retrieved because the web search budget was exhausted. The levels are judgement-based on those anchors. Reach is the >1M books sold times a readers-per-copy factor, plus clinic and online users. Forum counts were re-verified on 2026-10-12."
+  },
+  "sources": [
+    "https://www.tmswiki.org/",
+    "https://www.tmswiki.org/ppd/Structured_Educational_Program",
+    "https://www.tmswiki.org/forum/",
+    "https://www.tmswiki.org/forum/painrecovery/",
+    "https://www.idealist.org/en/nonprofit/a8fca694b31848c38985c97daff8c533-ppdtms-peer-network-brookline",
+    "https://www.idealist.org/en/nonprofit/d9f914e388f3425d8f99bea341acd001-tms-wiki-brookline",
+    "https://en.wikipedia.org/wiki/John_E._Sarno",
+    "https://en.wikipedia.org/wiki/Tension_myositis_syndrome",
+    "https://www.shelf-awareness.com/theshelf/2017-06-26/obituary_note:_dr._john_e._sarno.html",
+    "https://playhousecinema.ca/movie/all-the-rage-saved-by-sarno",
+    "https://www.goodreads.com/book/show/18668.Healing_Back_Pain",
+    "https://pubmed.ncbi.nlm.nih.gov/17900039/",
+    "https://pubmed.ncbi.nlm.nih.gov/2530198/",
+    "https://pubmed.ncbi.nlm.nih.gov/12708562/",
+    "https://pubmed.ncbi.nlm.nih.gov/20532650/",
+    "https://pubmed.ncbi.nlm.nih.gov/26800632/",
+    "https://pubmed.ncbi.nlm.nih.gov/28796118/",
+    "https://pubmed.ncbi.nlm.nih.gov/34589642/",
+    "https://pubmed.ncbi.nlm.nih.gov/34586357/",
+    "https://pubmed.ncbi.nlm.nih.gov/38869899/"
+  ]
+}

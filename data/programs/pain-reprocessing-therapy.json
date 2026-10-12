@@ -1,0 +1,195 @@
+{
+  "slug": "pain-reprocessing-therapy",
+  "name": "Pain Reprocessing Therapy (PRT)",
+  "url": "https://www.painreprocessingtherapy.com/",
+  "founders": [
+    "Alan Gordon, LCSW (developer; founder/director of the Pain Psychology Center, Los Angeles; listed as director of the PRT Center in 2021)",
+    "Howard Schubiner, MD (co-developer of trial protocol; Mind Body Medicine Center)",
+    "Paulina Soble, LCSW and Daniella Deutsch, LCSW (listed co-founders of the PRT Center)",
+    "Alon Ziv (co-author, The Way Out)"
+  ],
+  "founded_year": 2017,
+  "founded_year_range": "2015-2021. The method was formalized for the Boulder trial, which enrolled from Nov 2017 (NCT03294148). The Pain Psychology Center is earlier, early-to-mid 2010s; this is an estimate and its founding date was not stated on its site. PRT Center clinician training scaled up around 2020-2021, alongside the JAMA Psychiatry paper (Sept 2021) and The Way Out (Aug 2021).",
+  "category": "psychological/neuroplastic-pain therapy",
+  "delivery": ["clinician-delivered", "telehealth", "group", "book", "online course", "app", "coaching", "clinician training/certification"],
+  "business_model": "clinician-delivered (fee-for-service)",
+  "cost_summary": "Patient therapy at WellBody Psychotherapy costs USD 165-250 per 50-minute virtual session (verified Oct 2026), so a typical 8-12-session course is about USD 1,300-3,000. The 8-week online Healing Workshop has no posted price. Clinician training (21 h Foundational, 21 CE/CME) was reported at USD 890-990, with advanced training at about USD 660-720 and a coaching add-on at USD 190. These training prices could not be re-verified: the training page lists no prices and the product pages return 404. The book The Way Out costs about USD 15-28. The podcast, blog and some videos are free.",
+  "cost_usd_typical": 2000,
+  "conditions_claimed": [
+    "chronic pain (general)",
+    "chronic back/neck pain",
+    "fibromyalgia",
+    "headache/migraine",
+    "IBS/functional GI",
+    "tinnitus",
+    "insomnia",
+    "MCS/IEI",
+    "fatigue (non-specific)",
+    "dizziness/vertigo",
+    "repetitive strain injury",
+    "osteoarthritis pain (neuroplastic component)",
+    "neuropathic pain",
+    "itch/nausea",
+    "POTS/dysautonomia (research adaptation PORT only; not on PRT FAQ)"
+  ],
+  "conditions_primary": ["chronic back/neck pain", "chronic pain (general)", "fibromyalgia", "headache/migraine"],
+  "differentiation": "mostly unified with condition-specific emphasis",
+  "mechanisms": [
+    "neuroplastic/learned pain (brain-generated danger signal / predictive processing)",
+    "fear-avoidance / catastrophizing / cognitive appraisal",
+    "attention & interoception / hypervigilance",
+    "conditioning / classical learning",
+    "repressed emotion / psychodynamic (rage, TMS)",
+    "central sensitization"
+  ],
+  "mechanism_summary": "Most chronic primary pain is described as \"neuroplastic\": the brain has learned to misread safe body signals as dangerous and generates real pain as a false alarm. A pain-fear cycle keeps it going (vigilance, avoidance, beliefs that pain means injury). Emotional threats raise the danger level further: stress, perfectionism, suppressed emotion. Reappraising sensations as safe through somatic tracking and evidence-gathering is meant to produce safety learning or extinction. The developers' trial reported matching fMRI changes: reduced aMCC/aPFC responses to evoked back pain vs placebo, reduced anterior insula responses vs usual care, and increased aPFC/anterior insula-S1 resting connectivity. A single model covers all neuroplastic symptoms. Structural pain is distinguished from neuroplastic pain, and \"mixed\" pain is treated as only partly reducible.",
+  "roots": [
+    "Sarno TMS",
+    "gate control / neuromatrix pain science",
+    "CBT (Beck/Ellis)",
+    "behaviorism / classical conditioning",
+    "Buddhist vipassana/insight meditation",
+    "Freudian psychoanalysis / psychodynamic theory",
+    "life coaching / positive psychology",
+    "Pavlov",
+    "pain neuroscience education (Moseley/Butler)",
+    "fear-avoidance model / exposure-inhibitory learning",
+    "Schubiner mind-body syndrome / EAET"
+  ],
+  "techniques": [
+    "Medical evaluation to rule out structural causes and confirm neuroplastic pain",
+    "Pain neuroscience education (brain origin, reversibility, pain-fear cycle)",
+    "Gathering personal evidence for brain origin (inconsistency, triggers, stress onset)",
+    "Somatic tracking: mindful, curious attention to pain with safety reappraisal (daily home practice)",
+    "Reducing other emotional threats (stress, self-criticism, suppressed emotion; emotional processing)",
+    "Gravitating toward positive feelings and sensations",
+    "Exposure: resuming avoided activities without fear",
+    "Outcome independence, self-compassion, relapse prevention",
+    "Formats: 1 + 8 sessions over 4 weeks (trial), 8-9 weekly sessions, 3-session Brief PRT, 8-week group Healing Workshop, book, Healing Track app"
+  ],
+  "mainstream_adoption": "moderate",
+  "mainstream_notes": "Academic uptake has grown fast since 2021, with 15 ClinicalTrials.gov registrations (verified Oct 2026). These include the 360-person POWeR RCT of PRT vs CBT vs usual care in veterans (CU Denver, NCT07137715), a veterans group pilot (NCT06406699), Brief PRT in veterans (Michigan, NCT06771713), Weill Cornell (NCT05820204, N = 150; NCT06800209 for knee pain), Mount Sinai's Healing Track app RCT (NCT06641102, N = 180) and a Lumley single-session comparison (NCT07008105). There are also studies at Mayo, Karolinska, Oslo, Toronto, Ben-Gurion and CUHK. Review articles in Swiss, German and Canadian journals introduce PRT to clinicians. Adaptations exist for fibromyalgia, migraine and POTS (PORT). PRT is not named in NICE, CDC, ACP or VA/DoD guidelines.",
+  "insurance": "sometimes/indirect",
+  "insurance_notes": "There is no PRT-specific billing code. Licensed therapists can bill it as psychotherapy or health-behaviour services. WellBody does not accept insurance directly; it gives superbills for in-state therapy and receipts for coaching. The PRT Center FAQ says Healing Workshops are not covered because they are psychoeducational, and that patients should ask individual practitioners about insurance.",
+  "evidence_level": "pilot or single RCT",
+  "key_trials": [
+    {
+      "citation": "Ashar YK, Gordon A, Schubiner H, et al., Wager TD. Effect of Pain Reprocessing Therapy vs Placebo and Usual Care for Patients With Chronic Back Pain. JAMA Psychiatry 2022;79(1):13-23. doi:10.1001/jamapsychiatry.2021.2669",
+      "design": "3-arm RCT (PRT vs open-label placebo injection vs usual care) with longitudinal fMRI; developers co-authored and have disclosed COIs",
+      "n": 151,
+      "finding": "Post-treatment pain: 1.18 vs 2.84 vs 3.13/10 (g = -1.14 vs placebo, -1.74 vs usual care). Pain-free or nearly pain-free: 66% vs 20% vs 10%. At 1 year: 1.51 vs 2.79 vs 3.00 (g = -0.70, -1.05). Reduced aMCC/aPFC (vs placebo) and anterior insula (vs usual care) responses to evoked pain.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34586357/"
+    },
+    {
+      "citation": "Ashar YK, Low EL, Knight K, Schubiner H, Gordon A, LeRoux A, Lumley MA, Wager TD. 5-Year Follow-Up of a Randomized Clinical Trial. JAMA Psychiatry 2025;82(10):1049-1051. doi:10.1001/jamapsychiatry.2025.1844",
+      "design": "Research letter; 5-year follow-up of the RCT above",
+      "n": 151,
+      "finding": "Developers describe gains as largely maintained. A critic (Ingraham, PainScience.com) reports SMD about -0.62 but only about 0.67/10 raw points, with no 5-year effects on sleep, anxiety or catastrophizing. These figures are secondary-source and unverified against the full text.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40736996/"
+    },
+    {
+      "citation": "Ashar YK, Lumley MA, Perlis RH, Liston C, Gunning FM, Wager TD. Reattribution to Mind-Brain Processes and Recovery From Chronic Back Pain. JAMA Netw Open 2023;6(9):e2333846",
+      "design": "Secondary analysis of the RCT",
+      "n": 151,
+      "finding": "PRT raised mind-brain pain attributions from about 10% to 51% (g of about 2 vs controls). The increase was associated with pain reduction and mediated 1-year effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37768666/"
+    },
+    {
+      "citation": "Sit RW, Chan CY, Fong HP, Fung CL, Wong SYS. Pain reprocessing therapy in adults with chronic widespread pain: a pilot randomized clinical trial. J Psychosom Res 2026;208:112688 (ChiCTR2400081418)",
+      "design": "Pilot RCT, PRT (1 + 8 individual sessions) vs 4 group psychoeducation sessions; independent of developers (no COI declared)",
+      "n": 53,
+      "finding": "Feasible: mean 7.8 sessions attended; dropout 11% vs 27%. Favourable trends on all secondary outcomes at 12 weeks; not powered for efficacy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42061275/"
+    },
+    {
+      "citation": "Sturgeon J, Trost Z, Ashar YK, Lumley MA, Schubiner H, Clauw D, Hassett AL. Brief pain reprocessing therapy for fibromyalgia: a feasibility, acceptability, and preliminary efficacy pilot. Reg Anesth Pain Med 2025. doi:10.1136/rapm-2025-107076",
+      "design": "Single-arm open-label pilot, 3 telehealth sessions",
+      "n": 35,
+      "finding": "94% (33/35) completed. Pain d = 0.89 and interference d = 1.06 at 3 months; 42% much or very much improved. A secondary-outcomes paper (2026) reports improved mood and fatigue.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40973446/"
+    },
+    {
+      "citation": "Wynia Z, Gasienica J, et al., Ashar YK. Group-format pain reprocessing therapy in veterans with chronic back/neck pain: a pilot study. J Pain 2026;45:106322 (NCT06406699)",
+      "design": "Uncontrolled pilot, 8-session group telehealth PRT",
+      "n": 46,
+      "finding": "74% retention. PEG pain score -1.48 at post-treatment and -0.93 at 2 months (-1.46 with the revised protocol).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42167627/"
+    },
+    {
+      "citation": "Panzel AEC, Buchel C, Leroux A, Wager TD, Ashar YK. Auditory Hyperresponsivity in Chronic Back Pain: A Randomized Controlled Trial of Pain Reprocessing Therapy. Ann Neurol 2026;99(6):1555-1567",
+      "design": "Case-control (142 CBP vs 51 controls) plus RCT secondary outcomes",
+      "n": 193,
+      "finding": "CBP showed auditory hyperresponsivity (g of about 1.0). PRT produced small reductions in unpleasantness from low-intensity sounds ('central desensitization').",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41761046/"
+    },
+    {
+      "citation": "Fishbein JN, Schuster NM, Anders A, Portera AM, Herbert MS. Pain Reprocessing Therapy for migraine: a case series. Headache 2025;65(9):1660-1665",
+      "design": "Case series; independent of developers",
+      "n": 3,
+      "finding": "Headache days fell from 18-30 to 3-5 per month in refractory chronic migraine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40859715/"
+    },
+    {
+      "citation": "Crouch TB, et al., Chelimsky T. POts Reprocessing Therapy (PORT): rationale and development. Clin Auton Res 2026;36(3):373-385; pilot trial preprints Res Sq 2026 (June and Oct versions)",
+      "design": "Development paper plus a non-randomized pilot (14 PORT vs 15 community-care controls from the same clinic); pilot not yet peer-reviewed; Ashar and Schubiner co-authors",
+      "n": 29,
+      "finding": "Group x time effects on POTS symptoms (partial eta squared 0.28), anxiety (0.36) and catastrophizing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41758479/"
+    }
+  ],
+  "controversy": "Harriet Hall (Science-Based Medicine, May 2022) criticized the pivotal trial's open-label saline placebo as an inadequate control and called the usual-care arm an \"A + B vs A\" design. She also noted that first positive trials often shrink on replication. Paul Ingraham (PainScience.com, 2025) argued that the 5-year SMD of about -0.62 masks a raw difference of only about 0.67/10 points in a mild, homogeneous sample, and that the largest durable effects are on the beliefs PRT trains. Other concerns: there is only one fully powered RCT; it is single-site, with no active psychological comparator, self-reported outcomes and unusually large effects. Disclosed conflicts in the trial papers: UnitedHealth Group consulting (Ashar, Gordon, Schubiner); PRT Center and Lin Health fees (Ashar); Curable consulting (Schubiner); Curable SAB (Wager); Gordon founded the Pain Psychology Center and Healing Track; book royalties. The website extends the model to conditions never tested in trials (MCS, fatigue, tinnitus, dizziness). Patient groups (ME/CFS, long COVID, POTS/EDS) worry that brain-based framing will be misapplied to organic disease. PRT itself requires a medical evaluation first and acknowledges \"mixed\" pain. Note: T. D. Wager is senior author of the core trials.",
+  "popularity": {
+    "indicators": [
+      {"metric": "Pivotal RCT publication with broad media/NIH coverage", "value": "JAMA Psychiatry, online 29 Sept 2021", "source": "PubMed 34586357; NIH Research Matters", "year": 2021},
+      {"metric": "Consumer book", "value": "The Way Out (Avery/Penguin Random House; Ebury UK)", "source": "Open Library / publisher", "year": 2021},
+      {"metric": "PubMed records for 'pain reprocessing therapy'", "value": "27 total (verified); about 20 from 2025-2026", "source": "PubMed E-utilities, Oct 2026", "year": 2026},
+      {"metric": "Registered clinical trials", "value": "15 on ClinicalTrials.gov (verified)", "source": "ClinicalTrials.gov API v2", "year": 2026},
+      {"metric": "Clinician training", "value": "21-h Foundational training (21 CE/CME); co-founder bio says she 'has trained thousands of mental health clinicians'", "source": "painreprocessingtherapy.com", "year": 2026},
+      {"metric": "5-year follow-up publication", "value": "JAMA Psychiatry, Oct 2025 issue (online mid-2025)", "source": "PubMed 40736996", "year": 2025}
+    ],
+    "reach_estimate": "About 1e5 to 1e6 people reached cumulatively, central estimate about 2-3 x 10^5. Basis: a major-publisher book (sales unverified), thousands of trained clinicians each seeing tens of patients, workshops and app users. PRT-style content in Curable and Lin Health is not counted.",
+    "reach_log10": 5.4,
+    "trajectory": [
+      {"year": 2012, "relative_activity": 0.5},
+      {"year": 2014, "relative_activity": 0.8},
+      {"year": 2016, "relative_activity": 1},
+      {"year": 2017, "relative_activity": 1.5},
+      {"year": 2018, "relative_activity": 2},
+      {"year": 2019, "relative_activity": 2},
+      {"year": 2020, "relative_activity": 2.5},
+      {"year": 2021, "relative_activity": 6},
+      {"year": 2022, "relative_activity": 7},
+      {"year": 2023, "relative_activity": 7},
+      {"year": 2024, "relative_activity": 7.5},
+      {"year": 2025, "relative_activity": 8.5},
+      {"year": 2026, "relative_activity": 9}
+    ],
+    "method_notes": "The trajectory rests on dated documentary indicators: trial enrolment (2017-18), the JAMA Psychiatry paper and The Way Out (2021), training expansion, the PubMed count by year (sharp rise in 2025-26) and ClinicalTrials.gov registrations (2023-26). Reddit and Google Trends were not measured. Years before 2017 reflect Gordon's practice, whose founding date is unverified. Reach is an order-of-magnitude guess; no official user counts are published."
+  },
+  "sources": [
+    "https://www.painreprocessingtherapy.com/",
+    "https://www.painreprocessingtherapy.com/the-science-of-pain-reprocessing-therapy",
+    "https://www.painreprocessingtherapy.com/pain-reprocessing-therapy-faqs",
+    "https://www.painreprocessingtherapy.com/prt-training-courses",
+    "https://www.painreprocessingtherapy.com/meet-our-staff",
+    "https://www.painreprocessingtherapy.com/course/healing-workshop",
+    "https://getwellbody.com/faq",
+    "https://www.painpsychologycenter.com/",
+    "https://pubmed.ncbi.nlm.nih.gov/34586357/",
+    "https://pubmed.ncbi.nlm.nih.gov/40736996/",
+    "https://pubmed.ncbi.nlm.nih.gov/37768666/",
+    "https://pubmed.ncbi.nlm.nih.gov/42061275/",
+    "https://pubmed.ncbi.nlm.nih.gov/40973446/",
+    "https://pubmed.ncbi.nlm.nih.gov/41741177/",
+    "https://pubmed.ncbi.nlm.nih.gov/42167627/",
+    "https://pubmed.ncbi.nlm.nih.gov/41761046/",
+    "https://pubmed.ncbi.nlm.nih.gov/40859715/",
+    "https://pubmed.ncbi.nlm.nih.gov/41758479/",
+    "https://pubmed.ncbi.nlm.nih.gov/42396528/",
+    "https://pubmed.ncbi.nlm.nih.gov/42856466/",
+    "https://clinicaltrials.gov/search?term=%22pain%20reprocessing%22",
+    "https://sciencebasedmedicine.org/pain-reprocessing-therapy/",
+    "https://www.painscience.com/blog/pain-reprocessing-therapy-follow-up.html",
+    "https://www.nih.gov/news-events/nih-research-matters/retraining-brain-treat-chronic-pain"
+  ]
+}

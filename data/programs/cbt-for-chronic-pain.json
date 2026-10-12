@@ -1,0 +1,289 @@
+{
+    "slug": "cbt-for-chronic-pain",
+    "name": "Cognitive Behavioral Therapy for Chronic Pain (CBT-CP), incl. VA national CBT-CP program",
+    "url": "https://www.va.gov/painmanagement/",
+    "founders": [
+        "Wilbert Fordyce (operant pain treatment, 1970s)",
+        "Dennis Turk, Donald Meichenbaum, Myles Genest (cognitive-behavioral pain model, 1983)",
+        "Francis Keefe, Robert Kerns (CBT for pain, 1980s-90s)",
+        "Jennifer L. Murphy PhD et al. (VA CBT-CP protocol/manual, 2014)"
+    ],
+    "founded_year": 1983,
+    "founded_year_range": "1976-1983 for generic CBT for pain (Fordyce 1976; Turk, Meichenbaum & Genest 1983); VA national CBT-CP training ~2011-2012 (patients treated from 2012, manual 2014, evaluation 2015)",
+    "category": "psychological/neuroplastic-pain therapy (mainstream reference standard)",
+    "delivery": [
+        "clinician-delivered",
+        "group",
+        "telehealth",
+        "IVR/AI-coached self-directed",
+        "workbook"
+    ],
+    "business_model": "clinician-delivered (fee-for-service)",
+    "cost_summary": "Free or copay for eligible veterans in VHA; VA manuals and workbooks are free PDFs. US private practice about USD 100-250 per session, so about USD 1,200-3,000 for 12 sessions before insurance (estimate, 2026). Usually insurance-covered.",
+    "cost_usd_typical": 2000,
+    "conditions_claimed": [
+        "chronic pain (general)",
+        "chronic back/neck pain",
+        "fibromyalgia",
+        "headache/migraine",
+        "TMD/jaw",
+        "depression",
+        "anxiety",
+        "insomnia"
+    ],
+    "conditions_primary": [
+        "chronic pain (general)",
+        "chronic back/neck pain",
+        "fibromyalgia"
+    ],
+    "differentiation": "mostly unified with condition-specific emphasis",
+    "mechanisms": [
+        "fear-avoidance / catastrophizing / cognitive appraisal",
+        "conditioning / classical learning",
+        "peripheral nerve / pain gating",
+        "stress / HPA axis",
+        "attention & interoception / hypervigilance"
+    ],
+    "mechanism_summary": "Biopsychosocial model plus gate control/neuromatrix theory. Chronic pain is maintained by a cycle of inactivity, avoidance, deconditioning, depression and poor sleep. It is amplified by catastrophizing, low self-efficacy and operantly reinforced pain behaviours. Pain is treated as real, with nociceptive and tissue contributions, and as managed rather than cured. The goal is function and quality of life, not elimination of a brain-generated danger signal. The same transdiagnostic model is applied across pain diagnoses, with headache-specific (CBT-HA) and other condition variants.",
+    "roots": [
+        "behaviorism / classical conditioning",
+        "CBT (Beck/Ellis)",
+        "gate control / neuromatrix pain science",
+        "autogenic training / Relaxation Response",
+        "biofeedback (1960s-70s)",
+        "Selye stress theory",
+        "third-wave CBT (ACT, DBT)"
+    ],
+    "techniques": [
+        "pain education (biopsychosocial model, pain cycle, gate control)",
+        "SMART goal setting",
+        "graded walking/exercise with logs",
+        "time-based activity pacing",
+        "diaphragmatic breathing",
+        "progressive muscle relaxation",
+        "guided imagery",
+        "pleasant activity scheduling (behavioral activation)",
+        "cognitive restructuring of catastrophizing",
+        "sleep hygiene and stimulus control",
+        "flare-up and maintenance planning",
+        "homework practice",
+        "12 weekly sessions or Brief 6x30-min version",
+        "IVR/AI-coached self-directed CBT-CP"
+    ],
+    "mainstream_adoption": "substantial",
+    "mainstream_notes": "Recommended by the ACP 2017 low back pain guideline, the CDC 2016/2022 opioid guidelines, the HHS Pain Task Force 2019, VA/DoD guidelines, NICE NG193 (2021, chronic primary pain) and NICE NG59 (within combined physical-psychological programmes). VA national competency-based CBT-CP training (3-day workshop plus ~6 months consultation) began about 2011-12 and is embedded in VA's Stepped Care Model, with a Brief CBT-CP for primary care and CBT-HA for headache. It is the core of multidisciplinary pain programmes worldwide.",
+    "insurance": "yes",
+    "insurance_notes": "US: Health Behavior Assessment & Intervention CPT codes 96156/96158/96159/96164-96168 (since 2020, Medicare and private payers) for a pain diagnosis, or psychotherapy codes 90832-90837 with a mental-health diagnosis. Covered by VHA and TRICARE. Funded in UK NHS pain management programmes.",
+    "evidence_level": "systematic reviews/meta-analyses",
+    "key_trials": [
+        {
+            "citation": "Williams ACdeC, Fisher E, Hearn L, Eccleston C. Cochrane Database Syst Rev 2020;8:CD007407 (PMID 32794606)",
+            "design": "Cochrane systematic review/meta-analysis of psychological therapies: 75 RCTs (9,401 participants) total, of which 59 CBT RCTs (>5,000 participants)",
+            "n": 9401,
+            "finding": "CBT vs TAU at end of treatment: pain SMD -0.22, disability -0.32, distress -0.34. CBT vs active control: very small (pain -0.09, disability -0.12, distress -0.09). Effects maintained at follow-up vs TAU but not vs active controls.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32794606/"
+        },
+        {
+            "citation": "Lamb SE et al. Lancet 2010;375:916-923 (BeST; PMID 20189241)",
+            "design": "Pragmatic RCT, group CBT (<=6 sessions) plus advice vs advice alone (2:1), UK primary care subacute/chronic LBP",
+            "n": 701,
+            "finding": "RMDQ improved 1.3 points more at 12 months (2.4 vs 1.1); cost about GBP 1,786/QALY.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20189241/"
+        },
+        {
+            "citation": "Cherkin DC et al. JAMA 2016;315:1240-1249 (PMID 27002445)",
+            "design": "3-arm RCT: MBSR vs group CBT (8 x 2h) vs usual care, chronic LBP",
+            "n": 342,
+            "finding": "Clinically meaningful function improvement at 26 wk: CBT 57.7%, MBSR 60.5%, usual care 44.1%; CBT and MBSR did not differ.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27002445/"
+        },
+        {
+            "citation": "Stewart MO, Karlin BE, Murphy JL et al. Clin J Pain 2015;31:722-729 (PMID 25171637)",
+            "design": "Uncontrolled national program evaluation of VA CBT-CP training",
+            "n": 148,
+            "finding": "71 therapists trained, 60 (85%) met competency; 79% of veterans completed; pre-post improvements in catastrophizing, interference and QoL.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25171637/"
+        },
+        {
+            "citation": "Murphy JL, Cordova MJ, Dedert EA. Psychol Serv 2022;19:95-102 (PMID 32986454)",
+            "design": "Uncontrolled VA CBT-CP program outcomes 2012-2018",
+            "n": 1331,
+            "finding": "Catastrophizing d=0.78; worst pain, interference, depression and physical QoL d>0.60.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32986454/"
+        },
+        {
+            "citation": "Heapy AA et al. JAMA Intern Med 2017;177:765-773 (COPES; PMID 28384682)",
+            "design": "Noninferiority RCT, IVR-CBT vs in-person CBT, chronic back pain (single VA system)",
+            "n": 125,
+            "finding": "IVR-CBT noninferior on pain intensity (-0.77 vs -0.84 NRS); 2.3 more sessions completed.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28384682/"
+        },
+        {
+            "citation": "Piette JD et al. JAMA Intern Med 2022;182:975-983 (PMID 35939288)",
+            "design": "Noninferiority RCT, AI/IVR-personalized CBT-CP vs standard telephone CBT-CP, VA chronic back pain",
+            "n": 278,
+            "finding": "Noninferior on RMDQ at 3 and 6 months; more clinically meaningful improvement at 6 months (37% vs 19%); less than half the therapist time.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35939288/"
+        },
+        {
+            "citation": "Heapy AA et al. JAMA 2026;336:400-412 (COPES-ExTRA; PMID 42340733)",
+            "design": "Open-label pragmatic superiority RCT, self-directed IVR-coached CBT-CP vs clinician-delivered CBT-CP (4-11 sessions), 9 VHA sites",
+            "n": 764,
+            "finding": "Self-directed better on 4-month pain interference (5.26 vs 6.23; diff -0.98, ~MCID), sustained at 6 and 12 months; 76%/68% follow-up completion.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42340733/"
+        },
+        {
+            "citation": "Beehler GP et al. Pain 2026;167:1839-1849 (PMID 42263268)",
+            "design": "RCT, Brief CBT-CP (6x30 min) + usual care vs usual care, VA primary care",
+            "n": 184,
+            "finding": "Greater improvement in pain interference at 6, 12 and 24 weeks; better physical QoL and sleep quality.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42263268/"
+        },
+        {
+            "citation": "Darnall BD et al. JAMA Netw Open 2021;4:e2113401 (PMID 34398206)",
+            "design": "3-arm RCT: single-session Empowered Relief vs 8-session CBT vs health education, chronic LBP",
+            "n": 263,
+            "finding": "Single session noninferior to CBT on catastrophizing, pain intensity and interference at 3 months; inferior to CBT on physical function. Lead author developed Empowered Relief.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34398206/"
+        },
+        {
+            "citation": "Lumley MA et al. Pain 2017;158:2354-2363 (PMID 28796118)",
+            "design": "Cluster RCT (40 groups): EAET vs CBT vs FM education, fibromyalgia",
+            "n": 230,
+            "finding": "EAET did not differ from CBT on primary pain-severity outcome or most secondaries; EAET better on FM symptoms (d=0.35), widespread pain (d=0.37), >=50% pain reduction (22.5% vs 8.3%). CBT is the comparator.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28796118/"
+        },
+        {
+            "citation": "Yarns BC et al. JAMA Netw Open 2024;7:e2415842 (PMID 38869899)",
+            "design": "RCT, EAET vs CBT (1 individual + 8 group sessions each), older veterans with chronic musculoskeletal pain",
+            "n": 126,
+            "finding": ">=30% pain reduction 63% EAET vs 17% CBT post-treatment; EAET superior on pain severity at 6 months too. CBT is the comparator.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38869899/"
+        },
+        {
+            "citation": "Bernardy K, Klose P, Welsch P, Hauser W. Eur J Pain 2018;22:242-260 (PMID 28984402)",
+            "design": "Meta-analysis, CBT for fibromyalgia (29 RCTs)",
+            "n": 2509,
+            "finding": "Small benefits: >=50% pain relief RD 0.05; negative mood SMD -0.43; disability -0.30; fatigue -0.27.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28984402/"
+        }
+    ],
+    "controversy": "Effects on pain intensity are small (Cochrane SMD -0.09 vs active controls) and often no better than active controls (education, MBSR, single-session classes). Its coping/management framing is criticised by neuroplastic-pain proponents for accepting chronicity; EAET outperformed CBT on pain in a 2024 veteran RCT, while in the 2017 fibromyalgia trial EAET and CBT were similar on the primary outcome. Patients sometimes perceive it as 'it's in your head'. PACE/NICE 2021 controversy over CBT for ME/CFS colours perceptions, though CBT-CP makes no curative claims. VA program evaluations are uncontrolled and developer-run. Access is limited by workforce: only 38.4% of pain patients seen by CBT-CP-trained VA therapists received it (2015-2020).",
+    "popularity": {
+        "indicators": [
+            {
+                "metric": "RCTs of CBT in Cochrane review",
+                "value": "59 CBT trials (>5,000 participants); 75 psychological trials, 9,401 participants overall",
+                "source": "Williams et al. Cochrane 2020",
+                "year": 2020
+            },
+            {
+                "metric": "VA patients treated in training program",
+                "value": "1,331 veterans (2012-2018)",
+                "source": "Murphy et al. Psychol Serv 2022",
+                "year": 2022
+            },
+            {
+                "metric": "VA pain patients seen by CBT-CP-trained therapists",
+                "value": "37,514 patients (Oct 2015-Feb 2020); 38.4% received CBT-CP",
+                "source": "National VHA administrative analysis (centreforevidence.org summary, 2025)",
+                "year": 2025
+            },
+            {
+                "metric": "Initial VA therapist cohort",
+                "value": "71 therapists trained, 60 competent",
+                "source": "Stewart et al. Clin J Pain 2015",
+                "year": 2015
+            },
+            {
+                "metric": "Large pragmatic trial",
+                "value": "764 veterans at 9 VHA sites",
+                "source": "Heapy et al. JAMA 2026",
+                "year": 2026
+            }
+        ],
+        "reach_estimate": "About 1 million cumulative worldwide receiving CBT-based pain treatment, including multidisciplinary pain programmes (UK, Europe, US, Australia); VHA CBT-CP alone likely tens of thousands (>=14,000 implied by 38.4% of 37,514 in 2015-2020). Order-of-magnitude estimate, not measured.",
+        "reach_log10": 6,
+        "trajectory": [
+            {
+                "year": 1976,
+                "relative_activity": 1
+            },
+            {
+                "year": 1983,
+                "relative_activity": 2
+            },
+            {
+                "year": 1990,
+                "relative_activity": 3
+            },
+            {
+                "year": 1999,
+                "relative_activity": 4
+            },
+            {
+                "year": 2005,
+                "relative_activity": 5
+            },
+            {
+                "year": 2010,
+                "relative_activity": 6
+            },
+            {
+                "year": 2012,
+                "relative_activity": 7
+            },
+            {
+                "year": 2016,
+                "relative_activity": 8
+            },
+            {
+                "year": 2019,
+                "relative_activity": 8
+            },
+            {
+                "year": 2020,
+                "relative_activity": 8
+            },
+            {
+                "year": 2022,
+                "relative_activity": 8
+            },
+            {
+                "year": 2024,
+                "relative_activity": 8
+            },
+            {
+                "year": 2026,
+                "relative_activity": 8
+            }
+        ],
+        "method_notes": "Trajectory is based on documented milestones: Fordyce 1976 and Turk et al. 1983; RCT growth leading to Morley 1999; Cochrane 2009/2012/2020; VA rollout 2011-12; opioid-crisis policy 2016-2019 (CDC, CARA, HHS Task Force); HBAI billing codes 2020; large VA trials 2017-2026. No Google Trends, Reddit or social-media metrics were systematically gathered. The reach estimate is a rough extrapolation from VA counts and the ubiquity of CBT in multidisciplinary pain programmes, not a measured figure. Activity is plateau-high since about 2016 as an established standard rather than a growing consumer brand."
+    },
+    "sources": [
+        "https://www.va.gov/painmanagement/",
+        "https://www.va.gov/PAINMANAGEMENT/CBT_CP/index.asp",
+        "https://www.va.gov/PAINMANAGEMENT/CBT_CP/Providers.asp",
+        "https://www.va.gov/PAINMANAGEMENT/docs/CBT-CP_Therapist_Manual.pdf",
+        "https://www.va.gov/PAINMANAGEMENT/CBT_CP/docs/Brief_CBT-CP-Manual-V2_5-6-2021.pdf",
+        "https://pubmed.ncbi.nlm.nih.gov/32794606/",
+        "https://pubmed.ncbi.nlm.nih.gov/10204712/",
+        "https://pubmed.ncbi.nlm.nih.gov/24018611/",
+        "https://pubmed.ncbi.nlm.nih.gov/28984402/",
+        "https://pubmed.ncbi.nlm.nih.gov/20189241/",
+        "https://pubmed.ncbi.nlm.nih.gov/27002445/",
+        "https://pubmed.ncbi.nlm.nih.gov/34398206/",
+        "https://pubmed.ncbi.nlm.nih.gov/25171637/",
+        "https://pubmed.ncbi.nlm.nih.gov/32986454/",
+        "https://pubmed.ncbi.nlm.nih.gov/31318726/",
+        "https://pubmed.ncbi.nlm.nih.gov/42263268/",
+        "https://pubmed.ncbi.nlm.nih.gov/42340733/",
+        "https://pubmed.ncbi.nlm.nih.gov/28384682/",
+        "https://pubmed.ncbi.nlm.nih.gov/35939288/",
+        "https://pubmed.ncbi.nlm.nih.gov/28796118/",
+        "https://pubmed.ncbi.nlm.nih.gov/38869899/",
+        "https://pubmed.ncbi.nlm.nih.gov/32451528/",
+        "https://www.centreforevidence.org/article/20250410-use-of-cognitive-behavioral-therapy-in-a-nation-wide-veterans-health-administration-sample-the-role-of-clinic-therapist-and-patient-factors",
+        "https://www.nice.org.uk/guidance/ng193"
+    ]
+}

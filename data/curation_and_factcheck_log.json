@@ -1,0 +1,1607 @@
+{
+ "programs": [
+  {
+   "slug": "sarno-method",
+   "name": "Sarno Method / Tension Myositis Syndrome (TMS, Mindbody Syndrome)",
+   "category": "psychological/neuroplastic-pain therapy",
+   "ok": true,
+   "corrections": [
+    "Lumley 2017 (Pain, PMID 28796118): EAET did NOT differ from education on the primary outcome (pain severity). It beat education only on secondary outcomes. It had more >=50% responders than CBT (22.5% vs 8.3%).",
+    "Burger 2016 (PMID 26800632): title corrected to 'The effects of a novel psychological attribution and EAET...'. N=72 added (the file said '(small)'). About two-thirds improved >=30%.",
+    "Added an omitted RCT: Yarns et al. 2024 JAMA Netw Open (PMID 38869899), EAET vs CBT in older veterans, N=126. EAET was superior on pain severity (63% vs 17% had >=30% reduction).",
+    "Sarno's claimed cure rate restated as ~85% with >10,000 patients, which he never verified with studies (the file said 80-90% from 'practice surveys').",
+    "Removed Steve Kerr as a celebrity advocate (unverified). Flagged the Mehmet Oz endorsement as unverified. Andrew Weil is confirmed via the 2016 documentary.",
+    "Sarno's title corrected to Professor of Rehabilitation Medicine (not 'Clinical'). He became outpatient director at Rusk in 1965. The ~2012 retirement year is flagged as not re-verified.",
+    "Replaced 'nearly all physicians reject it (2004)' with Sarno's own '99.999%' quote. Added the 2017 NYU Langone 'on the fringe' criticism (Gharibo, via Shelf Awareness/NYT).",
+    "Softened the claim that DNRS/Gupta descend from Sarno: the link is thematic, not documented lineage.",
+    "Updated TMS Wiki forum counts to exact verified figures (13,689 members; 27,718 threads; 167,305 messages).",
+    "Verified via PubMed: the Schechter 2007, Hsu 2010, Donnino 2021 and Ashar 2022 citations, Ns and results are correct. The Coen & Sarno 1989 and Rashbaum & Sarno 2003 papers are confirmed as non-trial papers.",
+    "The web search budget was exhausted, so the 2009 Senate testimony (still flagged), the Goodreads count and the wiki article count were not re-verified."
+   ]
+  },
+  {
+   "slug": "pain-reprocessing-therapy",
+   "name": "Pain Reprocessing Therapy (PRT)",
+   "category": "psychological/neuroplastic-pain therapy",
+   "ok": true,
+   "corrections": [
+    "Checked all 13 cited PubMed records with E-utilities. Authors, years, journals, volumes and pages are correct. The 2022 trial's numbers match the abstract, and the 1-year raw means (1.51 vs 2.79 vs 3.00) were added.",
+    "There is no direct quote for the 5-year follow-up results. The full text could not be retrieved. A critique by Ingraham (PainScience.com) was added: SMD about -0.62, which is only about 0.67/10 raw points, and no 5-year effects on sleep, anxiety or catastrophizing. These figures are flagged as secondary-source.",
+    "Checked the 7 ClinicalTrials.gov registrations with the API and confirmed the total of 15. The veterans trials were relabelled: POWeR and the group pilot are led by CU Denver and the Brief PRT trial by Michigan, rather than being 'VA' trials.",
+    "PORT pilot controls were community-care controls, not a waitlist. There are two Research Square preprint versions. Ashar and Schubiner are co-authors, so the study is not independent.",
+    "Conflict-of-interest details now come from the papers' own disclosures: UnitedHealth consulting (Ashar, Gordon, Schubiner); Lin Health and PRT Center fees (Ashar); Curable consulting (Schubiner); Curable scientific advisory board (Wager); a grant from the Association for the Treatment of Neuroplastic Symptoms (ATNS) to Ashar; Gordon is founder of Healing Track.",
+    "Conditions claimed were corrected to match the PRT FAQ. Anxiety, pelvic pain/endometriosis and TMS were removed because the FAQ does not list them. Neuropathy and itch/nausea were added. POTS is marked as a research adaptation only.",
+    "Clinician training prices (USD 890-990 and so on) could not be re-verified: the training page lists no prices and the product pages return 404. They are flagged as unverified. WellBody's price of USD 165-250 per session and its superbill policy were verified.",
+    "Founders: Soble and Deutsch are confirmed as PRT Center co-founders and WellBody co-executive directors. Gordon's USC adjunct title is not confirmed on his clinic site and is now qualified. The 'thousands of clinicians trained' quote is attributed to Deutsch's bio.",
+    "Added the Ingraham 2025 criticism to the controversy section."
+   ]
+  },
+  {
+   "slug": "emotional-awareness-expression-therapy",
+   "name": "Emotional Awareness and Expression Therapy (EAET)",
+   "category": "trauma/emotion-focused therapy",
+   "ok": true,
+   "corrections": [
+    "The HHS 2019 Pain Management Task Force listing was checked in the report PDF itself (section 2.5, p. 38). Before, it rested only on what the developers said.",
+    "NCT06044649 (M&M 4-arm trial) enrolled 408 people, not about 460. Its lead site is Rush University (PI John Burns), with Wayne State as collaborator, and it is active but no longer recruiting. The NINR funding claim could not be verified, so it is now described as NIH-funded.",
+    "NCT07218757 was described as a VA trial planned for 2026. It is in fact a UCLA-led, NCCIH-funded multisite pragmatic trial in veterans that has been recruiting since January 2026, with an estimated N of 672.",
+    "NCT06865560 (EAET for pain with opioid use disorder) is a completed single-arm pilot with N=11.",
+    "The Kaufmann 2026 migraine RCT enrolled 30 people according to its registration. PubMed has no abstract for it. The podcast claim of about 7 fewer migraine days per month cannot be verified and is flagged as not citable.",
+    "The Thakur 2017 finding now says EAET did not reduce psychological symptoms while relaxation reduced depression. Yarns 2024 now includes the 50% pain-reduction rates (35% vs 7%).",
+    "Maroti 2026 now has full authors and exact figures (d -0.21; responders 47.2% vs 29.6%; differences attenuated at follow-up). It is noted as having no inactive control and as coming from a partly independent Stockholm group.",
+    "The Slavin-Spenny 2013 precursor headache RCT (N=147) was added to key_trials.",
+    "Lumley's conflicts of interest now include CognifiSense fees.",
+    "The training page gives conflicting dates for the next cohort (autumn 2026 vs early 2027). The training is waitlist-only, and its CE credit (via Wayne State) covers psychologists and social workers only.",
+    "Verified as correct: all 18 cited PMIDs with their authors, journals, years, volumes and pages; the key numbers in the abstracts; the 41 PubMed hits; Lumley's title of Distinguished Professor (since 2017); and the USD 600 training price."
+   ]
+  },
+  {
+   "slug": "unlearn-your-pain",
+   "name": "Unlearn Your Pain / Mind Body Syndrome program (Howard Schubiner)",
+   "category": "psychological/neuroplastic-pain therapy",
+   "ok": true,
+   "corrections": [
+    "All 10 listed trial PMIDs, plus 37479050, 42856466, 37777033, 38763258, 41758479, 40736996 and 32428905, checked against PubMed: the authors, journal, year, N and findings are correct.",
+    "Added an omitted major trial: Yarns et al., JAMA Netw Open 2024 (PMID 38869899). EAET vs CBT in older veterans, N=126; 63% vs 17% had >=30% pain reduction. It is the largest positive EAET RCT and Schubiner is not an author.",
+    "Added the Krohner 2024 RCT (N=91, null on pain severity) and the PORT POTS pilot to key_trials in the JSON. Added the Sturgeon 2025 brief-PRT fibromyalgia pilot (N=35, uncontrolled) and the Kaufmann 2026 EAET migraine pilot to the .md.",
+    "Clarified that PRT was developed by Alan Gordon. Schubiner contributed to it and co-authored the trial; he did not simply 'co-develop' it.",
+    "Founder details: added Wayne State University background (from the course site) and Hal Greenham's credentials (BSc Psych ANU, Radix, IFS level 1). The MSU clinical professor title is confirmed by the PRH bio.",
+    "The online course existed by 2021: co-ownership of Freedom From Chronic Pain, Inc. is disclosed in JAMA Psychiatry 2022. It was not first launched in 2023-2025.",
+    "The Coursera course is about 17 h by module estimates, not 16 h. The 9,821 learners and 5.0 rating from 40 reviews are verified.",
+    "The release year of This Might Hurt (2022) is not stated on the film site and is now marked c. 2022, unverified. The site confirms the directors and that it features Schubiner's program.",
+    "Verified the COI disclosures (UnitedHealth, Karuna Labs, Curable, OVID Dx, royalties). Noted that Lumley 2017 listed Schubiner with no conflicts.",
+    "Pricing ($297/$397/$497 and 12-month plans), the 2% refund claim, the no-insurance policy and the PRH book details ($35, 448 pp, 26 May 2026) are verified. The first-edition year of 2010 and Betzold as co-writer were not re-verified because the web-search quota was exhausted.",
+    "Verified the 88% primary-pain figure (88.3% of 222 patients, J Pain 2024)."
+   ]
+  },
+  {
+   "slug": "atns-neuroplastic-symptoms-association",
+   "name": "Association for the Treatment of Neuroplastic Symptoms (ATNS; formerly PPDA)",
+   "category": "psychological/neuroplastic-pain therapy",
+   "ok": true,
+   "corrections": [
+    "Donnino 2023 long-COVID figures (80%/67%/52%) are not in the paper; replaced with SSS-8 mean -10.9 points at 13 weeks (the 52% was the share who had previously tried mind-body therapy)",
+    "Lumley 2017: EAET did not beat education on the primary outcome (pain severity); added",
+    "Hsu 2010, Donnino 2021 and Yarns 2024 figures and full author lists made precise",
+    "Clarke practised at Kaiser Permanente NW 1984-2009; added",
+    "Directory spans ~13 countries, not ~15",
+    "2026 conference registration price is not posted; the course page states no price; 2023 conference price not re-verified",
+    "Condition list expanded (small fiber neuropathy, trigeminal/post-herpetic neuralgia, EBV reactivation, tics, visual snow, etc.)",
+    "PPDA funding of the PRT trial confirmed in the JAMA Psychiatry acknowledgments",
+    "Wayback-sourced claims (March 2011 incorporation, 2012 conference ~250, 2017 ~500 donors) not re-verified: web search quota exhausted and the archive was unreachable"
+   ]
+  },
+  {
+   "slug": "psychophysiologic-symptom-relief-therapy",
+   "name": "Psychophysiologic Symptom Relief Therapy (PSRT; the user's 'PSPR')",
+   "category": "psychological/neuroplastic-pain therapy",
+   "ok": true,
+   "corrections": [
+    "Removed the claim that Patricia Howard has about 20 years in patient support and counselling. The papers give only her BIDMC affiliation, so it could not be verified.",
+    "Howard Schubiner's role clarified: the pilot paper acknowledges him, and he is not an author, for 'consultative expertise and education of instructors'.",
+    "Funding split. Adam D'Angelo alone funded the 2021 back-pain pilot. D'Angelo and James O'Shaughnessy together funded the long COVID study.",
+    "The direct-reach estimate was wrong: the stated '<100' did not match the researcher's own sum. Corrected to about 100-150 enrolled across trials; reach_log10 changed from 2 to 2.1.",
+    "NCT02117921 enrollment of 20 is the registry's 'estimated' figure; the actual number is unknown. Dates confirmed: Feb 2014 to Dec 2016, no results posted.",
+    "Long COVID trial: age criterion given as 18-60 instead of '<60'. Added the SSS-8 changes at 4 and 8 weeks.",
+    "Europe PMC citation counts are marked as not re-verified.",
+    "Added a naming note: the user's 'PSPR' may also mean the broader psychophysiologic disorder (PPD/PPDA, Schubiner) approach.",
+    "Verified as accurate: all three PMIDs (34589642, 38026456, 37361483) with their authors, journals, volumes and pages; the pilot's key numbers (RMDQ 9.5 to 3.3; p=0.04 and p=0.03; 7/11 pain-free); the hours discrepancy (36 vs 38); the Paschali 2024 rationale paper (PMID 39091382); NCT04689646 completed 2026-07-06 with N=126 and no results; no PSRT publications found for 2025-2026."
+   ]
+  },
+  {
+   "slug": "istdp",
+   "name": "Intensive Short-Term Dynamic Psychotherapy (ISTDP)",
+   "category": "trauma/emotion-focused therapy",
+   "ok": true,
+   "corrections": [
+    "Abbass, Lovas & Purdy 2008 Cephalalgia (PMID 18771494) is a narrative review, not a case series (md fixed)",
+    "Added Chavooshi 2016 Psychosomatics RCT (PMID 27017450): N=100, internet ISTDP vs TAU (md previously listed N as 'pilot')",
+    "Chavooshi 2016 Psychother Psychosom: N not verifiable (no abstract); flagged",
+    "Malda-Castillo 2023: 18 recruited, 17 completed; uncontrolled case series",
+    "Abbass 2009 CJEM: labelled as non-randomised service evaluation; N=77 confirmed via NCT00833742",
+    "Added Heshmati 2023 TRD RCT (n=86, waitlist, retrospectively registered, very large effects)",
+    "Removed unverified Lilliengren mean of 6.1 sessions; cost-summary session counts adjusted",
+    "Davanloo death date clarified (reported Nov 2023, announced Apr 2024)",
+    "Abbass and Frederickson labelled as later developer/trainer, not co-founders",
+    "IEDTA 1,000+ figure labelled as self-reported 'therapists', not verified membership",
+    "2023 umbrella review recommendation is for STPP as a class, not ISTDP specifically",
+    "Controversy extended: replication concern covers all Iranian groups; ISTDP only equivalent to CBT in n=341 trial",
+    "Could not verify (web search quota exhausted): 2026 session prices, any data-integrity concerns about the Iranian trials, book count"
+   ]
+  },
+  {
+   "slug": "journalspeak-nicole-sachs",
+   "name": "JournalSpeak / The Cure for Chronic Pain (Nicole Sachs)",
+   "category": "influencer/author method",
+   "ok": true,
+   "corrections": [
+    "Lisa Eisenpresser's role clarified: she is Sachs's partner, co-founder of Your BreakAwake and the podcast producer. The About page says she co-created the Sarno x Sachs practitioner training with Sachs and Christina Sarno.",
+    "Book imprint corrected: Avery (Penguin Random House) in the US and Vermilion (Ebury) in the UK, with a Penguin Audio edition in May 2025.",
+    "Self-reported reach is inconsistent: the About page says both 'hundreds of thousands' and 'thousands'. Flagged, and reach_log10 lowered from 5.3 to 5.2.",
+    "Added a generic expressive-writing RCT: Broderick 2005, Psychosom Med, N=92, fibromyalgia. Gains at 4 months were not maintained at 10 months.",
+    "The CE training's accrediting body is not stated on the site (noted). Coach licensure is not stated, rather than confirmed as 'non-licensed'.",
+    "Verified as accurate: membership prices ($9.99/$99; $99/$999), coaching ($160 per session or $640 for 4), 18.75 CE credits, 5.5M downloads, LCSW credential and Sarno history, and zero PubMed or ClinicalTrials.gov hits for JournalSpeak."
+   ]
+  },
+  {
+   "slug": "pain-free-you-dan-buglio",
+   "name": "Pain Free You (Dan Buglio)",
+   "category": "influencer/author method",
+   "ok": true,
+   "corrections": [
+    "The 'one yes' clue now uses the site's actual wording: a single 'yes' 'means your brain is creating pain or symptoms based on perceived danger'. The draft softened this to 'suggests'.",
+    "Credentials: the About page says Buglio 'studied psychology' but names no degree or license. Added to the founder description.",
+    "Removed 'addiction/substance use' from the claimed conditions. The Symptoms page lists only post-acute withdrawal syndrome and medication withdrawal effects. Added asthma and SIBO, which the page does list.",
+    "The condition count is now '~100 (stated to be non-exhaustive)' instead of '100+'. Some entries on the page are duplicates.",
+    "Corrected the PubMed note: a 'Pain Free You' phrase search returns 32 unrelated papers, not zero. A Buglio[au] AND pain search does return 0.",
+    "Verified: $100/month price with no stated guarantee; ~12 h/week of Zoom windows; YouTube 72.5K subscribers and 12,282,310 views, channel joined 3 Mar 2019; ATNS 2026 Session 8A title and the '2,500+ daily videos since March 2019' bio; Jan 2025 book (audiobook copyright 2024); 11 years of pain per the About page vs 13 per ATNS and the book; 'thousands of members' (book copy says 2,000+ coached).",
+    "Facebook follower count not re-checked. Could not search independently for criticism or studies because the session's web-search budget ran out; this is flagged in the controversy and method notes.",
+    "The PRT (Ashar 2022, N=151) and EAET (Lumley 2017, N=230) context citations are correct and correctly marked as not trials of this program. key_trials stays empty."
+   ]
+  },
+  {
+   "slug": "back-in-control-hanscom",
+   "name": "Back in Control / DOC Journey (David Hanscom)",
+   "category": "influencer/author method",
+   "ok": true,
+   "corrections": [
+    "Founder credentials: added the internal-medicine residency year (Spokane 1979-80) and the UC Davis orthopedic trauma fellowship (1984). Corrected the practice name to 'Seattle Neuroscience Specialists with Swedish Medical Center' (it was 'Swedish Neuroscience Specialists') and the Seattle tenure to 32+ years, per the bio page.",
+    "Conditions claimed: replaced the list with the verified thedocjourney.com homepage list, which adds fatigue, TMJ, CRPS/RSD, dizziness, heartburn and eating disorders. 'Burning feet' could not be verified on the homepage, so it was dropped.",
+    "Coaching cadence: noted the homepage inconsistency ('weekly' vs 'bi-weekly'). The checkout page confirms Tue/Thu 12-1 pm PT.",
+    "Prices verified: $20 / $25 per month with a 14-day trial / $72 / $87. The FAQ states no partial refunds, and its stress-chemistry quote is verified verbatim.",
+    "2nd edition year flagged as uncertain: the PT bio says 2016, while OpenLibrary lists 2014 and 2017 printings.",
+    "Calm Your Body, Heal Your Mind: release year not independently confirmed (the site links to a Penguin Random House page). Its year was set to null in the indicators.",
+    "The ACPA Resource Guide, Bree Collaborative and Pain News Network claims are flagged as not independently verified (site self-report).",
+    "Generic writing systematic review fully cited (Salikka et al., Eur J Pain 2026, PMID 41699922) and added to key_trials as indirect evidence, clearly labelled as not a trial of the program.",
+    "PubMed re-check ('Hanscom D[au]', 32 records) confirmed there is no trial or outcome study of DOC. The 2015 Global Spine J review citation was verified.",
+    "The web-search quota was exhausted during fact-checking, so popularity metrics remain coarse."
+   ]
+  },
+  {
+   "slug": "curable",
+   "name": "Curable (app)",
+   "category": "digital app/platform",
+   "ok": true,
+   "corrections": [
+    "Founder full names (John Gribbin, Erich Luedtke, Laura Seago) confirmed from the schema.org 'founders' field on curablehealth.com pages. The caveat that the names came 'from the project brief' was removed. Three founders also confirmed by podcast ep. 17 (Jul 2018).",
+    "Thomson 2024 refined: arms were 98 app vs 100 waitlist; the interference p value is .038 (95% CI -1.18 to -0.03); registration NCT05090683; unfunded, with no COI declared; 9-country sample (88.8% Canada). The 12-week results are uncontrolled within-group results among completers (n=65), not maintained controlled effects.",
+    "Added MacPherson 2022 to key_trials as an app-quality review (508 apps screened; Curable, Pathways and Vivify scored highest). Devan 2019 clarified: Curable tied with 2 other apps at 8/14.",
+    "PMIDs added for the Hunter (41701989), Doi (41341414) and Devan (30747715) studies; all citations verified in Europe PMC.",
+    "Podcast count confirmed at exactly 93 RSS items (28 Jul 2017 to 6 Oct 2026). iOS rating (4.43, 1,464 ratings) and release date (2017-12-19) re-verified via the iTunes API.",
+    "Pricing re-verified ($15.99/mo list, $7.99/mo first-year promo, 14-day trial, HSA/FSA MCC 8099, 30-day refund on web and Google Play).",
+    "Added a criticism: the founders' recovery narrative (2018 podcast) lists Lyme disease and fainting spells among the conditions they recovered from, which goes beyond the pain-focused positioning. Added 'chronic fatigue (user stories)' to conditions_claimed.",
+    "No other Curable trials were found in ClinicalTrials.gov or Europe PMC.",
+    "Not verified (web search quota exhausted): funding history, the Denver office, the 23k-clinician and 1M-user claims, and ORCHA certification."
+   ]
+  },
+  {
+   "slug": "lin-health",
+   "name": "Lin Health",
+   "category": "digital app/platform",
+   "ok": true,
+   "corrections": [
+    "COI overstated: only the first author, Ashar, disclosed personal fees from Lin Health in Ashar 2022. Ashar is again listed as a Lin consultant in the 2025 follow-up and in Sturgeon 2025. The earlier text said 'several authors' or 'investigators' had Lin ties.",
+    "Abigail Hirsch removed from founders. The About page names only Yehuda Kogan (CEO) and Shahar Elias (CTO) as co-founders. Hirsch's name survives only in leftover image alt-text.",
+    "Pricing details added: sessions are 30 minutes, Core list price is $189, there is a 12-installment financing option, and the first month of the month-to-month plan is $99. The Mayo 33% discount ('i.e. $269/mo') could not be re-verified and is flagged.",
+    "Sturgeon 2025 corrected: 33 of 35 completed the pilot; effect sizes and the 42.3% 'much improved' rate at 3 months added; Ashar's Lin consultancy noted; full author list given.",
+    "Wording on the 2024 round corrected: the five firms are listed as investors, not as the round's lead.",
+    "Not re-verified, so flagged as company-reported: BCBS Minnesota, the WellSpan and Lowell/Tufts referral partners, the HLTH award, and the >1M interventions figure. The web-search budget was exhausted.",
+    "Verified: founding year 2021; all current self-pay prices; Mayo press release (Oct 22 2024; $15.4M total; 27M lives; payer list including Medicare); Series A (Dec 9 2025; $11M; Proofpoint lead; 60M lives); Anthem Maine (Mar 20 2023; Portland, ME); white-paper figures (1,045 patients; 76%, 45%, 57%->13%, NPS 60, 70/26/4, 69%, 85%); Trustpilot (613 reviews, 4.9, claimed Dec 2021); all three PubMed citations. No peer-reviewed trial of Lin itself was found in PubMed."
+   ]
+  },
+  {
+   "slug": "pathways-pain-relief",
+   "name": "Pathways Pain Relief (app)",
+   "category": "digital app/platform",
+   "ok": true,
+   "corrections": [
+    "Verified as stated: founders (Companies House shows Sekhon as sole director since 15 Oct 2018; the About page lists Ubhi as co-founder), the $79 lifetime price with 14-day guarantee, App Store data (Vortex Media Ltd, 4.1 stars from 39 ratings, v2.20.4 on 31 May 2022, in-app purchase prices), Failory interview of 17 Sep 2020 ($5k/mo, no trials yet), US Pain Foundation listing (Jan 2021, ranked #3), Healthify NZ (5 stars, Oct 2023, US$149, no Android), and MacPherson 2022 (citation and findings correct).",
+    "Ubhi: added a caveat that he is absent from the 2020 Failory interview and likely joined after launch; the About page credits him with more than 10 years of clinical experience.",
+    "US Pain Foundation: the listing title and rank are now exact ('10 best apps for people with chronic pain', #3).",
+    "MacPherson 2022: the wording now follows the abstract ('highest scoring apps: Curable, Pathways, Vivify') and is explicitly marked as not efficacy evidence.",
+    "Added a criticism: Healthify NZ's 'clinically validated with evidence of effectiveness' label rests only on a content appraisal, so it overstates the evidence.",
+    "Re-searched PubMed and ClinicalTrials.gov: no outcome trials of Pathways exist; evidence_level 'none' confirmed."
+   ]
+  },
+  {
+   "slug": "explain-pain-pain-neuroscience-education",
+   "name": "Explain Pain / Pain Neuroscience Education (NOI Group)",
+   "category": "physio/pain-education approach",
+   "ok": true,
+   "corrections": [
+    "Adriaan Louw relabelled as the developer of an independent, parallel US line (TNE/ISPI), not an NOI founder; NOI founding dated to the early 1990s (Butler)",
+    "Moseley 2002 (Aust J Physiother 48(4):297-302, N=57) added: it tested a combined manual therapy + exercise + education program, so education is not isolated",
+    "Moseley 2004 Clin J Pain: pain intensity was not a primary outcome; the RMDQ effect was significant but small, so 'no change in pain' was reworded",
+    "Meeus 2010: outcomes were measured only immediately after a single session; benefits were knowledge and reduced rumination, not 'pain beliefs/catastrophizing' broadly",
+    "Van Oosterwijck 2013 is a double-blind RCT, not a pilot (Clin J Pain 29(10):873-882)",
+    "Malfliet 2018: benefits were on the Central Sensitization Inventory, disability and SF-36; the pressure-pain-threshold effect was borderline; 'improvements in pain' was overstated",
+    "Traeger 2019 detail: MD -0.3/10 at 3 months; disability benefit at 1 wk and 3 mo only; the 'beliefs' claim was removed",
+    "Louw 2014: the 45% healthcare-cost reduction is reported in the 2014 paper itself, not a follow-up paper; the 3-yr follow-up (J Spine Surg 2016) showed no difference in patient-reported outcomes",
+    "Watson 2019 misdescribed: pooled pain effect was non-significant and of low clinical relevance (-5.9/100), not 'small-to-moderate benefits'; the clinically relevant effect was on kinesiophobia",
+    "Wood & Hendrick 2019 numbers added (PNE alone 0.73/10, not significant; with physio 1.32/10)",
+    "Added omitted null/mixed trials: Lane 2022 Pain cluster RCT (null), Dams 2023 EduCan (null), Huysmans 2023 BJA (no pain effect, better secondary outcomes)",
+    "Removed 'osteopathy/chiropractic' from roots in JSON (not supported by sources)",
+    "TEDx view count flagged as unverified; guideline note clarified that guidelines recommend education generically and NICE NG193 does not name PNE",
+    "Prices verified on noigroup.com (AUD 75 / 140 / 221.85 bundle); Pain Revolution and Flippin' Pain figures verified on official sites; Flippin' Pain and Tame the Beast launch years remain approximate (web-search budget exhausted)"
+   ]
+  },
+  {
+   "slug": "graded-motor-imagery",
+   "name": "Graded Motor Imagery (GMI)",
+   "category": "physio/pain-education approach",
+   "ok": true,
+   "corrections": [
+    "OPTP sells the GMI Handbook for USD 62.95, not 58.95. The USD App Store price for the Recognise app could not be checked; the confirmed price is GBP 5.99 / AUD 9.99 when bought from NOI (via Burning Nights).",
+    "Handbook credits checked on the NOI page: Butler, Moseley and Beames. The royalty claim is softened to a commercial interest through NOI materials, because no specific disclosure was checked.",
+    "Moseley's affiliation is updated: UniSA merged into Adelaide University in 2026, where he is Bradley Distinguished Professor. His PhD institution could not be checked because the search budget ran out.",
+    "Pilot work in 2002-03 and an earlier web version of the app are now marked as unverified estimates. The 2016 app date is now described as an announcement, not a 'relaunch'.",
+    "The md wrongly called Strauss 2021 'uncontrolled-crossover'. It was a randomised wait-list crossover, and Moseley co-authored it.",
+    "Moseley et al. 2008 (Arthritis Rheum) studied chronic arm pain including CRPS, not CRPS only.",
+    "The PubMed figure of 107 came from a search without quotation marks. The exact phrase \"graded motor imagery\" returns 161 records, of which 23 are tagged as RCTs.",
+    "The RCP 2018 guideline listing comes only from a charity's secondary report. The claim that GMI is 'standard in UK/Australia/Europe/North America' is softened to 'widely used'.",
+    "Moseley co-authorship is now flagged for Johnson 2012, Strauss 2021, Bowering 2013 and Williams 2026. Limakatso 2023 and Rios-Leon 2024 are independent of him.",
+    "Lopez-Brull 2025 used an adapted protocol: graded exposure replaced mirror therapy as stage 3.",
+    "Rios-Leon 2024 covers motor imagery broadly in CRPS. Its moderate-quality GRADE rating conflicts with Cochrane's very low rating, and this is now noted.",
+    "Johnson 2012 is labelled as a clinical audit, not an RCT. Left/right judgement improved even though pain did not.",
+    "Added an omitted RCT: Rierola-Fochs 2026 (Eur J Pain), home-based GMI for phantom limb pain, n=36, positive result.",
+    "Added an omitted fibromyalgia RCT of GMI plus pain neuroscience education (n=65; only the secondary analysis was checked). Fibromyalgia was added to conditions claimed.",
+    "Added the Mendez-Rebolledo 2017 and Ferraro 2023 Cochrane reviews to key_trials. Added MEMOIR design details: 2x2 factorial with memantine, telehealth GMI, planned n=204.",
+    "Named the other small RCTs (Birinci, Dilek, Kizkin, Yasaci, Sirlan, Nalbantoglu, Ji, Jia). They are mostly from Turkey.",
+    "All 17 listed PMIDs were checked against PubMed. Authors, years, journals, Ns and main results match, apart from the corrections above."
+   ]
+  },
+  {
+   "slug": "cognitive-functional-therapy",
+   "name": "Cognitive Functional Therapy (CFT)",
+   "category": "physio/pain-education approach",
+   "ok": true,
+   "corrections": [
+    "Founders: Peter Kent moved from founder to collaborator. Evoolve lists him as 'technical support'; he leads RESTORE but did not originate CFT. JP Caneiro's Associate Professor title added.",
+    "conditions_claimed: 'pelvic pain/endometriosis/vulvodynia/IC' was not supported by the source file or Evoolve. Replaced with 'pelvic girdle pain', and 'chronic pain (general)' narrowed to 'chronic musculoskeletal pain'.",
+    "mechanisms: dropped 'stress / HPA axis'. CFT treats stress as a lifestyle factor and proposes no HPA mechanism.",
+    "roots: removed DBT, which is unsupported; added pain neuroscience education (Moseley/Butler), as the md describes.",
+    "Vaegter 2026 JOSPT: design clarified as CFT+ for 3 months with optional IPMP afterwards vs IPMP alone. Added that 12-month ODI data covered only 67-70% and P=.64. The 'CONFeTTI' acronym does not appear in the abstract and was removed.",
+    "de Lira 2025: effects are reported post-intervention, not specifically 'at 6 weeks'. Units (0-10 pain, ODI) added.",
+    "Avila 2024: exact MDs (2.42, 2.47) and the smaller 22-week effects (d=0.68, 0.81) added; critical letters in Phys Ther 2025 noted.",
+    "Hancock 2025: retention clarified as 62-65% per arm (312 of 359 who consented).",
+    "Devonshire 2023: 15 trials identified (9 ongoing, 1 terminated), 5 with data (n=507); noted as an independent review.",
+    "Thiveos 2024: developer co-authors named (Kent, O'Sullivan, Hancock).",
+    "Trainer count clarified: 17 listings but 16 people, since Caneiro is listed for both Australia and Brazil; the Irish trainer trains for trials only.",
+    "Added omitted evidence: Zhang 2024 Int J Nurs Stud meta-analysis (independent, very-low certainty); Niederer 2026 JOSPT network meta-analysis (independent, ranks CFT highest vs usual care); Kandeel 2025 meta-analysis; Javdaneh 2020 and Newton 2024 added to the JSON key_trials; Castro 2021 letter critiquing Javdaneh.",
+    "cost_usd_typical lowered from 800 to 650, since AU$700-1,400 is about US$450-900.",
+    "Evoolve ABN (~2023) and Wayback (Mar 2024) dates flagged as not re-verified. Founding year 2010 kept as an estimate: the CFT name first appears in PubMed titles in 2013.",
+    "Verified with no change needed: all 15 cited PubMed records (authors, journal, volume, pages, DOIs); RESTORE RMDQ -4.6 and societal cost savings; 3-year RMDQ and pain MDs; the Vibe Fersum 2013 and 2019 numbers; O'Keeffe MD 8.65; Castro -4.75; mediation up to 61-62%; JAMA news item (PMID 40880076); BMJ Mil Health 2020 (Conway); Evoolve Tier 1 prices US$330/165/33; PubMed count of 98."
+   ]
+  },
+  {
+   "slug": "cbt-for-chronic-pain",
+   "name": "Cognitive Behavioral Therapy for Chronic Pain (CBT-CP)",
+   "category": "psychological/neuroplastic-pain therapy",
+   "ok": true,
+   "corrections": [
+    "All 15 cited PMIDs checked against PubMed/Europe PMC records. Authors, journals, years and pages are correct, including the 2026 Heapy JAMA and Beehler Pain trials.",
+    "Cochrane 2020: the n of 9,401 is for all 75 psychological trials. The 59 CBT trials had more than 5,000 participants. The design field now says this, and the very small SMDs vs active controls (-0.09/-0.12/-0.09) were added to the JSON finding.",
+    "Lumley 2017 fibromyalgia trial completed (Pain 158:2354-2363, PMID 28796118, cluster RCT, n=230) and added to key_trials. EAET did not differ from CBT on the primary outcome; it had some secondary-outcome advantages.",
+    "Piette 2022 AI-CBT-CP trial (n=278) added to the JSON key_trials, since it was cited in the md but missing from the data.",
+    "COPES-ExTRA (Heapy 2026) is noted as open-label. The comparator is clinician CBT-CP with 4-11 sessions under usual practice. Follow-up attrition is noted (76% at 4 months, 68% at 12 months).",
+    "Darnall 2021: added that the lead author developed Empowered Relief, and that it was noninferior on pain intensity and interference but inferior on physical function.",
+    "BeST (Lamb 2010): comparator clarified as group CBT plus advice vs advice alone, with 2:1 randomization.",
+    "VA uptake figure reworded: 38.4% of 37,514 pain patients seen by CBT-CP-trained therapists, Oct 2015-Feb 2020. The earlier wording ('eligible patients') was wrong.",
+    "The unverified claim of an 'updated 2025 Therapist Manual and Veteran Guidebook' was softened.",
+    "PTSD/trauma removed from conditions_claimed. It is measured as a comorbidity, not claimed as a target.",
+    "Controversy section made more balanced: EAET beat CBT in the 2024 veteran trial but was similar to CBT in the 2017 fibromyalgia trial. Added that the VA evaluations are uncontrolled and run by the developers."
+   ]
+  },
+  {
+   "slug": "act-for-chronic-pain",
+   "name": "Acceptance and Commitment Therapy for chronic pain (ACT)",
+   "category": "psychological/neuroplastic-pain therapy",
+   "ok": true,
+   "corrections": [
+    "APA Div 12 rating qualified: ACT for chronic pain was rated 'Strong' under the original EST criteria, but the current Div 12 page lists it as pending re-evaluation under the 2015 criteria. 'Strong Research Support' should not be cited as a current rating.",
+    "Stanza FDA De Novo verified on openFDA as DEN220083, granted 9 May 2023. Added that the authorization came before the phase 3 PROSPER-FM publication. Access route updated: a prescription is required, and Stanza is offered through clinical partners (Swing Care, Southwest Medical, UPMC) in 8 US states. Price and payer coverage are still unverified.",
+    "Removed Swing Therapeutics from the founders list. It developed the app and did not found ACT.",
+    "Corrected 'former Bath Centre for Pain Services' to the Bath Centre for Pain Services (RNHRD, now part of RUH Bath). Its current status is not verified.",
+    "NICE NG155 (2020, tinnitus) naming ACT was verified and clarified. NICE NG193 recommendation 1.2.3 was verified verbatim.",
+    "Corrected the Vowles & Sorrell book title to 'Life with Chronic Pain: An Acceptance-Based Approach' (2007).",
+    "Made Wicksell 2009 (MDT incl. amitriptyline, ~10 sessions, paediatric), Trompetter 2015 (d=0.47 at 3-mo follow-up vs expressive writing; p=.11 vs waitlist; 48% adherence) and SMART-FM (FIQ-R n.s.) more precise.",
+    "Added the Hughes 2017 caveats: controls were mostly no-treatment/TAU, and the authors warn effects may be overestimated.",
+    "Added the omitted active-comparator trials Kemani 2015 Clin J Pain (ACT vs applied relaxation, N=60, broadly similar by 6 months) and Thorsell 2011. Updated the caveat on equivalence with active treatments.",
+    "Mechanism list reordered so psychological inflexibility comes first (ACT's primary construct). Mediation summary now cites Kemani 2016.",
+    "All 19 originally cited papers were verified in Europe PMC (authors, journal, year, volume, pages, N and results match). The web-search budget was exhausted, so popularity figures beyond the ACBS counts (verified: >1,450 RCTs, >600 reviews, early 2026) were not further verified."
+   ]
+  },
+  {
+   "slug": "empowered-relief",
+   "name": "Empowered Relief (Stanford)",
+   "category": "physio/pain-education approach",
+   "ok": true,
+   "corrections": [
+    "Verified that all 21 cited PMIDs exist with the stated authors, journal, year and volume. Checked N and results for each key trial against its PubMed abstract.",
+    "Ziadni 2022 Anesth Analg (orthopedic My Surgical Success): added the null results for time to opioid cessation and for pain catastrophizing (baseline PCS was subclinical). Clarified that 133 were enrolled and 84 randomized.",
+    "Darnall 2019 Pain Med: added that 127 were randomized (68 analysed), the 95% CI for HR 1.86, and that the 44% attrition was in the MSS arm.",
+    "Darnall 2014 pilot: added follow-up completers (46 at week 2, 35 at week 4).",
+    "JAMA 2021: clarified that -5.9 is the ER vs health-education difference. Health education itself fell -4.6.",
+    "2019 HHS Pain Management Best Practices report: claim that it names Empowered Relief could not be verified (search quota exhausted; PDF not retrievable). Restated as adopters citing the report's general recommendation of behavioral pain care.",
+    "Cleveland Clinic: 'standard of care since July 2021' replaced with launch at about the start of COVID (2020) after a 2019-2020 feasibility project, with 72% engagement in Jan-Dec 2021 (Davin 2022 full text). Insurance billing under Health & Behavior codes confirmed from the same paper.",
+    "Gap 'no trial independent of Stanford' refined. Darnall co-authors every study, but some are led elsewhere: Watson 2026 (nurse-led), Carriere 2025 (Quebec), and PROs (Fritz, Utah).",
+    "Instructor count: the site is inconsistent (1,000+ on the executives page, 1,500+ on the home page, 8,000+ in one alt text). The $550 certification fee appears only in image alt text. 10,000+ patients, 25-30 countries and ~650 Cleveland Clinic patients per year confirmed on site.",
+    "Darnall credentials confirmed (PhD Univ. Colorado Boulder 2002; Professor; directs the Pain Relief Innovations Lab). Her 2018 Davos talk is marked unverified.",
+    "The opioid RCT (J Pain 2026) confirmed null on the primary outcome (-2 vs -1 mg, P=.73). Added to controversy that the digital orthopedic variant also did not speed opioid cessation.",
+    "PubMed count of 33 'Empowered Relief' records re-verified. Media list not independently verified (web search quota exhausted)."
+   ]
+  },
+  {
+   "slug": "mindfulness-oriented-recovery-enhancement",
+   "name": "Mindfulness-Oriented Recovery Enhancement (MORE)",
+   "category": "contemplative/meditation program",
+   "ok": true,
+   "corrections": [
+    "JAMA IM 2022: pain effects are between-group BPI points (0.49, 1.07), not Cohen's d; control remission 24.4%; unverifiable >=50% dose-reduction percentages (35.5% vs 15.9%) removed.",
+    "JAMA Psychiatry 2024 (Cooperman): restated as significant only after a priori covariate adjustment, with raw rates (50.6% vs 57.1% return to use; 13.0% vs 22.1% dropout); 'BPI pain not different' could not be verified and was removed; depression, EMA pain and adherence benefits added.",
+    "Institutions (Johns Hopkins, Mount Sinai, Kaiser, VAMCs): developer site lists these as places where clinicians were trained, not confirmed delivery sites; specific VAMCs named.",
+    "Founder title 'Endowed Professor' unverified and softened; UCSD Psychiatry/Sanford Institute and VA Salt Lake City Whole Health affiliation confirmed via PubMed affiliations.",
+    "Marketing claims contextualised: site says '16+ clinical trials'; 'nearly 3x as effective' corresponds to 45.0% vs 24.4% (~1.8-fold).",
+    "BRT 2016 trial: 10-week duration and arm sizes added; TAU comparison added.",
+    "AJP 2024: NCT number not verified and removed from the JSON design field; misuse was a co-primary outcome.",
+    "Wexler 2024 N not stated in abstract, so set to null and flagged; Nat Ment Health 2023 N\u2248241 unverified, set to null.",
+    "Added verified trials: Li 2017 internet gaming RCT, Bryl 2026 cancer-pain pilot RCT; JAMA Psychiatry 2025 secondary analysis and MORE-VR Ann Med 2024 phase-1 added to the .md.",
+    "Meta-analysis effect sizes completed (pain SMC -0.60, psychiatric -0.34, dose MC -17.95).",
+    "'fibromyalgia' downgraded to a registered trial only; certification price confirmed (USD 895 list, 716 sale, 10 CE hours via NAADAC/NASW-Utah).",
+    "Europe PMC/ClinicalTrials.gov counts not re-run; flagged as such."
+   ]
+  },
+  {
+   "slug": "mbsr",
+   "name": "Mindfulness-Based Stress Reduction (MBSR)",
+   "category": "contemplative/meditation program",
+   "ok": true,
+   "corrections": [
+    "All 19 cited PMIDs checked against PubMed E-utilities. Authors, years, journals, volumes and pages are correct.",
+    "ACP 2017 low back pain guideline (Qaseem et al., Ann Intern Med 166:514, PMID 28192789) confirmed to name MBSR among initial non-drug treatments for chronic low back pain. Removed the 'not re-verified' flag and reworded the .md's 'first-line'.",
+    "Kabat-Zinn 1982 and 1985: these used the early 10-week program, not the 8-week course. Added the 1982 numbers (65% had >=33% and 50% had >=50% reduction on the McGill Pain Rating Index).",
+    "Wells 2021: the abstract describes standard MBSR (8 weekly 2-hour groups), not an 'enhanced' MBSR. Corrected.",
+    "Hoge 2023 (TAME): 276 randomized but 208 in the primary non-inferiority analysis. Replaced the vague 'fewer adverse events' with the actual rates: at least one study-related adverse event in 15.4% (MBSR) vs 78.6% (escitalopram).",
+    "Morone 2016: the intervention was an MBSR-modeled mind-body program (8 weeks plus 6 monthly sessions), compared against the '10 Keys' to Healthy Aging education program. Reworded.",
+    "Kabat-Zinn 1998 psoriasis trial: this was brief guided meditation audio during phototherapy, not the full course. Noted, and added to the JSON key_trials.",
+    "Anheyer 2017: added details (7 RCTs, n=864; short-term pain improvement of about 1 point on 0-10 NRS plus better function vs usual care; no significant long-term effects; no difference vs exercise). Khoo 2019: added that it covered 21 RCTs.",
+    "Davidson 2003: added the arm sizes (25 vs 16) and corrected 'workplace' to healthy employees.",
+    "Added an omitted criticism: Britton et al. 2021, Clin Psychol Sci 9:1185 (PMID 35174010), found lasting negative effects in 6-14% of an 8-week mindfulness program sample (MBCT variants, n=96). Added the Van Dam 2018 'Mind the Hype' PMID (29016274).",
+    "Fixed an anachronism: in 2019 the programs moved from UMass Medical School, which was only renamed UMass Chan in 2021.",
+    "Re-verified: $650 tuition and $555 Harvard Pilgrim/Tufts discount (UMass tuition page); the CFM's 'hundreds of thousands' completers claim and the 2019 move (UMass About page); ~1,000 certified teachers in 30+ countries (Wikipedia); PubMed count of 1,947; ClinicalTrials.gov count of 1,142.",
+    "Not verified, flagged in the .md: NICE NG193/MBCT statements, AHRQ reviews, and the insurance and FSA details (all from background knowledge). The web-search quota ran out during the fact-check."
+   ]
+  },
+  {
+   "slug": "mbct",
+   "name": "Mindfulness-Based Cognitive Therapy (MBCT)",
+   "category": "contemplative/meditation program",
+   "ok": true,
+   "corrections": [
+    "Every listed PMID was checked against its PubMed abstract (2026-10-12). Authors, years, journals and volumes are correct.",
+    "Farb 2018: N was null; corrected to N=166 (MBCT 82 vs CT 84), with no difference in relapse over 24 months.",
+    "Kuyken 2008 (PMID 19045965) was cited in the .md but missing from the JSON. Added it: N=123, relapse 47% vs 60%, HR 0.63 (95% CI 0.39-1.04, ns).",
+    "Huijbers 2016 MOMENT was missing from the JSON. Added it: N=249. Stopping antidepressants after MBCT led to higher and earlier relapse, so non-inferiority failed.",
+    "Dimidjian 2016 perinatal pilot was missing from the JSON. Added it: N=86 (43/43).",
+    "IPD meta-analysis: the claim of a 'larger effect with higher residual symptoms' was overstated. The abstract reports only 'some evidence', with no significant formal interaction.",
+    "Added omitted MBCT-specific pain trials: Day 2014 Clin J Pain headache pilot, N=36 (ITT gains in self-efficacy and acceptance; pain interference improved only in completers). Day 2019 Pain Med low back pain pilot, N=69 (no between-group differences after treatment).",
+    "Added omitted harms evidence: Britton et al. 2021 Clin Psychol Sci (PMID 35174010). Of 96 MBCT participants, 37% reported negative impacts on functioning and 6-14% lasting bad effects.",
+    "Mindful Noggin conflict of interest confirmed from the JAMA Psychiatry 2020 disclosure: Segal and Dimidjian are both cofounders.",
+    "NICE NG222 wording for MBCT eligibility could not be re-verified (403). The JSON no longer states that NG222 keeps the '3+ episodes' criterion.",
+    "Cost figures (no prices are posted on mbct.com, mindfulmood.org or Oxford) and the reach of about 10^6 are now flagged as unverified estimates.",
+    "Teasdale credential changed from 'cognitive scientist' to 'clinical/cognitive psychologist'. CPT 90853 is now given as an example code.",
+    "WebSearch quota was exhausted. The PubMed checks used direct NCBI E-utilities, and only direct site fetches were made."
+   ]
+  },
+  {
+   "slug": "breathworks-mindfulness-for-health",
+   "name": "Breathworks Mindfulness-Based Pain Management (MBPM) / Mindfulness for Health",
+   "category": "contemplative/meditation program",
+   "ok": true,
+   "corrections": [
+    "P\u00e9rez-Fern\u00e1ndez 2022 RCT: added the volume and pages (Mindfulness 13:3153-65) and the trial registration NCT03992612. The abstract has now been checked: it reports no effect on pain intensity, and patients with fibromyalgia benefited significantly less. The 'independent of Breathworks' claim is softened, because the authors' links to the Spanish affiliate Respira Vida could not be checked.",
+    "Salaberria 2025 follow-up: added the volume and pages (55:351-9). Outcomes now match the abstract: pain intensity, acceptance, psychopathology, negative thoughts and physical quality of life. Sleep and catastrophising were removed because the abstract does not report them. The design is now described as an uncontrolled longitudinal pre/post study, since the abstract does not say this is the RCT sample.",
+    "Ayg\u00fcn 2024: the paper declares no conflict of interest even though two co-authors are affiliated with the Breathworks Foundation. This is now flagged.",
+    "Pizutti 2019: the first author appears to be Leandro Pizzutti, whom Respira Vida Breathworks lists as a teacher trainer. This affiliate authorship is now flagged.",
+    "Henriksson 2016: added the life-satisfaction effect (d=0.54) and the completer count (77). Affective distress is now labelled as such.",
+    "Cusens 2010: randomisation is not stated in the abstract, although Breathworks calls the study an RCT. This is noted.",
+    "Added a naming caution: 'mindfulness-based pain management' is also used as a generic term. Andersen & V\u00e6gter 2016 and Day 2014 are not Breathworks programmes.",
+    "Added studies that Breathworks lists but that could not be verified: Vesa 2016, Phillips/Duff/Burch 2021, Ll\u00e1cer 2018 and Cotzias 2019.",
+    "Long COVID course: it is free through the Community of Practice. The 'developed with UCL' claim is confirmed only on Breathworks' own site.",
+    "Basque implementation: the RCT was sponsored by the University of the Basque Country. Routine delivery within Osakidetza was not verified, so that wording is softened.",
+    "Prices were confirmed, with the organisation rate split into \u00a3400 and \u00a3419 by invoice. The bursary is described as partly funded by the charity.",
+    "The following were confirmed: founders (Burch, Fricker, Hennessey, including on the Respira Vida site), the 2022 OBE, charity number 1131851, the 100k+ people, 700+ teachers and 41 countries figures, and the PubMed details for all other listed trials. NCT05199805 has no publication on PubMed.",
+    "The web search quota was exhausted, so the Reading Well listing and the BMA award year were not independently verified. Both are now attributed to the Breathworks site."
+   ]
+  },
+  {
+   "slug": "meditation-apps-headspace-calm",
+   "name": "Mass-market meditation apps (Headspace, Calm, Insight Timer, Healthy Minds)",
+   "category": "digital app/platform",
+   "ok": true,
+   "corrections": [
+    "Radin 2025: the abstract does not name the app, but the full text (PMC) confirms Headspace. Added that Headspace co-funded the study and supplied subscriptions. 'Senior author' Prather (Headspace grants and fees) is confirmed.",
+    "Hirshberg 2025: the control was a wait-list, and the Zoom sessions were nine 2-hour sessions. Added Davidson's COI.",
+    "Huberty 2019: Huberty became Calm's Director of Science about a year after the study, per its COI statement. Wording clarified.",
+    "Huberty 2021: named the Calm advisory-board co-authors and noted the statement that Calm did not fund the research.",
+    "O'Daffer 2022: added 7/14 and 5/14 counts. The single Calm RCT was coded COI-free and not preregistered, which qualifies the claim that Calm's Director of Science led the Calm trials.",
+    "G\u00e1l 2021: added anxiety g=0.28 and the null effect on distress (g=0.10). Noted that it covers generic mindfulness apps, not only these brands.",
+    "Kaiser Permanente: changed 'reportedly offered free' to say KP lists Calm and Headspace as self-care apps that are explicitly not covered health-plan benefits.",
+    "Sword: confirmed that headspace.com/about-us says 'now part of Sword'. The date and terms are still unverified.",
+    "Ginger merger was announced Aug 2021 and closed Oct 2021. Founders stepped back Jan 2021 and left the board May 2022. CEO Tom Pickett since Aug 2024. Headspace Health was a 2018 subsidiary; the 'FDA-oriented trials' wording was softened.",
+    "Calm: the USD 1B valuation was Feb 2019, with USD 116M raised in total (not a single raise). The AI voice was James Stewart, Dec 2023. Layoffs were ~20% in Aug 2022. Calm Health followed the Feb 2022 Ripple Health Group acquisition.",
+    "Insight Timer: the library is '300,000+ titles' per the official site (it does not say how many are free). The ~2009 founding year could not be verified. Plowman is confirmed as co-founder & CEO.",
+    "NCT03495726: the control was treatment as usual with delayed Headspace (not waitlist); 10 min/day for 6 wk; completed March 2020. NCT03936088: the comparator was My Water Balance plus OA education; completed Sept 2022. Neither has results posted.",
+    "Removed the unverifiable UTSA Headspace low-back/neck-pain pilot (N~59).",
+    "Small fixes to the descriptions of the secondary trials (Flett, Abbott, Torok). All 18 PMIDs cited were confirmed to exist with the correct authors, journals and years.",
+    "Prices (Headspace, Calm, Insight Timer MemberPlus) are still unverified because the web-search budget was exhausted. They are kept as flagged reported figures."
+   ]
+  },
+  {
+   "slug": "relaxation-response-benson-henry",
+   "name": "Relaxation Response / SMART-3RP (Benson-Henry Institute)",
+   "category": "hypnosis/relaxation",
+   "ok": true,
+   "corrections": [
+    "Removed R. Keith Wallace from founders. He was a TM researcher who collaborated on the 1970-72 physiology work, not a program founder; he is now mentioned in founded_year_range.",
+    "Verified the CMS intensive cardiac rehab approval on cms.gov. The Benson-Henry Institute Cardiac Wellness Program is one of three approved ICR programs, effective 6 May 2014 (the researcher had marked this 'recalled').",
+    "The $700 figure is a line item in the clinician-certification fee schedule, not a posted patient fee. Labeled it as a proxy. Listed the certification line items and noted that BHI's stated upper total ($9,210) does not match the line items.",
+    "Verified the CME fee: $975, or $875 for residents/fellows; the course runs 22-24 Oct 2026.",
+    "Keefer & Blanchard 2001: added N=16 (pair-matched randomization, 13 completers), the 6-week Benson RR protocol, composite p=0.04 and the 3-month follow-up. The 1-year follow-up (2002) is flagged as recalled, not re-verified.",
+    "Caudill 1991: added N=109, the 36% drop in clinic visits, pages 305-310 and the DOI.",
+    "Added an omitted key trial: Vranceanu et al., Neurology 2016;87(8):806-814, RCT of 3RP-NF vs attention control (n=63). QoL and anxiety benefits; no added benefit for depression or pain.",
+    "Kuo 2015: specified the 2017 correction (PLoS One 12(2):e0172872) and the withdrawals (4 IBS, 5 IBD). Removed the unverified claim about a gene-count inconsistency.",
+    "Bhasin 2013: clarified the design (novices self-controlled before and after 8 weeks; long-term practitioners cross-sectional) and that the authors call the findings preliminary.",
+    "Stahl 2015: added the per-year encounter figures and noted that the abstract and results report some figures inconsistently.",
+    "Removed the unverifiable attribution of the 'NIH funding: not a prayer' commentary. Described the STEP trial result accurately: null overall, with more complications in patients told they were being prayed for.",
+    "Added 'fatigue' to the conditions claimed; the SMART page lists 'insomnia or fatigue'.",
+    "Web search quota was exhausted; verification used direct fetches of BHI, HMS CME, CMS, PLOS and Europe PMC records."
+   ]
+  },
+  {
+   "slug": "gut-directed-hypnotherapy",
+   "name": "Gut-directed hypnotherapy (Manchester / North Carolina protocols)",
+   "category": "hypnosis/relaxation",
+   "ok": true,
+   "corrections": [
+    "Moser 2013: the control arm was supportive talks + medical treatment, not usual care alone. Added the post-treatment result (61% vs 41%, p=0.046).",
+    "Rutten 2017: added that right after treatment the home CD did worse than the therapist (37% vs 50% success); it was judged non-inferior only at 1 year. 250 of 260 were analysed.",
+    "Lowen 2013: the abstract describes 'assignment', not randomization. The sample was women only (25 hypnosis vs 16 education; 31 completers). Anterior-insula attenuation appeared in responders to both arms; only the posterior-insula effect was specific to hypnosis. Added as a key trial and fixed the mechanism summary.",
+    "Flik 2019 (IMAGINE): 354 randomized, 342 in the intention-to-treat analysis.",
+    "Hasan 2021: noted it compares 6 vs 12 sessions with no control arm; 79% is 178/226.",
+    "Berry 2023 (Regulora): the MetaMe Health affiliation belongs to co-author D. Recker (other co-authors also have industry affiliations); 378 randomized, 362 treated.",
+    "North Carolina protocol: credited to a UNC research team including William E. Whitehead, not to Palsson alone.",
+    "Regulora FDA De Novo (2021): no record found in the FDA De Novo database and not stated on metamehealth.com, so marked unverified. Palsson's link to metaMe is also unconfirmed.",
+    "ISH 2026 item checked: it is a Notes article by Donald Moss dated 1 Apr 2026.",
+    "Added Calvert 2002 (functional dyspepsia RCT) to key trials. Added the Krouwel 2021 non-significant pooled effect and the paediatric CD result to the criticisms.",
+    "Removed 'chronic pain (general)' from conditions claimed. The program is organ-directed (GI, plus non-cardiac chest pain); anxiety and depression appear only as secondary outcomes.",
+    "Checked: all cited PMIDs exist and the author/year/journal/volume match (Whorwell 1984, Gonsalkorale 2002/2003/2004, Palsson 2002, Lindfors 2012, Keefer 2013, Schaefert 2014, Miller 2015, Peters 2016, Thakur 2025 RR 0.79 vs waitlist with 12 trials and 1,507 patients, Goodoory 2024 RR 0.77, Khasawneh 2026, among others). Confirmed the NICE CG61 hypnotherapy wording and that ibshypnosis.com redirects to an unrelated domain. Prices are still unverified estimates because the web search quota was exhausted."
+   ]
+  },
+  {
+   "slug": "nerva",
+   "name": "Nerva (Mindset Health) gut-directed hypnotherapy app",
+   "category": "digital app/platform",
+   "ok": true,
+   "corrections": [
+    "Simone Peters is listed on Nerva's About page as 'Content founder'. The researcher had said she was 'not listed as founder'; the founders entry is fixed, and the unverified 'psychologist/psychophysiologist' credential was softened.",
+    "The 2025 quality indicators come from the AGA Institute (Hung KW et al., Gastroenterology 2025, PMID 39818650), not 'AGA/Rome'.",
+    "Two items are now flagged as unverified: the advisory-board size and membership (15 members from named institutions) and Mahana's '>US$80M' venture funding.",
+    "Added an independent commentary on the 2023 retrospective study: Hasan, Ballou, Keefer, Vasant, NGM 2023, PMID 36847206. It stresses low adherence.",
+    "Added context from the 2025 network meta-analysis by Thakur et al. (Lancet Gastroenterol Hepatol, PMID 41077057). Also noted that two digital gut-directed hypnotherapy (GDH) trials are of other products, not Nerva: Berry 2023 tested Regulora and Wang 2025 tested a Mayo-owned bloating protocol.",
+    "Small wording fixes in the trial entries: the Anderson trial randomised 244 and analysed 240; Peters 2023 had 1,428 buyers; the Peters 2016 response threshold was at least 20 mm on a visual analogue scale (VAS). The PHTI wording now states that PHTI's public page does not mention Nerva at all.",
+    "Verified as correct: all 4 PubMed citations (authors, year, journal, N, results), the founders and 2019 founding, prices ($199/year, $149.25/year with referral), the 7-day trial and money-back guarantee, the details of the CMS ACCESS Model (start date, Medicare Advantage excluded, company-funded access for 65+), and the user, clinician and App Store figures from the About page. The HIF partnership date and the DDW 2026 cohort size are company-sourced only."
+   ]
+  },
+  {
+   "slug": "reveri",
+   "name": "Reveri (self-hypnosis app)",
+   "category": "hypnosis/relaxation",
+   "ok": true,
+   "corrections": [
+    "Founding: the range is widened to 2017-2020. Stanford's pilot of an Alexa/app automated self-hypnosis program (NCT03931772) started Sept 2017, and press dates the company to 2020.",
+    "Added an omitted study: the uncontrolled Stanford pilot NCT03931772 (N = 152, Alexa or the Reveri app, completed Feb 2022). It has no posted results and no publication.",
+    "Preprint details checked and added: posted 9 Sep 2026; 59,147 sessions from the 'Manage Pain' module, Dec 2021-Jul 2025; Markovits added to the author list.",
+    "Stress-session count corrected from 'at least 290k' to about 283k (282,893).",
+    "Popularity: added the press figure of more than 300k registered users (Aug 2023). The reach estimate rises from 100k-300k to 300k-1M, and reach_log10 from 5.3 to 5.7. The claim of more than 1.2M installs could not be verified.",
+    "Spiegel's title: third-party listings also call him Chief Scientific Officer. Added the $1.8M seed round (Feb 2022), sourced from a third-party listing and not independently verified.",
+    "Removed the 'ClinicalTrials.gov not checked' gap. The registry now shows only the uncontrolled pilot.",
+    "Added a contrast RCT of a different self-hypnosis app (Lang et al. 2021, IJCEH, PMID 33724898), which found modest advantages over a control app.",
+    "Verified as correct: founders (Spiegel, Poler), prices ($149.99/yr, $44.95/mo, $449 lifetime, 7-day trial), the npj 2025 study (N = 84,395, d 0.71-0.78), the Lang 2000 Lancet RCT (N = 241), and the Huberman episode date (21 Feb 2022)."
+   ]
+  },
+  {
+   "slug": "neurosymptoms-org",
+   "name": "neurosymptoms.org (FND self-help guide)",
+   "category": "physio/pain-education approach",
+   "ok": true,
+   "corrections": [
+    "SHIFT (Gelauff 2020) tested a new password-protected Dutch website that combined elements of neurosymptoms.org with a CBT self-help workbook and Nielsen physiotherapy exercises. It was a derivative of the site, not the site itself, and Stone declared that he runs neurosymptoms.org.",
+    "Evidence level downgraded from 'multiple RCTs' to 'pilot or single RCT': only one (null) RCT tested a derivative of the site. The other three trials evaluate therapies the site recommends.",
+    "Stone's FND Society role corrected from 'co-founded' to 'Founding Secretary' (2019), per his University of Edinburgh profile.",
+    "The site lists ME/CFS among overlapping functional disorders. The md wording 'does not claim to treat ME/CFS' was revised, and ME/CFS was added to conditions_claimed with a qualifier.",
+    "Physio4FMD details added: 179 vs 176 randomised; 89 excluded for COVID-19 interruption; 241 in the primary analysis; 95% CI added.",
+    "The 60k hits/month and 12 translations figure comes from an undated staff profile, so its year is set to null rather than 2017.",
+    "Language-count discrepancy noted: Edinburgh Innovations says 10 languages, while the site lists 13.",
+    "Trial citations completed with full volume and pages (Sharpe 2011 Neurology 77:564-572; CODES 7:491-505; Physio4FMD 23:675-686), and CODES secondary outcomes flagged as uncorrected for multiplicity.",
+    "Verified as correct: founding year 2009, the 60k visits a month and NHS inform adoption (Edinburgh Innovations), the \u00a350k Wellcome iTPA grant (April 2022), the Gloucestershire NHS leaflet citing the site, the Australian 2025 recommendations, Scamvougeras & Castle (Can J Psychiatry 2024), and Stone 2026 in Phil Trans B. Not verified because the search budget ran out: the BMJ 2023 feature and the app launch date."
+   ]
+  },
+  {
+   "slug": "dnrs",
+   "name": "Dynamic Neural Retraining System (DNRS)",
+   "category": "limbic/brain retraining course",
+   "ok": true,
+   "corrections": [
+    "MILES RCT (NCT06933173): the DNRS arm is a 14-h online course plus a 12-week online group support program, not the course alone. The registry lists investigator and outcomes-assessor masking, not assessor-only. Added the PI affiliations.",
+    "MILES co-PI Eleanor Stein's 'known proponent' claim softened to 'reported to favour brain-retraining approaches (not re-verified)'. Noted that both MILES PIs co-authored the Khanpour Ardestani 2021 review.",
+    "Toussaint 2012: added completers by arm (7 intervention vs 14 control), the full author list, the intervention format (2.5-h course plus home video) and the Mayo setting.",
+    "McMaster/Guenter cohort: used the site's exact percentages. Noted that the site cites it as a 2019 publication with no journal, and that a Europe PMC author search finds no record. It stays unpublished.",
+    "2025 survey: corrected the ranges to cover all six domains ('some improvement' 83.5-95.2%, 'significant' 19.3-37.6%).",
+    "Roots: removed speculative 'Christian Science / mind-cure' and 'Buddhist vipassana'. Replaced them with 'mindfulness', 'New Thought-style (interpretive)', popular neuroplasticity writing, and the sibling Gupta/Lightning Process programs.",
+    "Refund terms: added the 365-day window. Insurance notes: added that HSA/FSA is not mentioned.",
+    "Verified with no change: founder Annie Hopper (no credentials listed), 2008 founding, all current prices, $20/mo renewal, 21-day free trial, 9 subtitle languages, >65k book sales and >1,000 referring doctors (both company claims), Nathan's '>1,000 patients' quote, and the NCT details (N=200, start 2025-07-10, completion Dec 2027).",
+    "PubMed/Europe PMC check: no peer-reviewed DNRS outcome study exists. The only hits are the Jacques 2024, Tate 2023 and Khanpour Ardestani 2021 reviews, plus a Horowitz 2024 Lyme case report. Web-search quota was exhausted, so press and Reddit criticism could not be independently re-checked."
+   ]
+  },
+  {
+   "slug": "gupta-program",
+   "name": "Gupta Program (Amygdala and Insula Retraining, AIR)",
+   "category": "limbic/brain retraining course",
+   "ok": true,
+   "corrections": [
+    "Published RCT count corrected from 6 to 5. The Bratty 2023 Integr Med paper is an uncontrolled user survey, not an RCT. Its issue is 22(6), Dec 2023, not 22(5), with n=222 in total.",
+    "ASA 2018 ruling now verified (A17-400324, Harley Street Solutions Ltd t/a Gupta Amygdala Retraining). All three claims were upheld: fibromyalgia, CFS/ME and 'electrical sensitivities'. The ASA rejected the Mayo trial (over 50% attrition), a draft study and an uncontrolled company audit as substantiation. The current website still lists EHS, ME/CFS and FM under 'Conditions We Treat/Support'.",
+    "NCT02454244 registered the comparator as compassion therapy, not relaxation. This registration/publication mismatch is now flagged.",
+    "Gasion long-COVID protocol planned n=100. The registry lists 120 enrolled, completed March 2024, and no results are published.",
+    "The CCRF multiple sclerosis (NCT07427433) and mould (NCT07425431) trials were first registered 16 Feb 2026, after completion (Mar and Aug 2025). They are retrospectively registered. Perimenopause trial n=160 planned.",
+    "Helsinki (NCT05212467) and Miami VA (NCT05851846) registry statuses are 'unknown'. Mayo registry lists 57 enrolled, completed May 2011, first registered Jan 2010.",
+    "Long-COVID RCT: confirmed the LOCF analysis shows no between-group difference at any timepoint, month-3 completer p=0.058, and SF-36 energy no group difference. Confirmed the COI: Bratty's consultancy serves the program and was paid by donors.",
+    "Conditions list corrected to the ~20 on the homepage: added burnout, drug withdrawal and CIRS. Removed 'general stress/wellbeing' and 'addiction' as separately listed. Noted the 'clinically proven' and unmethodized '92% symptom reversal' claims.",
+    "Verified: prices ($499/yr or $99/mo x 6), 28-day free trial, authors/journals/N of the Toussaint 2012, Sanabria-Mazo 2020, Toussaint & Bratty 2023, Norouzi 2025 and Ghaleni 2024 papers, and the 40,000+ and 6,000+ company claims. Founding year (~2007) remains an estimate. YouTube and Play Store figures were not re-verified because the search quota was exhausted."
+   ]
+  },
+  {
+   "slug": "ans-rewire",
+   "name": "ANS Rewire",
+   "category": "limbic/brain retraining course",
+   "ok": true,
+   "corrections": [
+    "Verified on the official site: launched 2016 (FAQ); price AUD 537 (about USD 374) for 12 months; coaching AUD 139/hr, generally offered after the course; 'thousands of participants across more than 60 countries'; 5,000+ Q&As; endorsements from Kati Thieme and Jacob Teitelbaum; the Science page's condition umbrella (including EHS, IBS and adrenal fatigue; SSD/FND/CRPS on the spectrum; Lyme and mould as secondary); and the cited correlational ANS studies.",
+    "Verified the Health Rising recovery story (Aug 25 2015; chickenpox vaccine trigger; about 6.5 years ill; diet, supplements, meditation and mental ANS-retraining techniques).",
+    "Softened the claim that the founder's recovery used NLP or 'neuro-linguistic reprogramming'. The source describes only 'mental techniques', so NLP is now marked as an unverified inference in the md and in roots.",
+    "Flagged the founder's quote about having 'very little knowledge or training' as not re-verified.",
+    "Flagged the CFS Unravelled dates (first edition c. 2013, 2017 edition with Thieme's foreword) as unverified, because the search budget was exhausted.",
+    "Flagged the 2019 statement that he lacked resources for a study as not re-verified.",
+    "Clarified the exclusions. Only the long-COVID organ-damage exclusion is in the main Science text. The brain-injury and adults-only exclusions come from comment replies, and the Program Details page lists no exclusions.",
+    "Confirmed there are no peer-reviewed trials: the PubMed phrase search found nothing relevant. key_trials stays empty and evidence_level stays 'none'.",
+    "Could not re-check the March 2016 Wayback snapshot (archive.org unreachable); it is marked as researcher-reported."
+   ]
+  },
+  {
+   "slug": "lightning-process",
+   "name": "Lightning Process (LP)",
+   "category": "limbic/brain retraining course",
+   "ok": true,
+   "corrections": [
+    "Founding year narrowed to 1999: the site FAQ says LP was 'created in 1999 by Dr Phil Parker'.",
+    "Cost wording corrected: GBP 900 is the FAQ's UK average for the 3-day course plus follow-up, and the FAQ says prices vary by country and practitioner. The '3 half-days' wording was changed to 3 days of about 12 h in total.",
+    "Suicide-attempt case re-dated from 2012 to November 2011 (NRK report; the patient was 13).",
+    "Removed the unverified 2018 Norwegian petition with >6,000 signatures; no source supports it.",
+    "The Norwegian ME Association n=1,096 is the total number of survey respondents, not the number of LP users.",
+    "Landmark 2016 Tidsskr entry corrected: it is a 7-author debate article, not a personal-experience piece. The unverifiable comment PMIDs (27094645-7) were removed.",
+    "Live Landmark: her PhD is from NTNU (defended 2026), not 'NTNU/University of Oslo'. The NTNU trial's re-approval date is given as 2022, because sources disagree on February vs July. The 2023 recruitment start was not verified, and the NTNU intervention is described as LP-derived.",
+    "SMILE: added the 2019 editor's note (e3) alongside the correction (e4), and noted that only 81 participants were analysed at 6 months.",
+    "Added an omitted independent survey: Kielland, Liu & Jason, J Health Psychol 2023 (n=660, PMID 37114822).",
+    "Added the omitted planned RCT FALCON (NCT07697261) at McMaster University, LP vs pacing in long COVID. It was seeking ethics approval in 2026 and faced a petition with >1,700 signatures to pause it (The Sick Times, 22 Sep 2026).",
+    "Website evidence claim corrected: the site gives 17 studies in one place and '18 peer-reviewed studies' in another.",
+    "ASA details made precise (2 of 4 challenges upheld after a 2011 Hampshire Trading Standards referral). BMJ attribution made precise (Hawkes, 21 Sep 2017, 'cultish quality').",
+    "Finch 2024 flagged as founder co-authored. Full author lists and volume/pages were added for all PubMed-verified citations.",
+    "Verified unchanged: NICE NG206 rec. 1.12.27 wording, and the PMIDs, authors, years, journals, Ns and results of SMILE, Reme 2013, Fauske 2021, Parker 2021, Arroll 2025 and Finch 2024. Phil Parker's PhD remains self-described and unverified, and the >75,000 reach figure remains a founder claim. The web-search budget was exhausted, so the ASA primary ruling, the BBC File on 4 report and the Helsedirektoratet influence claim were not checked against primary documents."
+   ]
+  },
+  {
+   "slug": "primal-trust",
+   "name": "Primal Trust Academy (Regulate / Integrate / Liberate)",
+   "category": "limbic/brain retraining course",
+   "ok": true,
+   "corrections": [
+    "Creating Calm course dated 2018 (About timeline), not 2018-19 or 2019; the 1,000+ users claim covers 2018-2020.",
+    "Reach claims are inconsistent across the site: 13,000+ (home), 13,500+ (membership page), 10,000+ (About), ~7,000 (FAQ), 8,000 by end of 2023. All are now listed, and reach_log10 is lowered from 4.4 to 4.2 (central estimate 15-20k).",
+    "The 'Daily Regulate launched Feb 2026' date is removed because no launch date appears on the site.",
+    "Tick-Borne Illness Global Summit talk confirmed (Sun Oct 11, 'Lyme Disease & Nervous System Regulation'), but the page gives no year. It is flagged as consistent with 2026.",
+    "The book How Healing Happens (2024, 100+/127 pp) appears to be the same item as the free e-book. Noted.",
+    "Founder's additional training list (Feldenkrais, Hanna, PSYCH-K, etc.) could not be re-confirmed on the About page and is flagged as unverified. DPT 2003, Portland PT practice and stopping work in 2008 were confirmed.",
+    "PubMed note clarified: 'primal trust' is not in PubMed's phrase index, and the 26 word-match hits are unrelated. No trials exist, so key_trials stays empty.",
+    "FAQ outcome percentages (87/60/51/~40%), the 'staff not medical professionals' disclaimer, limited financial aid after 1 month, and prices ($96/$510/$960) are confirmed. The membership page shows no outcome percentages. The cost_usd_typical basis is now stated (6 months at the monthly rate).",
+    "'NLP' removed from roots because no source names it.",
+    "WebSearch quota was exhausted again, so independent Reddit/press and criticism checks could not be done. Noted in method_notes."
+   ]
+  },
+  {
+   "slug": "mickel-therapy",
+   "name": "Mickel Therapy",
+   "category": "limbic/brain retraining course",
+   "ok": true,
+   "corrections": [
+    "Founder credentials: the site says only that Mickel is a doctor ('my years as a doctor'). The 'former Scottish GP' description could not be verified and is now flagged.",
+    "Founding year: the site gives no founding year, so 1999-2001 is an estimate based on the site's 'over 25 years' claim. The early-2000s history could not be verified.",
+    "Reverse Therapy: the c.2002 spin-off lineage is unverified and now flagged. reverse-therapy.com names Dr John Eaton as developer but does not mention Mickel or the hypothalamus.",
+    "Mechanisms: removed the 'repressed emotion / psychodynamic (rage, TMS)' tag because the program explicitly rejects past/trauma framing. It is replaced with 'emotional awareness / unexpressed present-day feelings'.",
+    "Roots: removed 'Freudian psychoanalysis'. Sarno TMS is now marked as an analogy only, and all roots are noted as the reviewer's inferences because the program cites none.",
+    "ME Association mention: clarified as a 2011 Observer letters page with one favourable reader letter and one critical comment.",
+    "Prices: all verified on the site (GBP 295 / 595 or 3x205 / 2,195 / 1,495; certification is two weekends plus a one-month check-in). Added that individual consultations with Mickel are unpriced.",
+    "Trials: confirmed there are no trials of the program. The unquoted PubMed search returns about 120 hits, all for authors named Mickel. Added an example of genuine hypothalamitis (anti-Ma case report, Bustos et al. 2018) to support the controversy statement.",
+    "Caveat: web search was unavailable (session budget used up), so the popularity trajectory and historical claims stay low-confidence."
+   ]
+  },
+  {
+   "slug": "cfs-health",
+   "name": "CFS Health (Recovery Plan / RECOVERY Mentorship)",
+   "category": "limbic/brain retraining course",
+   "ok": true,
+   "corrections": [
+    "Founder credentials: the site lists no credentials for Toby Morrison. His exercise-science and personal-trainer background comes from his own podcast account, so it is now marked self-reported.",
+    "Years in operation: the site's '17+ years' is replaced by the book page's 'over 16 years', which fits a 2009 founding. The 2013 online launch is confirmed on the Meet the Team page.",
+    "Long COVID: the current Program Info, FAQ and book pages do not name it; the FAQ covers post-viral fatigue only. It stays in conditions_claimed but is removed from conditions_primary.",
+    "Restorative Movement Program: it is a video-module topic, not a separately named program. Exercise physiologist Steph Ryan's credentials are verified as BSc Sport & Exercise Science, MCEP and PhD candidate; AEP accreditation could not be verified.",
+    "Integrative GP: the site says 'integrative medical doctor', not GP. The name Dr Olivia Lesslar could not be re-verified on current pages.",
+    "Trustpilot criticism: the scam reviews are described as they appear (2026 reviews saying 'scam' or 'con man', one comparing the company to Belle Gibson; profile unclaimed). The claim that reviewers cited 'lack of medical peer review' was removed because it could not be verified.",
+    "Evidence: a PubMed search for \"CFS Health\" Morrison returned nothing, which is consistent with evidence_level 'none' and no key trials. The 92% figure is also on the book page as 'improvements within the first six months', with no methods.",
+    "Not changed but checked: 6-month minimum with no early cancellation, 9-15 month typical stay, card-only payment, 'NOT a medical program' disclaimer, the reviewer's 'just under $4000 for 6 months', 28 reviews at 3.5/5, the book (Dean Publishing, 15 Apr 2026, narrated by Morrison), 5,500+ clients in 78 countries, and the 'brain retraining' contrast.",
+    "Not re-verified because the web-search budget was exhausted: YouTube statistics, the podcast episode count, and any patient-forum critique specific to CFS Health."
+   ]
+  },
+  {
+   "slug": "cfs-recovery",
+   "name": "CFS Recovery (Recovery School / Academy)",
+   "category": "limbic/brain retraining course",
+   "ok": true,
+   "corrections": [
+    "The founder's Canadian location could not be re-confirmed on the About page, so it is now flagged as 'reportedly'. The founder's story is confirmed: ill from 2017, 8 months bedridden, hospitalised in 2018, recovered by 2019. The 2021 founding is confirmed.",
+    "Cancellation: the FAQ says every tier can be cancelled at any time, not only School and Academy. Only Platinum has the 30-day money-back guarantee. Prices of $47 and $297 a month are confirmed.",
+    "Added post-viral fatigue (PVFS) and 'related conditions' to the conditions the site claims. MCS appears only in a client story and was not added.",
+    "The self-reported figures disagree with each other: the .co site says 50+ hours of video and the .com home page says 100+. It also claims 2,000+ clients helped but only 'hundreds' recovered. Added a 97% satisfaction claim, which is self-reported.",
+    "The site's comparison figures are uncited 'published trial data': standard care 5-10%, exercise 10-15%, CBT 8-12%. The 18% and 40% SF-36 gains give no N or metric definition.",
+    "Searches found no trials: zero PubMed hits (eutils) and zero ClinicalTrials.gov registrations (API). Evidence level 'none' is confirmed, and key_trials stays empty.",
+    "Insurance 'no' and mainstream adoption 'none' are confirmed; the site says the company is coaching and education and that its staff are 'not doctors'.",
+    "The web search budget was used up, so checking relied on fetching the company pages directly and on the PubMed and ClinicalTrials.gov APIs. Reddit, YouTube and outside press were not checked."
+   ]
+  },
+  {
+   "slug": "raelan-agle",
+   "name": "Raelan Agle: Brain Retraining 101 and recovery-story channel",
+   "category": "influencer/author method",
+   "ok": true,
+   "corrections": [
+    "Book confirmed: 'Finding Freedom: Escaping From the Prison of Chronic Fatigue Syndrome' by Agle (Kindle, Amazon ASIN B0818DGN2D, about Dec 2019); it had been listed as 'details not verified'.",
+    "Added optional YouTube channel membership at $4/month (from the podcast feed).",
+    "Course extras: 'Optional Learning' has 6 guest lessons plus Agle's own lesson, not 8 guest-expert lessons.",
+    "Cefai report: author named in full (Dr Sarah Cefai); the 77/95/84% figures are as stated on raelanagle.com/research; peer review is 'not stated' rather than confirmed absent; the unverifiable '100% researched/learning' figure and the '3-page summary on the Goldsmiths repository' detail were removed or reworded.",
+    "$50-off codes and the named clinician guests (Schubiner, Gordon, Garner, Mickel) are flagged as not re-verified.",
+    "The mental-health exclusion is sourced to the Teachable course page; the main site's sales page lists no exclusions.",
+    "Verified unchanged: $197/month with cancel anytime and a 14-day refund; the five named coaches; MSW, clinical social worker, 10 years of ME/CFS, Austin TX; YouTube 81.2K subscribers, 10,971,251 views, joined 4 Sep 2019; podcast 235 episodes, first on 21 Aug 2024.",
+    "cost_usd_typical of 591 is an assumption (3 months of subscription), now noted in method_notes.",
+    "Limitation: the WebSearch quota was exhausted, so PubMed, Reddit and criticism searches could not be run. No peer-reviewed trials of this programme are known."
+   ]
+  },
+  {
+   "slug": "optimum-health-clinic",
+   "name": "The Optimum Health Clinic (OHC) / RESET Programme",
+   "category": "limbic/brain retraining course",
+   "ok": true,
+   "corrections": [
+    "Founder onset of ME/CFS 'in 1996 at age 16, housebound 2 yrs, recovered over 5 yrs' is not stated on alexhoward.com/about; hedged as self-report (teenage onset)",
+    "Megan Arroll relabelled as research lead (not a founder) in the founders field",
+    "PRBM 2014 'largest effect size 0.27' clarified as partial eta-squared (chance locus of control); arm sizes 19 vs 9 added; ownership by Alex Howard and Associates noted",
+    "BMJ Open 2012 arm sizes (42/44/52) and psychology-arm retention (14/42) verified and added; 'statistical not clinical significance' wording replaced with a neutral note that there was no control group",
+    "Removed unverified claim that marketing says 'clinically proven' (the research page does not use the phrase)",
+    "Corrected the claim that the site dates the BMJ Open study to 2011 (the research page lists 2012)",
+    "RESET installment plan: added EUR 190 x3; verified USD 497/GBP 429/EUR 497",
+    "Verified: About page gives both 2003 and 2004; leadership (Cullen CEO, Thompson Clinical Director); 10k+ clients, 50+ countries, ~100 staff; >1M summit attendees; 2M+ YouTube views; 2019 NHS ethics approval claim (no trial registration or results found); 5 PubMed-indexed papers. Not verifiable (web-search budget exhausted): Howard's academic credentials, ASA complaints, Conscious Life membership price"
+   ]
+  },
+  {
+   "slug": "vital-side",
+   "name": "Vital-Side (Rewire program)",
+   "category": "limbic/brain retraining course",
+   "ok": true,
+   "corrections": [
+    "Founder credentials: the current About page confirms BS Biology (Univ. of Nevada), a Master of PA Studies, PA certification and NLP/EFT/TFT practice. The MPAS institution (MCPHS), the 2016 certification date and the internal-medicine background were not confirmed, so they are flagged as unverified.",
+    "Bianca Spears is co-founder of the Elevate and Regulation Station sub-programs only, not of Vital-Side. The founders entry now says so.",
+    "Evidence for peer programs was reworded: DNRS has only uncontrolled or observational data, Gupta has a small pilot RCT, and the Lightning Process has the contested SMILE RCT (Crawley 2018). The earlier wording, 'at most small pilot or uncontrolled studies', understated this.",
+    "Verified: USD 397/yr auto-renewing; no refunds on any memberships or sessions; Elevate USD 99 per 3 months (6 phases, 38 tools, 68-page guidebook); 64-page Rewire guidebook; conceived 2017, started 2018; claim of more than 10,000 people helped; podcast at 180 episodes, active 2021-2025, latest 2025-10-07. Added the ELEVATE50 code. Added Vital-Side itself to the list of programs whose graduates Elevate targets.",
+    "Re-confirmed that PubMed has no trials. A broadened query returned 9 hits, none relevant. key_trials stays empty and evidence_level stays 'none'.",
+    "Web search quota was exhausted, so Reddit and social popularity and any specific critiques remain unverified."
+   ]
+  },
+  {
+   "slug": "re-origin",
+   "name": "re-origin",
+   "category": "limbic/brain retraining course",
+   "ok": true,
+   "corrections": [
+    "Not changed: the founders, co-CEOs and four science advisors, with their credentials, match /about-us.",
+    "Not changed: the price checks out ($379/yr auto-renew, $297 with code HEAL).",
+    "Changed: the guarantee wording now says a refund can be requested within 12 months if there is no value after 6 months of daily practice. The group-coaching price was not re-checked.",
+    "Changed: the N=108 6-week results on /science currently show 0% in every field, which looks like an unfilled template. This is now noted in the .md and in the controversy text.",
+    "Changed: the headline figures on /science (98% improved, 66% pain-free) give no sample size. The '200 members' figures come from /program. Both points are now stated.",
+    "Changed: two inconsistencies on the site are now noted. Martin Alpert is listed as MD on /about-us but Ph.D. on /science. The Ashar trial is cited as 2021 in one place and 2022 in another.",
+    "Not changed: re-ran PubMed and still found 0 hits. There are no key trials, so evidence_level stays 'none'.",
+    "Changed: lowered reach_log10 from 3.7 to 3.5 and widened reach_estimate to 10^3-10^4. The only count the site gives is 'hundreds of members'; the ~12,000 figure is still unverified.",
+    "Not verified: the founding year (2020-2021 estimate), the Trustpilot figures and the TEDx year. The site gives no founding date, and the session's web-search quota was used up."
+   ]
+  },
+  {
+   "slug": "feldenkrais-method",
+   "name": "Feldenkrais Method (Awareness Through Movement / Functional Integration)",
+   "category": "somatic/movement practice",
+   "ok": true,
+   "corrections": [
+    "IQWiG HTA (2023) found hints of benefit in 2 indications, not just Parkinson's: Parkinson's vs lecture education, and chronic low back pain vs trunk-stabilisation education. CLBP evidence was mixed vs Back School. It covered 6 RCTs across 5 indications, nearly all group ATM. Also added its ethical concern about trademark-driven expectations.",
+    "Malmgren-Olsson 2002: patients were recruited consecutively to the three groups, so it was not randomised. Relabelled as a non-randomised comparison.",
+    "Berland 2022: its TUG d = -1.14 (95% CI -1.78 to -0.49) is identical to Hillier 2015's TUG mean difference, so the pooled data likely overlap. This is flagged.",
+    "Founders list: removed the Feldenkrais Guild of North America and the International Feldenkrais Federation, which are later professional bodies, not founders. Their founding dates (approx. 1977, approx. 1992) are marked unverified.",
+    "Softened the ATM lesson counts (over 1,000 lessons; several hundred in the Alexander Yanai archive) to unverified practitioner-community claims.",
+    "Buchanan 2014 details added and corrected: 30.5% response rate; 36.9% of responding teachers held conventional licences; most teachers part-time, seeing fewer than 10 individual students per week; pain was the main reason students came; two-thirds of students (not clients generally) paid directly.",
+    "Replaced the unclear 'PubMed records = 48' indicator with a verified count: 109 PubMed records for 'feldenkrais' (2026-10-12).",
+    "Gorski quote made exact: he likened it to faith healing, called it 'glorified yoga' and said it 'borders on quackery'.",
+    "Verified that all 22 cited PMIDs exist with the stated authors, year and journal. The key-trial Ns and findings for Ahmadi, Paolucci, Lundqvist and Giorgi were confirmed against PubMed abstracts.",
+    "Could not verify (web search budget used up; feldenkrais.com and NCBI Bookshelf blocked fetches): US price ranges, FGNA and IFF founding years, Feldenkrais biographical details (D.Sc., 1929 Cou\u00e9 translation). These are left marked approx./unverified."
+   ]
+  },
+  {
+   "slug": "alexander-technique",
+   "name": "Alexander Technique",
+   "category": "somatic/movement practice",
+   "ok": true,
+   "corrections": [
+    "ATEAM funding corrected to MRC/NHS R&D (ATLAS was Arthritis Research UK); no NIHR funding of ATEAM",
+    "Australian PHI exclusion dated to 1 April 2019 (after 2015 review); 2024 re-review noted, outcome unverified",
+    "NICE Parkinson's claim narrowed to CG35 (2006); NG71 status unverified",
+    "Added omitted Gleeson 2015 RCT (N=120, null primary outcome)",
+    "Essex 2017 and Lauche 2016 findings made more precise",
+    "STAT 'largest worldwide', conservatoire list, lesson prices and reach estimate flagged as unverified",
+    "All 20 cited PMIDs verified: authors, years, journals, Ns and results match; Aetna CPB 0388 classification confirmed"
+   ]
+  },
+  {
+   "slug": "somatic-experiencing",
+   "name": "Somatic Experiencing (SE)",
+   "category": "trauma/emotion-focused therapy",
+   "ok": true,
+   "corrections": [
+    "I checked all six key studies in PubMed: Brom 2017, Andersen 2017, Andersen 2020, Lehmivaara 2026, Kuhfuss 2021 and Leitch 2009. The authors, journals, sample sizes and results match. I also confirmed Bisson 2020 rates SE as 'emerging evidence'.",
+    "The 'emerging evidence' rating in Bisson 2020 rests on one waitlist trial (Brom 2017: k=1, N=60, SMD -0.75, GRADE 'very uncertain'). I added this caveat.",
+    "Waking the Tiger has been published in 24 languages per SEI, not '24-29+'. The 29+ figure is for Healing Trauma, per Levine's site.",
+    "Levine's site claims SE has been taught to 'over 30,000 healers in over 42 countries'. I added this. The researcher's estimate of 50-80k cumulative trainees is not supported, so I lowered reach_log10 from 6.3 to 6.0 and the reach estimate to about 1 million.",
+    "The NBCC claim was overstated. On 30 May 2026 SEI announced it had regained NBCC continuing-education provider approval, and it covers only select modules (e.g. not Beginning I).",
+    "The PubMed year counts were wrong: there are items from 2009 and 2012, not '0 per year before 2015'. By year: 1 (2009), 1 (2012), 3 (2015), 3 (2017), 4 (2018), 1-2 per year 2020-2023, 4 (2025), 5 (2026). The total is 26.",
+    "Briggs 2018 (Front Psychiatry) is an SE-informed group for gender-diverse identity, not for SUD. I corrected the description.",
+    "I added early-registration pricing for the Advanced modules ($1,600) and the required hours (12 h personal sessions, 18 h consultation).",
+    "Levine's awards: lifetime-achievement awards from USABP, Psychotherapy Networker and ATTACh, per his site. The 2010 USABP year was not verified, so I removed it.",
+    "Einstein apparition: Wikipedia places the year-long dialogue during his dissertation work, and it is recounted in the 2024 memoir. I clarified this.",
+    "I found no important omitted RCTs in PubMed. The parent SE vs prolonged-exposure veterans RCT (Harwood-Gross 2025 qualitative) still has no published efficacy results."
+   ]
+  },
+  {
+   "slug": "polyvagal-theory-informed-therapy",
+   "name": "Polyvagal Theory-informed therapy (Polyvagal Institute; Deb Dana's Rhythm of Regulation)",
+   "category": "somatic/movement practice",
+   "ok": true,
+   "corrections": [
+    "The Embody Lab Polyvagal Trauma Therapy Certificate does not list Deb Dana as faculty. Its faculty include Porges, Schwartz, Fisher, Pohl, Lyons and Baldwin. The list price is $1,493, with $977 for members and $1,227 for non-members (verified).",
+    "Dale et al. 2025 (PMID 41464305): the co-author 'Dana AN' is a University of Florida author, not Deb Dana. Full author list and trial registrations (NCT05766852, NCT06580119) added, plus the authors' note of high attrition.",
+    "W\u00fcnnenberg & Baumann 2025 (PMID 41468378) was mislabelled as an uncontrolled, feasibility-only pilot. It is a non-randomised pilot with a non-singing control group: N=49 (13+14+22), with large self-reported effects.",
+    "Damis 2020 (PMID 33118881): n=3 single-subject design; co-author Hamilton MS added; volume and pages added.",
+    "The PVI 'PVT for SE Practitioners' $299 price could not be re-verified (the page returned 404 on 2026-10-12) and is now flagged.",
+    "Added PVI 501(c)(3) status, EIN 84-5084757, as stated on the PVI homepage.",
+    "Verified with no change needed: all cited PMIDs exist with the correct authors and journals; the PVI certificate price ($2,100 or 3x$700 or 7x$300, about 20 h live, no CEs); the Kowalski 2024 statement that there is no evidence for polyvagal-based PTSD methods; the Grossman 2026 39-author critique and the Porges reply; Wikipedia annual pageviews; Deb Dana's credentials and roles (LCSW, PVI founding member, Unyte-iLs and Khiron adviser).",
+    "The PubMed search found no omitted RCT of a polyvagal-informed therapy. The web-search budget was exhausted, so the PVI founding date and popularity metrics beyond Wikipedia were not further verified."
+   ]
+  },
+  {
+   "slug": "safe-and-sound-protocol",
+   "name": "Safe and Sound Protocol (SSP)",
+   "category": "device/neuromodulation/biofeedback",
+   "ok": true,
+   "corrections": [
+    "Training price corrected: $399 stand-alone, or $249-349 when bundled with a subscription. Unyte's pricing and subscription pages contradict each other. Subscription prices ($139/mo, $1,499/yr, $169/mo trial, $25 per extra license) were verified.",
+    "NCT04999852: added the GAD-7 result (-1.9 vs -0.8), the unmasked design and the uneven dropout (19/32 SSP participants completed vs 12/13 controls).",
+    "NCT06701578 is 'not yet recruiting', not recruiting. NCT06925867 is triple-masked and recruiting. NCT07219056 is quadruple-masked and recruiting.",
+    "ClinicalTrials.gov count corrected from 9 to 8 SSP-related records. The 9th hit (NCT05212129) is an auricular VNS study, not SSP. The 8 are 1 completed, 4 terminated and 3 RCTs.",
+    "Peer-reviewed paper count corrected: about 5 papers specific to SSP or its precursor (LPP), and Europe PMC has 19 records that mention SSP. The earlier figure of '3 papers' left out the 2013 LPP paper and the 2022 FND case.",
+    "NCT03083977 design relabelled as single-arm (allocation N/A).",
+    "Added items the researcher missed: Cook et al. 2021 IMPRS student abstract (non-randomized, n=17, not peer-reviewed) and Gitler et al. 2025 Med Int narrative review (PMID 40386190). Neither adds RCT evidence.",
+    "Checked and confirmed: all 10 PubMed citations (authors, year, journal, pages), the LPP 2014 and Kawai 2023 abstracts and conflict-of-interest statement, provider count (10,000+ in 50+ countries), the 'hundreds of thousands' served claim, and every NCT status and enrolment figure. No published SSP RCT was found. The web-search budget ran out before social-media popularity metrics could be checked."
+   ]
+  },
+  {
+   "slug": "smartbody-smartmind-irene-lyon",
+   "name": "SmartBody SmartMind and the 21-Day Nervous System Tune-Up (Irene Lyon)",
+   "category": "somatic/movement practice",
+   "ok": true,
+   "corrections": [
+    "Company founding year 'est. 2005' could not be confirmed on the official site or the Mitacs listing; it is now flagged as unverified in the md and in founded_year_range.",
+    "Removed 'chronic Lyme' from conditions_claimed. The program pages make no Lyme claim; the only link found is an acknowledgement in Dennys's book 'Unveiling Lyme Disease'.",
+    "Named the zeolite product from the SBSM FAQ: 'Pure Body'/'Pure Body Extra', which the FAQ says Irene and Seth used to detox from heavy metals and recommend.",
+    "Completed two citations: Grossman P, Biol Psychol 2023 (polyvagal critique) and Kuhfu\u00df et al. 2021, Eur J Psychotraumatol (SE scoping review).",
+    "UVic study entry clarified: partnership began 2021; the press release is dated 18 Apr 2024 and says results are 'under scientific review'; N is not reported; a PubMed search found no publication. It stays as the only (non-peer-reviewed) evaluation.",
+    "Checked again against the official pages and confirmed: USD 297 Foundations, USD 47/mo membership, no refunds, 19 live rounds 2016-2026, 80+ countries, Level 2 due Jan 2027, ~27,000 participant claim, 9,500 claim still on the home page, YouTube 189K subscribers / 13,979,797 views / joined 23 Jan 2010, and credentials (SFU BSc 1993-99, Wollongong MRes awarded 2008, Feldenkrais under Jeff Haller by 2007, SE from 2008 with mentor Steven Hoskinson, Kain/Terrell TST and SRR).",
+    "Limitation: the web-search budget ran out during the fact-check, so we could not search for omitted trials or criticisms, or check Reddit or Google Trends."
+   ]
+  },
+  {
+   "slug": "tre-trauma-releasing-exercises",
+   "name": "TRE (Tension & Trauma Releasing Exercises)",
+   "category": "somatic/movement practice",
+   "ok": true,
+   "corrections": [
+    "Verified all 4 listed trials plus the Roos 2026 scoping review and the Zhao 2024 protocol against PubMed: authors, journals, volumes, pages, N and results match (Roos 2026 is online ahead of print, 9 Sep 2026)",
+    "evidence_level downgraded from 'multiple RCTs' to 'pilot or single RCT'. The only two RCTs are small exploratory trials (N=18 and N=28), and both were null on unadjusted primary outcomes",
+    "The 1,000+ Provider figure is now flagged as self-reported: Wikipedia cites it to TRE For All itself",
+    "Details added for NCT07242651 (Cairo University, Egypt; hypertension; women aged 50-65; N=40; TRE 3x/week for 8 weeks plus usual care), and 'hypertension (research use)' added to conditions_claimed",
+    "Hall 2020 wording corrected to her actual quote ('I can't recommend TRE'). Also noted that her claim that no studies existed overlooked the 2018 RCT",
+    "Clarified that the US$250 fee applies to people enrolled to become Certification Trainers",
+    "Noted Wikipedia's mention of a 2023 scoping review of 18 studies (probably the Roos thesis; not PubMed-indexed)",
+    "Berceli's 2009 ASU PhD was not independently confirmed (web-search quota exhausted); it rests on Wikipedia and secondary sources",
+    "No important omitted peer-reviewed trials found: a PubMed title/abstract search for 'trauma releasing exercise*' returns only 3 records"
+   ]
+  },
+  {
+   "slug": "hanna-somatics",
+   "name": "Hanna Somatic Education / Clinical Somatics",
+   "category": "somatic/movement practice",
+   "ok": true,
+   "corrections": [
+    "Huang & Babgi 2022: added the verified pain scores (Wong-Baker 3.2 to 0.6 on a 0-5 scale) and confirmed the ~80% reduction from the PMC full text, not from SMC. Added the exclusion details (240 screened, 137 excluded, N=103), session lengths, the study period (2016-18), and the design wording (records review).",
+    "NCT07618143: added the collaborator (Medipol University), the 2 arms of 35, the 8-week twice-weekly dosing and the active comparator (conventional ROM/static stretching). Flagged that it is a generic 'somatic-based' chair program citing Hanna and pandiculation, not a branded HSE protocol.",
+    "Posner survey: N changed from 100 to null, because the source says only 'almost 100'.",
+    "Eleanor Criswell Hanna: changed 'died early 2025' to 'had died by April 2025', based on the AHSE In Memoriam piece dated 11 Apr 2025. The exact death date is unverified.",
+    "Thomas Hanna: the PhD institution (University of Chicago) is not confirmed by Wikipedia, which gives only 'PhD 1958' and a BD from Chicago. Flagged in the .md file.",
+    "Verified with no change needed: the 1975 Novato founding with Eleanor Criswell Hanna; Hanna's 1990 death in a car accident; Feldenkrais training in 1975; the AHSE 501(c)(3) IRS letter (1998); the trademarks held by Eleanor Criswell Hanna; SMC prices ($45/$75/$95) and CEI training prices ($575/$475/$475); Essential Somatics Move With Ease ($249 or 3x$87, 6 weeks, 37 lessons).",
+    "Not re-verified because the web search budget was exhausted: popularity and reach figures, YouTube counts, the Criswell Sonoma State affiliation, and a full search for omitted trials and press criticism. The reach estimate is flagged as coarse."
+   ]
+  },
+  {
+   "slug": "emdr",
+   "name": "EMDR (Eye Movement Desensitization and Reprocessing)",
+   "category": "trauma/emotion-focused therapy",
+   "ok": true,
+   "corrections": [
+    "All 12 listed papers verified on PubMed; authors, year, journal and N are correct",
+    "Founder: added Shapiro's 1988 PhD from the unaccredited Professional School of Psychological Studies (San Diego)",
+    "Founding range extended: Institute incorporated 1993, renamed 'EMDR therapy' 2014",
+    "Shapiro 1989 redescribed as randomized vs an imagery-based comparison, developer-run and unblinded",
+    "Added Wright 2024 IPD meta-analysis (no superiority over other PTSD therapies) as a key trial",
+    "Added Herbert 2000 and Lohr 1999 critiques",
+    "Nia 2018: flagged a self-described RCT with non-random selection, and a shared author with Rostaminejad 2017",
+    "Zat Ciftci 2024: flagged p-value inconsistency; investigators described as a proponent group rather than 'EMDR-institute'",
+    "Roots: Mesmer removed (a critics' analogy, not a root)",
+    "conditions_claimed: added EMDRIA-listed sleep, eating and dissociative disorders",
+    "Cost figures remain unverified background estimates (EMDRIA publishes no prices); web search quota was exhausted"
+   ]
+  },
+  {
+   "slug": "eft-tapping",
+   "name": "EFT Tapping (Emotional Freedom Techniques) / The Tapping Solution",
+   "category": "trauma/emotion-focused therapy",
+   "ok": true,
+   "corrections": [
+    "All 24 cited PMIDs checked through NCBI E-utilities: each exists, with the right authors, year and journal.",
+    "Gary Craig: his official site says he retired in 2025 and lists his dates as '1940-2026', but it never says he died and no independent source confirmed it. Changed 'died 2026' to 'site lists 1940-2026'.",
+    "Gilomen & Lee 2015 (PMID 25863484) was described as finding no reliable acupoint effect. The abstract actually reports a moderate overall effect (g=-0.66; 18 RCTs, n=921) and says it could not tell whether acupoints are the active ingredient. Corrected in the .md and added as a key trial.",
+    "Cuvadar 2026 dosing clarified: two 45-60 min EFT sessions (one per month) plus self-practised affirmations at least twice a week, vs breathing exercises.",
+    "Stapleton 2025 delivery arms clarified: the abstract says live in-person vs self-paced online, while its significance statement says 'online in-person'. Added that the analysis was per-protocol and consistent with ITT; also no effect on wellbeing.",
+    "Bougea 2013: arms are n=19 vs n=16, and the abstract reports only within-group change.",
+    "NeuroTap Health is confirmed on CMS's ACCESS accepted-participants list (MSK and BH tracks). Its evidence is now specified: uncontrolled data from 16.6M rated sessions and 868k users, within-session d=1.21-1.66, manuscript under review.",
+    "The 17M vs 32M app-session figures appear on different current pages, not as earlier vs later counts, so they no longer support the 'strong growth' claim.",
+    "App premium price (USD 12.99/month or 94.99/year): the company site publishes no price and the app store page could not be reached, so it stays flagged unverified. The '190+ countries' figure is also flagged not re-verified.",
+    "Church 2018 corrigendum: could not be verified; now flagged.",
+    "Norcross 2006 Delphi poll: added the mean score of 3.8."
+   ]
+  },
+  {
+   "slug": "compassionate-inquiry-gabor-mate",
+   "name": "Compassionate Inquiry (Gabor Mat\u00e9)",
+   "category": "influencer/author method",
+   "ok": true,
+   "corrections": [
+    "The two official sites disagree on Professional Training hours: compassionateinquiry.com says 330, drgabormate.com says '240-hour'. Flagged as a conflict instead of stating '330+'.",
+    "Short Course content corrected from ~25-30 hrs to 'over 30 hours' (course page). The CAD 350 price, +CAD 150 for US CE, 30 CE through Spiritual Competency Academy and 10 CE through CCPA were all verified.",
+    "Historical tuition of USD 6-8k is still unverified; monthly payment plans exist (FAQ).",
+    "Kaur's role was verified as 'Co-Executive Director, CEO, Facilitator and Practitioner'. Her named programs ('Beyond Addiction', 'Healthy Breast') and book count were flagged as not re-verified.",
+    "Coyne's criticism was reworded to his sourced quote ('urges us to abandon ... evidence-based solutions') instead of an unsourced cancer-specific paraphrase.",
+    "Added the year of the Hubert Evans Prize (2009). Verified: Order of Canada 2018, UBC MD 1977, b. 1944, Vine Award 2023, Harry interview March 2023.",
+    "The 'annual conference' claim is flagged as unverified. 3 cohorts/yr (Feb/May/Sept) and 'thousands in over 80 countries' were verified as self-reported on drgabormate.com.",
+    "Hakomi and IFS links are labelled as the reviewer's interpretation, not CI claims.",
+    "Re-verified the evidence nulls: PubMed 'compassionate inquiry' still gives 7 hits, all unrelated (mostly International Sex Survey papers). The Europe PMC items are book reviews (Milton BJGP 2024;74:83; Fogleman Fam Med 2024;56:58-9), and the first author was added. No trials exist, so key_trials stays empty.",
+    "Founding year: neither official site gives a date, so 2015 (c. 2015-16) stays approximate and unverified. The WebSearch budget was exhausted during the fact-check, so this check was limited to official pages, Wikipedia and PubMed eutils."
+   ]
+  },
+  {
+   "slug": "joe-dispenza",
+   "name": "Dr Joe Dispenza meditations, workshops and retreats",
+   "category": "influencer/author method",
+   "ok": true,
+   "corrections": [
+    "All 6 cited PubMed papers exist, and their authors, journal, year, volume and pages match PubMed. The Commun Biol 2025 paper has a 2026 Author Correction (PMID 42502079).",
+    "COVID survey paper: N was null. It is now 2,844 respondents out of 22,459 past 7-day-retreat attendees invited, and the design is restated as a self-selected cross-sectional survey.",
+    "Twin pilot study: N was null. It is now 12 people (6 twin sets: 5 identical, 1 fraternal), plus 13 age-matched controls for the EEG measures.",
+    "Qammar 2023 healing-circle HRV paper (N=9) was cited in the .md and sources but missing from key_trials. It has been added.",
+    "Stapleton 2020: the delta -5% result and the 5,616 EEG scans were added to key_trials (both were already in the .md). Bond University is now listed among the academic collaborators.",
+    "QUANTUM registry NCT06583395: the official title is 'Quest to Analyze One Thousand Humans Meditating', and estimated enrolment is 3,000 (not '2000+'). The study was registered retrospectively: it started 2021-12 but was first posted 2024-09. Its estimated completion date of 2025-03 has passed and no results are posted. The registry's condition list includes CFS, fibromyalgia, IBS, Lyme disease and migraine.",
+    "Plonka 2026 random-number-generator paper: added that it declares 'no conflict of interest' even though its co-authors are from Encephalon and Metamorphosis.",
+    "Cost: added the official price of the Progressive Online Course, USD 399 (free for 30 days with retreat registration). Retreat prices are not shown on official pages, so the USD 2,300-2,500 figure is now labelled as unverified, from secondary sources.",
+    "Popularity and reach: added the 22,459 past-attendee figure from the company's own survey. The cumulative retreat-attendance estimate was revised to about 5x10^4-10^5 by 2026, with about 2.2x10^4 by 2021-22.",
+    "conditions_claimed: added IBS, chronic Lyme, migraine and Parkinson's, based on the QUANTUM registry and the site's testimonials.",
+    "Skeptical Inquirer critique confirmed: van Steenderen, Skeptical Inquirer 44(4), July/August 2020. The exact URL was added.",
+    "Not re-verified because the web-search quota was exhausted, so still flagged [background]: Evergreen BS and Life University DC, his Ramtha teaching role, the 2009 founding date, and book sales and social-media counts."
+   ]
+  },
+  {
+   "slug": "wim-hof-method",
+   "name": "Wim Hof Method",
+   "category": "somatic/movement practice",
+   "ok": true,
+   "corrections": [
+    "YouTube popularity corrected: the Wim Hof channel (@wimhof1) has 3.15M subscribers, checked 2026-10-12; the earlier figure was '1M+'. The @wimhofmethod channel has about 32K.",
+    "Instagram 3.5M+ is recorded as a company claim. The homepage says 'practiced by millions' in one place and 'thousands ... practice every day' in another.",
+    "A second Joe Rogan appearance in 2018 could not be verified, so it is now flagged. Only #712 (Oct 2015) was confirmed.",
+    "Deaths tally clarified: Carney's 2023 documentary linked 13 deaths, and his March 2024 spreadsheet lists 32 alleged deaths, with causation mostly unestablished. The Metzger suit was dismissed on 2 Jul 2024.",
+    "2012 conviction details made specific: assault on his then-partner's 18-year-old son, with 40 h community service and a EUR350 fine. The de Volkskrant report is dated Sept 2024; Hof denies the allegations, and a biopic was put on hold.",
+    "Blades 2024 refined: the WHM rumination effect was p=.048 and faded by the end of the trial. The authors themselves say it would not survive multiple-comparison correction, so the claim is confirmed with that wording.",
+    "Epel 2025 refined: the post hoc analysis was 'as treated' rather than per-protocol, and it also found greater positive affect with WHM. Volume 59 added.",
+    "Enahm Hof's business role could not be independently verified, so it is now flagged.",
+    "cost_usd_typical changed from 60 (unverified historical course price) to 43 (verified US app annual subscription). Verified app prices were added, including a $2.99 weekly tier.",
+    "Trial citations expanded with full titles and volume/pages. All 11 trials and the systematic review exist and match the listed authors, year, journal, N and findings (checked via Europe PMC). The systematic review is now described as a narrative synthesis with no meta-analysis, in which all trials were at high risk of bias."
+   ]
+  },
+  {
+   "slug": "irest-yoga-nidra",
+   "name": "iRest Yoga Nidra (Integrative Restoration)",
+   "category": "contemplative/meditation program",
+   "ok": true,
+   "corrections": [
+    "NCT00269490: started Dec 2005 but the registry completion date is Aug 2007, not Oct 2006; 7 enrolled; co-sponsored by the Samueli Institute; no published results found",
+    "Nassif 2015/16: the reported pain reductions and g values are within-group changes in the iRest arm (n=4), not between-group effects",
+    "Breneman 2023: the abstract calls the intervention 'mindfulness meditation' and only the registry specifies iRest; n=75 vs 74; ran 2016-2021",
+    "Gutman 2017: added that Dreampad produced fewer awakenings than iRest",
+    "Wahbeh follow-up: both groups improved; only 5 iRest participants were still practicing; the 6-week depression/pain results were trends only",
+    "Barber 2025: declares no competing interests despite iRest Institute co-authors",
+    "US Army Surgeon General/DCoE endorsement: the site states it without documentation; flagged as unverified",
+    "Level 1 price range corrected to $1,395-2,190 (list $1,695); Level 2 price not re-verified",
+    "Added 2024 IRS 990 revenue ($0.78M); lowered the 2024-2026 trajectory accordingly",
+    "NCT06888336 (UCL) uses iRest audio and completed Mar 2026, not 2025",
+    "Added the Livingston 2018 and Martin 2026 studies to key_trials"
+   ]
+  },
+  {
+   "slug": "yoga-therapy",
+   "name": "Therapeutic yoga / yoga therapy (IAYT)",
+   "category": "somatic/movement practice",
+   "ok": true,
+   "corrections": [
+    "Tilbrook 2011: the abstract (PMID 22041945, now added) shows back pain and general health were similar between groups, not 'small or nonsignificant'. Added RMDQ differences (-2.17 at 3 mo, -1.48 at 6 mo, -1.57 at 12 mo), the adverse-event imbalance (12 yoga vs 2 usual care) and the 60% adequate-attendance figure.",
+    "Tilbrook protocol: removed 'Iyengar-style 75-min classes', which is unverified. The abstract says only that 12 teachers delivered a 12-class, gradually progressing program over 3 months.",
+    "Cramer 2018: added the large effect versus active comparators (SMD -0.86) and noted that effects also appeared in people with non-DSM diagnoses.",
+    "Cramer 2013: added the long-term effects (pain -0.33, disability -0.35).",
+    "Sherman 2011: added the 26-week function difference (-1.8) and 'at any time point' for the null result versus stretching.",
+    "Added an omitted major trial: Simon et al. 2021, JAMA Psychiatry (PMID 32805013), n=226 with GAD. Kundalini yoga beat stress education but was not noninferior to CBT. Response percentages are from prior knowledge and marked as such.",
+    "Added an omitted criticism: the Kysar-Moon 2021 meta-analysis of trauma-sensitive yoga RCTs (PMID 33543258) found marginal or null effects on PTSD and depression. Named the 2019 review as Nguyen-Feng et al. (cited on Wikipedia).",
+    "Removed John Kepner's tenure dates (2003-2019), which are unverified.",
+    "IAYT founding: Wikipedia confirms Richard Miller as co-founder. The 1989 date and Larry Payne's role are flagged as secondary or prior knowledge, because iayt.org returned HTTP 403.",
+    "NHIS prevalence for 2012 (9.5%) and 2017 (14.3%) verified against NCHS Data Brief 325. The 2002 figure is still approximate.",
+    "Prices, IAYT membership counts, the C-IAYT start year (about 2016), Yoga in America 2016, the YouTube subscriber count and bestseller status are still unverified (web search budget exhausted, IAYT site blocked) and are flagged.",
+    "Verified as correct against PubMed abstracts: Sherman 2011, Saper 2017 (including that it was not superior to education and the 21/22-point drop in medication use), Carson 2010 (n=53), van der Kolk 2014 (52% vs 21%, Emerson co-author), Cramer 2013 (10 RCTs, n=967) and Wieland 2022 Cochrane (21 RCTs, n=2223, RMDQ -1.69, pain -4.53, adverse events RR 4.76)."
+   ]
+  },
+  {
+   "slug": "tai-chi-qigong",
+   "name": "Tai Chi and Qigong programs (Tai Chi for Health Institute; Spring Forest Qigong)",
+   "category": "somatic/movement practice",
+   "ok": true,
+   "corrections": [
+    "Callahan 2016: the trial tested the Arthritis Foundation Tai Chi Program, which is the AF-licensed version of Lam's Tai Chi for Arthritis. Pain, fatigue and stiffness improvements (ES 0.15-0.23) only approached significance; they were not simply 'not significant'. There was no change in mobility, strength or single-leg balance. The 1-year data are self-report only and uncontrolled.",
+    "Yang 2024 (N Am Spine Soc J): this is not a Mayo Clinic trial and not evidence of Mayo adoption. The Center for Taiji and Qigong Studies (NY) led it, and Qi Balance LLC, the lead author's company, funded it; Mayo, Weill Cornell and UMN appear only as co-authors. The curriculum combined Chen-style tai chi, Hunyuan qigong and meditation. Attrition was about 30%. ODI -4.7, -6.4 and -8.1 at 8, 12 and 16 weeks.",
+    "Added an omitted null trial: Dietzel 2026, Front Med (PMID 42638691), the ACUQiG RCT of acupressure plus online qigong for post-COVID fatigue, N=235. Its primary outcome, SF-36 physical function, was not significant (p=0.11), and some participants had symptom aggravation. This replaces the earlier claim that long-COVID evidence was 'only case reports and protocols'.",
+    "Chan 2013: the protocol was 10 sessions over 5 weeks, then 12 weeks of home practice. Mental fatigue was only marginal (p=0.05).",
+    "Jones 2012: tai chi was an FM-modified 8-form Yang style, given twice a week for 90 minutes (not 60). Fuzhong Li was a co-author.",
+    "Lynch 2012: the 'dose-response at >=5 h/week' claim was replaced with what the abstract actually says: a post hoc per-protocol vs minimal-practice comparison. Noted that the qigong was Chaoyi Fanhuan (CFQ) and the control was waitlist.",
+    "Wang 2018 BMJ: only assessors were blinded. Follow-up ran 52 weeks. Twice-weekly tai chi was no better than once-weekly, and tai chi participants attended more sessions.",
+    "Hall 2011: the abstract does not name Lam's branded back-pain program, so calling it a test of 'Tai Chi for Back Pain' is an inference.",
+    "Removed 'Lee 2022' (a virtual-program feasibility study) because it could not be found in PubMed. Added the PMID for Mercuris 2020.",
+    "TCHI instructor certification: the '2-day workshop, renew every 2 years' rule is not on the official site (it lists 1-2-day workshops), so it is now marked unverified.",
+    "Paul Lam's 1993 Beijing medal is now specific: gold in Combined 42 Forms plus two silvers. Lam's bio gives both 15 and 10 as the number of programs; noted the inconsistency.",
+    "Spring Forest Qigong: added its 'Monthly Karmic Cleansing' offering. The founding year rests only on the site's 'since 1995'.",
+    "Added a conflict-of-interest critique: practitioners ran or funded several trials. Added PMIDs for the Steen 2024, Zhang 2026 and Fricke-Comellas 2026 meta-analyses. The Sotiropoulos 2025 figures are now marked as not re-checked.",
+    "VA Whole Health, NHIS prevalence and SilverSneakers claims are now marked as general knowledge, not re-verified. The web-search budget ran out during the fact-check, so these could not be checked."
+   ]
+  },
+  {
+   "slug": "heartmath",
+   "name": "HeartMath (HRV coherence biofeedback; Inner Balance, emWave)",
+   "category": "device/neuromodulation/biofeedback",
+   "ok": true,
+   "corrections": [
+    "Berry 2014: was described as a 'pilot controlled study'. It was randomised (8 treatment vs 6 usual care). The 36% pain drop is within-group (1-tailed); between-group P=.02.",
+    "Luskin 2002: 'incomplete randomisation' could not be verified from the abstract, so it now reads 'allocation method unclear'. Marked as independent (Stanford); 14 completed treatment.",
+    "Elzohairy 2025 (PMID 40708166): entry filled in and added to key_trials. It is an independent RCT of nurse-led HeartMath training in 130 inpatients with substance use disorder (NCT06437366), with significant self-reported gains.",
+    "Burch 2020: noted as independent (USC/VA) and registered (NCT03692624); 17 vs 17.",
+    "McCraty 2003: clarified that the BP reductions are adjusted and only systolic was significant vs control.",
+    "Branded-trial N range in the critique updated from 14-75 to 14-136, plus one independent RCT with N=130.",
+    "Founding year 1991 verified (IRS nonprofit status per McCraty 2022 PMC9214473; heartmath.com/about). Device dates verified (Freeze-Framer 1999, emWave PSR 2006, Inner Balance 2013). Store prices $249/$179/$399 verified. '12,000+ certified practitioners' and 'millions' verified on heartmath.com/about.",
+    "All 16 cited PMIDs exist with correct authors, journal, year, volume and pages.",
+    "Not re-verified because the web-search budget is exhausted: app Premium price, certification fees, the Redford Williams 1993 criticism (Wikipedia-sourced; now flagged), Rozman's CEO title, and the Europe PMC citation count."
+   ]
+  },
+  {
+   "slug": "neurofeedback",
+   "name": "EEG neurofeedback (ILF/Othmer, NeurOptimal, LORETA/z-score, consumer headbands)",
+   "category": "device/neuromodulation/biofeedback",
+   "ok": true,
+   "corrections": [
+    "NeurOptimal/Zengar co-founder is Susan Dermit Brown, not Susan Cheshire (neuroptimal.com/about). Zengar was founded in 1996, the system has been marketed since 2000, and the NeurOptimal name dates from 2008.",
+    "Anderson 2025 (Sci Rep 15:209) was a fibromyalgia trial (15 active, 15 placebo, 12 sessions), not a general chronic-pain trial. A private NF-practitioner co-author programmed the protocols.",
+    "van der Kolk 2016 used T4-P4 right-temporal training, not alpha-theta. Arms were 28 NF and 24 waitlist.",
+    "Aetna CPB 0132 also lists biofeedback for chronic pain, including fibromyalgia, as experimental. For headache it covers only EMG, thermal or skin biofeedback ('EEG biofeedback not covered'). It lists amygdala-related EEG NF for PTSD as experimental.",
+    "Myndlift's FSA/HSA eligibility is only a navigation link with no details, so it is flagged as unverified. Myndlift's price is not public.",
+    "Kayiran 2010: EEG band amplitudes did not change (only the theta/SMR ratio fell). This caveat on the specific mechanism was added.",
+    "Askovic 2023: it reviewed 10 controlled studies and meta-analysed 7 RCTs (95% CI added). The first author directs a neurofeedback institute (declared COI).",
+    "Added the NF Collaborative Group 2023 25-month ADHD follow-up (JAACAP 62:435-446, PMID 36521694, n=120): null versus control, and gains attributed to non-specific effects.",
+    "Goldway 2019: 25 real vs 9 sham. The objective sleep benefit was specific to real NF.",
+    "Carlson 2025: 87 enrolled, 36 NF vs 38 control completers. The abstract reports within-group change only.",
+    "ISNR history: SSNR name 1995-98, renamed in 1998, 2002 and 2006, now the International Society for Neuroregulation & Research.",
+    "InteraXon founders (Garten, Coleman, Aimone; 2007) and Muse release (May 2014) confirmed. NeurOptimal, Muse and Myndlift prices and user/session counts re-verified on the sites in 2026.",
+    "All 20 cited PMIDs exist with the correct authors, journal, volume and pages. The web search quota ran out, so the Othmer ILF date (~2006) and the 2012 AAP evidence-table claim remain unverified and are marked as background."
+   ]
+  },
+  {
+   "slug": "non-invasive-vagus-nerve-stimulation",
+   "name": "Non-invasive vagus nerve stimulation (gammaCore, Truvaga, Pulsetto, Nurosym, and vagal-tone wearables)",
+   "category": "device/neuromodulation/biofeedback",
+   "ok": true,
+   "corrections": [
+    "All 16 cited PMIDs checked through NCBI E-utilities. Each exists and matches the stated authors, journal, year and N. Key numbers were checked against the abstracts.",
+    "The figure of about $32M FY2025 revenue was guidance, not a reported actual. It is now given as guidance of $31.5-32.5M (Q3 2025 revenue $8.7M, up 33%). The claimed 2026 growth of about 30% could not be verified and is flagged.",
+    "Added Q3 2025 Truvaga revenue ($1.7M, a record). Confirmed Q1 2025 figures: VA gammaCore $4.7M (+22%), US commercial $0.29M (-33%), Truvaga $1.1M (+187%).",
+    "Pulsetto's About page gives the founders' first names only ('Povilas and Vitalijus', 2021). The surnames are flagged as unverified. Its customer counts disagree: the homepage says 330k+, the About page says 300K+.",
+    "Apollo's homepage does not name its founders; the Rabin/Fantauzzi attribution is noted as unconfirmed on the site. The $448 price is a bundle with membership, and the site says it is HSA/FSA eligible.",
+    "Removed 'Nurosym-type' from Zheng 2024 because the abstract does not name the device brand.",
+    "Refined three trials. Gierthmuehlen 2026 (COVIVA) had three arms: sham, sub-threshold and above-threshold, using the tVNS-L device. Ganesh 2026 dosed 2 min 3x/day with a no-VNS control and no sham (8 vs 10 patients). Natelson 2021: pain improved slightly in both arms.",
+    "PREMIUM II responder rates corrected to 44.9% vs 26.8%, and the primary-endpoint result restated as a difference of -0.83 days.",
+    "The Mondal 2021 gammaCore Parkinson's paper was retracted in 2022, and a re-analysis was published in Front Aging Neurosci in 2023. Both details added.",
+    "Added an omission: electroCore now sells Quell, a TENS device with an FDA fibromyalgia indication, through the VA.",
+    "Added the de Coo 2019 pooled ACT1+ACT2 analysis to key_trials, and the PMIDs for the Song 2023 and Qian 2026 meta-analyses.",
+    "Not verified because the web search budget was exhausted: NICE MTG46 and NHS funding, the FDA clearance dates other than the 2020 EUA, Truvaga and Nurosym pricing and Sensate details. These remain flagged."
+   ]
+  },
+  {
+   "slug": "wearable-neuromodulation-pain-migraine",
+   "name": "Wearable peripheral neuromodulation for migraine and pain (Cefaly, Nerivio, Relivion/Proliv, Quell)",
+   "category": "device/neuromodulation/biofeedback",
+   "ok": true,
+   "corrections": [
+    "Nerivio FDA actions: 7 (De Novo + 6 510(k)s incl. K232152), not 6",
+    "Yarnitsky 2017 Neurology was a randomized sham-controlled crossover pilot (N=71 evaluable), added to key_trials",
+    "Yarnitsky 2019: 252 randomized, 202 mITT; added MBS result",
+    "Daniel 2022 Pain Ther is a separate N=55 Relivion RCT, not an overlapping programme; added to key_trials",
+    "Tepper 2022 Relivion: 131 randomized, 109 analysed (50 vs 59)",
+    "Theranica founders sourced to LSVP/CB Insights (Ironi, Jashek, Eckhouse); Barabash on LSVP only; founded 2016 (LSVP says 2015)",
+    "Nerivio Medicaid coverage claim not found on current FAQ; softened to 'eligible for insurance coverage'",
+    "OTC Quell appears discontinued (quellrelief.com redirects to support; neurometrix.com markets only Quell Fibromyalgia)",
+    "electroCore-NeuroMetrix merger dated via SEC 8-Ks (Dec 2024 agreement, c. May 2025 close)",
+    "Neurolief's Proliv Rx (depression, company-claimed FDA authorization, unverified) added; depression added to conditions_claimed",
+    "Added company REN mechanism review (Birlea 2025) noting A-delta/C fiber activation and 'other idiopathic pain disorders' framing",
+    "Added independent 2026 systematic review (Canales-Rodriguez, Eur J Neurol) critical of trial endpoints",
+    "VA/DoD claim narrowed to VA; DoD-wide use unverified",
+    "Reach estimate lowered from 10^6 to 10^5-10^6 (log10 5.5), flagged highly uncertain",
+    "Biofeedback/autogenic roots replaced with DNIC/CPM, TENS, invasive nerve stimulation roots",
+    "Cefaly founders and Cefaly/Quell prices remain unverified (search budget exhausted)"
+   ]
+  },
+  {
+   "slug": "transcranial-electrical-stimulation-tdcs-ces",
+   "name": "Home transcranial electrical stimulation (Flow tDCS, Alpha-Stim and Fisher Wallace CES)",
+   "category": "device/neuromodulation/biofeedback",
+   "ok": true,
+   "corrections": [
+    "All 19 cited PMIDs verified in PubMed (authors/journal/year/pages correct)",
+    "Shekelle 2018: low-strength benefit is in patients with anxiety AND depression, not anxiety alone",
+    "Caumo 2025: added co-interventions (exercise + pain neuroscience education), 2 mA 20 min dose, d=0.73; generic tDCS not a branded device",
+    "Morriss 2023: primary outcome at 16 weeks; 100 uA 1 h daily for 8 weeks",
+    "Haimi 2026: added that the two largest trials (n=210, n=141) were negative",
+    "Woodham 2024: 58% figure is response; Psychiatric Times mislabelled it remission",
+    "Fisher Wallace: founder history per company site (Wallace died soon after founding; Roman co-founder/CEO); FDA anxiety clearance anticipated Q3 2026, outcome unverified",
+    "Flow: US launch planned Q2 2026; site now says available by prescription; insurance coverage unverified",
+    "Added McClure 2015 to key_trials; Barclay page numbers added",
+    "Flow founders/founding year, EUR price, Alpha-Stim/Fisher Wallace prices, EPI 1981 founding, NICE MIB145 remain unverified (web-search quota exhausted)"
+   ]
+  },
+  {
+   "slug": "transcranial-magnetic-stimulation",
+   "name": "Repetitive transcranial magnetic stimulation (NeuroStar, BrainsWay Deep TMS, SAINT)",
+   "category": "device/neuromodulation/biofeedback",
+   "ok": true,
+   "corrections": [
+    "All 16 cited PMIDs were checked on PubMed. Authors, journals, years and the main numbers match. Volume and page numbers were added.",
+    "SAINT 510(k) K220177: the FDA database gives received 21 Jan 2022 and cleared 1 Sep 2022. The clearance date was added.",
+    "Cole 2020: the 90.5% is 19/21 participants with outcome data. The intention-to-treat figure of 86.4% (19/22) was added.",
+    "Cole 2022: the results come from a planned interim analysis, not an early stop. 32 were enrolled and 29 randomised (14 active, 15 sham). Wording corrected.",
+    "Mhalla 2011: 40 were randomised and 30 completed. This is now noted.",
+    "O'Reardon 2007: corrected to say the post hoc baseline-severity correction applied to the week-4 MADRS result.",
+    "Levkovitz 2015: corrected to say benefits held through the 12-week maintenance phase.",
+    "Omission added: Yesavage et al., JAMA Psychiatry 2018 (PMID 29955803). This VA RCT (N=164) found no remission difference between active and sham rTMS.",
+    "Omission added: O'Connell et al., Cochrane 2018 (PMID 29547226). It found a small short-term effect of rTMS on chronic pain (SMD -0.22), with low/very low quality evidence.",
+    "Soliman 2025 details added: 313 trials, 48,789 participants, NNT CI 2.3-28.3, and a third-line recommendation alongside BTX-A and opioids.",
+    "The long-COVID case report (Zhang 2023) is now flagged as using a proprietary 'Electro-Magnetic Brain Pulse' variant, not standard rTMS.",
+    "Removed the unverified '~19 fibromyalgia RCTs' popularity indicator.",
+    "Company figures confirmed on official sites: NeuroStar >9M treatments in >250k patients, BrainsWay >800 providers, and both companies' FDA-cleared indication lists. Neuronetics was incorporated in 2003.",
+    "Not verifiable because the session's web-search budget ran out: cash prices (rTMS and SAINT), the Greenbrook acquisition date (Dec 2024), whether SAINT is reimbursed, and the ~1-2M global reach. All are flagged as approximate or unverified."
+   ]
+  },
+  {
+   "slug": "mindspot-pain-course",
+   "name": "MindSpot Pain Course",
+   "category": "digital app/platform",
+   "ok": true,
+   "corrections": [
+    "Friesen 2017 (Pain 158(4):593-604): confirmed via Europe PMC (PMID 27984490). Added N=60, effect sizes and DOI. Follow-up was only 4 weeks.",
+    "Dear 2022 (Pain 163(7):1388-1401): confirmed (PMID 34609359). Added N=659, authors and DOI. The comparator is waitlist only. Cost per QALY clarified as AUD 152 or 11,910 depending on the criterion, and the program was not cost-saving.",
+    "Removed the unverified MindSpot routine-care 'N\u22481,367'. Replaced it with the verified Dear, Staples, Nielssen & Titov, Aust J Rural Health 2025;33(1):e70008 (MindSpot routine care, N=1,567).",
+    "Added the omitted Hadjistavropoulos et al. Eur J Pain 2022;26(2):390-404 five-year routine-care study (N=293) and the Nielssen 2019 Rehabil Psychol litigation secondary analysis.",
+    "Added Cochrane Rosser 2023 (CD013863) context: remote CBT has small post-treatment effects on pain (SMD -0.28) and disability (SMD -0.38) that were not maintained at follow-up.",
+    "2015 RCT: added arm Ns, percentage reductions and pain effect (d>=0.30, >=12%), plus clinician minutes. 2018 Can J Pain: added effect sizes; coach time is about 13 min/week.",
+    "Removed the unverified '29/31 completed all lessons' figure (2013 RCT). PEDro 5/10 is flagged as not re-verified.",
+    "The '>20,000 adults/year' figure is flagged as unverified. The MindSpot Pain Course page says 'over 200,000', while the research page says '>250,000'.",
+    "Removed the RelieVRx comparator from the cost_summary and insurance_notes fields because it is a different product. It is kept in the .md only as a flagged aside.",
+    "RCT participant total corrected to ~1,450. reach_log10 adjusted from 4 to 3.8. The note on GP referral was clarified: patients can self-refer.",
+    "Web search budget was exhausted; verification used the Europe PMC DOI lookup and official MindSpot pages."
+   ]
+  },
+  {
+   "slug": "cbt-get-for-cfs",
+   "name": "CBT and Graded Exercise Therapy for CFS/ME (PACE-trial model; KCL/Chalder and Nijmegen/Knoop CBT for fatigue)",
+   "category": "psychological/neuroplastic-pain therapy",
+   "ok": true,
+   "corrections": [
+    "PRINCE Secondary: the URL cited (PMC6805658) is the 2019 BMC Psychiatry protocol, not the results; replaced with the results DOI 10.1017/S0033291721001793 (online 2021, print 2023) and added the CI/MCID detail",
+    "Wilshire 2018: completed the author list; the 22%/22%/7% 'recovery' rates were published in White et al. 2013 Psychol Med; added protocol 'overall improvement' rates (20/21/10%; not significant after the protocol's Bonferroni correction) and recovery p=0.14",
+    "Sharpe 2015 follow-up: added volume and pages, the 604-sent/481-returned denominators, median 31 months and 44% post-trial treatment; replaced the PubPeer URL with the DOI",
+    "GETSET: the claim that long-term follow-up was 'not published' was wrong. Clark et al. 2021 J Psychosom Res (n=164, ~15 months) found no between-arm differences on primary outcomes. Removed the unverified '42% adherence' figure",
+    "MAGENTA: first author is Gaunt (with Crawley); N=241 (not ~237); added the null effect estimate -2.02 (95% CI -7.75 to 2.70)",
+    "Kuut IPD meta-analysis: n=1,298 from 8 RCTs, all of the Dutch protocol from the developers' group (not 'Dutch/UK'); the effects WERE moderated by age, impairment and activity pattern, the opposite of 'did not vary much'",
+    "Royal Colleges statement: added RCP Edinburgh and confirmed RCGP was a signatory; NICE committee: three resigned and a fourth (Shepherd) was stood down",
+    "Kaiser 'followed suit' claim softened to an unconfirmed patient-forum report that Healthwise retired its GET/CBT content in 2018",
+    "Fulcher & White 1997: 55% vs 27% is per-protocol (16/29 vs 8/30); added ITT 17/33 vs 9/33",
+    "Added Deale 1997, Fulcher & White 1997, MAGENTA and the Kuut IPD meta-analysis to key_trials",
+    "Open-letter count corrected (dozens of signatories in 2016, 100+ by 2018); UK specialist-service referral volumes and the reach estimate flagged as unverified; trial participant total revised from 'tens of thousands' to 'a few thousand'"
+   ]
+  },
+  {
+   "slug": "stress-bodily-distress-syndrome-aarhus",
+   "name": "STreSS (Specialised Treatment for Severe Bodily Distress Syndromes), Aarhus Research Clinic for Functional Disorders",
+   "category": "psychological/neuroplastic-pain therapy",
+   "ok": true,
+   "corrections": [
+    "Mechanism section: the DanFunD BDS general-population paper (n=1,590) was dated 2025 but is Petersen MW et al., J Psychosom Res 2020;128:109868.",
+    "STreSS-3 (imipramine): checked against the PubMed abstract and added OR 3.3 (95% CI 1.6-6.8), NNT 3.6, and moderate adverse events 49% vs 17%. Flagged that it is a drug trial in the BDS population, not a trial of STreSS CBT.",
+    "STreSS-4 (ACT, Psychol Med 2019): added that only 1 of 18 secondary outcomes favoured extended ACT, which the authors themselves describe as a discrepancy. The md previously called this a plain 'positive RCT'.",
+    "Fjorback 2013: added the full citation (J Psychosom Res 74:31-40). Noted that the authors label it a negative trial (P=.21) and that there was a between-group difference at end of treatment.",
+    "AHEAD 2021: added the full citation (JCPP Adv 1(4):e12047), faster improvement in the ACT arm, and more outside psychological treatment in the control arm.",
+    "Folketing: specified resolution V 82, adopted unanimously on 14 March 2019, and noted that the 2021 regional units still explicitly include CFS.",
+    "Regional units from Nov 2021: confirmed with Aarhus as a provider, but the six-site list could not be verified and was removed. Clarified that the units deliver generic multidisciplinary functional-disorder care, not necessarily STreSS.",
+    "'~45 staff' at the Aarhus department could not be verified and is flagged/removed.",
+    "Founder credentials: Per Fink's 1999 role as head physician and his 2009 clinical professorship are now cited to Lex.dk. Removed the unverified 'psychiatrist' label for Emma Rehfeld from the JSON.",
+    "Insurance recoded from 'yes' to 'sometimes/indirect': care is free only within Denmark's tax-funded system, and there is no insurance pathway elsewhere.",
+    "Added an omitted 2025 network meta-analysis (Psychother Psychosom 94:207-224; 74 RCTs) as generic evidence for CBT and acceptance/mindfulness therapy in bodily distress.",
+    "Trial URLs now point to PubMed records, and the reach estimate is labelled as unverified."
+   ]
+  },
+  {
+   "slug": "internal-family-systems",
+   "name": "Internal Family Systems (IFS)",
+   "category": "trauma/emotion-focused therapy",
+   "ok": true,
+   "corrections": [
+    "Nancy Sowell's credential corrected from MD to LICSW (per the PESI book listing).",
+    "Added that the Center for Self Leadership was renamed the IFS Institute in 2019.",
+    "IFS Online Circle: the US$497 price is unverified (the official page shows no price and the course is closed); CE credits corrected from 19.5 to up to 25.25.",
+    "Training prices now attributed to The Nation (Apr 2025). Added recertification at US$150 every 2 years. Trainers grew from 30 to more than 100.",
+    "Shadick 2013 RA RCT: 'no effect' on anxiety, self-efficacy and disease activity corrected to 'no sustained improvement at 1 year'.",
+    "Haddock 2017: 37 randomised, but only 17 vs 15 analysed; the null between-group result was confirmed.",
+    "Hodgdon 2022 (online 2021): N=17 confirmed; clarified that 92% means 12 of 13 PTSD-diagnosed completers; added dissociation and somatisation outcomes.",
+    "Comeau 2024 PARTS feasibility study: replaced the vague entry with verified details (Psychol Trauma 16(Suppl 3):S636-40, PMID 38934934, N=15, d=-0.7/-0.9) and added it to key_trials.",
+    "Joss 2026 RCT: added NCT05095428 and the arm structure. Between-group PTSD results could not be verified beyond 'both arms improved; no advantage reported'.",
+    "Ally 2025: added PARTS-SUD dose, 70% retention and PCL-5 metric.",
+    "Buys 2025 scoping review breakdown (2 RCTs, 5 quasi-experimental, 17 case studies) is from secondary sources only.",
+    "Castlewood/The Cut: removed the unverified author name, exact date and 'Doe v. Riverside Partners' lawsuit name. Rewrote the allegation accurately (Richard Schwartz as consultant/trainer allegedly aware of Mark Schwartz's treatment) and added the IFS Institute's 4 Nov 2025 response.",
+    "Removed the unverified '334 weeks' NYT bestseller figure; Inside Out link reframed as a claim made by IFS promoters.",
+    "Removed 'TMS' and 'somatic symptom disorder' from conditions_claimed (not claimed by the IFS Institute itself; TMS/PPD clinicians borrow IFS).",
+    "NREPP rating details confirmed only from IFS Institute brochures and secondary sources; no primary SAMHSA page was found."
+   ]
+  },
+  {
+   "slug": "physio4fmd-fnd-physiotherapy",
+   "name": "Specialist physiotherapy for functional motor disorder (Physio4FMD / Nielsen protocol)",
+   "category": "physio/pain-education approach",
+   "ok": true,
+   "corrections": [
+    "Phase 3 CGI-I secondary: 59% vs 38% (81/138 vs 39/102), not 39%; OR 2.3 (1.4-3.9) verified from the Lancet Neurol full text",
+    "Removed the unverified 'very much improved 26% vs 14%' claim",
+    "Added that the 89 COVID exclusions were imbalanced (27 intervention vs 62 TAU) and that the authors call several secondaries 'nominal' (no multiplicity correction)",
+    "Replaced the unverified '25-30% of FMD patients suitable' with the feasibility RCT figure (32% of screened patients eligible)",
+    "Manual and workbook (Nielsen & Holt, CC BY 4.0) were posted on figshare in April 2024, not 2023-24",
+    "Softened the unverified claims of adoption at MGH, Johns Hopkins and Mayo, and of 'Physio4FMD' naming at registration in March 2018 (recruitment began Oct 2018)",
+    "Added Tuller's May 2025 letter seeking a correction to Hunter et al. 2025 (CGI-I primary-outcome claim), and Edwards' disclosed shareholding in a private rehab provider",
+    "Added full author lists, the feasibility-trial start date (NCT02275000, 2014) and the HTA DOI. Verified via PubMed/E-utilities: all 5 trial citations, N, effect sizes, cost (GBP 646 vs 272), ICER GBP 4,133/QALY, and Europe PMC counts (268/166/48/592)"
+   ]
+  },
+  {
+   "slug": "wise-anderson-protocol",
+   "name": "Wise-Anderson Protocol / 'A Headache in the Pelvis' (Stanford Protocol)",
+   "category": "physio/pain-education approach",
+   "ok": true,
+   "corrections": [
+    "All 10 listed PubMed citations checked against PubMed. Authors, journals, volumes, pages, sample sizes and main results are correct. Full author lists were added for 2006, 2015 and 2016.",
+    "The wand's FDA status was given as a 2012 'clearance'. It was actually a De Novo grant (DEN100023, 20 Nov 2012; Class II, product code OSD) to NCPPR. Wise is the named inventor, and New Pelvic Pain Technologies is the patent assignee.",
+    "Wise's retirement at end-2024 rests only on a patient-forum notice and is flagged that way. The official site does not mention it, still advertises '2-Day Intensive In-Person Sessions' in 2026, and the podcast was still posting episodes in 2025-26. The 'availability unclear' wording was revised.",
+    "The clinic format history now reads: 6-day historically, 4-day in the 2023-24 schedules, 2-day as of 2026.",
+    "The evidence count was wrong ('6 case series + 1 pilot, N=116-393'). Corrected to 5 uncontrolled outcome series/cohorts, 1 open-label wand pilot (N=157) and 1 cross-sectional mapping study (N=72).",
+    "The developers' 2018 meta-analysis is now noted to pool uncontrolled pre-post studies, including their own 2011 series (largest study, n=116). Its 95% CI was added.",
+    "FitzGerald 2009 now notes 6 centres, 48 recruited and 47 randomized, and p=0.03.",
+    "The 2014 USD 3-4k clinic price is now flagged as a single unverified forum report that is likely out of date. The current format is 2-day.",
+    "Added omitted context: the Cochrane review of non-pharmacological CP/CPPS treatments (Franco 2018, CD012551, PMID 29757454) rated the evidence as mostly low certainty.",
+    "Removed unsupported roots (autogenic training/Relaxation Response, gate control/neuromatrix) and unsupported mechanisms (central sensitization, 'pain gating'). Added myofascial/peripheral tissue as a mechanism.",
+    "Mainstream adoption is 'moderate' only at the component level (generic myofascial PT). For the branded protocol it is limited.",
+    "Translations are now listed by language (9). The ~500 Amazon reviews figure is noted as the site's own claim."
+   ]
+  },
+  {
+   "slug": "eno-breathe",
+   "name": "ENO Breathe (English National Opera / Imperial College)",
+   "category": "somatic/movement practice",
+   "ok": true,
+   "corrections": [
+    "Checked both ENO Breathe trials against PubMed, and both match on authors, journal, volume, pages, DOI and N. PubMed lists only one other ENO Breathe item, the Brunjes JRSM 2021 commentary, so no trials were omitted.",
+    "Added p=0.0026 for the RCT's running-breathlessness result. Added its 158 randomised / 150 analysed (74 vs 76) split, the declared ENO-staff conflicts of interest and the accompanying Lancet Respir Med Comment (2022;10:815-816).",
+    "Added the cohort study's VAS results for walking, stairs and running, the at-rest p-value (0.24) and the declared conflicts (ENO staff plus an ENO trustee). The 2026 press release cites 1,438 participants, but the paper analysed 1,413.",
+    "Attributed the MCID of about 3 to the 2026 paper, because the RCT paper does not state one.",
+    "Founders: Jenny Mollica is now described as Director at founding. Added Beth Warnock as Director of ENO Engage by 2026. Launch dated to September 2020, per the ENO press release.",
+    "Softened the unverified claim of 'no NHS funding' to: not NHS-commissioned, with NHS funding of delivery unverified.",
+    "Removed the unverified claim that about 1,000 patients were funded in 2022. Added ENO's Bloomberg-page figure of more than 4,400 people helped. Flagged the 2021 figure of about 300 as not independently verified.",
+    "Changed survey percentages to the May 2026 press-release figures: 80% breathlessness, 73% anxiety, 80% wellbeing, 87% positive impact.",
+    "Downgraded mainstream adoption from substantial to moderate: the programme is UK-only, philanthropically funded, not commissioned and not in NICE guidance.",
+    "Removed 'Hindu yoga/pranayama' from roots, because the programme does not cite it; the md now calls it an analogy. Removed 'general stress/wellbeing' from conditions claimed.",
+    "Noted that the Brunjes commentary is by an ENO-affiliated author.",
+    "Confirmed the RPS Impact Award (1 Nov 2021) and the Big Give total of GBP 41,093 against a GBP 30,000 target."
+   ]
+  },
+  {
+   "slug": "fibroguide-painguide",
+   "name": "FibroGuide / PainGuide (University of Michigan Chronic Pain and Fatigue Research Center)",
+   "category": "digital app/platform",
+   "ok": true,
+   "corrections": [
+    "Added BEST registry-posted primary results, previously omitted. Adjusted 24-week PEG: the ESC/PainGuide arm scored 4.72 (95% CI 4.30-5.14, n=205), against ACT 4.16, duloxetine 3.86 and exercise/manual therapy 3.57. PainGuide self-care was numerically the weakest arm. These data are unpublished and not peer-reviewed. BEST is now listed as a key trial.",
+    "Added developer conflicts of interest disclosed in Hassett 2026. Williams and Hassett receive royalties from Tonix Pharmaceuticals for a digital pain self-management tool. Williams consults for Swing Therapeutics. Clauw consults for several pharma and digital-therapeutics firms.",
+    "Removed the DoD grant number (DAMD17-00-2-0018) because it could not be verified. NIAMS R01-AR050044 is verified in PubMed, and DoD sponsorship of the 2010 trial is confirmed in the paper.",
+    "BEST enrollment: the registry gives 1,014 enrolled and the papers give 1,019. 805 randomized is confirmed. The 2025 design paper confirms the ESC modules are labelled 'PainGuide'.",
+    "PRISM-CBT (Hassett 2026): stated that the primary endpoint was null (0.20 points, p=.94). Corrected BPI interference to 0.88 points at 8 weeks and 6 months and 1.42 at 12 months. Added the registration number (NCT03304613). Clarified that FibroGuide modules are confirmed as the platform.",
+    "Tailored PainGuide RCT: changed '~550' to 'target 550'. Noted that it compares tailored with standard PainGuide, so there is no non-PainGuide control. Primary completion is Feb 2028.",
+    "Williams 2010: added the rural South Dakota (Avera) setting and the 'WEB-SM' name used in the paper. PGIC is available for 68 of 118. Added function responders 31% vs 6%.",
+    "Conditions claimed: removed insomnia and general stress/wellbeing, which are self-care modules rather than claimed conditions. Added lipedema and pediatric/geriatric pain, both verified on the site.",
+    "Softened Clauw's quoted remark that the developers 'earn nothing' to 'reported, unverified'. Changed the 'Daoist qigong/tai chi' root to TCM acupressure, which matches what the content actually includes.",
+    "Corrected Henry 2018 figures to 62.9% of 35 PGIC respondents, with 45 analysed. Clarified that 'all controlled trials' were developer-run."
+   ]
+  },
+  {
+   "slug": "dare-claire-weekes-method",
+   "name": "DARE (Barry McDonagh) and the Claire Weekes method",
+   "category": "influencer/author method",
+   "ok": true,
+   "corrections": [
+    "Panic Away date changed from 2001 to c. 2001-2004. Goodreads lists first publication by BMD Publishing as April 2004; 2001 could not be verified.",
+    "Weekes sales: the Australian Dictionary of Biography says Self Help for Your Nerves sold 400,000+ copies by 1978. Wikipedia's 300k+ figure is kept as an alternative.",
+    "Added Weekes credentials from the ADB: BSc 1926, DSc 1930 (reptile placentation), MB 1945, MBE December 1978.",
+    "The 'David Barlow credited her' claim was overstated. Barlow's praise is in promotional blurbs for Hoare's biography. The ADAA 'grandmother of CBT' label comes from Elizabeth DuPont Spencer's ADAA blog. Robert DuPont credited Weekes's books as the inspiration for his panic treatment. Added that the ADAA lists a Weekes-based (WeekesWay) support group.",
+    "Removed or softened the unverified claim that Weekes addressed the American Psychiatric Association. The 1978 Am J Psychother paper is now described as a 1977 conference presentation.",
+    "Removed the unverified 'Te Whatu Ora-supported' description of Healthify. Named the reviewer: Kris Garstang, clinical psychologist, June 2022, reviewing the free Android app v6.16.6.",
+    "The 'evidence-based' claim comes from the App Store listing; the website says 'based on science and years of experience'. Added the listing's ORCHA approval claim, marked as unverified.",
+    "Added coach details: Michelle Cavanaugh, LCSW ($90/$180), and Aida Beco ($85/$170), who calls herself a licensed therapist and also a state-certified alternative health practitioner and hypnotherapist.",
+    "App version updated from 17.x to 21.3.0 (October 2026).",
+    "All 3 listed studies verified via PubMed and the WashU repository: BMJ 1973 PMID 4712489, Am J Psychother 1978 PMID 29502, Grossman 2023 dissertation (N=10). N for BMJ 1973 is still unavailable because the full text could not be accessed. No controlled trials of DARE or the Weekes method were found.",
+    "Added the ADB critique that her methods were 'more highly regarded by her patients than by her colleagues', and that Weekes never ran a controlled trial."
+   ]
+  },
+  {
+   "slug": "interdisciplinary-pain-rehabilitation-mayo",
+   "name": "Interdisciplinary pain rehabilitation / functional restoration (Mayo Clinic Pain Rehabilitation Center and similar)",
+   "category": "physio/pain-education approach",
+   "ok": true,
+   "corrections": [
+    "All 20 cited PubMed IDs checked against PubMed: authors, years, journals, N and results confirmed. Added details: Townsend 2008 had 70% 6-month follow-up; Bruce 2016 ages 11-18; Hechler 2014 anxiety, like pain, improved only by short-term follow-up; Kamper vs-physical pain CI crosses 0; Crisostomo n=383 retrospective; Bruce 2017 CJP n=171.",
+    "Hechler 2015 Pediatrics systematic review (1 RCT + 9 non-randomized) added to key_trials.",
+    "CARF program counts corrected: '67 (2017)' could not be verified and was replaced with ~54 (2022, CARF/VA slide). The 210 baseline is dated 1988 in one source and 1998 in others (another source says 205 in 1998). The '>1000 US clinics' Schatman figure is flagged as unverified.",
+    "VA growth from 2 to 20 programs (2009-2019) attributed to Murphy et al., Pain Med 2021 (verified).",
+    "Medicare coverage softened to patient-reported; the 2017 KFF/NPR claims ($40k, >300 patients/yr, >80% completion, Gilliam as clinical director, insurer denials) were verified.",
+    "conditions_claimed now matches Mayo's own condition pages (central sensitivity syndromes, chronic fatigue, nonepileptic spells, POTS, headache, CRPS, fibromyalgia, abdominal pain). Removed claims Mayo does not make: pelvic pain/endometriosis/IC, somatic symptom disorder, addiction, insomnia, and stand-alone depression/anxiety.",
+    "Pediatric program is now described by Mayo as 17 days, ages 13-22; adult 3-week program runs at all three campuses.",
+    "Psychology Today source returns 404 and is flagged. Added PMC8599775 and Mayo conditions-treated pages as sources.",
+    "Reach of log10 6 is labeled a rough, unverified extrapolation; cost_usd_typical 30000 is labeled an estimate (the only verified figure is 'up to $40,000')."
+   ]
+  },
+  {
+   "slug": "center-for-mind-body-medicine",
+   "name": "The Center for Mind-Body Medicine (CMBM) model",
+   "category": "contemplative/meditation program",
+   "ok": true,
+   "corrections": [
+    "Removed unverified '2001 letter from academic psychologists' and the 'Gorski' attribution; the criticism is a multi-part Quackwatch/NCAHF series (Barrett, Curry, Sampson and others)",
+    "Rajneesh 1973-85 dates now attributed to Quackwatch; noted Gordon wrote The Golden Guru (1987) and reportedly denied being a disciple",
+    "Aligned the md evidence verdict ('pilot or single RCT') with the JSON: two small developer-run RCTs, so 'multiple RCTs', flagged as weak",
+    "Added registered Gaza RCTs NCT01595477 (n=114) and NCT01595490 (n=121, 2012) with no published results located (possible publication gap)",
+    "Gaza 2011 PTSD-caseness claim: CMBM gives 89% on its website and 91% in its 2022 summary; discrepancy noted; N could not be verified (left null)",
+    "Added CMBM's '82% reduction' marketing of the Kosovo RCT; Traumatology citation completed as 22(3):155-64",
+    "Kosovo and VA adoption flagged as CMBM self-report (600+ Kosovar trainees; 200 Whole Health coaches and 150 leaders in VISN 8 in 2019, verified on the CMBM page)",
+    "Veterans RCT: added 'no difference in posttraumatic growth'; prison study authors and 38/31 completers specified",
+    "Verified (no change needed): founding 1991; price USD 1,475 / 1,275 early-bird for 4-day online training Oct 2026; 8,000+ trainees from 50+ countries; FY2024 revenue USD 5.79M; CGI 2024 commitment of >500k people (USD 6M); all PMIDs and Ns; Wasson JAMA 2016 count of 7 mind-body skills programs among 28 studies, evidence quality low"
+   ]
+  }
+ ],
+ "excluded": [
+  {
+   "name": "Sanjay Gupta (CNN) 'It Doesn't Have to Hurt' (2025 book)",
+   "reason": "Not a program. It is a general guide to non-opioid pain care. The user probably meant Ashok Gupta (Gupta Program), and the confusion is noted in that entry."
+  },
+  {
+   "name": "Pain Psychology Center (Alan Gordon)",
+   "reason": "Duplicate: merged into pain-reprocessing-therapy."
+  },
+  {
+   "name": "TMS Wiki / PPD-TMS Peer Network (Structured Educational Program)",
+   "reason": "Duplicate: merged into sarno-method."
+  },
+  {
+   "name": "Stress Illness / They Can't Find Anything Wrong! (David Clarke)",
+   "reason": "Duplicate: merged into atns-neuroplastic-symptoms-association."
+  },
+  {
+   "name": "MindBody Medicine / MindBody Workbook (David Schechter)",
+   "reason": "Low prominence; Sarno-lineage overlap."
+  },
+  {
+   "name": "SIRPA (Georgie Oldfield)",
+   "reason": "Low prominence; regional UK Sarno-lineage hub. Could be mentioned under sarno-method."
+  },
+  {
+   "name": "The Mind-Body Couple / Pain Psychotherapy Canada (Tanner Murtagh)",
+   "reason": "Low prominence; a clinic delivering PRT and ISTDP."
+  },
+  {
+   "name": "Cormendi Health / John Stracks",
+   "reason": "Low prominence."
+  },
+  {
+   "name": "The Better Mind Center (Christie Uipi)",
+   "reason": "Low prominence; associated with Curable."
+  },
+  {
+   "name": "The Great Pain Deception (Steve Ozanich)",
+   "reason": "Low prominence; individual Sarno-lineage author."
+  },
+  {
+   "name": "Be Your Own Medicine (Rebecca Tolin)",
+   "reason": "Low prominence; no verified website."
+  },
+  {
+   "name": "The Pain Management Workbook (Rachel Zoffness)",
+   "reason": "A book rather than a branded program; overlaps CBT-CP and PNE."
+  },
+  {
+   "name": "Tame the Beast; Pain Revolution; Retrain Pain; Flippin' Pain; Why You Hurt (Louw)",
+   "reason": "Merged into explain-pain-pain-neuroscience-education as PNE offshoots."
+  },
+  {
+   "name": "Live Well with Pain (Ten Footsteps)",
+   "reason": "Low prominence outside the NHS; a general self-management resource."
+  },
+  {
+   "name": "Reverse Therapy (John Eaton)",
+   "reason": "Low current prominence; mentioned as a sibling in mickel-therapy."
+  },
+  {
+   "name": "The Switch (Mel Abbott, Empower Therapies)",
+   "reason": "Low, regional (NZ) prominence; no verified official website; LP-derived."
+  },
+  {
+   "name": "The Chrysalis Effect (Elaine Wilkins)",
+   "reason": "Low prominence; site unverifiable (subject of an ASA ruling)."
+  },
+  {
+   "name": "Recovery Norge / Recovery Norway",
+   "reason": "Not a program: a patient network. Discussed within lightning-process."
+  },
+  {
+   "name": "Nervous System Recovery Programme (Phil Western)",
+   "reason": "Low prominence."
+  },
+  {
+   "name": "Nervous System School (Jessica Maguire)",
+   "reason": "Overlaps irene-lyon and polyvagal entries; mentioned as a comparator."
+  },
+  {
+   "name": "Neuroplastic Transformation / Neuroplastix (Moskowitz and Golden)",
+   "reason": "Low prominence; no trials."
+  },
+  {
+   "name": "Menda Health",
+   "reason": "Low prominence; a virtual clinic delivering PRT/CBT, similar to Lin Health."
+  },
+  {
+   "name": "Mahana IBS (Parallel)",
+   "reason": "Discontinued as a standalone product; absorbed into Nerva."
+  },
+  {
+   "name": "Regulora (metaMe Health)",
+   "reason": "Merged into gut-directed-hypnotherapy."
+  },
+  {
+   "name": "Zemedy (Bold Health)",
+   "reason": "Appears discontinued (domain redirects elsewhere)."
+  },
+  {
+   "name": "Cara Care",
+   "reason": "German DiGA mainly for diet and multimodal IBS care; less brain-body specific; IBS is already covered by Nerva and gut-directed hypnotherapy."
+  },
+  {
+   "name": "Stanza (Swing Therapeutics)",
+   "reason": "Merged as a note into act-for-chronic-pain."
+  },
+  {
+   "name": "RelieVRx (AppliedVR)",
+   "reason": "Merged as a note into mindspot-pain-course (digital CBT formats)."
+  },
+  {
+   "name": "Hinge Health; Sword Health; Kaia Health",
+   "reason": "Off-topic: primarily exercise/physiotherapy digital MSK programs without a central brain-body rationale."
+  },
+  {
+   "name": "Wysa (chronic pain)",
+   "reason": "A general mental-health chatbot; pain is a secondary indication."
+  },
+  {
+   "name": "Freespira",
+   "reason": "Low prominence; panic/PTSD-specific respiratory biofeedback."
+  },
+  {
+   "name": "Flowly",
+   "reason": "Low prominence."
+  },
+  {
+   "name": "Healthy Minds Program; Insight Timer; Calm",
+   "reason": "Merged into meditation-apps-headspace-calm."
+  },
+  {
+   "name": "Muse; Myndlift; Mendi",
+   "reason": "Merged into neurofeedback."
+  },
+  {
+   "name": "Visible (pacing app)",
+   "reason": "Off-topic: a physiological pacing tracker with no mind-body mechanism claims. Could be cited as a contrast case."
+  },
+  {
+   "name": "Bearable",
+   "reason": "Off-topic: a symptom tracker, not a treatment."
+  },
+  {
+   "name": "Big Health (DaylightRx / SleepioRx)",
+   "reason": "Off-topic: anxiety and insomnia digital CBT, not chronic-illness brain-body programs."
+  },
+  {
+   "name": "Rejoyn",
+   "reason": "Off-topic: a depression digital therapeutic peripheral to scope."
+  },
+  {
+   "name": "Sensorimotor Psychotherapy; NARM; Hakomi; Somatic Practice (Kathy Kain); The Embody Lab; Body-Mind Centering",
+   "reason": "General trauma/somatic psychotherapies or trainings with little chronic-illness-specific prominence; Somatic Experiencing represents this family."
+  },
+  {
+   "name": "Rhythm of Regulation (Deb Dana); Stanley Rosenberg vagus exercises",
+   "reason": "Merged into polyvagal-theory-informed-therapy."
+  },
+  {
+   "name": "Somatic Movement Center (Sarah Warren); Essential Somatics (Martha Peterson)",
+   "reason": "Merged into hanna-somatics."
+  },
+  {
+   "name": "Trauma Research Foundation / The Body Keeps the Score (van der Kolk)",
+   "reason": "An influential book/framework rather than a distinct program; its components (EMDR, yoga, neurofeedback, SE) have their own entries."
+  },
+  {
+   "name": "Trauma Center Trauma-Sensitive Yoga (TCTSY)",
+   "reason": "Merged into yoga-therapy as a variant."
+  },
+  {
+   "name": "Huberman Lab protocols (physiological sigh, NSDR)",
+   "reason": "Podcast protocols, not a program; mentioned under irest-yoga-nidra."
+  },
+  {
+   "name": "Buteyko Method; Oxygen Advantage (Patrick McKeown)",
+   "reason": "Breathing retraining mainly for asthma and sleep; marginal to scope; mentioned as a contrast in wim-hof-method."
+  },
+  {
+   "name": "Autogenic Training",
+   "reason": "Mentioned as a relative under relaxation-response-benson-henry; less prominent in the current chronic-illness discourse."
+  },
+  {
+   "name": "Mindful Self-Compassion (Neff and Germer)",
+   "reason": "Not targeted at chronic illness; the mindfulness family is covered by MBSR, MBCT, Breathworks and MORE."
+  },
+  {
+   "name": "Rick Hanson programs (Neurodharma, Hardwiring Happiness)",
+   "reason": "Low prominence for these conditions; general well-being focus."
+  },
+  {
+   "name": "Spring Forest Qigong",
+   "reason": "Merged into tai-chi-qigong."
+  },
+  {
+   "name": "MELT Method; Gokhale Method; Egoscue Method",
+   "reason": "Low prominence and primarily biomechanical or fascial rather than brain-body."
+  },
+  {
+   "name": "Truvaga; Pulsetto; Nurosym/Parasym; Xen by Neuvana; Apollo Neuro; Sensate",
+   "reason": "Merged into non-invasive-vagus-nerve-stimulation."
+  },
+  {
+   "name": "Cefaly; Quell; Relivion / Proliv Rx",
+   "reason": "Merged into wearable-neuromodulation-pain-migraine."
+  },
+  {
+   "name": "Alpha-Stim; Fisher Wallace",
+   "reason": "Merged into transcranial-electrical-stimulation-tdcs-ces."
+  },
+  {
+   "name": "BrainsWay; SAINT (Magnus Medical)",
+   "reason": "Merged into transcranial-magnetic-stimulation."
+  },
+  {
+   "name": "Othmer ILF; NeurOptimal; BrainMaster/LORETA",
+   "reason": "Merged into neurofeedback."
+  },
+  {
+   "name": "Vielight photobiomodulation; Frequency Specific Microcurrent; Modius vestibular stimulation; BrainTap",
+   "reason": "Low prominence and/or peripheral mechanism claims."
+  }
+ ],
+ "gap_rationale": "I searched brain-retraining and long-COVID/ME program listings, Reddit and podcast mentions, and trial registries, and checked candidates against the reviewed and excluded lists. The main gaps are not more commercial courses, since the main ones are covered and newer ones such as Emptying the Bucket, Suzy Bolt and Healing Space are low-prominence or already excluded. The gaps are mainstream or academic programs a scholarly survey would be expected to cover, and that the commercial programs define themselves against.\n(1) CBT/GET for CFS (PACE), the historical guideline-endorsed precursor and center of the controversy.\n(2) Aarhus STreSS / bodily distress syndrome, the clearest academic 'one mechanism across all functional syndromes' program.\n(3) IFS, highly prominent in current mind-body pain communities.\n(4) Physio4FMD, the mainstream FND rehabilitation protocol with a 2024 Lancet Neurology RCT.\n(5) Wise-Anderson Protocol, the main named program for pelvic pain, which otherwise has no coverage.\n(6) ENO Breathe, an NHS-adopted long-COVID mind-body RCT.\n(7) FibroGuide/PainGuide, from the Clauw group behind the nociplastic/centralized-pain construct.\n(8) DARE / Claire Weekes, a root of brain-retraining and a popular anxiety app.\n(9) Mayo-style interdisciplinary pain rehabilitation, the insurance-reimbursed mainstream comparator with Fordyce roots.\n(10) The Center for Mind-Body Medicine, a long-standing program in the same spirit.\nConsidered but not added: Brainspotting, Havening, the Perrin Technique, myofascial release (John Barnes), Neuro Emotional Technique, chiropractic functional neurology, psychedelic/ketamine therapy, and hypnosis for pain (Jensen). They were left out for lower prominence, mechanisms outside scope, or overlap with existing entries.\nSome URLs need verification: the PACE page, pelvicpainhelp.com, the ENO Breathe page, painguide.com and the Mayo page.",
+ "logs": [
+  "Discovery: 219 raw candidates from 7 sweeps",
+  "Curated 64 programs; excluded 56",
+  "Usage limit reached \u00b7 resets at 3pm (America/New_York). Workflow paused; waiting agents re-run shortly after the reset.",
+  "Usage limit reset. Re-running 1 waiting agent.",
+  "Researched+verified 64/64",
+  "Gap check added 10: CBT and Graded Exercise Therapy for CFS/ME (PACE-trial model; KCL/Chalder and Nijmegen/Knoop CBT for fatigue), STreSS (Specialised Treatment for Severe Bodily Distress Syndromes), Aarhus Research Clinic for Functional Disorders, Internal Family Systems (IFS), Specialist physiotherapy for functional motor disorder (Physio4FMD / Nielsen protocol), Wise-Anderson Protocol / 'A Headache in the Pelvis' (Stanford Protocol), ENO Breathe (English National Opera / Imperial College), FibroGuide / PainGuide (University of Michigan Chronic Pain and Fatigue Research Center), DARE (Barry McDonagh) and the Claire Weekes method, Interdisciplinary pain rehabilitation / functional restoration (Mayo Clinic Pain Rehabilitation Center and similar), The Center for Mind-Body Medicine (CMBM) model"
+ ]
+}

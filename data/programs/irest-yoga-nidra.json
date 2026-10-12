@@ -1,0 +1,326 @@
+{
+  "slug": "irest-yoga-nidra",
+  "name": "iRest Yoga Nidra (Integrative Restoration)",
+  "url": "https://www.irest.org/",
+  "founders": [
+    "Richard C. Miller, PhD (clinical psychologist; co-founder of IAYT)"
+  ],
+  "founded_year": 2006,
+  "founded_year_range": "2005-2006. Basis: the Walter Reed/Samueli Institute yoga nidra PTSD feasibility study (NCT00269490) started Dec 2005 (registry completion Aug 2007, 7 enrolled); the IRS ruling for the Integrative Restoration Institute nonprofit is dated Dec 2006; the earliest irest.us web capture is 2009. Miller's yoga nidra teaching is older (1970s–80s).",
+  "category": "contemplative/meditation program",
+  "delivery": [
+    "guided audio",
+    "group classes (in-person/online)",
+    "clinician-delivered (VA/DoD, pain clinics)",
+    "1:1 sessions with certified teachers",
+    "retreat",
+    "book",
+    "online course",
+    "teacher training/certification"
+  ],
+  "business_model": "freemium/hybrid",
+  "cost_summary": "Nonprofit (501c3). Free intro course and free 5–20 min audios. Paid audio sets cost $29.95–49.99, the Daily Meditation Companion $34.95, and online courses $120–399. Teacher pathway: Level 1 $1,395–2,190 (list $1,695), Level 2 ~$1,795 (not re-verified), Certification $1,900 plus retreats. Prices as of Oct 2026. Free to patients in VA/DoD classes.",
+  "cost_usd_typical": 50,
+  "conditions_claimed": [
+    "PTSD/trauma",
+    "chronic pain (general)",
+    "insomnia",
+    "anxiety",
+    "depression",
+    "general stress/wellbeing"
+  ],
+  "conditions_primary": [
+    "PTSD/trauma",
+    "chronic pain (general)",
+    "insomnia",
+    "general stress/wellbeing"
+  ],
+  "differentiation": "transdiagnostic / not disorder-focused",
+  "mechanisms": [
+    "mind-wandering / reactivity (mindfulness model)",
+    "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")",
+    "attention & interoception / hypervigilance",
+    "polyvagal / vagal tone / safety signalling",
+    "unresolved trauma stored in body"
+  ],
+  "mechanism_summary": "The site gives no explicit disease mechanism and frames iRest as a contemplative, nondual practice. Its implicit model is that suffering comes from reactivity to, and identification with, sensations, emotions and thoughts (\"messengers\"). The practice counters this by welcoming experience without resistance, by dis-identification (\"I am not pain, I have pain\"), and by resting in awareness. A felt \"Inner Resource\" gives trauma-exposed people a sense of safety, and deep relaxation shifts arousal toward parasympathetic, sleep-like states. One 10-step protocol is used for every condition.",
+  "roots": [
+    "Hindu yoga/pranayama",
+    "Buddhist vipassana/insight meditation",
+    "Daoist qigong/tai chi",
+    "autogenic training / Relaxation Response",
+    "Somatic Experiencing / ethology",
+    "Advaita Vedanta / Kashmiri Tantra (nondual)",
+    "Satyananda (Bihar School) yoga nidra",
+    "humanistic/transpersonal psychology"
+  ],
+  "techniques": [
+    "sankalpa / heartfelt desire",
+    "intention setting",
+    "Inner Resource (felt sense of safety)",
+    "body sensing / body scan rotation",
+    "breath awareness and counting",
+    "welcoming emotions and working with opposites",
+    "witnessing thoughts/beliefs",
+    "cultivating joy/wellbeing",
+    "resting in nondual awareness / self-inquiry",
+    "reflection and integration",
+    "daily 20-30 min guided audio home practice",
+    "8-10 week group classes",
+    "co-meditation dyads",
+    "pranayama"
+  ],
+  "mainstream_adoption": "moderate",
+  "mainstream_notes": "Grew out of a Walter Reed Army Medical Center/Samueli Institute PTSD feasibility study that began in Dec 2005. The institute's site says the US Army Surgeon General and the Defense Centers of Excellence recognized iRest as a 'complementary program' for pain and PTSD, but it cites no documentation and this was not verified. iRest is offered in many VA facilities, including Whole Health, Vet Centers and the DC VA Integrative Health & Wellness Program, where it was the third most-used service (Hull 2015). It is also used in Australian, Canadian and UK settings, hospital pain units (Barwon Health, Australia), hospices and prisons. NICE and VA/DoD PTSD guidelines do not name it as a recommended treatment.",
+  "insurance": "sometimes/indirect",
+  "insurance_notes": "No dedicated billing code. Free to veterans and service members in VA/DoD settings, where meditation is a VHA-approved CIH modality under Directive 1137. Licensed clinicians may build it into psychotherapy billed under standard codes. Otherwise self-pay.",
+  "evidence_level": "multiple RCTs",
+  "key_trials": [
+    {
+      "citation": "Nassif TH et al. Military Behavioral Health 2016;4(1):82-89 (online 2015). doi:10.1080/21635781.2015.1119772",
+      "design": "Pilot RCT, iRest (n=4) vs treatment as usual (n=5), 8 weeks, veterans with moderate TBI and chronic pain",
+      "n": 9,
+      "finding": "In the iRest arm, pain intensity fell 23-42% (g 0.37-0.61) and pain interference fell 34-41% (g 0.92-1.13) on most measures. These are within-group changes, not significant between-group tests, and the trial is very underpowered.",
+      "url": "https://doi.org/10.1080/21635781.2015.1119772"
+    },
+    {
+      "citation": "Gutman SA et al. OTJR 2017;37(1):5-13 (PMID 27760887)",
+      "design": "3-arm RCT: iRest + sleep hygiene (n=9) vs Dreampad pillow (n=10) vs sleep hygiene (n=10), 2 weeks",
+      "n": 29,
+      "finding": "iRest increased total sleep time vs both comparators (d~1.8). Dreampad produced fewer awakenings than iRest. No differences in sleep quality, latency or next-day fatigue. Miller is a co-author.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27760887/"
+    },
+    {
+      "citation": "Wahbeh H, Nelson M. Int J Yoga Therap 2019;29:9-17 (PMID 30354905); Wahbeh H, Fry N. 2019;29:51-56 (PMID 30664388)",
+      "design": "Pilot RCT: 2-day iRest retreat + 6 weeks of home practice vs a vacation/music control, older adults with depressive symptoms, with 6- and 12-month follow-up (n=25)",
+      "n": 30,
+      "finding": "Feasible. Sleep impairment improved vs control at 6 weeks, with only trends for depression and pain. At 12 months both groups had improved, with no between-group difference in depression. Stress and negative mood favored the control.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30354905/"
+    },
+    {
+      "citation": "Breneman CB et al. Glob Adv Integr Med Health 2023;12:27536130231171854 (PMID 37151571; NCT02180243)",
+      "design": "RCT (2016-2021), 'mindfulness meditation' (iRest Yoga Nidra per registry) + auricular acupuncture (n=75) vs Gulf War health education (n=74), 8 weeks, Gulf War Illness",
+      "n": 149,
+      "finding": "ITT improvements vs control in mental-health functioning, fatigue, depression and Kansas GWI severity at endpoint. The iRest effect cannot be separated from acupuncture.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37151571/"
+    },
+    {
+      "citation": "Pence PG et al. Int J Yoga Therap 2014;24:53-62 (PMID 25858651)",
+      "design": "Uncontrolled pilot, 19 x 90-min sessions over 10 weeks, women with sexual trauma/MST at a VA",
+      "n": 15,
+      "finding": "Among 10 completers: PTSD (PCL) d=0.66, depression d=0.64, self-blame d=0.52.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25858651/"
+    },
+    {
+      "citation": "Stankovic L. Int J Yoga Therap 2011;21:23-37 (PMID 22398342)",
+      "design": "Qualitative feasibility study, 8 weeks, combat veterans with PTSD",
+      "n": 16,
+      "finding": "Completers reported less rage, anxiety and reactivity, and more relaxation and self-efficacy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22398342/"
+    },
+    {
+      "citation": "Eastman-Mueller H et al. Int J Yoga Therap 2013;23:15-24 (PMID 24165520)",
+      "design": "Uncontrolled pre-post, 8 weeks, college students",
+      "n": 66,
+      "finding": "Reduced perceived stress, worry and depression; increased mindfulness.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24165520/"
+    },
+    {
+      "citation": "Livingston E, Collette-Merrill K. Holist Nurs Pract 2018;32:160-166 (PMID 29642130)",
+      "design": "Uncontrolled pre-post, 8 weeks, health-care workers",
+      "n": 15,
+      "finding": "Mindfulness improved; no significant change in sleepiness or pain.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29642130/"
+    },
+    {
+      "citation": "Barber M et al. Complement Ther Clin Pract 2025;59:101955 (PMID 39862599)",
+      "design": "Qualitative pilot of a 6-week iRest for Pain group in a hospital pain unit (Barwon Health)",
+      "n": null,
+      "finding": "Themes of relaxation, dis-identification from pain, self-efficacy and motivation to reduce opioids. Co-authors include Miller and Lopez of the iRest Institute, yet the paper declares no competing interests.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39862599/"
+    },
+    {
+      "citation": "Martin K et al. Psychiatr Q 2026 (PMID 41663818)",
+      "design": "Observational component analysis, inpatient PTSD/SUD program (EHN Guardians Gateway, Canada)",
+      "n": 345,
+      "finding": "Of the optional components, only integrative restoration (iRest) participation was associated with additional improvement in depression. The study was non-randomized and the authors are employees or consultants of the program.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41663818/"
+    },
+    {
+      "citation": "Ghai S et al. Ann N Y Acad Sci 2026;1556:e70149 (PMID 41327816). Generic yoga nidra, not iRest-specific",
+      "design": "Systematic review/meta-analysis of 73 studies",
+      "n": 5201,
+      "finding": "Large pooled effects on stress, anxiety and depression, but low methodological quality and likely inflated estimates. A companion pain meta-analysis (Ghai 2025 Complement Med Res, PMID 41187098) found no significant effect vs active comparators.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41327816/"
+    }
+  ],
+  "controversy": "No major public controversy; the criticism concerns evidence quality. The site says effectiveness has been 'shown in scientific trials' and cites 35+ studies, but the peer-reviewed literature on the branded protocol is small and mostly uncontrolled, and the developers co-authored part of it (one such paper declared no competing interests). The only long-term RCT follow-up found no advantage over a vacation control. The military endorsement claims on the site are unsourced. Its nondual/spiritual 'awakening' framing sits alongside its clinical claims.",
+  "popularity": {
+    "indicators": [
+      {
+        "metric": "Certified iRest teachers worldwide",
+        "value": "500+",
+        "source": "shop.irest.org/pages/about-certification",
+        "year": 2026
+      },
+      {
+        "metric": "Nonprofit total revenue (IRS 990)",
+        "value": "$0.49M",
+        "source": "ProPublica Nonprofit Explorer EIN 20-4607268",
+        "year": 2011
+      },
+      {
+        "metric": "Nonprofit total revenue (IRS 990)",
+        "value": "$1.54M (peak)",
+        "source": "ProPublica Nonprofit Explorer",
+        "year": 2020
+      },
+      {
+        "metric": "Nonprofit total revenue (IRS 990)",
+        "value": "$0.99M",
+        "source": "ProPublica Nonprofit Explorer",
+        "year": 2023
+      },
+      {
+        "metric": "Nonprofit total revenue (IRS 990)",
+        "value": "$0.78M",
+        "source": "ProPublica Nonprofit Explorer",
+        "year": 2024
+      },
+      {
+        "metric": "VA Integrative Health & Wellness Program first-year enrollment (iRest the 3rd most-used service)",
+        "value": "325 veterans enrolled",
+        "source": "Hull et al. 2015 Altern Ther Health Med (PMID 26567446)",
+        "year": 2015
+      },
+      {
+        "metric": "Peer-reviewed iRest-specific publications on PubMed/DOI",
+        "value": "~12",
+        "source": "PubMed search iRest[tiab] OR 'integrative restoration'[tiab], filtered manually",
+        "year": 2026
+      },
+      {
+        "metric": "Books by founder",
+        "value": "4 (incl. Sounds True 2005/2010, New Harbinger 2015)",
+        "source": "irest.org Miller bio",
+        "year": 2015
+      }
+    ],
+    "reach_estimate": "About 10^5 to 10^6 people cumulatively. Basis: 500+ certified teachers and probably several thousand Level 1 trainees, each teaching groups over years; many VA facility classes; free audios and books; Australian/Canadian use. Audiences for generic 'yoga nidra'/NSDR (millions) are excluded because that material is not iRest-branded.",
+    "reach_log10": 5.5,
+    "trajectory": [
+      {
+        "year": 2005,
+        "relative_activity": 1
+      },
+      {
+        "year": 2006,
+        "relative_activity": 2
+      },
+      {
+        "year": 2008,
+        "relative_activity": 3
+      },
+      {
+        "year": 2010,
+        "relative_activity": 4
+      },
+      {
+        "year": 2011,
+        "relative_activity": 5
+      },
+      {
+        "year": 2012,
+        "relative_activity": 5
+      },
+      {
+        "year": 2013,
+        "relative_activity": 6
+      },
+      {
+        "year": 2014,
+        "relative_activity": 6
+      },
+      {
+        "year": 2015,
+        "relative_activity": 7
+      },
+      {
+        "year": 2016,
+        "relative_activity": 7
+      },
+      {
+        "year": 2017,
+        "relative_activity": 8
+      },
+      {
+        "year": 2018,
+        "relative_activity": 8
+      },
+      {
+        "year": 2019,
+        "relative_activity": 9
+      },
+      {
+        "year": 2020,
+        "relative_activity": 9
+      },
+      {
+        "year": 2021,
+        "relative_activity": 8
+      },
+      {
+        "year": 2022,
+        "relative_activity": 8
+      },
+      {
+        "year": 2023,
+        "relative_activity": 7
+      },
+      {
+        "year": 2024,
+        "relative_activity": 6
+      },
+      {
+        "year": 2025,
+        "relative_activity": 6
+      },
+      {
+        "year": 2026,
+        "relative_activity": 6
+      }
+    ],
+    "method_notes": "The trajectory is anchored mainly on the Integrative Restoration Institute's IRS 990 revenue, verified on ProPublica. No data exist for 2006–2010. Revenue was $0.49M (2011), $0.73–0.89M (2012–2015), $1.08–1.21M (2016–2018) and $1.49–1.54M (2019–2020, the peak), then $1.24M, $1.40M, $0.99M and $0.78M (2021–2024). Milestones: Walter Reed study 2005–07, website 2009, Sounds True book 2010, first peer-reviewed papers 2011–2015, PTSD book 2015, VHA Directive 1137 in 2017, move online in 2020. Google Trends, Reddit and YouTube metrics were not quantified. The post-2021 NSDR boom in generic 'yoga nidra' probably helped iRest only partly, since its revenue declined through 2024. Pre-2011 values are interpolated."
+  },
+  "sources": [
+    "https://shop.irest.org/",
+    "https://shop.irest.org/pages/about-irest",
+    "https://shop.irest.org/pages/the-10-step-irest-protocol",
+    "https://shop.irest.org/pages/richard-c-miller",
+    "https://shop.irest.org/pages/yoga-nidra",
+    "https://shop.irest.org/pages/chronic-pain",
+    "https://shop.irest.org/pages/about-certification",
+    "https://shop.irest.org/collections/level-1-training",
+    "https://shop.irest.org/collections/catalog",
+    "https://shop.irest.org/blogs/research",
+    "https://projects.propublica.org/nonprofits/organizations/204607268",
+    "https://clinicaltrials.gov/study/NCT00269490",
+    "https://clinicaltrials.gov/study/NCT02180243",
+    "https://clinicaltrials.gov/study/NCT06888336",
+    "https://pubmed.ncbi.nlm.nih.gov/22398342/",
+    "https://pubmed.ncbi.nlm.nih.gov/24165520/",
+    "https://pubmed.ncbi.nlm.nih.gov/25858651/",
+    "https://pubmed.ncbi.nlm.nih.gov/27760887/",
+    "https://pubmed.ncbi.nlm.nih.gov/29642130/",
+    "https://pubmed.ncbi.nlm.nih.gov/30354905/",
+    "https://pubmed.ncbi.nlm.nih.gov/30664388/",
+    "https://pubmed.ncbi.nlm.nih.gov/37151571/",
+    "https://pubmed.ncbi.nlm.nih.gov/39862599/",
+    "https://pubmed.ncbi.nlm.nih.gov/41663818/",
+    "https://pubmed.ncbi.nlm.nih.gov/26567446/",
+    "https://doi.org/10.1080/21635781.2015.1119772",
+    "https://pubmed.ncbi.nlm.nih.gov/41327816/",
+    "https://pubmed.ncbi.nlm.nih.gov/41187098/",
+    "https://pubmed.ncbi.nlm.nih.gov/36731199/"
+  ]
+}

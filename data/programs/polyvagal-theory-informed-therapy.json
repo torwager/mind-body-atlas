@@ -1,0 +1,243 @@
+{
+  "slug": "polyvagal-theory-informed-therapy",
+  "name": "Polyvagal Theory-informed therapy (Polyvagal Institute; Deb Dana's Rhythm of Regulation)",
+  "url": "https://www.polyvagalinstitute.org/",
+  "founders": [
+    "Stephen W. Porges, PhD (theory originator; PVI co-founder)",
+    "Deb Dana, LCSW (Rhythm of Regulation; PVI founding member)",
+    "Stanley Rosenberg (self-help 'Basic Exercise', 2017)"
+  ],
+  "founded_year": 1994,
+  "founded_year_range": "1994 (theory: Porges SPR presidential address; Psychophysiology 1995); clinical translation 2018 (Dana book); Polyvagal Institute ~2020 (501(c)(3), EIN 84-5084757; earliest Wayback snapshot Dec 2020)",
+  "category": "somatic/movement practice",
+  "delivery": [
+    "clinician-delivered",
+    "online course",
+    "book",
+    "clinician training",
+    "group",
+    "self-help exercises"
+  ],
+  "business_model": "mixed",
+  "cost_summary": "PVI Polyvagal Certificate Course: US$2,100, or 3x$700 or 7x$300 (verified 2026-10; about 20 h live plus Practice Pods; no CEs). PVI self-paced course 'PVT for SE Practitioners': reported as $299, but this could not be re-verified because the page returned 404. Embody Lab Polyvagal Trauma Therapy Certificate (60 h; Porges among faculty, Dana not): $977 for members, $1,227 for non-members. Books cost about $15-35. PVI offers a free Learner Login library. Therapy is billed at clinician session rates. Prices for Deb Dana's own trainings are not posted publicly.",
+  "cost_usd_typical": 2100,
+  "conditions_claimed": [
+    "PTSD/trauma",
+    "anxiety",
+    "depression",
+    "general stress/wellbeing",
+    "chronic pain (general)",
+    "fibromyalgia",
+    "IBS/functional GI",
+    "addiction/substance use",
+    "headache/migraine",
+    "autism-related social/auditory difficulties",
+    "dissociation"
+  ],
+  "conditions_primary": [
+    "PTSD/trauma",
+    "anxiety",
+    "depression",
+    "general stress/wellbeing"
+  ],
+  "differentiation": "single unified mechanism",
+  "mechanisms": [
+    "polyvagal / vagal tone / safety signalling",
+    "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")",
+    "unresolved trauma stored in body",
+    "attention & interoception / hypervigilance",
+    "inflammation / immune"
+  ],
+  "mechanism_summary": "The model is a phylogenetically ordered three-tier autonomic hierarchy. The ventral vagal 'social engagement' state supports safety and connection; sympathetic mobilisation (fight/flight) comes next; dorsal vagal immobilisation (shutdown, dissociation, collapse) is last. 'Neuroception' is an unconscious detection of safety or threat; when it is faulty after trauma or chronic threat, it keeps people stuck in defensive states. Co-regulation through face, voice and prosody restores ventral state. Chronic pain, functional GI disorders, fatigue, anxiety and depression are read as expressions of sympathetic- or dorsal-dominant defensive states (e.g., Kolacz & Porges 2018). One transdiagnostic mechanism covers all of them, and conditions differ by state rather than disease.",
+  "roots": [
+    "polyvagal theory",
+    "Somatic Experiencing / ethology",
+    "Selye stress theory",
+    "biofeedback (1960s-70s)",
+    "Hindu yoga/pranayama",
+    "osteopathy/chiropractic",
+    "Buddhist vipassana/insight meditation",
+    "attachment theory",
+    "Hughlings Jackson dissolution / evolutionary neuroanatomy",
+    "Sensorimotor Psychotherapy / IFS"
+  ],
+  "techniques": [
+    "Psychoeducation on the autonomic ladder/hierarchy",
+    "State mapping (personal profile maps of ventral/sympathetic/dorsal states, triggers, resources)",
+    "State tracking / interoceptive noticing",
+    "Glimmers practice (see, stop, appreciate, remember, share)",
+    "Slow breathing with long exhalation",
+    "Voo sounding, humming, singing, prosody work",
+    "Orienting to environment, eye contact, self-touch",
+    "Therapist co-regulation as active ingredient",
+    "Rosenberg Basic Exercise (eye movements with hands behind head until swallow/sigh) and Salamander exercise",
+    "Generic vagal toning: cold water, gargling, HRV biofeedback",
+    "Adjunct filtered-music listening (Safe and Sound Protocol, separate entry)"
+  ],
+  "mainstream_adoption": "moderate",
+  "mainstream_notes": "One of the most widely taught frameworks in trauma-informed psychotherapy, social work, education, OT, yoga therapy and addiction treatment; courses are sold by PESI, Norton, Sounds True and Psychotherapy Networker. No clinical guideline (NICE, APA, VA/DoD) recommends it. Kowalski et al. 2024 (Psychiatr Pol), a review of PTSD psychotherapies, states there is no evidence for the efficacy of methods based on polyvagal theory. Autonomic physiologists contest the theory (39-author critique, 2026).",
+  "insurance": "sometimes/indirect",
+  "insurance_notes": "No specific code. It is reimbursed only when a licensed clinician using a polyvagal lens bills standard psychotherapy codes (e.g., CPT 90834/90837). Trainings, books and coaching are self-pay.",
+  "evidence_level": "pilot or single RCT",
+  "key_trials": [
+    {
+      "citation": "Rizvi MR, Sharma A, Hasan S, Ahmad F, Asad MR, Iqbal A, Alghadir AH. Exploring the impact of integrated polyvagal exercises and knee reinforcement in females with grade II knee osteoarthritis: a randomized controlled trial. Sci Rep 2023;13:18964. PMID 37923783",
+      "design": "Unblinded RCT; knee strengthening vs strengthening plus polyvagal-theory-based exercises (30 per arm); independent of Porges",
+      "n": 60,
+      "finding": "The add-on group had greater improvements in WOMAC pain, stiffness and function, psychological and social QoL, and HF-HRV/LF-HF. There was no attention-matched control.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37923783/"
+    },
+    {
+      "citation": "Dale LP, Dana AN, Lamont H, Nazarloo P, Carter CS, Porges SW, Cuffe SP, Van Vleet Goelz D. Somatic Psychoeducational Intervention is associated with increased oxytocin levels, improved autonomic function, and reduced psychological distress symptoms in medical and social care professionals. Healthcare (Basel) 2025;13(24):3236. PMID 41464305 (NCT05766852, NCT06580119)",
+      "design": "Preliminary study (University of Florida); 3-4 week PVT-grounded intervention; only a subset was randomised (8 vs 7); Porges co-investigator. 'Dana AN' is not Deb Dana.",
+      "n": 39,
+      "finding": "Pre-post increases in salivary oxytocin and reductions in autonomic reactivity and distress, sustained at 1 month. In the randomised subset, only the intervention group improved. Attrition was high, the samples were very small, and the study was mostly uncontrolled.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41464305/"
+    },
+    {
+      "citation": "Wünnenberg E, Baumann N. Group singing through the lens of polyvagal theory: a pilot study in patients with Parkinson's disease. PLoS One 2025;20(12):e0337210. PMID 41468378",
+      "design": "Non-randomised pilot: weekly singing (n=13) or 1-day workshop (n=14) vs non-singing control (n=22)",
+      "n": 49,
+      "finding": "Large self-reported pre-post benefits (d=2.43). Interoceptive discomfort fell after weekly singing but not in controls. Outcomes are self-report on self-designed scales. It tests singing, not a polyvagal therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41468378/"
+    },
+    {
+      "citation": "Damis LF, Hamilton MS. Impact of hypnotic safety on disorders of gut-brain interaction: a pilot study. Am J Clin Hypn 2020;63(2):150-168. PMID 33118881",
+      "design": "Single-subject design of PVT-framed hypnosis in college women with functional dyspepsia/IBS",
+      "n": 3,
+      "finding": "Reported reductions in GI symptoms, depression and anxiety. No control group.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33118881/"
+    }
+  ],
+  "controversy": "The core physiology is strongly contested. Grossman & Taylor 2007 argued that RSA does not equal vagal tone. Neuhuber & Berthoud 2022 found the vagal anatomy does not fit the ventral/dorsal split. Grossman 2023 (Biol Psychol, PMID 37230290) argued that all five premises are untenable. A 2026 consensus critique by 39 autonomic and evolution experts (Grossman et al., Clin Neuropsychiatry 23(1):100-112, PMID 41768017) concluded the theory is 'untenable'; Porges replied that it misrepresents the theory (PMID 41768026). Critics also say its clinical superstructure restates older psychology, and that popular 'vagal toning' claims for ME/CFS, long COVID and chronic illness lack evidence. A PTSD review (Kowalski 2024) found no efficacy evidence for polyvagal-based methods. Conflicts of interest: Porges developed the Safe and Sound Protocol, Dana advises Unyte-iLs, and both earn book and training revenue.",
+  "popularity": {
+    "indicators": [
+      {
+        "metric": "English Wikipedia 'Polyvagal theory' annual pageviews (user agents)",
+        "value": "23.6k (2017), 77.8k (2018), 144k (2019), 190k (2020), 219k (2021 peak), 203k (2022), 189k (2023), 185k (2024), 133k (2025), 75k (Jan-Sep 2026)",
+        "source": "Wikimedia pageviews API (re-verified 2026-10-12)",
+        "year": 2026
+      },
+      {
+        "metric": "PubMed title/abstract mentions of 'polyvagal' per year",
+        "value": "~0-1/yr 1995-2010; 4 (2012); 10 (2017); 16 (2018); 19 (2020); 27 (2022); 25 (2023); 23 (2024); 31 (2025); 28 (2026 to Oct)",
+        "source": "PubMed E-utilities",
+        "year": 2026
+      },
+      {
+        "metric": "Popular books",
+        "value": "Porges 2011, 2017 Pocket Guide, 2021 Polyvagal Safety; Dana 2018, 2020, 2021 (Anchored), 2023 plus card decks, flip chart, Glimmers Journal and Nervous System Workbook; Rosenberg 2017; van der Kolk 2014 bestseller popularised PVT",
+        "source": "rhythmofregulation.com/about; Wikipedia",
+        "year": 2023
+      },
+      {
+        "metric": "PVI certificate course and international partners",
+        "value": "Rolling cohorts; over a dozen international partner organisations; annual International Gathering",
+        "source": "polyvagalinstitute.org",
+        "year": 2026
+      },
+      {
+        "metric": "'Glimmers' social-media virality",
+        "value": "Widely viral on TikTok/Instagram around 2022-23 (not quantified)",
+        "source": "general media coverage; not verified quantitatively",
+        "year": 2022
+      }
+    ],
+    "reach_estimate": "~10^6-10^7. Tens of thousands of clinicians trained through PVI, PESI, Norton and Dana courses; book sales across about 15 titles likely >1 million copies combined; several hundred thousand Wikipedia views per year; very broad indirect exposure through trauma-informed care and social media. Basis: rough triangulation, not audited figures.",
+    "reach_log10": 6.5,
+    "trajectory": [
+      {
+        "year": 1994,
+        "relative_activity": 0.5
+      },
+      {
+        "year": 2000,
+        "relative_activity": 0.8
+      },
+      {
+        "year": 2005,
+        "relative_activity": 1
+      },
+      {
+        "year": 2010,
+        "relative_activity": 1.5
+      },
+      {
+        "year": 2011,
+        "relative_activity": 2
+      },
+      {
+        "year": 2014,
+        "relative_activity": 3
+      },
+      {
+        "year": 2016,
+        "relative_activity": 4
+      },
+      {
+        "year": 2017,
+        "relative_activity": 5
+      },
+      {
+        "year": 2018,
+        "relative_activity": 6.5
+      },
+      {
+        "year": 2019,
+        "relative_activity": 8
+      },
+      {
+        "year": 2020,
+        "relative_activity": 9
+      },
+      {
+        "year": 2021,
+        "relative_activity": 10
+      },
+      {
+        "year": 2022,
+        "relative_activity": 9.5
+      },
+      {
+        "year": 2023,
+        "relative_activity": 9
+      },
+      {
+        "year": 2024,
+        "relative_activity": 8.5
+      },
+      {
+        "year": 2025,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2026,
+        "relative_activity": 6.5
+      }
+    ],
+    "method_notes": "Trajectory anchored on Wikimedia annual pageviews for 'Polyvagal theory' (2017-2026; peak 2021 = 10, scaled linearly), PubMed title/abstract counts per year (E-utilities), and dated milestones: 1994/95 theory, 2011 Porges book, 2014 van der Kolk bestseller, 2017-18 Pocket Guide, Rosenberg and Dana books, PVI website live by Dec 2020, 'glimmers' virality around 2022. Pre-2017 values are estimated from publication milestones only. The 2026 value reflects the Jan-Sep pageview decline. Reddit and Google Trends could not be retrieved: the Reddit API was blocked and the shared web-search budget was exhausted. The reach estimate is a rough triangulation from training cohorts, book catalogue size and pageviews, not audited sales data."
+  },
+  "sources": [
+    "https://www.polyvagalinstitute.org/",
+    "https://www.polyvagalinstitute.org/whatispolyvagaltheory",
+    "https://www.polyvagalinstitute.org/pvi-certificate-course",
+    "https://theembodylab.com/products/polyvagal-trauma-therapy-certificate",
+    "https://www.rhythmofregulation.com/about",
+    "https://www.rhythmofregulation.com/events-training",
+    "https://www.rhythmofregulation.com/glimmers",
+    "https://web.archive.org/web/20201205220627/https://www.polyvagalinstitute.org/",
+    "https://en.wikipedia.org/wiki/Polyvagal_theory",
+    "https://pubmed.ncbi.nlm.nih.gov/7652107/",
+    "https://pubmed.ncbi.nlm.nih.gov/29904631/",
+    "https://pubmed.ncbi.nlm.nih.gov/37923783/",
+    "https://pubmed.ncbi.nlm.nih.gov/41464305/",
+    "https://pubmed.ncbi.nlm.nih.gov/41468378/",
+    "https://pubmed.ncbi.nlm.nih.gov/33118881/",
+    "https://pubmed.ncbi.nlm.nih.gov/37230290/",
+    "https://pubmed.ncbi.nlm.nih.gov/41768017/",
+    "https://pubmed.ncbi.nlm.nih.gov/41768026/",
+    "https://pubmed.ncbi.nlm.nih.gov/36100134/",
+    "https://pubmed.ncbi.nlm.nih.gov/17081672/",
+    "https://pubmed.ncbi.nlm.nih.gov/37074864/"
+  ]
+}

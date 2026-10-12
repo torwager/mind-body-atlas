@@ -1,0 +1,117 @@
+{
+  "slug": "reveri",
+  "name": "Reveri (self-hypnosis app)",
+  "url": "https://www.reveri.com/",
+  "founders": [
+    "David Spiegel, MD (Stanford psychiatry; co-founder, scientific advisor / Chief Scientific Officer)",
+    "Ariel Poler (Silicon Valley entrepreneur/investor)"
+  ],
+  "founded_year": 2020,
+  "founded_year_range": "2017-2020: the Stanford pilot of an Alexa/app automated self-hypnosis program (NCT03931772) started Sept 2017; press dates the company (Reveri Health, Inc.) to 2020; on iOS by Feb 2022; the site gives no founding year",
+  "category": "hypnosis/relaxation",
+  "delivery": ["app", "guided audio self-hypnosis", "AI-personalized sessions"],
+  "business_model": "commercial",
+  "cost_summary": "US prices, verified Oct 2026: $149.99/yr, $44.95/mo, or $449 lifetime. 7-day free trial; 7-day refund window; free hardship memberships via 'Reveri for Good'.",
+  "cost_usd_typical": 149.99,
+  "conditions_claimed": ["general stress/wellbeing", "anxiety", "insomnia", "chronic pain (general)", "headache/migraine", "addiction/substance use"],
+  "conditions_primary": ["general stress/wellbeing", "anxiety", "chronic pain (general)", "insomnia"],
+  "differentiation": "mostly unified with condition-specific emphasis",
+  "mechanisms": [
+    "attention & interoception / hypervigilance",
+    "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")",
+    "brain network / oscillation dysregulation",
+    "fear-avoidance / catastrophizing / cognitive appraisal",
+    "hypnotic focused attention, dissociation and suggestibility (trait hypnotizability)"
+  ],
+  "mechanism_summary": "Hypnosis is framed as a distinct brain state of focused attention, dissociation and suggestibility. It reduces dACC/salience ('alarm') activity, increases DLPFC-insula coupling and decreases DLPFC-DMN coupling (Jiang et al. 2017), which allows top-down modulation of pain and stress and lowers arousal. Trait hypnotizability, screened in-app with a remote Hypnotic Induction Profile, predicts benefit. There is no disease-specific theory of chronic illness: symptoms are treated as states that attention and suggestion can modulate.",
+  "roots": ["hypnosis (Mesmer, Erickson)", "autogenic training / Relaxation Response", "Hindu yoga/pranayama", "Spiegel Hypnotic Induction Profile (Herbert & David Spiegel)"],
+  "techniques": [
+    "hypnotizability test (remote HIP)",
+    "eye-roll/eye-closure induction with slow breath and floating sensation",
+    "goal-specific hypnotic suggestion (analgesic numbness/filtering, relaxation)",
+    "guided imagery / visualization screen",
+    "cognitive restructuring",
+    "interactive voice/tap branching sessions, AI-personalized",
+    "pre/post 0-10 stress or pain ratings",
+    "1-2 min self-hypnosis refreshers",
+    "cyclic sighing breathwork"
+  ],
+  "mainstream_adoption": "limited",
+  "mainstream_notes": "The app is a direct-to-consumer wellness subscription with no FDA clearance; no payer, health-system or guideline adoption was found. The underlying clinical hypnosis (Spiegel's method, used at Stanford) and hypnosis generally have mainstream footing, e.g. guideline-endorsed gut-directed hypnotherapy for IBS and procedural analgesia.",
+  "insurance": "no",
+  "insurance_notes": "The app is self-pay. Clinician-delivered hypnosis within psychotherapy can sometimes be billed, but that is not Reveri.",
+  "evidence_level": "case reports/observational only",
+  "key_trials": [
+    {
+      "citation": "Tran N, Saperia C, Neri E, Jo B, Kim B, Zewde N, Nouriani B, Kinderman C, Jagielo A, Faerman A, Maldonado J, Spiegel D. Effects of app delivered self hypnosis on stress management. npj Digit Med 2025; PMID 41413254",
+      "design": "Retrospective uncontrolled analysis of in-app pre/post ratings (282,893 sessions), Nov 2021-Jan 2025; co-founder author",
+      "n": 84395,
+      "finding": "Single-item stress fell about 1.5/10 per session (d about 0.71-0.78) across the first 10 sessions; no cumulative improvement; larger effects with interactive and regular-length sessions, higher hypnotizability, older age and paying members",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41413254/"
+    },
+    {
+      "citation": "Saperia C, Bharti S, Kim B, Jo B, Neri E, Markovits J, Nouriani B, Kinderman C, Tran N, Maldonado J, Lev-Ari S, Spiegel D. Effect of app based hypnosis on pain reduction in a large user cohort. Research Square preprint, posted 9 Sep 2026 (not peer reviewed)",
+      "design": "Retrospective uncontrolled real-world pre/post cohort of 'Manage Pain' module users (59,147 sessions), Dec 2021-Jul 2025",
+      "n": 19063,
+      "finding": "Pain fell 1.16-1.3/10 per session (ES about 0.53-0.62); in session 1, 22.5% had >50% reduction, 18.7% had no change and 6.6% got worse; no cumulative change",
+      "url": "https://doi.org/10.21203/rs.3.rs-10731340/v1"
+    },
+    {
+      "citation": "Stanford University (PI Spiegel D). Online Automated Self-Hypnosis Program. ClinicalTrials.gov NCT03931772 (2017-2022)",
+      "design": "Non-randomized single-group open pilot (smoking-cessation and pain arms) via Amazon Alexa or the Reveri app",
+      "n": 152,
+      "finding": "Completed Feb 2022; no results posted and no publication found",
+      "url": "https://clinicaltrials.gov/study/NCT03931772"
+    },
+    {
+      "citation": "Lang EV, Benotsch EG, Fick LJ, ... Spiegel D. Adjunctive non-pharmacological analgesia for invasive medical procedures: a randomised trial. Lancet 2000;355:1486-90 (generic in-person hypnosis, not the app)",
+      "design": "RCT: self-hypnotic relaxation vs structured attention vs standard care",
+      "n": 241,
+      "finding": "Pain stayed flat with hypnosis (it rose with standard care), with less drug use and shorter procedures",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10801169/"
+    }
+  ],
+  "controversy": "The app is marketed with 'science settled' rhetoric, but there is no RCT of the app. Its evidence is founder-co-authored, uncontrolled single-item pre/post data, and an early Stanford pilot (NCT03931772) is unpublished. Pain claims borrow from generic hypnosis trials, and the '77% feel better' figure is unsourced. An RCT of a different hypnosis app (Lang 2021, IJCEH) found only modest advantages over a control app. Amplification came through celebrity podcasts (Huberman, Ferriss). The monthly price is high, and benefit is limited for low-hypnotizable users. It makes no cure claims for ME/CFS-type illnesses and carries wellness disclaimers.",
+  "popularity": {
+    "indicators": [
+      {"metric": "Huberman Lab episode with Spiegel promoting Reveri", "value": "Released Feb 21, 2022 (top-ranked podcast)", "source": "hubermanlab.com", "year": 2022},
+      {"metric": "Seed funding", "value": "$1.8M (Feb 2022), third-party listing, not independently verified", "source": "Welcome to the Jungle / Preqin listing", "year": 2022},
+      {"metric": "Registered users", "value": ">300,000", "source": "LBB Online rebrand article (Aug 2023), via search snippet", "year": 2023},
+      {"metric": "Users completing at least one stress session", "value": "84,395 users, 282,893 sessions (40.5% paying)", "source": "Tran et al. 2025 npj Digit Med", "year": 2025},
+      {"metric": "Pain-module users analyzed", "value": "19,063 users, 59,147 sessions (Dec 2021-Jul 2025)", "source": "Saperia et al. 2026 preprint", "year": 2026},
+      {"metric": "Celebrity endorsements", "value": "Huberman, Tim Ferriss, Rich Roll; Financial Times quoted", "source": "reveri.com", "year": 2025}
+    ],
+    "reach_estimate": "About 300k-1M cumulative registered users. Press reported more than 300k registered users by Aug 2023; at least 84k used the stress module and at least 19k the pain module through 2025. A claim of more than 1.2M installs could not be verified.",
+    "reach_log10": 5.7,
+    "trajectory": [
+      {"year": 2017, "relative_activity": 0.5},
+      {"year": 2018, "relative_activity": 0.5},
+      {"year": 2019, "relative_activity": 1},
+      {"year": 2020, "relative_activity": 2},
+      {"year": 2021, "relative_activity": 3},
+      {"year": 2022, "relative_activity": 7},
+      {"year": 2023, "relative_activity": 7},
+      {"year": 2024, "relative_activity": 7},
+      {"year": 2025, "relative_activity": 8},
+      {"year": 2026, "relative_activity": 8}
+    ],
+    "method_notes": "Based on user and session counts in the peer-reviewed npj paper and the preprint, the 2023 press figure of more than 300k registered users, the Huberman episode date (the main amplification event, 21 Feb 2022), the 2023 UK rebrand and quit-vaping content, and the AI relaunch and publications in 2025-26. 2017-2019 reflects the Stanford Alexa pilot. App-store ratings, Reddit volume and Google Trends were not checked; the trajectory is coarse and inferred."
+  },
+  "sources": [
+    "https://www.reveri.com/",
+    "https://www.reveri.com/science",
+    "https://www.reveri.com/pricing",
+    "https://www.reveri.com/about-us",
+    "https://www.nature.com/articles/s41746-025-02182-0",
+    "https://europepmc.org/article/PMC/PMC12775527",
+    "https://doi.org/10.21203/rs.3.rs-10731340/v1",
+    "https://clinicaltrials.gov/study/NCT03931772",
+    "https://pubmed.ncbi.nlm.nih.gov/38262415/",
+    "https://pubmed.ncbi.nlm.nih.gov/10801169/",
+    "https://pubmed.ncbi.nlm.nih.gov/27469596/",
+    "https://pubmed.ncbi.nlm.nih.gov/33171103/",
+    "https://pubmed.ncbi.nlm.nih.gov/33724898/",
+    "https://lbbonline.com/news/self-hypnosis-app-reveri-launches-major-rebrand",
+    "https://www.hubermanlab.com/episode/dr-david-spiegel-using-hypnosis-to-enhance-mental-and-physical-health-and-performance"
+  ]
+}

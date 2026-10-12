@@ -1,0 +1,51 @@
+{
+  "slug": "re-origin",
+  "name": "re-origin",
+  "url": "https://www.re-origin.com/",
+  "founders": ["Ben Ahrens (co-founder; AADP holistic health practitioner, ex-personal trainer; self-reported recovery from chronic neurological Lyme/CFS)", "Lindsay Alpert (co-founder)", "Mo Pritzker (co-founder)", "Current co-CEOs: Natalie Rivans, Cherrie West", "Science advisors ('Brain Trust'): Ken Gorfinkle PhD, Kelly Kent PhD, Martin Alpert MD, Brian Plante ND"],
+  "founded_year": 2021,
+  "founded_year_range": "2020-2021 (estimate). Basis: the site says the Brain Trust formed in 2019, and the earliest press/podcast items are from Jan-Mar 2022. The site gives no founding date, and this could not be confirmed via Wayback or web search.",
+  "category": "limbic/brain retraining course",
+  "delivery": ["online course", "app", "coaching", "group", "community forum"],
+  "business_model": "commercial",
+  "cost_summary": "Program + Community costs USD 379/yr (auto-renew), shown as USD 297 with code HEAL (verified Oct 2026). Group coaching costs USD 279-329 for 10 weekly sessions (from the researcher; not re-verified). 1:1 coaching price is not public. A conditional results guarantee allows a refund request within 12 months if there is no value after 6 months of daily practice. Free workshops and quizzes serve as a lead-in.",
+  "cost_usd_typical": 297,
+  "conditions_claimed": ["long COVID", "PVFS", "ME/CFS", "chronic Lyme", "mould/CIRS", "MCS/IEI", "EHS", "MCAS", "POTS/dysautonomia", "fibromyalgia", "chronic pain (general)", "IBS/functional GI", "anxiety", "depression", "PTSD/trauma", "insomnia", "addiction/substance use", "general stress/wellbeing", "OCD", "ADHD", "misophonia", "brain fog", "burnout", "food sensitivities"],
+  "conditions_primary": ["long COVID", "chronic Lyme", "ME/CFS", "MCS/IEI"],
+  "differentiation": "single unified mechanism",
+  "mechanisms": ["limbic system impairment / amygdala threat conditioning", "conditioning / classical learning", "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")", "stress / HPA axis", "inflammation / immune"],
+  "mechanism_summary": "The site's model is \"limbic cross-wiring,\" which it presents as a hypothesis. An acute infection, injury or stressor hits while allostatic load is already high. This creates a Hebbian \"neuroimmune association\" that conditions the limbic system into a persistent threat response. That response keeps driving the immune, endocrine and autonomic systems (\"stuck in fight-or-flight\"), producing inflammation, fatigue, pain, sensitivities, anxiety and depression. Benign cues then retrigger it. The proposed fix is repeated self-directed neuroplasticity training plus somatic regulation. One model is applied to all conditions.",
+  "roots": ["behaviorism / classical conditioning", "Pavlov", "Selye stress theory", "gate control / neuromatrix pain science", "polyvagal theory", "Hindu yoga/pranayama", "life coaching / positive psychology", "functional/integrative medicine", "Gupta/DNRS limbic retraining lineage"],
+  "techniques": ["28-day / 4-week self-paced video course (nervous-system education, retraining techniques, daily application, maintenance)", "undisclosed five-step neurocognitive interrupt-and-replace technique using repetition, positive emotion, language and visualization", "~30 min/day practice for at least 6 months", "follow-along somatic exercises, breathwork, vagus nerve exercises", "Yoga Nidra", "positive psychology exercises", "self-assessments and progress reports", "community forum, live classes, AMAs", "group coaching (10 weekly Zoom sessions) and 1:1 / somatic coaching by re-origin-certified coaches", "graded reintroduction of movement for fatigue"],
+  "mainstream_adoption": "none",
+  "mainstream_notes": "Direct-to-consumer only. No health-system, guideline or payer uptake found. Media presence is mostly podcasts and sponsored press releases (Business Insider markets release 2024, NY Weekly), plus a WebMD 2022 brain-fog mention that did not evaluate the program.",
+  "insurance": "no",
+  "insurance_notes": "No insurance or HSA/FSA statement found. The annual subscription is paid out of pocket.",
+  "evidence_level": "none",
+  "key_trials": [],
+  "controversy": "No peer-reviewed evaluation: PubMed returned 0 hits (re-checked 2026-10-12) and there is no ClinicalTrials.gov registration. The /science page shows uncontrolled internal figures (98% improved, 66% pain-free) with no N. Its N=108 6-week pre/post block currently shows 0% placeholders in every field. The /program page cites '200 members' self-report (94% fewer physical symptoms, >82% less anxiety/depression, 88% better QoL). These figures sit beside RCTs of other interventions (PRT: Ashar 2022; MAIR: Sanabria-Mazo 2020), which implies borrowed efficacy. Advisor credentials are inconsistent across pages (Martin Alpert is listed as MD on one page and PhD on another). One limbic model is applied to a very broad list (MCAS, mould, ADHD, OCD, phone addiction). This shares the wider ME/CFS-community criticism of limbic-retraining programs, which are seen as implying symptoms are learned or psychogenic. The founder's 'two decades as a neuroscience researcher' self-description sits beside fitness and holistic-health credentials. There are auto-renewing subscriptions and add-on upsells, and a few Trustpilot complaints about cost and usability.",
+  "popularity": {
+    "indicators": [
+      {"metric": "Trustpilot reviews", "value": "156 reviews, 4.4 average, 93% 5-star; earliest written Jul 2023 (researcher figures; not re-verified)", "source": "https://www.trustpilot.com/review/re-origin.com", "year": 2026},
+      {"metric": "Press/podcast items listed on site", "value": "~17 items, Jan 2022-Aug 2025; ~15 in 2022", "source": "https://www.re-origin.com/press", "year": 2025},
+      {"metric": "Internal outcome survey sample", "value": "N=108 (6-week pre/post; results shown as 0% placeholders); separately '200 members' self-report", "source": "https://www.re-origin.com/science", "year": 2026},
+      {"metric": "Stated member count", "value": "'hundreds of re-origin's members' (about page, verified); an unverified ~12,000 participants claim came from scoping", "source": "https://www.re-origin.com/about-us", "year": 2026},
+      {"metric": "SEO content expansion", "value": "~35 condition pages and 50+ articles added Nov-Dec 2025; coach roster ~10 by 2026", "source": "https://www.re-origin.com/sitemap.xml", "year": 2025},
+      {"metric": "Founder TEDx talk", "value": "TEDx talk on neuroplastic recovery from Lyme (year per researcher; not re-verified)", "source": "https://www.re-origin.com/profiles/ben-ahrens", "year": 2015}
+    ],
+    "reach_estimate": "~1,000-10,000 cumulative members (order 10^3-10^4). The site's own 'hundreds of members' wording and modest Trustpilot volume suggest the low end; the unverified ~12,000 claim is the upper bound.",
+    "reach_log10": 3.5,
+    "trajectory": [
+      {"year": 2019, "relative_activity": 1},
+      {"year": 2020, "relative_activity": 2},
+      {"year": 2021, "relative_activity": 4},
+      {"year": 2022, "relative_activity": 7},
+      {"year": 2023, "relative_activity": 6},
+      {"year": 2024, "relative_activity": 7},
+      {"year": 2025, "relative_activity": 8},
+      {"year": 2026, "relative_activity": 8}
+    ],
+    "method_notes": "The trajectory is built from these sources: the site's founding-team date (Brain Trust 2019), press/podcast dates on /press (concentrated in 2022, with long-COVID-driven interest), Trustpilot review dates (from 2023), sitemap lastmod dates (content/SEO and coaching expansion in late 2025-2026), and the leadership change to co-CEOs. Reddit, Google Trends and Wayback were not checked because the web-search quota was exhausted. reach_log10 was lowered from 3.7 to 3.5 during fact-check, since the only verifiable count statement is 'hundreds of members'."
+  },
+  "sources": ["https://www.re-origin.com/", "https://www.re-origin.com/program", "https://www.re-origin.com/faqs", "https://www.re-origin.com/science", "https://www.re-origin.com/about-us", "https://www.re-origin.com/profiles/ben-ahrens", "https://www.re-origin.com/group-coaching", "https://www.re-origin.com/conditions/long-haul-covid", "https://www.re-origin.com/conditions/limbic-cross-wiring", "https://www.re-origin.com/press", "https://www.re-origin.com/sitemap.xml", "https://www.re-origin.com/testimonials", "https://rehabpub.com/conditions/neurological/neuroplasticity-training-via-re-origin-relief-for-long-covid/", "https://www.bayarealyme.org/blog/story/ben-a", "https://www.trustpilot.com/review/re-origin.com", "PubMed E-utilities search 2026-10-12 (re-run in fact-check): 0 results", "ClinicalTrials.gov API search 2026-10-12: no re-origin study"]
+}

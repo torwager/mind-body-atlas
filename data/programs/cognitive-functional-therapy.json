@@ -1,0 +1,279 @@
+{
+  "slug": "cognitive-functional-therapy",
+  "name": "Cognitive Functional Therapy (CFT)",
+  "url": "https://www.evoolvepaincare.academy/",
+  "founders": [
+    "Peter O'Sullivan (specialist musculoskeletal physiotherapist, Professor, Curtin University; director of Body Logic Physiotherapy and Evoolve)",
+    "JP Caneiro (physiotherapist, PhD, Associate Professor; co-director of Evoolve and Body Logic)",
+    "Key collaborators/co-developers (not founders): Peter Kent (Curtin; RESTORE lead; Evoolve technical support), Kieran O'Sullivan, Kjartan Vibe Fersum, Wim Dankaerts, Mary O'Keeffe, Anne Smith"
+  ],
+  "founded_year": 2010,
+  "founded_year_range": "2005-2013 (estimate). Grew out of O'Sullivan's 2005 motor-control classification of low back pain into 'classification-based CFT'. The term first appears in PubMed-indexed titles in 2013 (Vibe Fersum RCT; Caneiro case report). Definitive description in Phys Ther 2018. The Evoolve training enterprise dates to about 2023-2024 (researcher-reported ABN and Wayback dates, not re-verified).",
+  "category": "physio/pain-education approach",
+  "delivery": [
+    "clinician-delivered",
+    "physiotherapy (one-to-one, in person)",
+    "online course (clinician training)",
+    "workshops/mentoring for clinicians"
+  ],
+  "business_model": "clinician-delivered (fee-for-service)",
+  "cost_summary": "Patients pay standard private physiotherapy fees, and Body Logic does not post prices. Typical Australian physio costs roughly AU$100-200 per session, so about 5-7 sessions comes to roughly AU$700-1,400 (about US$450-900) before rebates. This is an estimate. Clinician training through Evoolve (verified Oct 2026): the Tier 1 online course is US$330 for high-income countries, US$165 for middle-income and US$33 for low-income, plus tax, with student discounts. Masterclasses and later training tiers are priced separately. Some free courses and patient resources are offered. Evoolve describes itself as a social enterprise.",
+  "cost_usd_typical": 650,
+  "conditions_claimed": [
+    "chronic back/neck pain",
+    "chronic musculoskeletal pain (general)",
+    "pelvic girdle pain",
+    "knee osteoarthritis",
+    "shoulder pain",
+    "post-surgical back pain"
+  ],
+  "conditions_primary": [
+    "chronic back/neck pain"
+  ],
+  "differentiation": "mostly unified with condition-specific emphasis",
+  "mechanisms": [
+    "fear-avoidance / catastrophizing / cognitive appraisal",
+    "sensorimotor / movement patterns / body schema",
+    "attention & interoception / hypervigilance",
+    "central sensitization"
+  ],
+  "mechanism_summary": "CFT treats disabling low back pain as multidimensional and biopsychosocial. Pain persists through a self-reinforcing cycle with several parts: beliefs that the back is damaged or fragile; fear and catastrophising; low self-efficacy; protective movement behaviours such as bracing, breath-holding, guarded movement and avoidance; lifestyle factors such as inactivity, poor sleep and stress; and social context. Peripheral and central sensitisation are acknowledged as possible contributors, and pathology is screened for, not denied. The earlier version stressed maladaptive motor-control patterns; that rigid classification was later de-emphasised. In RESTORE, changes in self-efficacy, fear, catastrophising and early pain mediated up to about 61-62% of the treatment effect. The framework is individualised per person, not per diagnosis. It is applied mainly to musculoskeletal pain and makes no claims for ME/CFS, POTS, MCS or similar syndromes.",
+  "roots": [
+    "CBT (Beck/Ellis)",
+    "behaviorism / classical conditioning",
+    "fear-avoidance model (Vlaeyen, Linton)",
+    "gate control / neuromatrix pain science",
+    "pain neuroscience education (Moseley, Butler)",
+    "third-wave CBT (ACT) / mindfulness-style body awareness",
+    "musculoskeletal/manipulative physiotherapy and motor-control research",
+    "motivational interviewing",
+    "biopsychosocial model (Engel, Waddell)"
+  ],
+  "techniques": [
+    "Reflective 'making sense of pain' education built from the patient's own story and experiences",
+    "Motivational-interviewing-style open questioning",
+    "Graded exposure with control: behavioural experiments with feared movements (bending, lifting, sitting, sport)",
+    "Dropping protective behaviours: relaxed diaphragmatic breathing, releasing trunk-muscle bracing, normal-speed movement",
+    "Mirror/video feedback; optional wearable movement-sensor biofeedback (no added benefit in RESTORE)",
+    "Integrating new movement into daily and valued activities",
+    "Lifestyle plan: graded enjoyable physical activity, sleep, stress management, social and work re-engagement, diet/weight",
+    "Flare-up self-management plan",
+    "Dose: up to 7 sessions over 12 weeks plus a booster at 26 weeks (RESTORE); first session about 60 min; daily home practice",
+    "CFT+ variant adds psychologist support for complex cases"
+  ],
+  "mainstream_adoption": "moderate",
+  "mainstream_notes": "CFT is a mainstream academic physiotherapy approach. Its trials appeared in the Lancet (2023) and Lancet Rheumatology (2025), and a JAMA news item followed in 2025 (Anderer, PMID 40880076). An independent 2026 network meta-analysis (Niederer, JOSPT) ranked CFT as the most effective tailored exercise therapy vs usual care. An NHS feasibility RCT (Newton 2024) showed NHS physiotherapists could be trained to fidelity. CFT is used in Danish secondary care and has been described in UK military rehabilitation (Conway, BMJ Mil Health 2020). Evoolve lists 16 certified trainers across Australia, Brazil, Norway, Belgium, Denmark, Ireland and the UK. No major guideline names CFT, but it is consistent with NICE NG59 and the WHO 2023 recommendations for combined physical/psychological, biopsychosocial active care.",
+  "insurance": "sometimes/indirect",
+  "insurance_notes": "There is no CFT-specific billing code; CFT is reimbursed as ordinary physiotherapy. Routes include Australian private-health extras rebates, Medicare chronic-disease allied-health items, workers' compensation, Scandinavian public health systems and US physical-therapy CPT codes. In RESTORE, CFT dominated usual care: more QALYs and lower societal costs (AU$5,276 and AU$8,211 less per person over 1 year). The Danish CFT+ trial estimated an ICER of EUR 53,075/QALY vs an interdisciplinary programme.",
+  "evidence_level": "systematic reviews/meta-analyses",
+  "key_trials": [
+    {
+      "citation": "Kent P et al. Lancet 2023;401:1866-1877 (RESTORE)",
+      "design": "3-arm phase-3 RCT in 20 Australian primary-care physio clinics; usual care vs CFT vs CFT + movement-sensor biofeedback; unblinded",
+      "n": 492,
+      "finding": "Roland Morris Disability Questionnaire (RMDQ) MD -4.6 for both CFT arms vs usual care at 13 weeks; similar effects at 52 weeks; more QALYs and lower societal cost",
+      "url": "https://doi.org/10.1016/S0140-6736(23)00441-5"
+    },
+    {
+      "citation": "Hancock M et al. Lancet Rheumatol 2025;7:e789-e798 (RESTORE 3-year follow-up)",
+      "design": "Long-term follow-up of the RESTORE RCT (312 of 492 randomised followed up, 62-65% per arm)",
+      "n": 312,
+      "finding": "RMDQ -3.5 (CFT) and -4.1 (CFT + biofeedback) vs usual care at 3 years; pain -1.0 and -1.5 on a 0-10 scale; biofeedback added no significant benefit",
+      "url": "https://doi.org/10.1016/S2665-9913(25)00135-3"
+    },
+    {
+      "citation": "Vibe Fersum K et al. Eur J Pain 2013;17:916-928; 3-year follow-up Eur J Pain 2019;23:1416-1424",
+      "design": "RCT, Norway; classification-based CFT vs manual therapy + exercise",
+      "n": 121,
+      "finding": "At 12 months, ODI improved 13.7 vs 5.5 points and pain 3.2 vs 1.5. At 3 years, with about 50% retained, ODI was 6.6 points lower (SES 0.70) and there was no pain difference",
+      "url": "https://doi.org/10.1002/j.1532-2149.2012.00252.x"
+    },
+    {
+      "citation": "O'Keeffe M et al. Br J Sports Med 2020;54:782-789",
+      "design": "Multicentre RCT, Ireland; CFT vs group exercise + education",
+      "n": 206,
+      "finding": "Disability better at 6 and 12 months (ODI MD 8.65 and about 7.0); no significant difference in pain intensity",
+      "url": "https://doi.org/10.1136/bjsports-2019-100780"
+    },
+    {
+      "citation": "Castro J et al. Pain 2022;163:2430-2437",
+      "design": "RCT, Brazil; CFT vs core exercise + manual therapy (5 sessions)",
+      "n": 148,
+      "finding": "Disability modestly better at 8 weeks (ODI -4.75, not clinically important); no pain difference",
+      "url": "https://doi.org/10.1097/j.pain.0000000000002644"
+    },
+    {
+      "citation": "de Lira MR et al. Br J Sports Med 2025;59:912-920",
+      "design": "Sham-controlled RCT (neutral talk + detuned laser), Brazilian public primary care",
+      "n": 152,
+      "finding": "Pain MD -1.8 (0-10) and disability MD -9.9 (ODI) post-intervention, sustained at 3 and 6 months",
+      "url": "https://doi.org/10.1136/bjsports-2024-109012"
+    },
+    {
+      "citation": "Avila L et al. Phys Ther 2024;104:pzad105",
+      "design": "RCT, Brazil; chronic low back pain after spinal surgery; CFT vs core exercise + manual therapy",
+      "n": 80,
+      "finding": "Pain MD 2.42 (d=0.85) and function MD 2.47 (d=0.95) favoured CFT post-treatment; d=0.68 and 0.81 at 22 weeks. Critical letters followed (Phys Ther 2025)",
+      "url": "https://doi.org/10.1093/ptj/pzad105"
+    },
+    {
+      "citation": "Vaegter HB et al. J Orthop Sports Phys Ther 2026;56:596-610",
+      "design": "Patient-blinded pragmatic RCT, Denmark; CFT+ (with psychologist) for 3 months with optional IPMP afterwards vs interdisciplinary pain management programme (IPMP) alone, for severe disabling low back pain",
+      "n": 133,
+      "finding": "Null at 12 months (ODI data for 67-70%): 22% vs 18% achieved an 8-point ODI improvement (P=.64); no mean ODI or secondary differences; ICER EUR 53,075/QALY",
+      "url": "https://doi.org/10.2519/jospt.2026.14238"
+    },
+    {
+      "citation": "Newton C et al. Physiotherapy 2024;123:118-132",
+      "design": "Mixed-methods feasibility RCT, UK NHS; CFT vs usual physiotherapy",
+      "n": 60,
+      "finding": "Feasible and delivered with fidelity; not powered for efficacy",
+      "url": "https://doi.org/10.1016/j.physio.2024.02.003"
+    },
+    {
+      "citation": "Ahmad SNS et al. BMC Musculoskelet Disord 2023;24:684",
+      "design": "RCT, Iran (retrospectively registered); CFT vs movement-system-impairment treatment",
+      "n": 91,
+      "finding": "Superior on pain, disability, kinesiophobia and gait, with implausibly large effect sizes (>2)",
+      "url": "https://doi.org/10.1186/s12891-023-06815-x"
+    },
+    {
+      "citation": "Javdaneh N et al. Clin Rehabil 2020;34:1485-1496",
+      "design": "RCT, Iran, chronic neck pain; scapular exercise alone vs with CFT",
+      "n": 72,
+      "finding": "CFT add-on reduced pain and kinesiophobia; effect sizes implausibly large and questioned in a letter (Castro et al., Clin Rehabil 2021)",
+      "url": "https://doi.org/10.1177/0269215520941910"
+    },
+    {
+      "citation": "Thiveos L et al. Phys Ther 2024;104:pzae128 (systematic review)",
+      "design": "Systematic review and meta-analysis of 7 RCTs; co-authored by developers (Kent, O'Sullivan, Hancock)",
+      "n": null,
+      "finding": "Low-to-moderate certainty of benefit for disability and pain; high certainty for pain self-efficacy; training variability noted",
+      "url": "https://doi.org/10.1093/ptj/pzae128"
+    },
+    {
+      "citation": "Devonshire JJ et al. J Orthop Sports Phys Ther 2023;53:244-285 (systematic review)",
+      "design": "Independent systematic review and meta-analysis (pre-RESTORE); 15 trials identified, 5 with data, all at high risk of bias",
+      "n": 507,
+      "finding": "Very-low-certainty evidence; CFT may not be more effective than common alternatives",
+      "url": "https://doi.org/10.2519/jospt.2023.11447"
+    },
+    {
+      "citation": "Zhang J et al. Int J Nurs Stud 2024;151:104679 (systematic review)",
+      "design": "Independent systematic review and meta-analysis of 8 RCTs",
+      "n": null,
+      "finding": "Improvements in disability, pain and fear-avoidance, but all at very low GRADE certainty with extreme heterogeneity (I2 about 95%)",
+      "url": "https://doi.org/10.1016/j.ijnurstu.2023.104679"
+    },
+    {
+      "citation": "Marelli M et al. Pain Med 2025;26:248-260 (systematic review)",
+      "design": "Systematic review and meta-analysis; CFT for chronic spinal pain",
+      "n": null,
+      "finding": "Short-term benefit on disability and pain vs other conservative care at low or very-low certainty; long-term superiority over active treatments not maintained (researcher summary)",
+      "url": "https://doi.org/10.1093/pm/pnaf002"
+    },
+    {
+      "citation": "Niederer D et al. J Orthop Sports Phys Ther 2026;56:16-27 (network meta-analysis)",
+      "design": "Independent network meta-analysis of 58 RCTs (n=10,510) of tailored exercise therapies for chronic nonspecific LBP",
+      "n": 10510,
+      "finding": "CFT alone or with biofeedback ranked most effective vs usual care for pain and disability (e.g. disability SMD -1.00 for CFT + biofeedback; moderate certainty); overall risk of bias high",
+      "url": "https://doi.org/10.2519/jospt.2025.13281"
+    }
+  ],
+  "controversy": "Investigator allegiance is the main concern. The developers (O'Sullivan, Caneiro) direct the Body Logic clinic and the Evoolve training enterprise, and they co-author most positive trials and one meta-analysis (Thiveos 2024). Independent reviews are more cautious: Devonshire 2023 and Zhang 2024 both rated the evidence very-low certainty. An independent 2026 network meta-analysis was more favourable, but it leans heavily on RESTORE. Most trials are unblinded, and effects are consistently larger for disability than for pain. Critics argue CFT repackages CBT, graded exposure and active physiotherapy. It needs intensive clinician training, and outcomes may depend on therapist skill. There are two null results: CFT+ was not superior to an interdisciplinary programme for severe low back pain (Denmark 2026), and CFT did not reduce opioid dispensing in RESTORE (Thiveos 2026). The Iranian trials and the Brazilian post-surgical trial report unusually large effects that drew critical letters. Unlike many programs in this survey, CFT makes no cross-syndrome claims (ME/CFS, POTS, MCS and similar).",
+  "popularity": {
+    "indicators": [
+      {
+        "metric": "PubMed items with 'cognitive functional therapy' in title/abstract (cumulative)",
+        "value": "98",
+        "source": "NCBI E-utilities esearch (re-verified 2026-10-12)",
+        "year": 2026
+      },
+      {
+        "metric": "PubMed items per year",
+        "value": "2013:2; 2015:2; 2016:5; 2017:1; 2018:4; 2019:8; 2020:9; 2021:7; 2022:8; 2023:7; 2024:18; 2025:21; 2026 (to Oct):6",
+        "source": "NCBI E-utilities esummary",
+        "year": 2026
+      },
+      {
+        "metric": "Lancet RESTORE publication with editorial and international press",
+        "value": "May 2023",
+        "source": "Lancet 401:1866; PubMed comments",
+        "year": 2023
+      },
+      {
+        "metric": "3-year RESTORE results with press coverage and a JAMA news item",
+        "value": "Aug-Sep 2025",
+        "source": "news-medical.net; scimex.org; JAMA (Anderer, PMID 40880076)",
+        "year": 2025
+      },
+      {
+        "metric": "Certified CFT trainers listed by Evoolve",
+        "value": "17 listings (16 people): Australia 7, Brazil 1, Norway 1, Belgium 1, Denmark 3, Ireland 1, UK 4",
+        "source": "evoolvepaincare.academy/about",
+        "year": 2026
+      },
+      {
+        "metric": "Evoolve 2026 international Tier 1 events",
+        "value": "Latvia, Switzerland, Germany, Netherlands, Adelaide, plus masterclasses",
+        "source": "evoolvepaincare.academy",
+        "year": 2026
+      }
+    ],
+    "reach_estimate": "About 50,000 people cumulatively, as an order of magnitude. Trial participants total roughly 1,700. Thousands of physiotherapists have likely been exposed through workshops and the online course. Clinical delivery in Australia, Scandinavia, Ireland, the UK and Brazil over about 15 years plausibly reaches tens of thousands of patients. No counts of clinicians trained or patients treated have been published.",
+    "reach_log10": 4.7,
+    "trajectory": [
+      {"year": 2005, "relative_activity": 0.5},
+      {"year": 2008, "relative_activity": 1},
+      {"year": 2010, "relative_activity": 1.5},
+      {"year": 2012, "relative_activity": 2},
+      {"year": 2013, "relative_activity": 2.5},
+      {"year": 2014, "relative_activity": 2.5},
+      {"year": 2015, "relative_activity": 3},
+      {"year": 2016, "relative_activity": 3.5},
+      {"year": 2017, "relative_activity": 3.5},
+      {"year": 2018, "relative_activity": 4.5},
+      {"year": 2019, "relative_activity": 5},
+      {"year": 2020, "relative_activity": 5.5},
+      {"year": 2021, "relative_activity": 5.5},
+      {"year": 2022, "relative_activity": 6},
+      {"year": 2023, "relative_activity": 8},
+      {"year": 2024, "relative_activity": 8.5},
+      {"year": 2025, "relative_activity": 10},
+      {"year": 2026, "relative_activity": 9.5}
+    ],
+    "method_notes": "The trajectory is anchored mainly on PubMed publications per year (E-utilities query 'cognitive functional therapy'[tiab], 98 items; the count was re-verified at fact-check). Key milestones: the classification model (2005); the first RCT and first indexed use of the CFT name (2013); the Phys Ther 2018 definitive paper; Lancet RESTORE (May 2023) with press; Lancet Rheumatology 3-year results (Aug 2025) with press and JAMA news; and the launch of Evoolve (about 2023-2024). Google Trends, Reddit and social-media counts were not collected. Consumer visibility is low because CFT is a clinician-facing method. The reach estimate is a judgment-based order of magnitude, not a published count."
+  },
+  "sources": [
+    "https://www.evoolvepaincare.academy/",
+    "https://www.evoolvepaincare.academy/about",
+    "https://www.evoolvepaincare.academy/faqs",
+    "https://www.evoolvepaincare.academy/course/knowledge",
+    "https://www.bodylogic.physio/",
+    "https://doi.org/10.1016/S0140-6736(23)00441-5",
+    "https://doi.org/10.1016/S2665-9913(25)00135-3",
+    "https://doi.org/10.1002/j.1532-2149.2012.00252.x",
+    "https://doi.org/10.1002/ejp.1399",
+    "https://doi.org/10.1136/bjsports-2019-100780",
+    "https://doi.org/10.1097/j.pain.0000000000002644",
+    "https://doi.org/10.1136/bjsports-2024-109012",
+    "https://doi.org/10.1093/ptj/pzad105",
+    "https://doi.org/10.2519/jospt.2026.14238",
+    "https://doi.org/10.1177/0269215520941910",
+    "https://doi.org/10.1093/ptj/pzy022",
+    "https://doi.org/10.1093/ptj/pzae128",
+    "https://doi.org/10.2519/jospt.2023.11447",
+    "https://doi.org/10.1016/j.ijnurstu.2023.104679",
+    "https://doi.org/10.1093/pm/pnaf002",
+    "https://doi.org/10.2519/jospt.2025.13281",
+    "https://doi.org/10.3233/BMR-240230",
+    "https://doi.org/10.1016/j.brat.2025.104853",
+    "https://doi.org/10.1002/ejp.70275",
+    "https://doi.org/10.1016/j.physio.2024.02.003",
+    "https://pubmed.ncbi.nlm.nih.gov/40880076/",
+    "https://pubmed.ncbi.nlm.nih.gov/31079050/",
+    "https://www.news-medical.net/news/20250805/Australian-study-finds-lasting-relief-for-back-pain-through-cognitive-functional-therapy.aspx",
+    "https://www.scimex.org/newsfeed/back-pain-study-sustained-benefits-from-mind-and-body-treatment-approach",
+    "https://physioupdate.co.uk/course-of-cognitive-functional-therapy-for-low-back-pain-remains-effective-for-at-least-three-years-finds-physiotherapist-led-team/"
+  ]
+}

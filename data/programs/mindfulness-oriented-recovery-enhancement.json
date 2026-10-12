@@ -1,0 +1,315 @@
+{
+  "slug": "mindfulness-oriented-recovery-enhancement",
+  "name": "Mindfulness-Oriented Recovery Enhancement (MORE)",
+  "url": "https://drericgarland.com/about-m-o-r-e",
+  "founders": [
+    "Eric L. Garland, PhD, LCSW (formerly University of Utah; now UC San Diego Dept. of Psychiatry / Sanford Institute)"
+  ],
+  "founded_year": 2008,
+  "founded_year_range": "2007-2008. The first pilot RCT ran in 2008 (Garland et al. 2010, J Psychoactive Drugs). The name MORE was in print by 2012, and the NASW Press manual was published in 2013.",
+  "category": "contemplative/meditation program (clinician-delivered integrative mindfulness therapy)",
+  "delivery": [
+    "clinician-delivered",
+    "group",
+    "telehealth/Zoom",
+    "individual therapy",
+    "app (companion practice app)",
+    "book (Guilford 2024 manual)",
+    "online clinician certification"
+  ],
+  "business_model": "clinician-delivered (fee-for-service)",
+  "cost_summary": "Patients: no published price. MORE is billed as group/individual psychotherapy or group medical visits where offered (e.g. Essentia Health since 2021), and is free in trials. Clinicians: online certification course lists at USD 895, on sale at USD 716 (institute.moretherapy.com, Oct 2026). It is a one-time payment for annual membership and includes 12 self-paced modules (~10 h), monthly live sessions, a free annual subscription to the companion app and up to 10 CE hours (NAADAC/NASW-Utah). Earlier 2-day live trainings cost USD 500. Guilford manual published 2024.",
+  "cost_usd_typical": null,
+  "conditions_claimed": [
+    "chronic pain (general)",
+    "addiction/substance use",
+    "chronic back/neck pain",
+    "depression",
+    "PTSD/trauma",
+    "general stress/wellbeing",
+    "anxiety",
+    "cancer pain",
+    "perioperative pain",
+    "fibromyalgia (registered trial only)"
+  ],
+  "conditions_primary": [
+    "chronic pain (general)",
+    "addiction/substance use",
+    "PTSD/trauma",
+    "depression"
+  ],
+  "differentiation": "mostly unified with condition-specific emphasis",
+  "mechanisms": [
+    "mind-wandering / reactivity (mindfulness model)",
+    "attention & interoception / hypervigilance",
+    "fear-avoidance / catastrophizing / cognitive appraisal",
+    "hedonic dysregulation / reward deficit (allostatic downward spiral)",
+    "stress / HPA axis",
+    "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")"
+  ],
+  "mechanism_summary": "MORE uses a \"downward spiral\" allostatic model in which chronic pain, negative affect and opioid use reinforce one another. Opioid exposure produces hedonic dysregulation: drug cues gain salience (attentional bias, cue-reactivity, craving) while natural rewards lose value (anhedonia). This combines with attentional bias toward pain and catastrophizing appraisals. Treatment targets the attention–appraisal–reward interface with three skills. Mindfulness reinterprets pain as neutral sensations and interrupts automatic habits. Reappraisal reduces catastrophizing. Savoring restores natural-reward responsiveness. Proposed biomarkers include HRV during meditation (Am Psychol 2020), frontal-midline theta (Neuropsychopharmacology 2021) and LPP/P300 reward responses (Sci Adv 2019). The model stays within mainstream neuroscience and is used alongside medication; it does not claim pain is purely brain-generated.",
+  "roots": [
+    "Buddhist vipassana/insight meditation",
+    "MBSR/MBCT",
+    "Mindfulness-Based Relapse Prevention (Marlatt)",
+    "CBT (Beck/Ellis)",
+    "third-wave CBT (ACT, DBT)",
+    "life coaching / positive psychology",
+    "allostasis/reward-deficiency addiction theory (Koob)",
+    "gate control / neuromatrix pain science",
+    "hypnosis (Mesmer, Erickson)"
+  ],
+  "techniques": [
+    "mindful breathing",
+    "body scan",
+    "mindfulness of pain / mindful reinterpretation of pain sensations (zooming in/out)",
+    "mindful awareness of craving / urge surfing",
+    "mindful reappraisal (positive reappraisal)",
+    "savoring natural rewards",
+    "self-transcendence practice",
+    "3-minute breathing/STOP micro-practices before opioid dosing",
+    "psychoeducation on pain-addiction spiral and safe opioid use",
+    "8 weekly 2-h groups plus ~15 min/day audio-guided home practice",
+    "brief variants: One MORE single session, MORE-VR, wearable just-in-time prompts"
+  ],
+  "mainstream_adoption": "moderate",
+  "mainstream_notes": "MORE is embedded in academic and health-system care. Essentia Health has offered MORE as an insurance-reimbursable group-medical-visit service since Jan 2021 (developer site). The developer's site lists Johns Hopkins, Mount Sinai, Kaiser Permanente (WA), the Philadelphia VAMC and the Ralph H. Johnson VAMC as institutions where clinicians were trained; routine delivery at each is not documented. The site also reports >1,100 clinicians trained. MORE is funded by NIH HEAL/NCCIH/NIDA and DoD, including large military SMART trials (N=749-850). Garland held a VA Salt Lake City Whole Health Flagship affiliation. The developer claims VA \"recognition\" (Oct 2025), but the cited VA Whole Health Meditation page does not name MORE (checked Oct 2026). MORE is not named in VA/DoD, NICE or CDC guidelines; those endorse mindfulness/CBT generically.",
+  "insurance": "sometimes/indirect",
+  "insurance_notes": "There is no MORE-specific code. It is billed under generic group/individual psychotherapy, group medical visit or Health Behavior Assessment & Intervention (CPT 96156-96171) codes, depending on setting and licensure. Essentia Health has offered it as insurance-reimbursable since 2021. A developer-co-authored economic evaluation (Wilson & Garland, Value Health 2026) reports ~USD 116 per averted case of opioid misuse and a 12:1 benefit-to-cost ratio; these figures were not re-verified beyond the PubMed record.",
+  "evidence_level": "systematic reviews/meta-analyses",
+  "key_trials": [
+    {
+      "citation": "Garland EL, Hanley AW, Nakamura Y, et al. JAMA Intern Med 2022;182(4):407-417",
+      "design": "Stage-2 RCT in 6 Utah primary-care clinics, adults on long-term opioids with misuse, MORE vs supportive group psychotherapy, 8x2h, 9-mo follow-up (NCT02602535)",
+      "n": 250,
+      "finding": "Opioid misuse reduced (OR 2.06, 95% CI 1.17-3.61); at 9 mo 45.0% vs 24.4% were no longer misusing. Between-group effects in BPI points were 0.49 for pain severity and 1.07 for interference. Opioid dose reduction was greater, and emotional distress and craving were lower. 36.8% discontinued by 9 mo.",
+      "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2789279"
+    },
+    {
+      "citation": "Garland EL, Nakamura Y, Bryan CJ, et al. Am J Psychiatry 2024;181(2):125-134",
+      "design": "RCT, past/present military personnel on long-term opioid therapy, MORE vs supportive psychotherapy (in person, then video after COVID onset), 8-mo follow-up",
+      "n": 230,
+      "finding": "Superior for pain interference, pain severity and opioid dose (-20.7% vs -3.9%). No overall difference in opioid misuse (co-primary); in-person MORE did outperform on misuse. Reduced anhedonia, catastrophizing, craving and opioid attentional bias.",
+      "url": "https://doi.org/10.1176/appi.ajp.20230272"
+    },
+    {
+      "citation": "Cooperman NA, Lu SE, Hanley AW, et al. JAMA Psychiatry 2024;81(4):338-346",
+      "design": "Phase-2 RCT, 5 NJ methadone clinics, OUD + chronic pain, telehealth MORE + usual care vs usual care, 16 wk",
+      "n": 154,
+      "finding": "After adjustment for a priori covariates: lower hazard of return to drug use (HR 0.58, 95% CI 0.37-0.90) and of methadone-treatment dropout (HR 0.41). Raw rates were 50.6% vs 57.1% returning to use and 13.0% vs 22.1% dropping out. Fewer drug-use days (ratio of means 0.58), better methadone adherence (95.5% vs 83.6%), and greater reductions in depression and EMA pain. Anxiety did not differ.",
+      "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2812818"
+    },
+    {
+      "citation": "Garland EL, Manusov EG, Froeliger B, et al. J Consult Clin Psychol 2014;82(3):448-459",
+      "design": "Early-stage RCT, opioid-treated chronic pain, 8 wk MORE vs support group (NCT01505101)",
+      "n": 115,
+      "finding": "Greater reductions in pain severity and interference, maintained at 3 mo. Opioid misuse and desire for opioids were reduced post-treatment but not sustained.",
+      "url": "https://doi.org/10.1037/a0035798"
+    },
+    {
+      "citation": "Garland EL, Hanley AW, Riquino MR, et al. J Consult Clin Psychol 2019;87(10):927-940",
+      "design": "Mechanistic analysis of a Stage-2 RCT, opioid-treated chronic pain, MORE vs support group",
+      "n": 95,
+      "finding": "Greater pain reduction and lower opioid-misuse risk at 3 mo, mediated by analgesic and positive-psychological mechanisms.",
+      "url": "https://doi.org/10.1037/ccp0000390"
+    },
+    {
+      "citation": "Garland EL, Roberts-Lewis A, Tronnier CD, et al. Behav Res Ther 2016;77:7-16",
+      "design": "Pragmatic 3-arm RCT, formerly homeless men with SUD, psychiatric disorder and trauma in a therapeutic community; 10 wk MORE (n=64) vs group CBT (n=64) vs TAU (n=52)",
+      "n": 180,
+      "finding": "Modestly greater reductions than CBT in craving, PTSD symptoms and negative affect; greater improvement than TAU in PTSD symptoms and positive affect.",
+      "url": "https://doi.org/10.1016/j.brat.2015.11.012"
+    },
+    {
+      "citation": "Wexler RS, Fox DJ, ZuZero D, ... Pickworth CK. Pain Rep 2024;9(2):e1132 (developer not an author)",
+      "design": "RCT, virtually delivered MORE vs TAU for 8 wk, lumbosacral radiculopathy (sciatica), National University of Natural Medicine/OHSU",
+      "n": null,
+      "finding": "Daily pain intensity reduced (p=.002). No significant effect on disability (primary, p=.09), depression or quality of life. N is not stated in the abstract (~60 per original compilation, unverified).",
+      "url": "https://doi.org/10.1097/pr9.0000000000001132"
+    },
+    {
+      "citation": "Parisi A, Roberts RL, Hanley AW, Garland EL. Mindfulness 2022;13:2396-2412",
+      "design": "Developer-authored multilevel meta-analysis of 8 RCTs (16 manuscripts)",
+      "n": 816,
+      "finding": "Small-to-moderate effects on addictive behaviors (SMC -0.54), craving (-0.42), opioid dose (MC -17.95), chronic pain (SMC -0.60) and psychiatric symptoms (SMC -0.34).",
+      "url": "https://doi.org/10.1007/s12671-022-01964-x"
+    },
+    {
+      "citation": "Parisi A, Hudak J, Froeliger B, Garland EL. Nat Ment Health 2023;1:489-500",
+      "design": "Secondary analysis of the JAMA IM 2022 RCT, PTSD outcomes",
+      "n": null,
+      "finding": "Greater reduction in post-traumatic stress than control, via reappraisal; this mediated the effect on opioid misuse. The N≈241 in the original compilation was not verified.",
+      "url": "https://doi.org/10.1038/s44220-023-00084-2"
+    },
+    {
+      "citation": "Li W, Garland EL, McGovern P, et al. Psychol Addict Behav 2017;31(4):393-402",
+      "design": "Stage-1 RCT, internet gaming disorder, MORE vs support group",
+      "n": 30,
+      "finding": "Greater reductions in gaming disorder symptoms and craving (N from original compilation).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28437120/"
+    },
+    {
+      "citation": "Bryl KL, Hanley AW, Baser RE, ... Garland EL, Mao JJ. J Pain Symptom Manage 2026;71:547-559",
+      "design": "Pilot RCT at MSKCC, cancer survivors with moderate-severe pain, randomized 3:1 to 16-, 8- or 2-h MORE vs waitlist",
+      "n": 60,
+      "finding": "Feasible and acceptable, with preliminary improvements in pain.",
+      "url": "https://doi.org/10.1016/j.jpainsymman.2025.12.024"
+    }
+  ],
+  "controversy": "There is no public controversy. The scholarly caveats are: (1) developer allegiance, since nearly all RCTs, the meta-analysis and the economic evaluation include Garland or close collaborators, and the main independent RCT (sciatica, Pain Rep 2024) was null on its primary disability outcome; (2) comparators are mostly supportive groups or usual care rather than strong active treatments (the exception is group CBT in 2016); (3) attrition is ~35-40% and self-report outcomes are unblinded; (4) results are mixed on some primary outcomes (misuse not different overall in AJP 2024; JAMA Psychiatry 2024 effects significant only after covariate adjustment); (5) marketing claims exceed the data. \"Nearly three times as effective as standard therapy\" is tied to a 45.0% vs 24.4% misuse-remission difference, about 1.8-fold. The site cites \"more than 16 clinical trials\" and VA \"recognition\", the latter not visible on the cited VA page.",
+  "popularity": {
+    "indicators": [
+      {
+        "metric": "Peer-reviewed papers with MORE in title",
+        "value": "58 (2012-2026); per year rising from 1 (2012) to 6 (2019), 8 (2024), 8 (2026). Not re-run at fact-check.",
+        "source": "Europe PMC TITLE search",
+        "year": 2026
+      },
+      {
+        "metric": "Full-text literature mentions",
+        "value": "352 (not re-run at fact-check)",
+        "source": "Europe PMC",
+        "year": 2026
+      },
+      {
+        "metric": "ClinicalTrials.gov registered studies",
+        "value": "38 (not re-run at fact-check)",
+        "source": "ClinicalTrials.gov API v2",
+        "year": 2026
+      },
+      {
+        "metric": "Clinicians trained",
+        "value": ">1,100 (developer claim; ~475 earlier)",
+        "source": "drericgarland.com/about-m-o-r-e",
+        "year": 2026
+      },
+      {
+        "metric": "Media",
+        "value": "CNN 'It Doesn't Have to Hurt'; Sanjay Gupta Chasing Life podcast (Aug 2025), per developer site",
+        "source": "drericgarland.com",
+        "year": 2025
+      },
+      {
+        "metric": "Book",
+        "value": "NASW Press manual 2013; Guilford Press manual 2024",
+        "source": "drericgarland.com; Crossref",
+        "year": 2024
+      },
+      {
+        "metric": "Health-system delivery",
+        "value": "Essentia Health insurance-reimbursable group medical visits since Jan 2021",
+        "source": "drericgarland.com/about-m-o-r-e",
+        "year": 2021
+      },
+      {
+        "metric": "Consumer/social media presence",
+        "value": "Negligible (no subreddit or consumer product; little forum discussion)",
+        "source": "qualitative assessment; no systematic sweep (web-search quota exhausted)",
+        "year": 2026
+      }
+    ],
+    "reach_estimate": "~10,000-30,000 people (Fermi estimate). Trial participants total roughly 2,000-3,000. More than 1,100 trained clinicians, each running perhaps a few groups of 6-12 patients, could add roughly 10k-25k patients.",
+    "reach_log10": 4.2,
+    "trajectory": [
+      {
+        "year": 2008,
+        "relative_activity": 0.5
+      },
+      {
+        "year": 2010,
+        "relative_activity": 1
+      },
+      {
+        "year": 2012,
+        "relative_activity": 1.5
+      },
+      {
+        "year": 2013,
+        "relative_activity": 2
+      },
+      {
+        "year": 2014,
+        "relative_activity": 3
+      },
+      {
+        "year": 2015,
+        "relative_activity": 3
+      },
+      {
+        "year": 2016,
+        "relative_activity": 3.5
+      },
+      {
+        "year": 2017,
+        "relative_activity": 4
+      },
+      {
+        "year": 2018,
+        "relative_activity": 4
+      },
+      {
+        "year": 2019,
+        "relative_activity": 5
+      },
+      {
+        "year": 2020,
+        "relative_activity": 5
+      },
+      {
+        "year": 2021,
+        "relative_activity": 6
+      },
+      {
+        "year": 2022,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2023,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2024,
+        "relative_activity": 8.5
+      },
+      {
+        "year": 2025,
+        "relative_activity": 9
+      },
+      {
+        "year": 2026,
+        "relative_activity": 10
+      }
+    ],
+    "method_notes": "The trajectory is anchored on annual counts of MORE-titled publications (Europe PMC), ClinicalTrials.gov registrations, clinicians trained (developer claims) and milestone events: 2013 manual, 2021 Essentia billing, 2022 JAMA IM, 2024 AJP/JAMA Psychiatry and Guilford book, 2025 media, 2026 online certification institute. Reach is a Fermi estimate. No consumer metrics (Reddit, Google Trends, app downloads) were gathered because the web-search quota was exhausted. Literature and registry counts come from the original compilation and were not re-run during fact-check."
+  },
+  "sources": [
+    "https://drericgarland.com/about-m-o-r-e",
+    "https://drericgarland.com/training-in-more/",
+    "https://drericgarland.com/2025/10/01/mindfulness-oriented-recovery-enhancement-more-recognized-by-u-s-dept-of-veterans-affairs/",
+    "https://www.va.gov/wholehealth/professional-resources/Meditation.asp",
+    "https://institute.moretherapy.com/course/more-certification",
+    "https://pubmed.ncbi.nlm.nih.gov/35226053/",
+    "https://pubmed.ncbi.nlm.nih.gov/38196335/",
+    "https://pubmed.ncbi.nlm.nih.gov/38061786/",
+    "https://pubmed.ncbi.nlm.nih.gov/24491075/",
+    "https://pubmed.ncbi.nlm.nih.gov/31556669/",
+    "https://pubmed.ncbi.nlm.nih.gov/26701171/",
+    "https://pubmed.ncbi.nlm.nih.gov/20648913/",
+    "https://pubmed.ncbi.nlm.nih.gov/31663023/",
+    "https://pubmed.ncbi.nlm.nih.gov/34134880/",
+    "https://pubmed.ncbi.nlm.nih.gov/28437120/",
+    "https://pubmed.ncbi.nlm.nih.gov/38500566/",
+    "https://pubmed.ncbi.nlm.nih.gov/38588552/",
+    "https://pubmed.ncbi.nlm.nih.gov/41490669/",
+    "https://pubmed.ncbi.nlm.nih.gov/39172534/",
+    "https://pubmed.ncbi.nlm.nih.gov/40305010/",
+    "https://pubmed.ncbi.nlm.nih.gov/32919401/",
+    "https://pubmed.ncbi.nlm.nih.gov/32915027/",
+    "https://pubmed.ncbi.nlm.nih.gov/36124231/",
+    "https://pubmed.ncbi.nlm.nih.gov/39046159/",
+    "https://pubmed.ncbi.nlm.nih.gov/42492812/",
+    "https://doi.org/10.1038/s44220-023-00084-2",
+    "https://clinicaltrials.gov/",
+    "https://www.ebi.ac.uk/europepmc/"
+  ]
+}

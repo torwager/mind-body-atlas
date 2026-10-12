@@ -1,0 +1,265 @@
+{
+  "slug": "feldenkrais-method",
+  "name": "Feldenkrais Method (Awareness Through Movement / Functional Integration)",
+  "url": "https://feldenkrais.com/",
+  "founders": [
+    "Moshé Feldenkrais (1904-1984; engineer/physicist, D.Sc. Sorbonne, early European judo black belt)"
+  ],
+  "founded_year": 1949,
+  "founded_year_range": "1940s-1950s. Basis: Body and Mature Behavior (1949) and Tel Aviv classes from the 1950s. First practitioner training in Tel Aviv approx. 1969-71; US trainings San Francisco 1975-78 and Amherst 1980-84. Professional bodies came later: Feldenkrais Guild of North America (approx. 1977) and the International Feldenkrais Federation (approx. 1992); these dates are unverified.",
+  "category": "somatic/movement practice",
+  "delivery": [
+    "group classes (Awareness Through Movement)",
+    "clinician-delivered one-to-one hands-on (Functional Integration)",
+    "online classes/recordings",
+    "book",
+    "workshops"
+  ],
+  "business_model": "clinician-delivered (fee-for-service)",
+  "cost_summary": "IQWiG (2023): about EUR 10-20 per group session and EUR 60-90 per individual session, typically paid out of pocket. Typical US market range (unverified): about $15-35 per ATM class and $80-200 per FI session. Much ATM material is free online.",
+  "cost_usd_typical": 120,
+  "conditions_claimed": [
+    "chronic back/neck pain",
+    "chronic pain (general)",
+    "fibromyalgia",
+    "TMD/jaw",
+    "anxiety",
+    "general stress/wellbeing",
+    "multiple sclerosis",
+    "Parkinson's disease",
+    "stroke rehabilitation",
+    "balance/falls in older adults",
+    "cerebral palsy",
+    "performance enhancement"
+  ],
+  "conditions_primary": [
+    "chronic back/neck pain",
+    "chronic pain (general)",
+    "general stress/wellbeing",
+    "balance/falls in older adults"
+  ],
+  "differentiation": "transdiagnostic / not disorder-focused",
+  "mechanisms": [
+    "sensorimotor / movement patterns / body schema",
+    "attention & interoception / hypervigilance",
+    "neuroplastic/learned pain (brain-generated danger signal / predictive processing)",
+    "fear-avoidance / catastrophizing / cognitive appraisal"
+  ],
+  "mechanism_summary": "Pain and dysfunction are attributed to learned, inefficient or protective habitual action organised by the person's \"self-image\" (movement, sensation, feeling, thought), such as excess effort, co-contraction and guarding. Slow, small, effortless, varied movements done with attention to differences are meant to allow sensorimotor relearning: a refined body schema, better interoceptive awareness and less protective threat behaviour. Modern proponents frame this as neuroplasticity. The method has no disease-specific mechanisms and makes no claims about ME/CFS, POTS, MCS or similar illnesses.",
+  "roots": [
+    "Feldenkrais / Alexander / somatics",
+    "judo / martial arts",
+    "Coué autosuggestion",
+    "Freudian psychoanalysis / psychodynamic theory",
+    "Pavlov",
+    "cybernetics / physics and mechanics"
+  ],
+  "techniques": [
+    "Awareness Through Movement verbally guided group lessons (slow, small, effortless floor movements, often 45-60 min)",
+    "Functional Integration hands-on one-to-one guided movement",
+    "differentiation of body parts (e.g. eyes vs head)",
+    "comparing sides / sensing differences",
+    "reducing effort, staying out of pain, frequent rests",
+    "imagined movement",
+    "repetition with variation / exploratory rather than performance movement",
+    "transfer of awareness to daily activities",
+    "recorded lessons and books for home practice"
+  ],
+  "mainstream_adoption": "limited",
+  "mainstream_notes": "Used by some PTs and OTs. In Buchanan 2014, 36.9% of responding US Guild teachers held conventional healthcare licences and about a fifth of students were referred by conventional providers. Used in some Swedish multidisciplinary pain programs and in performing-arts schools. Not in major guidelines. The Australian 2015 natural-therapies review found no clear evidence. Germany's IQWiG HTA (2023) found only hints of benefit, in Parkinson's and in chronic low back pain against some comparators, from 6 high-risk-of-bias RCTs, and no long-term benefit.",
+  "insurance": "sometimes/indirect",
+  "insurance_notes": "Generally self-pay (two-thirds of US students pay directly, Buchanan 2014). Indirect coverage is possible when a licensed PT or OT bills Feldenkrais-informed therapeutic exercise or neuromuscular re-education. Excluded from Australian private health insurance rebates (announced 2017, effective April 2019). Not covered by German statutory insurance.",
+  "evidence_level": "systematic reviews/meta-analyses",
+  "key_trials": [
+    {
+      "citation": "Hillier S, Worley A. Evid Based Complement Alternat Med 2015 (PMID 25949266)",
+      "design": "Systematic review of 20 RCTs (meta-analysis of 7)",
+      "n": null,
+      "finding": "Balance improved in ageing populations (TUG MD -1.14 s; Functional Reach +6.08 cm). Effects were generic and risk of bias was high.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25949266/"
+    },
+    {
+      "citation": "Berland R et al. Int J Environ Res Public Health 2022 (PMID 36360614)",
+      "design": "Systematic review and meta-analysis of 16 RCTs",
+      "n": null,
+      "finding": "TUG d = -1.14, the same estimate and CI as Hillier 2015, so the data likely overlap. Effects in spine pain comparable to other physiotherapy. No effect on MS self-efficacy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36360614/"
+    },
+    {
+      "citation": "IQWiG HTA HT20-05, Feb 2023 (PMID 36780406)",
+      "design": "Health technology assessment of 6 RCTs across 5 indications, all at high risk of bias",
+      "n": null,
+      "finding": "Hints of benefit in Parkinson's (vs lecture education) and in chronic low back pain (vs trunk-stabilisation education). CLBP evidence inconsistent overall. No hint of long-term benefit and no harms data. Evidence is almost entirely from group ATM.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK589183/"
+    },
+    {
+      "citation": "Ahmadi H et al. Clin Rehabil 2020 (PMID 32723088)",
+      "design": "Single-blind RCT vs education plus home core-stability exercise, chronic non-specific low back pain, 5 weeks",
+      "n": 60,
+      "finding": "Better QoL, interoceptive awareness (MAIA) and disability with Feldenkrais. McGill pain fell in both arms with no between-group difference.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32723088/"
+    },
+    {
+      "citation": "Paolucci T et al. Disabil Rehabil 2017 (PMID 27215948)",
+      "design": "Single-blind RCT vs Back School, chronic low back pain, 3-month follow-up",
+      "n": 53,
+      "finding": "No between-group difference in pain. Both arms improved in pain and disability. Efficacy comparable to Back School.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27215948/"
+    },
+    {
+      "citation": "Lundqvist LO, Zetterlund C, Richter HO. Arch Phys Med Rehabil 2014 (PMID 24907640)",
+      "design": "RCT vs untreated control, visually impaired adults with chronic neck/scapular pain, 1-year follow-up",
+      "n": 61,
+      "finding": "Lower VAS pain at post-treatment and at 1 year. No difference on SF-36 bodily pain.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24907640/"
+    },
+    {
+      "citation": "Giorgi V et al. J Bodyw Mov Ther 2023 (PMID 37949579)",
+      "design": "Uncontrolled observational proof-of-concept study, fibromyalgia, 4 months of group ATM",
+      "n": 128,
+      "finding": "Polysymptomatic distress and pain catastrophising improved. FIQR change not significant.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37949579/"
+    },
+    {
+      "citation": "Malmgren-Olsson EB, Bränholm IB. Disabil Rehabil 2002 (PMID 12017464)",
+      "design": "Non-randomised three-arm comparison with consecutive allocation (Body Awareness Therapy vs Feldenkrais vs conventional PT), non-specific musculoskeletal disorders, 1-year follow-up",
+      "n": 78,
+      "finding": "Somewhat larger effect sizes for BAT and Feldenkrais, with pain self-efficacy maintained. Few significant between-group differences.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12017464/"
+    }
+  ],
+  "controversy": "Quackwatch lists it among \"unnaturalistic methods.\" David Gorski has likened it to faith healing, called it \"glorified yoga\" and said it \"borders on quackery.\" The Australian 2015 review found no clear evidence, and it was excluded from insurance rebates. IQWiG 2023 found only weak hints of benefit and raised the ethical concern that trademark protection may lead users to expect unproven benefits. Neuroplasticity explanations are post-hoc, and claims for autism, cerebral palsy and MS outrun the evidence. Its claims are modest compared with limbic-retraining programs.",
+  "popularity": {
+    "indicators": [
+      {
+        "metric": "US Guild-certified teachers invited to survey (30.5% responded; most part-time, fewer than 10 individual students per week; pain was the main reason students came)",
+        "value": "1,287",
+        "source": "Buchanan et al. 2014 BMC Complement Altern Med (PMID 24985488)",
+        "year": 2014
+      },
+      {
+        "metric": "Practitioners certified in US trainings (San Francisco 1975-78; Amherst 1980-84)",
+        "value": "several hundred",
+        "source": "Wikipedia",
+        "year": 1984
+      },
+      {
+        "metric": "Popular book coverage",
+        "value": "Long chapter in Doidge's NYT bestseller The Brain's Way of Healing",
+        "source": "Doidge 2015",
+        "year": 2015
+      },
+      {
+        "metric": "Founding text in print",
+        "value": "Awareness Through Movement (1972) in print for 50+ years",
+        "source": "publisher history",
+        "year": 1972
+      },
+      {
+        "metric": "Government HTA reviews",
+        "value": "Australia 2015 (negative); Germany IQWiG 2023 (weak hints)",
+        "source": "Wikipedia; PMID 36780406",
+        "year": 2023
+      },
+      {
+        "metric": "PubMed records matching 'feldenkrais'",
+        "value": "109",
+        "source": "NCBI E-utilities esearch, 2026-10-12",
+        "year": 2026
+      }
+    ],
+    "reach_estimate": "About 1 million cumulative (order of magnitude). Basis: a few thousand certified practitioners worldwide (1,287 in the US in 2014), most part-time and seeing fewer than 10 individual plus fewer than 10 group students a week, over 50+ years, plus book readers and free online ATM audiences.",
+    "reach_log10": 6,
+    "trajectory": [
+      {
+        "year": 1950,
+        "relative_activity": 1
+      },
+      {
+        "year": 1960,
+        "relative_activity": 2
+      },
+      {
+        "year": 1970,
+        "relative_activity": 3
+      },
+      {
+        "year": 1975,
+        "relative_activity": 5
+      },
+      {
+        "year": 1980,
+        "relative_activity": 6
+      },
+      {
+        "year": 1985,
+        "relative_activity": 6
+      },
+      {
+        "year": 1990,
+        "relative_activity": 6
+      },
+      {
+        "year": 1995,
+        "relative_activity": 6
+      },
+      {
+        "year": 2000,
+        "relative_activity": 6
+      },
+      {
+        "year": 2005,
+        "relative_activity": 6
+      },
+      {
+        "year": 2010,
+        "relative_activity": 6
+      },
+      {
+        "year": 2015,
+        "relative_activity": 7
+      },
+      {
+        "year": 2018,
+        "relative_activity": 7
+      },
+      {
+        "year": 2020,
+        "relative_activity": 7
+      },
+      {
+        "year": 2022,
+        "relative_activity": 7
+      },
+      {
+        "year": 2024,
+        "relative_activity": 6
+      },
+      {
+        "year": 2026,
+        "relative_activity": 6
+      }
+    ],
+    "method_notes": "The web search budget was used up, and Reddit, the Wayback Machine and feldenkrais.com blocked automated fetches, so subreddit size and Google Trends could not be checked. The trajectory is built from documented milestones: 1949 book; 1950s Tel Aviv classes; 1972 ATM book and Esalen era; 1975-84 US trainings; 1990s-2000s growth of guilds; 2014 count of 1,287 US teachers; 2015 Doidge bestseller; 2020 COVID shift online; 2023 IQWiG HTA. Activity levels are relative within the program. Reach is an order-of-magnitude estimate from practitioner counts times caseload, plus book and online audiences. Fact-check (2026-10-12) confirmed all cited PMIDs via NCBI E-utilities."
+  },
+  "sources": [
+    "https://feldenkrais.com/",
+    "https://feldenkrais-method.org/",
+    "https://www.feldenkrais.co.uk/",
+    "https://en.wikipedia.org/wiki/Feldenkrais_Method",
+    "https://pubmed.ncbi.nlm.nih.gov/25949266/",
+    "https://pubmed.ncbi.nlm.nih.gov/36360614/",
+    "https://pubmed.ncbi.nlm.nih.gov/36780406/",
+    "https://www.ncbi.nlm.nih.gov/books/NBK589183/",
+    "https://pubmed.ncbi.nlm.nih.gov/39151592/",
+    "https://pubmed.ncbi.nlm.nih.gov/32723088/",
+    "https://pubmed.ncbi.nlm.nih.gov/27215948/",
+    "https://pubmed.ncbi.nlm.nih.gov/24907640/",
+    "https://pubmed.ncbi.nlm.nih.gov/12017464/",
+    "https://pubmed.ncbi.nlm.nih.gov/37949579/",
+    "https://pubmed.ncbi.nlm.nih.gov/24985488/",
+    "https://pubmed.ncbi.nlm.nih.gov/21419355/",
+    "https://pubmed.ncbi.nlm.nih.gov/39593566/",
+    "https://pubmed.ncbi.nlm.nih.gov/25599428/"
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "slug": "non-invasive-vagus-nerve-stimulation",
+  "name": "Non-invasive vagus nerve stimulation (gammaCore, Truvaga, Pulsetto, Nurosym, vagal-tone wearables)",
+  "url": "https://www.gammacore.com/",
+  "founders": [
+    "electroCore Inc. (co-founded 2005 by JP Errico, Thomas J. Errico MD, Charles Theofilos MD, Peter Staats MD)",
+    "Pulsetto UAB (founders listed as 'Povilas and Vitalijus'; surnames Sabaliauskas/Majorovas unverified)",
+    "Parasym Ltd (Nurosym; founders not verified)",
+    "Apollo Neuro (David Rabin MD PhD, Kathryn Fantauzzi) - margin",
+    "Sensate - margin"
+  ],
+  "founded_year": 2005,
+  "founded_year_range": "2005 (electroCore founded); gammaCore FDA De Novo 2017; consumer wave 2021-2023 (Pulsetto 2021 per company, Truvaga ~2023); implanted VNS lineage from 1988",
+  "category": "device/neuromodulation/biofeedback",
+  "delivery": [
+    "device",
+    "app",
+    "clinician-prescribed device"
+  ],
+  "business_model": "commercial",
+  "cost_summary": "gammaCore: Rx-only with no public list price; HSA/FSA eligible; supplied to veterans via VA. Truvaga Plus: list price not shown, $75-off promo (Oct 2026). Pulsetto Lite $269 / FIT $296 on sale (list ~$469/$546), app Premium $15. Nurosym: EUR pricing, not sold in US. Apollo $448 bundle with 1-yr membership (HSA/FSA eligible per site). Sensate GBP 299-348.",
+  "cost_usd_typical": 300,
+  "conditions_claimed": [
+    "headache/migraine",
+    "general stress/wellbeing",
+    "anxiety",
+    "insomnia",
+    "depression",
+    "long COVID",
+    "PVFS",
+    "POTS/dysautonomia",
+    "fibromyalgia",
+    "IBS/functional GI",
+    "chronic pain (general)",
+    "ME/CFS",
+    "cluster headache"
+  ],
+  "conditions_primary": [
+    "headache/migraine",
+    "general stress/wellbeing",
+    "long COVID",
+    "POTS/dysautonomia"
+  ],
+  "differentiation": "mostly unified with condition-specific emphasis",
+  "mechanisms": [
+    "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")",
+    "polyvagal / vagal tone / safety signalling",
+    "inflammation / immune",
+    "peripheral nerve / pain gating",
+    "central sensitization"
+  ],
+  "mechanism_summary": "Transcutaneous electrical stimulation of the cervical or auricular vagus is proposed to drive vagal afferents to the nucleus tractus solitarius and onward to the locus coeruleus, raphe, hypothalamus and limbic areas. For headache (gammaCore), it is proposed to suppress trigeminal nociception and cortical spreading depression (largely animal data), with condition-specific dosing and FDA indications. Consumer devices instead pitch one model: low vagal tone and sympathetic dominance plus inflammation (the cholinergic anti-inflammatory reflex), shifted toward parasympathetic 'rest-and-digest' with HRV as the biomarker. Vibration wearables (Apollo, Sensate) use polyvagal 'safety signal' language. Whether low-intensity transcutaneous stimulation reliably engages the vagus is unresolved.",
+  "roots": [
+    "biofeedback (1960s-70s)",
+    "gate control / neuromatrix pain science",
+    "polyvagal theory",
+    "Selye stress theory",
+    "implanted vagus nerve stimulation (Zabara 1985; epilepsy 1997)",
+    "auricular acupuncture / electroacupuncture",
+    "cholinergic anti-inflammatory pathway (Tracey)",
+    "TENS neuromodulation",
+    "Hindu yoga/pranayama"
+  ],
+  "techniques": [
+    "handheld cervical nVNS 2-min stimulations (acute and twice-daily preventive)",
+    "neck-band cervical stimulation 4-20 min sessions",
+    "ear-clip auricular (tragus/cymba) taVNS 30-60 min/day",
+    "app-guided modes for sleep/calm/focus",
+    "HRV tracking",
+    "paired breathing exercises",
+    "vibration wearables (wrist/chest) for 'safety signals'"
+  ],
+  "mainstream_adoption": "moderate",
+  "mainstream_notes": "gammaCore is FDA-cleared for migraine (acute/preventive, 12+), cluster headache, hemicrania continua and paroxysmal hemicrania, and had a COVID EUA in July 2020. It has been purchased by 195 VA facilities (Q3 2025, up from 166). The IHS 2025 guideline gives a weak recommendation for gammaCore Sapphire in migraine prevention and none for acute use. The Ontario HTA 2025 found it likely cost-effective for cluster prevention only. NICE MTG46 and NHS funding for cluster headache are from prior knowledge and unverified. No mainstream adoption for long COVID, POTS, ME/CFS or fibromyalgia; use is in research clinics. Consumer devices are general-wellness products. electroCore also sells Quell (TENS, FDA fibromyalgia indication) to the VA.",
+  "insurance": "sometimes/indirect",
+  "insurance_notes": "VA/DoD supply gammaCore, its main US revenue channel ($4.7M in Q1 2025 vs $0.29M US commercial). US commercial coverage is sparse; civilian users mostly pay cash or use HSA/FSA. NHS funding for cluster headache unverified. Consumer devices are not reimbursed, though some are marketed as HSA/FSA-eligible.",
+  "evidence_level": "systematic reviews/meta-analyses",
+  "key_trials": [
+    {
+      "citation": "Silberstein SD et al. Headache 2016;56:1317-1332 (ACT1)",
+      "design": "Double-blind sham-controlled RCT, acute cluster headache, electroCore-sponsored",
+      "n": 150,
+      "finding": "Primary missed overall (26.7% vs 15.1%, p=.10; ITT n=133); episodic subgroup positive (34.2% vs 10.6%, p=.008), chronic not",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27593728/"
+    },
+    {
+      "citation": "Goadsby PJ et al. Cephalalgia 2018;38:959-969 (ACT2)",
+      "design": "Double-blind sham-controlled RCT, acute cluster headache",
+      "n": 92,
+      "finding": "Overall NS (14% vs 12%); episodic 48% vs 6% pain-free at 15 min (p<.01); chronic NS",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29231763/"
+    },
+    {
+      "citation": "Gaul C et al. Cephalalgia 2016;36:534-546 (PREVA)",
+      "design": "Open-label RCT, adjunctive nVNS vs standard care, chronic cluster prevention (no sham)",
+      "n": 97,
+      "finding": "-5.9 vs -2.1 attacks/week (p=.02); >=50% response 40% vs 8%",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26391457/"
+    },
+    {
+      "citation": "Tassorelli C et al. Neurology 2018;91:e364-e373 (PRESTO)",
+      "design": "Double-blind sham RCT, acute migraine",
+      "n": 248,
+      "finding": "Primary pain-free at 120 min missed (30.4% vs 19.7%, p=.067); significant at 30 and 60 min",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29907608/"
+    },
+    {
+      "citation": "Diener HC et al. Cephalalgia 2019;39:1475-1487 (PREMIUM)",
+      "design": "Double-blind sham RCT, episodic migraine prevention",
+      "n": 332,
+      "finding": "Not superior to sham (-2.26 vs -1.80 migraine days/month, p=.15); post hoc adherent subgroup positive",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31522546/"
+    },
+    {
+      "citation": "Najib U et al. Cephalalgia 2022;42:560-569 (PREMIUM II)",
+      "design": "Double-blind sham RCT, migraine prevention, stopped early (COVID), underpowered",
+      "n": 113,
+      "finding": "Primary missed (difference -0.83 days, p=.23); 50% responder rate 44.9% vs 26.8% (p=.048)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35001643/"
+    },
+    {
+      "citation": "Silberstein SD et al. Neurology 2016;87:529-538 (EVENT)",
+      "design": "Sham-controlled pilot RCT, chronic migraine prevention",
+      "n": 59,
+      "finding": "Safe; headache-day reduction not different from sham (p=.56)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27412146/"
+    },
+    {
+      "citation": "Natelson BH et al. Life Sci 2021;282:119805 (Gulf War Illness)",
+      "design": "10-week double-blind sham RCT of gammaCore for widespread pain, then open-label",
+      "n": 27,
+      "finding": "Small pain improvement in both arms; active nVNS no better than sham for pain or migraine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34237313/"
+    },
+    {
+      "citation": "Stavrakis S et al. JACC Clin Electrophysiol 2024;10:346-355",
+      "design": "Double-blind sham (earlobe) RCT, tragus stimulation 1 h/day x 2 months, POTS (all female); NIH-funded",
+      "n": 26,
+      "finding": "Smaller orthostatic HR increase (17.6 vs 31.7 bpm, p=.01); lower anti-adrenergic autoantibodies and cytokines",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37999672/"
+    },
+    {
+      "citation": "Gierthmuehlen M et al. Neurol Ther 2026;15:1327-1343 (COVIVA)",
+      "design": "Single-blind 3-arm RCT (sham vs sub- vs above-threshold taVNS, tVNS-L), 4 h/day x 4 weeks, long COVID fatigue",
+      "n": 45,
+      "finding": "High adherence; all arms improved; active not superior to sham",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41926033/"
+    },
+    {
+      "citation": "Zheng ZS et al. Front Neurol 2024;15:1393371",
+      "design": "Single-arm pilot, auricular tVNS 30 min 2x/day x 10 days, long COVID women",
+      "n": 24,
+      "finding": "Improved cognition, anxiety, depression, sleep; fatigue at 1 month; no control",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38756213/"
+    },
+    {
+      "citation": "Ganesh R et al. J Prim Care Community Health 2026;17 (Mayo)",
+      "design": "Pilot RCT, handheld cervical tcVNS 2 min 3x/day vs no-VNS (no sham) control x 12 weeks, long COVID",
+      "n": 18,
+      "finding": "Non-significant trends on PHQ-9, PROMIS-F, COMPASS-31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42501005/"
+    },
+    {
+      "citation": "Lommano MG et al. Joint Bone Spine 2026;93:105966",
+      "design": "Single-arm pilot, Nurosym 30 min 2x/day x 28 days, fibromyalgia women",
+      "n": 25,
+      "finding": "COMPASS-31, FIQR (69->62), painDETECT, CSI-9 improved; catastrophizing NS; uncontrolled",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40935122/"
+    },
+    {
+      "citation": "Balan A et al. J Clin Med 2026;15:4247 (systematic review)",
+      "design": "Systematic review of taVNS in post-COVID condition, 5 studies (3 RCTs)",
+      "n": 154,
+      "finding": "Very low certainty; only adequately double-blinded RCT null; best-powered RCT (Percin) found sham better than active for fatigue",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42279108/"
+    },
+    {
+      "citation": "Yuan H et al. Cephalalgia 2025;45 (IHS guideline)",
+      "design": "GRADE evidence-based guideline on non-invasive neuromodulation in migraine",
+      "n": null,
+      "finding": "Weak recommendation for gammaCore Sapphire in migraine prevention; not among devices recommended for acute treatment",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41117312/"
+    },
+    {
+      "citation": "Ontario Health. Ont Health Technol Assess Ser 2025;25:1-177",
+      "design": "Health technology assessment, RCT synthesis, cost-utility",
+      "n": null,
+      "finding": "Low/very-low certainty for most outcomes; likely cost-effective for cluster prevention (~C$27k/QALY), not migraine prevention (~C$952k/QALY)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40496978/"
+    },
+    {
+      "citation": "de Coo IF et al. Cephalalgia 2019;39:967-977",
+      "design": "Pooled analysis of ACT1+ACT2",
+      "n": 225,
+      "finding": "nVNS superior to sham in episodic but not chronic cluster headache",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31246132/"
+    }
+  ],
+  "controversy": "Several pivotal electroCore-sponsored headache RCTs (ACT1, ACT2, PRESTO, PREMIUM, PREMIUM II) missed their primary endpoints, and indications rest on secondary or subgroup results. Blinding is hard because the active device produces sensation. Consumer devices make implicit disease claims (post-viral fatigue, inflammation, anxiety) under general-wellness status, citing unpublished company data. Target engagement at low transcutaneous intensities is unproven. Sham-controlled long COVID trials are null, sham beat active on fatigue in one, and a gammaCore Parkinson's paper (Mondal 2021) was retracted in 2022 (re-analysis published 2023). Vibration wearables extend polyvagal 'vagal toning' language to devices that do not stimulate the vagus electrically.",
+  "popularity": {
+    "indicators": [
+      {
+        "metric": "electroCore FY2025 revenue guidance",
+        "value": "US$31.5-32.5M (Q3 2025 revenue $8.7M, +33% y/y)",
+        "source": "electroCore Q3 2025 results",
+        "year": 2025
+      },
+      {
+        "metric": "Truvaga sales",
+        "value": "$1.1M in Q1 2025 vs $0.39M in Q1 2024 (+187%); record $1.7M in Q3 2025",
+        "source": "electroCore Q1 2025 8-K; Q3 2025 results",
+        "year": 2025
+      },
+      {
+        "metric": "VA facilities purchasing gammaCore",
+        "value": "195 (vs 166 a year earlier)",
+        "source": "electroCore Q3 2025 results",
+        "year": 2025
+      },
+      {
+        "metric": "Pulsetto customers",
+        "value": ">330,000 customers (homepage); 300K+ users (About page); >20 million stimulations",
+        "source": "pulsetto.tech",
+        "year": 2026
+      },
+      {
+        "metric": "Apollo Neuro customers",
+        "value": ">150,000",
+        "source": "apolloneuro.com",
+        "year": 2026
+      },
+      {
+        "metric": "PubMed tVNS x long COVID/POTS/fibromyalgia/CFS",
+        "value": "~55 records, majority since 2023",
+        "source": "PubMed E-utilities search (researcher)",
+        "year": 2026
+      },
+      {
+        "metric": "electroCore IPO",
+        "value": "US$78M",
+        "source": "Wikipedia",
+        "year": 2018
+      }
+    ],
+    "reach_estimate": "~0.5-1 million cumulative users across brands: Pulsetto >300k, Apollo >150k (company claims), plus tens of thousands each for gammaCore (VA and cash pay) and Truvaga, and Nurosym/Sensate/generic taVNS users",
+    "reach_log10": 5.8,
+    "trajectory": [
+      {
+        "year": 2005,
+        "relative_activity": 0.5
+      },
+      {
+        "year": 2008,
+        "relative_activity": 1
+      },
+      {
+        "year": 2011,
+        "relative_activity": 1.5
+      },
+      {
+        "year": 2014,
+        "relative_activity": 2
+      },
+      {
+        "year": 2016,
+        "relative_activity": 3
+      },
+      {
+        "year": 2017,
+        "relative_activity": 4
+      },
+      {
+        "year": 2018,
+        "relative_activity": 5
+      },
+      {
+        "year": 2019,
+        "relative_activity": 5
+      },
+      {
+        "year": 2020,
+        "relative_activity": 6
+      },
+      {
+        "year": 2021,
+        "relative_activity": 6.5
+      },
+      {
+        "year": 2022,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2023,
+        "relative_activity": 8.5
+      },
+      {
+        "year": 2024,
+        "relative_activity": 9
+      },
+      {
+        "year": 2025,
+        "relative_activity": 10
+      },
+      {
+        "year": 2026,
+        "relative_activity": 9.5
+      }
+    ],
+    "method_notes": "Trajectory anchored on documented events: electroCore founding (2005); headache RCTs (2016-2019); FDA clearances (2017-2021); IPO (2018); COVID EUA (2020); Pulsetto founding (2021); Truvaga launch (~2023); company-reported revenue and customer counts (2024-2026); growth in PubMed taVNS long COVID/POTS publications (mostly 2023+). Google Trends, Reddit and TikTok counts were not retrieved (search budget exhausted); the 2021-2025 social-media 'vagus nerve' surge is from general knowledge and unquantified. Reach sums unaudited company-reported customer counts plus rough estimates for Rx and other brands."
+  },
+  "sources": [
+    "https://www.gammacore.com/",
+    "https://www.truvaga.com/",
+    "https://pulsetto.tech/",
+    "https://pulsetto.tech/pages/about-us",
+    "https://nurosym.com/",
+    "https://apolloneuro.com/",
+    "https://www.getsensate.com/",
+    "https://en.wikipedia.org/wiki/ElectroCore",
+    "https://en.wikipedia.org/wiki/Vagus_nerve_stimulation",
+    "https://www.sec.gov/Archives/edgar/data/1560258/000164117225009039/ex99-1.htm",
+    "https://finviz.com/news/219616/electrocore-announces-third-quarter-2025-financial-results",
+    "https://pubmed.ncbi.nlm.nih.gov/27593728/",
+    "https://pubmed.ncbi.nlm.nih.gov/29231763/",
+    "https://pubmed.ncbi.nlm.nih.gov/26391457/",
+    "https://pubmed.ncbi.nlm.nih.gov/27412146/",
+    "https://pubmed.ncbi.nlm.nih.gov/29907608/",
+    "https://pubmed.ncbi.nlm.nih.gov/31522546/",
+    "https://pubmed.ncbi.nlm.nih.gov/35001643/",
+    "https://pubmed.ncbi.nlm.nih.gov/34237313/",
+    "https://pubmed.ncbi.nlm.nih.gov/37999672/",
+    "https://pubmed.ncbi.nlm.nih.gov/38756213/",
+    "https://pubmed.ncbi.nlm.nih.gov/41926033/",
+    "https://pubmed.ncbi.nlm.nih.gov/42501005/",
+    "https://pubmed.ncbi.nlm.nih.gov/42279108/",
+    "https://pubmed.ncbi.nlm.nih.gov/40935122/",
+    "https://pubmed.ncbi.nlm.nih.gov/41117312/",
+    "https://pubmed.ncbi.nlm.nih.gov/40496978/",
+    "https://pubmed.ncbi.nlm.nih.gov/39753127/",
+    "https://pubmed.ncbi.nlm.nih.gov/31246132/",
+    "https://pubmed.ncbi.nlm.nih.gov/32029547/",
+    "https://pubmed.ncbi.nlm.nih.gov/34045464/",
+    "https://pubmed.ncbi.nlm.nih.gov/37251233/",
+    "https://pubmed.ncbi.nlm.nih.gov/42578005/"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "curable",
+  "name": "Curable (app)",
+  "url": "https://www.curablehealth.com/",
+  "founders": ["John Gribbin (CEO)", "Erich Luedtke (CTO)", "Laura Seago (co-founder, early podcast host)"],
+  "founded_year": 2015,
+  "founded_year_range": "2015-2016 (basis: About page says 'the past decade' as of 2026; earliest Wayback snapshot Oct 2016; podcast 28 Jul 2017; iOS app 19 Dec 2017)",
+  "category": "digital app/platform",
+  "delivery": ["app", "online course", "podcast", "live online classes"],
+  "business_model": "freemium/hybrid",
+  "cost_summary": "14-day free trial plus some free content. Annual plan lists at $15.99/mo billed annually (about $192/yr); first-year promotion is $7.99/mo (about $96/yr) for first-time subscribers, renewing at full price. A separate Classes Plus tier exists. There is a 30-day money-back guarantee on web and Google Play purchases. HSA/FSA eligible. Clinicians can give patients 6 weeks free. (Pricing page, Oct 2026.)",
+  "cost_usd_typical": 192,
+  "conditions_claimed": ["chronic pain (general)", "chronic back/neck pain", "headache/migraine", "pelvic pain/endometriosis/vulvodynia/IC", "fibromyalgia", "IBS/functional GI", "TMS (tension myositis)", "tinnitus", "long COVID", "chronic fatigue (user stories)", "anxiety", "general stress/wellbeing"],
+  "conditions_primary": ["chronic pain (general)", "chronic back/neck pain", "headache/migraine"],
+  "differentiation": "single unified mechanism",
+  "mechanisms": ["neuroplastic/learned pain (brain-generated danger signal / predictive processing)", "fear-avoidance / catastrophizing / cognitive appraisal", "central sensitization", "repressed emotion / psychodynamic (rage, TMS)", "attention & interoception / hypervigilance", "stress / HPA axis"],
+  "mechanism_summary": "Persistent pain is framed as brain and nervous system output. Pain pathways become sensitized and keep a pain-fear cycle going after the tissue has healed. Stress, past adversity and suppressed emotion are named as contributors, and neuroplasticity lets the cycle be unlearned. The site presents this as the biopsychosocial model, and its lineage runs through Sarno, Schubiner and PRT. The same model is applied to all persistent symptoms once medical causes have been ruled out.",
+  "roots": ["Sarno TMS", "gate control / neuromatrix pain science", "CBT (Beck/Ellis)", "Buddhist vipassana/insight meditation", "Freudian psychoanalysis / psychodynamic theory", "third-wave CBT (ACT, DBT)", "Pain Reprocessing Therapy", "Pennebaker expressive writing", "pain neuroscience education"],
+  "techniques": ["pain neuroscience education (audio lessons)", "somatic tracking", "cognitive reflection / reappraisal (CBT-style)", "expressive writing", "guided pain meditations and relaxation/breathing", "flare-up on-demand coping tools", "live expert classes and Q&As", "recovery stories / community", "podcast Like Mind, Like Body", "AI virtual coach (Clara) daily plan", "clinician directory"],
+  "mainstream_adoption": "limited",
+  "mainstream_notes": "Individual clinicians refer patients through a free referral program; the site claims 23k clinicians (not verified). The app is ORCHA-certified, which is a compliance accreditation and does not mean the NHS commissions it. Independent app-content reviews rank it among the top pain apps (Devan 2019; MacPherson 2022, top 3 alongside Pathways and Vivify). No health-system, VA, guideline or NICE adoption was found.",
+  "insurance": "no",
+  "insurance_notes": "No insurer reimbursement and not an FDA-cleared prescription digital therapeutic. HSA/FSA eligible (MCC 8099).",
+  "evidence_level": "pilot or single RCT",
+  "key_trials": [
+    {"citation": "Thomson CJ, Pahl H, Giles LV. Randomized controlled trial investigating the effectiveness of a multimodal mobile application for the treatment of chronic pain. Can J Pain. 2024;8(1):2352399. PMID 39175941; NCT05090683", "design": "Independent, unfunded RCT (University of the Fraser Valley; no COI declared) comparing 6 weeks of the Curable app (n=98) with waitlist usual care (n=100). The 12-week follow-up covered the intervention arm only and was uncontrolled.", "n": 198, "finding": "Pain severity fell by -0.67 BPI points vs control (95% CI -1.04 to -0.29; d=0.43; p<.001). Pain interference fell by -0.60 (CI -1.18 to -0.03; d=0.27; p=.038). Catastrophizing, anxiety, depression and stress also improved. Dropout was 25.5% in the app arm vs 2% in the control arm. The trial was unblinded with no active control, and 88.8% of participants were Canadian. It won the 2024 Ronald Melzack Paper of the Year award.", "url": "https://doi.org/10.1080/24740527.2024.2352399"},
+    {"citation": "Hunter R, Gorely T, Beattie M. Mobile App-Supported Self-Management for Chronic Low Back Pain: Realist Evaluation. JMIR Mhealth Uhealth. 2026;14:e66435. PMID 41701989", "design": "Qualitative realist evaluation (telephone interviews) after 3 months of Curable use", "n": 9, "finding": "Users felt empowered when they found the information credible. Those with strong biomedical beliefs engaged less. Self-management burden and timing also mattered.", "url": "https://doi.org/10.2196/66435"},
+    {"citation": "Doi E, Ryan C, Jones N, Penlington C, Mankelow J. A Reflexive Thematic Analysis Exploring the Experiences of People Using the Curable App for Chronic Pain. Pain Res Manag. 2025:6996211. PMID 41341414", "design": "Qualitative semi-structured interviews (reflexive thematic analysis)", "n": 12, "finding": "The app helped fill gaps in existing care and worked best alongside wider support.", "url": "https://doi.org/10.1155/prm/6996211"},
+    {"citation": "Devan H, Farmery D, Peebles L, Grainger R. Evaluation of Self-Management Support Functions in Apps for People With Persistent Pain: Systematic Review. JMIR Mhealth Uhealth. 2019;7(2):e13080. PMID 30747715", "design": "Systematic app-content review (not an efficacy trial)", "n": null, "finding": "Curable tied with 2 other apps for the top self-management-support score (8/14 items). No reviewed app had been tested in pain populations.", "url": "https://doi.org/10.2196/13080"},
+    {"citation": "MacPherson M, Bakker AM, Anderson K, Holtzman S. Do pain management apps use evidence-based psychological components? A systematic review of app content and quality. Can J Pain. 2022;6(1):33-44. PMID 35694141", "design": "Systematic app-content and quality (MARS) review (not an efficacy trial)", "n": null, "finding": "Of 508 apps screened, 12 had psychological components. Curable, Pathways and Vivify scored highest.", "url": "https://doi.org/10.1080/24740527.2022.2030212"}
+  ],
+  "controversy": "Relatively low controversy compared with ME/CFS brain-retraining programs, because it centres on pain. Criticisms include marketing claims ('#1 app', '1M+ users') and uncontrolled member-survey outcomes. The evidence is a single waitlist-controlled RCT with heavy differential dropout and no active control. Users may over-attribute undiagnosed disease to 'neuroplastic pain'. The founders' own recovery narrative (podcast 2018) lists Lyme disease and fainting spells among the conditions they recovered from. People with strong biomedical beliefs tend to disengage. This review's author (Tor Wager) is listed as a featured expert and has been a podcast guest.",
+  "popularity": {
+    "indicators": [
+      {"metric": "Cumulative users (company claim)", "value": "1M+", "source": "curablehealth.com/about", "year": 2026},
+      {"metric": "Clinicians recommending (company claim)", "value": "23k", "source": "curablehealth.com/about", "year": 2026},
+      {"metric": "iOS App Store rating", "value": "4.43 stars, 1,464 ratings", "source": "Apple iTunes lookup API (id 1325784379), verified 2026-10-12", "year": 2026},
+      {"metric": "iOS app release date", "value": "2017-12-19", "source": "Apple iTunes lookup API", "year": 2017},
+      {"metric": "Podcast Like Mind, Like Body episodes", "value": "93 (28 Jul 2017 to 6 Oct 2026)", "source": "curablehealth.com/podcast.rss", "year": 2026},
+      {"metric": "Member survey respondents (PGIC)", "value": "n=10,173; 82% report improved QoL (uncontrolled)", "source": "curablehealth.com/about", "year": 2026},
+      {"metric": "Earliest web snapshot", "value": "2016-10-18", "source": "Wayback Machine availability API", "year": 2016},
+      {"metric": "Peer-reviewed RCT plus award", "value": "Thomson 2024; Melzack Paper of the Year 2024 (announced 2025)", "source": "PubMed 39175941, 40917111", "year": 2025}
+    ],
+    "reach_estimate": "~1 million cumulative users (company claim of 1M+ in 2026, likely including free and trial users). Paid subscribers are probably 10^4 to 10^5 (rough guess).",
+    "reach_log10": 6,
+    "trajectory": [
+      {"year": 2015, "relative_activity": 1}, {"year": 2016, "relative_activity": 2}, {"year": 2017, "relative_activity": 3},
+      {"year": 2018, "relative_activity": 4}, {"year": 2019, "relative_activity": 5}, {"year": 2020, "relative_activity": 6},
+      {"year": 2021, "relative_activity": 7}, {"year": 2022, "relative_activity": 8}, {"year": 2023, "relative_activity": 8},
+      {"year": 2024, "relative_activity": 9}, {"year": 2025, "relative_activity": 9}, {"year": 2026, "relative_activity": 9}
+    ],
+    "method_notes": "The trajectory is interpolated from dated milestones: web presence in 2016, podcast in 2017, iOS app in Dec 2017, a top app-review ranking in 2019, the PRT/JAMA Psychiatry tailwind in 2021-22, the independent RCT in 2024 and the award in 2025, and the 1M+ user claim in 2026. Reach comes from the company's cumulative-user claim. General web search was unavailable (session quota exhausted), so Google Trends, Reddit counts, Google Play installs and funding data were not obtained. Levels are judgement-based and should be calibrated against other programs."
+  },
+  "sources": [
+    "https://www.curablehealth.com/", "https://www.curablehealth.com/about", "https://www.curablehealth.com/science",
+    "https://www.curablehealth.com/pricing", "https://www.curablehealth.com/faq", "https://www.curablehealth.com/clinicians",
+    "https://www.curablehealth.com/podcast", "https://www.curablehealth.com/podcast.rss",
+    "https://www.curablehealth.com/podcast/curable-founders-recovery-stories",
+    "https://doi.org/10.1080/24740527.2024.2352399", "https://pmc.ncbi.nlm.nih.gov/articles/PMC11340744/",
+    "https://clinicaltrials.gov/study/NCT05090683",
+    "https://doi.org/10.1080/24740527.2025.2544489", "https://doi.org/10.2196/13080",
+    "https://doi.org/10.1080/24740527.2022.2030212", "https://doi.org/10.1155/prm/6996211", "https://doi.org/10.2196/66435"
+  ]
+}

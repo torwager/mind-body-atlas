@@ -1,0 +1,374 @@
+{
+  "slug": "cbt-get-for-cfs",
+  "name": "CBT and Graded Exercise Therapy for CFS/ME (PACE-trial model; KCL/Chalder and Nijmegen/Knoop CBT for fatigue)",
+  "url": "https://www.nice.org.uk/guidance/ng206",
+  "founders": [
+    "Simon Wessely (psychiatrist, KCL)",
+    "Trudie Chalder (CBT therapist, KCL)",
+    "Michael Sharpe (psychiatrist, Oxford/Edinburgh)",
+    "Peter D. White (psychiatrist, QMUL; PACE chief investigator)",
+    "Gijs Bleijenberg (medical psychologist, Radboud Nijmegen)",
+    "Hans Knoop (medical psychologist, Nijmegen/Amsterdam UMC)"
+  ],
+  "founded_year": 1989,
+  "founded_year_range": "1989-1997 (Wessely et al. 1989 model paper in J R Coll Gen Pract; first RCTs 1996-1997; PACE 2005-2011)",
+  "category": "psychological/neuroplastic-pain therapy (mainstream cognitive-behavioural/deconditioning rehabilitation)",
+  "delivery": [
+    "clinician-delivered",
+    "individual CBT (12-16 sessions)",
+    "physiotherapist-led graded exercise",
+    "guided self-help booklet (GETSET)",
+    "web-based/blended CBT",
+    "nurse-led home rehabilitation"
+  ],
+  "business_model": "clinician-delivered (fee-for-service)",
+  "cost_summary": "Free on the NHS and covered by Dutch basic insurance; private UK CBT is typically about GBP 80-150 per session, so a 12-16-session course costs roughly GBP 1,000-2,400 (USD ~1,300-3,000). NHS delivery cost in PACE was roughly GBP 1,000 per patient per therapy (approximate estimate).",
+  "cost_usd_typical": 1500,
+  "conditions_claimed": [
+    "ME/CFS",
+    "PVFS",
+    "long COVID",
+    "IBS/functional GI",
+    "fibromyalgia",
+    "somatic symptom disorder",
+    "chronic pain (general)",
+    "depression",
+    "anxiety"
+  ],
+  "conditions_primary": [
+    "ME/CFS",
+    "PVFS",
+    "long COVID",
+    "somatic symptom disorder"
+  ],
+  "differentiation": "mostly unified with condition-specific emphasis",
+  "mechanisms": [
+    "fear-avoidance / catastrophizing / cognitive appraisal",
+    "attention & interoception / hypervigilance",
+    "sensorimotor / movement patterns / body schema",
+    "conditioning / classical learning"
+  ],
+  "mechanism_summary": "A trigger (usually a virus) starts the illness, and cognitive-behavioural perpetuating factors are said to maintain it. These are somatic illness attributions, fear that activity causes harm, low sense of control, focus on fatigue, avoidance or boom-bust activity patterns, physical deconditioning and sleep/circadian disruption, together forming a self-confirming vicious circle (Wessely 1989; Vercoulen 1998 Nijmegen model). GET specifically targets deconditioning and exercise intolerance. Post-exertional malaise is interpreted as deconditioning or expectation rather than a distinct physiology. The same logic is applied transdiagnostically to post-COVID fatigue and other persistent physical symptoms.",
+  "roots": [
+    "CBT (Beck/Ellis)",
+    "behaviorism / classical conditioning",
+    "Engel biopsychosocial model / liaison psychiatry",
+    "fear-avoidance models of chronic pain (operant graded activity)",
+    "exercise physiology / deconditioning rehabilitation",
+    "neurasthenia / rest-cure history"
+  ],
+  "techniques": [
+    "cognitive restructuring of illness beliefs",
+    "activity regulation: stable baseline then time-contingent gradual increase",
+    "graded exercise (heart-rate monitored, ~10-20% weekly increments toward 30 min x5/week)",
+    "fixed sleep-wake schedule, reduce daytime rest",
+    "reducing focus on fatigue/symptom monitoring",
+    "goal setting and return to work/school planning",
+    "relapse prevention",
+    "guided self-help booklet (GETSET)",
+    "web-based CBT with therapist feedback"
+  ],
+  "mainstream_adoption": "substantial",
+  "mainstream_notes": "From about 1996 to 2021 this was the guideline-endorsed standard of care in the UK (CMO 2002; NICE CG53 2007; NHS specialist CFS services) and the Netherlands. A major reversal followed: CDC removed CBT/GET in 2017, the Dutch Health Council (2018) saw no reason to recommend GET, and NICE NG206 (2021) says not to offer GET and allows CBT only as supportive, non-curative care. The Royal Colleges (RCP, RCPE, RCGP, RCPsych, AoMRC, FSEM, FOM) issued a joint statement saying the guideline understated activity/exercise; four committee members left before publication (three resigned, one stood down). The approach remains mainstream for post-COVID fatigue in the Netherlands and for persistent physical symptoms in UK psychology services.",
+  "insurance": "yes",
+  "insurance_notes": "NHS-funded in the UK (now limited by NG206) and covered by Dutch basic insurance. In the US, CBT is billable as psychotherapy (CPT 90832-90837); GET would fall under physical therapy codes.",
+  "evidence_level": "systematic reviews/meta-analyses",
+  "key_trials": [
+    {
+      "citation": "White PD et al. Lancet 2011;377:823-836 (PACE)",
+      "design": "RCT, 4 arms: SMC vs SMC + APT, CBT or GET",
+      "n": 641,
+      "finding": "At 52 weeks CBT and GET modestly beat SMC on self-reported fatigue (~-3.4/-2.5 Chalder) and SF-36 physical function (~+7/+9); APT did not differ from SMC. Objective outcomes were minimal or null and primary outcomes were changed from protocol.",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(11)60096-2/fulltext"
+    },
+    {
+      "citation": "Sharpe M et al. Lancet Psychiatry 2015;2(12):1067-1074 (PACE long-term follow-up)",
+      "design": "Long-term follow-up questionnaire of PACE RCT (604 sent, 481 returned; median 31 months)",
+      "n": 481,
+      "finding": "CBT/GET gains were maintained, but the SMC and APT arms also improved, leaving little evidence of between-group differences; 44% had post-trial treatment (more in SMC/APT arms), so comparison was no longer randomised.",
+      "url": "https://doi.org/10.1016/S2215-0366(15)00317-X"
+    },
+    {
+      "citation": "Wilshire CE, Kindlon T, Courtney R, Matthees A, Tuller D, Geraghty K, Levin B. BMC Psychology 2018;6:6",
+      "design": "Independent reanalysis of PACE data using protocol-specified outcomes",
+      "n": 641,
+      "finding": "Protocol-defined recovery: 7% CBT, 4% GET, 3% SMC (p=0.14), vs 22%/22%/7% under the revised definition in White et al. 2013 Psychol Med. Protocol 'overall improvement': 20% CBT, 21% GET, 10% SMC; neither pairwise comparison survived protocol Bonferroni correction.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5863477"
+    },
+    {
+      "citation": "Sharpe M et al. BMJ 1996;312:22-26",
+      "design": "RCT, CBT + medical care vs medical care",
+      "n": 60,
+      "finding": "At 12 months more than twice as many patients in the CBT arm reached normal daily functioning.",
+      "url": "https://www.bmj.com/content/312/7022/22"
+    },
+    {
+      "citation": "Deale A, Chalder T, Marks I, Wessely S. Am J Psychiatry 1997;154:408-414",
+      "design": "RCT, CBT vs relaxation (KCL)",
+      "n": 60,
+      "finding": "CBT superior on functional impairment and fatigue at 6-month follow-up.",
+      "url": "https://doi.org/10.1176/ajp.154.3.408"
+    },
+    {
+      "citation": "Fulcher KY, White PD. BMJ 1997;314:1647",
+      "design": "RCT, 12 weeks graded aerobic exercise vs flexibility/relaxation",
+      "n": 66,
+      "finding": "Self-rated 'much/very much better': 16/29 vs 8/30 completers; ITT 17/33 vs 9/33.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2126868"
+    },
+    {
+      "citation": "Prins JB et al. Lancet 2001;357:841-847",
+      "design": "Multicentre RCT, CBT vs guided support vs natural course (Nijmegen)",
+      "n": 278,
+      "finding": "CBT was superior on fatigue and impairment at 8 and 14 months; effects were modest and the trial was unblinded.",
+      "url": "https://doi.org/10.1016/s0140-6736(00)04198-2"
+    },
+    {
+      "citation": "Wearden AJ et al. BMJ 2010;340:c1777 (FINE)",
+      "design": "RCT, primary care: nurse-led pragmatic rehabilitation vs supportive listening vs GP care",
+      "n": 296,
+      "finding": "Small short-term fatigue benefit for pragmatic rehabilitation, not significant at 1-year follow-up.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2859122"
+    },
+    {
+      "citation": "Clark LV et al. Lancet 2017;390:363-373 (GETSET)",
+      "design": "RCT, guided graded exercise self-help + SMC vs SMC",
+      "n": 211,
+      "finding": "At 12 weeks, self-reported fatigue improved (ES 0.53) and physical function slightly (ES 0.20) vs SMC; unblinded, self-report. Long-term follow-up (Clark et al. 2021 J Psychosom Res 146:110484, n=164 at ~15 months) found no between-arm differences on primary outcomes.",
+      "url": "https://search.pedro.org.au/search-results/record-detail/50549"
+    },
+    {
+      "citation": "Janse A et al. Br J Psychiatry 2018;212:112-118",
+      "design": "RCT, web-based CBT (two feedback formats) vs waitlist",
+      "n": 240,
+      "finding": "Both iCBT arms reduced fatigue severity (CIS) vs waitlist.",
+      "url": "https://www.cambridge.org/core/product/5D0DAAB8740D23688778FD2239317101/core-reader"
+    },
+    {
+      "citation": "Kuut TA et al. Clin Infect Dis 2023 (ReCOVer)",
+      "design": "Multicentre RCT, 17-week blended CBT vs care as usual for severe post-COVID fatigue",
+      "n": 114,
+      "finding": "CIS-fatigue difference -8.8 (95% CI -11.9 to -5.8), d~0.69, sustained at 6 months; no serious adverse events.",
+      "url": "https://doi.org/10.1093/cid/ciad257"
+    },
+    {
+      "citation": "Chalder T et al. Psychological Medicine, online 2021, print 2023 (PRINCE Secondary); doi:10.1017/S0033291721001793",
+      "design": "RCT, transdiagnostic CBT + SMC vs SMC for persistent physical symptoms",
+      "n": 324,
+      "finding": "Primary outcome (WSAS at 52 weeks) was null (diff -1.48, 95% CI -3.44 to 0.48, p=0.14; below the prespecified MCID); some secondary outcomes (WSAS at 20 weeks, PHQ-15 at 52 weeks) favoured CBT.",
+      "url": "https://doi.org/10.1017/S0033291721001793"
+    },
+    {
+      "citation": "Price JR et al. Cochrane Database Syst Rev 2008;CD001027",
+      "design": "Systematic review/meta-analysis of CBT for CFS",
+      "finding": "CBT reduced fatigue at post-treatment vs usual care; follow-up evidence was weaker and inconsistent. Cochrane now flags it as pre-GRADE and no longer current.",
+      "url": "https://www.cochrane.org/evidence/CD001027_cognitive-behaviour-therapy-chronic-fatigue-syndrome"
+    },
+    {
+      "citation": "Larun L et al. Cochrane Database Syst Rev 2019;CD003200 (amended)",
+      "design": "Systematic review of exercise therapy for CFS",
+      "finding": "Exercise probably reduces fatigue at end of treatment, with uncertain long-term benefit and harms, and limited applicability to PEM-based definitions.",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003200.pub8/full"
+    },
+    {
+      "citation": "Gaunt DM, Crawley E et al. Eur J Pediatr 2024 (MAGENTA)",
+      "design": "Pragmatic RCT, paediatric (8-17 y) mild/moderate ME/CFS: GET vs activity management",
+      "n": 241,
+      "finding": "Null primary outcome: SF-36 PF at 6 months adjusted diff -2.02 (95% CI -7.75 to 2.70); little improvement in either arm.",
+      "url": "https://www.isrctn.com/ISRCTN23962803"
+    },
+    {
+      "citation": "Kuut TA et al. Psychological Medicine 2024 (online Nov 2023)",
+      "design": "Systematic review and individual-patient-data meta-analysis of 8 RCTs of the Dutch CBT protocol (all from the developers' group)",
+      "n": 1298,
+      "finding": "CBT reduced fatigue, impairment and improved physical functioning; fatigue effect moderated by age, impairment and activity pattern.",
+      "url": "https://doi.org/10.1017/S0033291723003148"
+    }
+  ],
+  "controversy": "This is one of the most contested treatment literatures in modern medicine. The main lines of dispute:\n- PACE (2011) changed its primary outcomes and recovery thresholds mid-trial; the 'normal range' overlapped the entry criteria; it was unblinded with subjective endpoints; objective outcomes were null; and it used the Oxford criteria, which do not require PEM.\n- Data were released only after a 2016 tribunal order, and the protocol-based reanalysis (Wilshire 2018) found no significant recovery effect.\n- Investigators had insurer/DWP links. Patient surveys report harm from GET, consistent with post-exertional malaise.\n- Guideline reversals followed: CDC 2017, Dutch Health Council 2018, Cochrane amendment 2019 and NICE NG206 2021, against Royal Colleges' objections.\n- Accusations run both ways: investigators report harassment, and patients report psychologisation.\n- Extending the model to long COVID (ReCOVer) has reignited the dispute.",
+  "popularity": {
+    "indicators": [
+      {
+        "metric": "Largest RCT",
+        "value": "PACE n=641, Lancet 2011, heavy UK media coverage",
+        "source": "White et al. 2011",
+        "year": 2011
+      },
+      {
+        "metric": "Guideline endorsement",
+        "value": "NICE CG53 recommended CBT/GET as first-line",
+        "source": "NICE",
+        "year": 2007
+      },
+      {
+        "metric": "Guideline reversal",
+        "value": "NICE NG206: do not offer GET; CBT supportive only",
+        "source": "NICE",
+        "year": 2021
+      },
+      {
+        "metric": "CDC removal",
+        "value": "CBT/GET removed from CDC ME/CFS pages",
+        "source": "Undark",
+        "year": 2017
+      },
+      {
+        "metric": "Critical media series",
+        "value": "Tuller 'Trial By Error' (Virology Blog), ~15,000-word 2015 exposé plus many follow-up posts",
+        "source": "virology.ws",
+        "year": 2015
+      },
+      {
+        "metric": "Data tribunal",
+        "value": "First-Tier Tribunal ordered QMUL to release PACE data",
+        "source": "ME Association",
+        "year": 2016
+      },
+      {
+        "metric": "Long COVID extension",
+        "value": "ReCOVer RCT n=114, Clin Infect Dis",
+        "source": "Kuut et al. 2023",
+        "year": 2023
+      },
+      {
+        "metric": "IPD meta-analysis",
+        "value": "n=1,298 pooled from 8 RCTs of the Dutch CBT protocol",
+        "source": "Kuut et al. 2023/2024 Psychol Med",
+        "year": 2024
+      }
+    ],
+    "reach_estimate": "~100k-300k patients treated directly with CBT/GET for CFS (order-of-magnitude only). The basis is an unverified estimate of ~8-10k new UK specialist-service patients a year for ~15 years, plus the Dutch centres and a few thousand trial participants. Indirect reach through GP advice and guidelines is far larger.",
+    "reach_log10": 5.3,
+    "trajectory": [
+      {
+        "year": 1989,
+        "relative_activity": 1
+      },
+      {
+        "year": 1991,
+        "relative_activity": 2
+      },
+      {
+        "year": 1993,
+        "relative_activity": 2
+      },
+      {
+        "year": 1996,
+        "relative_activity": 3
+      },
+      {
+        "year": 1997,
+        "relative_activity": 4
+      },
+      {
+        "year": 1999,
+        "relative_activity": 4
+      },
+      {
+        "year": 2001,
+        "relative_activity": 5
+      },
+      {
+        "year": 2002,
+        "relative_activity": 6
+      },
+      {
+        "year": 2004,
+        "relative_activity": 6
+      },
+      {
+        "year": 2007,
+        "relative_activity": 7
+      },
+      {
+        "year": 2009,
+        "relative_activity": 7
+      },
+      {
+        "year": 2011,
+        "relative_activity": 10
+      },
+      {
+        "year": 2013,
+        "relative_activity": 8
+      },
+      {
+        "year": 2015,
+        "relative_activity": 9
+      },
+      {
+        "year": 2016,
+        "relative_activity": 9
+      },
+      {
+        "year": 2017,
+        "relative_activity": 8
+      },
+      {
+        "year": 2018,
+        "relative_activity": 7
+      },
+      {
+        "year": 2019,
+        "relative_activity": 6
+      },
+      {
+        "year": 2020,
+        "relative_activity": 6
+      },
+      {
+        "year": 2021,
+        "relative_activity": 8
+      },
+      {
+        "year": 2022,
+        "relative_activity": 5
+      },
+      {
+        "year": 2023,
+        "relative_activity": 5
+      },
+      {
+        "year": 2024,
+        "relative_activity": 4
+      },
+      {
+        "year": 2025,
+        "relative_activity": 4
+      },
+      {
+        "year": 2026,
+        "relative_activity": 3
+      }
+    ],
+    "method_notes": "There is no website, user count or Google Trends signal for a branded product. The trajectory is a qualitative composite of documented milestones: the 1989 model paper, the 1996-97 first RCTs, Prins 2001, the 2002 CMO report, NICE CG53 (2007), PACE publication (2011 peak), Tuller's 2015 exposé, the 2016 tribunal, CDC removal (2017), the Cochrane amendment (2019), NICE NG206 (2021 spike) and ReCOVer (2023). Activity mixes clinical use (high 2007-2020, declining after 2021) with attention and controversy, which peaked in 2011, 2015-16 and 2021. Reach is estimated from approximate NHS specialist-service referral volumes plus trial totals and is order-of-magnitude only. UK referral volumes were not verified against an official source."
+  },
+  "sources": [
+    "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(11)60096-2/fulltext",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC5863477",
+    "https://www.bmj.com/content/312/7022/22",
+    "https://doi.org/10.1016/s0140-6736(00)04198-2",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC2859122",
+    "https://search.pedro.org.au/search-results/record-detail/50549",
+    "https://www.cambridge.org/core/product/5D0DAAB8740D23688778FD2239317101/core-reader",
+    "https://doi.org/10.1093/cid/ciad257",
+    "https://www.isrctn.com/ISRCTN23962803",
+    "https://www.cochrane.org/evidence/CD001027_cognitive-behaviour-therapy-chronic-fatigue-syndrome",
+    "https://www.nice.org.uk/guidance/ng206",
+    "https://www.rcgp.org.uk/representing-you/policy-areas/guidance-on-me-cfs",
+    "https://undark.org/2017/07/26/cdc-chronic-fatigue-graded-exercise/",
+    "https://www.healthrising.org/blog/2018/03/22/dutch-cbt-chronic-fatigue-syndrome-cbt-get/",
+    "https://pure.amsterdamumc.nl/en/persons/hans-knoop/",
+    "https://virology.ws/2019/09/24/whats-up-with-cochranes-exercise-review/",
+    "https://meassociation.org.uk/2016/08/tribunal-orders-release-of-pace-trial-data-courtesy-of-valerie-eliot-smith-16-august-2016/",
+    "https://impact.ref.ac.uk/casestudies/CaseStudy.aspx?Id=17492",
+    "https://www.simonwessely.com/Downloads/Publications/CFS/2023_white_a.pdf",
+    "https://doi.org/10.1017/S0033291721001793",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC6805658/",
+    "https://doi.org/10.1016/S2215-0366(15)00317-X",
+    "https://ueaeprints.uea.ac.uk/id/eprint/79794",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC2126868",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC1711569/",
+    "https://meassociation.org.uk/2021/08/bmj-article-about-nice-committee-resignations/"
+  ]
+}

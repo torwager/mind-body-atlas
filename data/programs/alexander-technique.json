@@ -1,0 +1,261 @@
+{
+  "slug": "alexander-technique",
+  "name": "Alexander Technique",
+  "url": "https://alexandertechniqueusa.org/",
+  "founders": [
+    "F. Matthias Alexander (1869-1955)",
+    "Society of Teachers of the Alexander Technique (STAT, UK, 1958)",
+    "AmSAT / Alexander Technique USA (1987)"
+  ],
+  "founded_year": 1895,
+  "founded_year_range": "1890s (Alexander developed the method for his own voice loss); taught in London from 1904; first teacher training in 1931; STAT 1958; AmSAT 1987",
+  "category": "somatic/movement practice",
+  "delivery": [
+    "clinician-delivered",
+    "one-to-one lessons",
+    "group",
+    "online lessons",
+    "book"
+  ],
+  "business_model": "clinician-delivered (fee-for-service)",
+  "cost_summary": "Independent certified teachers (at least 1,600 h of training over 3 years, per AmSAT). Approx. (unverified) US $60-150 or UK £40-80 per lesson; a typical course of 10-30 lessons costs roughly $1,000-3,000. In trials: £596 for 24 lessons plus exercise (ATEAM, 2008 costing), and an incremental cost of £667 per patient (ATLAS).",
+  "cost_usd_typical": 1500,
+  "conditions_claimed": [
+    "chronic back/neck pain",
+    "chronic pain (general)",
+    "general stress/wellbeing",
+    "anxiety",
+    "headache/migraine",
+    "Parkinson's disease (balance/disability)",
+    "performance anxiety",
+    "voice/RSI problems",
+    "balance/falls"
+  ],
+  "conditions_primary": [
+    "chronic back/neck pain",
+    "general stress/wellbeing",
+    "Parkinson's disease (balance/disability)"
+  ],
+  "differentiation": "mostly unified with condition-specific emphasis",
+  "mechanisms": [
+    "sensorimotor / movement patterns / body schema",
+    "attention & interoception / hypervigilance",
+    "fear-avoidance / catastrophizing / cognitive appraisal",
+    "central regulation of postural tone / co-contraction"
+  ],
+  "mechanism_summary": "Pain and dysfunction are attributed to habitual \"misuse\": unconscious excess muscular effort organised around a disrupted head-neck-back \"primary control.\" This misuse is maintained by unreliable kinaesthetic sense and by \"end-gaining.\" Alexander treated mind and body as one psychophysical unit. Modern neuroscience reframing (Cacciatore and colleagues) presents AT as training adaptive central regulation of axial postural tone and reducing maladaptive co-contraction, with improved body awareness and self-efficacy (the latter associated with outcome in ATLAS). AT does not invoke central sensitisation, limbic, emotional or immune mechanisms. One model is applied to all complaints, and teachers do not diagnose.",
+  "roots": [
+    "Feldenkrais / Alexander / somatics",
+    "19th-century elocution/physical culture",
+    "Sherrington/Magnus postural reflex physiology",
+    "Dewey pragmatism"
+  ],
+  "techniques": [
+    "inhibition (pausing the habitual response)",
+    "verbal directions (neck free, head forward and up, back lengthen and widen)",
+    "light hands-on guidance by teacher",
+    "chair work (sit-to-stand)",
+    "table work / semi-supine constructive rest (10-20 min daily)",
+    "application to daily activities, the 'monkey' position, 'whispered ah' breathing",
+    "course of 6-30 lessons, 30-60 min each"
+  ],
+  "mainstream_adoption": "moderate",
+  "mainstream_notes": "Tested in two large UK primary-care RCTs led by academic GPs/health-services researchers: ATEAM (funded by MRC and NHS R&D) and ATLAS (Arthritis Research UK). The NHS says lessons may be offered for Parkinson's-related balance or movement problems; the 2006 NICE PD guideline (CG35) said AT may be offered (status in NG71 not verified). Some NHS pain-clinic services have been evaluated (McClean 2015), but AT is not routinely commissioned for back pain. Embedded in many performing-arts conservatoires and drama schools. NCCIH classes it as a complementary approach. It is not a licensed or regulated health profession.",
+  "insurance": "sometimes/indirect",
+  "insurance_notes": "Generally not covered. Aetna CPB 0388 lists it as experimental, investigational or unproven (verified). Australia excluded it from private health insurance rebates from 1 April 2019 after the 2015 Natural Therapies Review; it was re-evaluated in the 2024 review (outcome for AT not verified). Occasional NHS-funded services exist, and reimbursement via flexible spending or supplementary insurance is possible in some countries (not verified).",
+  "evidence_level": "multiple RCTs",
+  "key_trials": [
+    {
+      "citation": "Little P et al. BMJ 2008;337:a884 (ATEAM)",
+      "design": "Factorial RCT in 64 UK general practices: usual care vs massage vs 6 vs 24 AT lessons, each with or without exercise prescription",
+      "n": 579,
+      "finding": "At 12 months, Roland-Morris disability fell by 3.4 points (24 lessons) and 1.4 points (6 lessons) vs control. Days in pain/4 wk fell by 18 (24 lessons) and 10 (6 lessons) from a median of 21. Massage was not significant. 6 lessons plus exercise achieved about 72% of the effect of 24 lessons.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18713809/"
+    },
+    {
+      "citation": "MacPherson H et al. Ann Intern Med 2015;163:653-62 (ATLAS)",
+      "design": "3-arm RCT in chronic neck pain: up to 20 AT lessons or 12 acupuncture sessions plus usual care vs usual care",
+      "n": 517,
+      "finding": "At 12 months, NPQ fell by 3.79 percentage points more than usual care (95% CI 0.91-6.66), a 31% reduction from baseline. Self-efficacy gains were associated with outcome. No serious related adverse events.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26524571/"
+    },
+    {
+      "citation": "Hollinghurst S et al. BMJ 2008;337:a2656",
+      "design": "Economic evaluation of ATEAM",
+      "n": 579,
+      "finding": "6 AT lessons followed by exercise was the most effective and cost-effective option (about £5,332/QALY).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19074232/"
+    },
+    {
+      "citation": "Essex H et al. PLoS One 2017;12:e0178918",
+      "design": "Economic evaluation of ATLAS",
+      "n": 517,
+      "finding": "Incremental cost £667 and QALY gain 0.025 vs usual care; ICER £25,101/QALY, so probably not cost-effective at the £20k threshold (possibly at £30k), with very wide uncertainty and high missing data.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29211741/"
+    },
+    {
+      "citation": "Lauche R et al. Clin Rehabil 2016;30:247-58",
+      "design": "RCT in chronic neck pain: 5 AT sessions vs local heat vs guided imagery",
+      "n": 72,
+      "finding": "Not superior to local heat on pain at week 5 (primary; difference 4.5 mm VAS, p=0.48). Better than guided imagery in exploratory analysis (-12.9 mm). Authors did not recommend AT as routine care.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25834276/"
+    },
+    {
+      "citation": "Hafezi M et al. J Bodyw Mov Ther 2022;29:54-59",
+      "design": "RCT in chronic low back pain: AT 3x/week for 12 weeks plus routine care vs routine care",
+      "n": 80,
+      "finding": "Pain was lower after treatment and at 1 month (P<0.05).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35248289/"
+    },
+    {
+      "citation": "Stallibrass C et al. Clin Rehabil 2002;16:695-708",
+      "design": "RCT in Parkinson's disease: 24 AT lessons vs massage vs no extra intervention",
+      "n": 93,
+      "finding": "Self-rated PD disability improved vs no intervention and was sustained at 6 months. Depression was lower.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12428818/"
+    },
+    {
+      "citation": "Gleeson M et al. Clin Rehabil 2015;29:244-60",
+      "design": "Assessor-blinded RCT in community-dwelling adults 50+ with visual impairment: 12 weeks of AT lessons plus usual care vs usual care",
+      "n": 120,
+      "finding": "No significant effect on primary outcomes (Short Physical Performance Battery). Postural sway reduced at 3 months; non-significant reduction in falls (IRR 0.64, 95% CI 0.34-1.15).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25027444/"
+    },
+    {
+      "citation": "Preece SJ et al. BMC Musculoskelet Disord 2016;17:372",
+      "design": "Single-arm pilot in knee OA, 20 lessons",
+      "n": 21,
+      "finding": "WOMAC pain fell 56%, maintained at 15 months. Reduced co-contraction was associated with pain reduction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27568007/"
+    }
+  ],
+  "controversy": "Alexander's anatomical and physiological theory (primary control; misuse as the root of many diseases) is vague and largely untested. Broad early health claims are unsupported, and the Cochrane review found no evidence for asthma. Skeptics such as Ernst class AT among unproven CAM, and teaching is unregulated. AT was not cost-effective in ATLAS at the usual NICE threshold. A 2024 PLoS One meta-analysis on neck pain was retracted in 2026. Trials compare against usual care without blinding, and the one trial with an active comparator (heat) found no superiority. Some trial co-authors were STAT members (e.g. Woodman and Ballard on ATLAS). Gleeson 2015 (balance, visually impaired) was null on its primary outcome. The method is otherwise low-risk and relatively uncontroversial.",
+  "popularity": {
+    "indicators": [
+      {
+        "metric": "AmSAT-certified US teachers",
+        "value": ">500",
+        "source": "alexandertechniqueusa.org",
+        "year": 2026
+      },
+      {
+        "metric": "STAT founding / largest professional society",
+        "value": "founded 1958; self-described oldest/largest society (not independently verified)",
+        "source": "alexandertechnique.co.uk",
+        "year": 2026
+      },
+      {
+        "metric": "Major RCT media events",
+        "value": "ATEAM BMJ 2008 (N=579); ATLAS Ann Intern Med 2015 (N=517)",
+        "source": "PubMed",
+        "year": 2015
+      },
+      {
+        "metric": "PubMed records with 'Alexander technique' in title/abstract plus trial/review terms",
+        "value": "40",
+        "source": "NCBI E-utilities query",
+        "year": 2026
+      },
+      {
+        "metric": "Nobel endorsement",
+        "value": "Tinbergen 1973 Nobel lecture praised AT",
+        "source": "historical record",
+        "year": 1973
+      }
+    ],
+    "reach_estimate": "Roughly a few million people cumulatively over about 120 years (order of magnitude). Thousands of teachers worldwide, each teaching hundreds of pupils over a career, plus mass performing-arts curricula and book readership.",
+    "reach_log10": 6.5,
+    "trajectory": [
+      {
+        "year": 1970,
+        "relative_activity": 4
+      },
+      {
+        "year": 1973,
+        "relative_activity": 5
+      },
+      {
+        "year": 1980,
+        "relative_activity": 6
+      },
+      {
+        "year": 1987,
+        "relative_activity": 6
+      },
+      {
+        "year": 1990,
+        "relative_activity": 7
+      },
+      {
+        "year": 1995,
+        "relative_activity": 7
+      },
+      {
+        "year": 2000,
+        "relative_activity": 7
+      },
+      {
+        "year": 2005,
+        "relative_activity": 7
+      },
+      {
+        "year": 2008,
+        "relative_activity": 8
+      },
+      {
+        "year": 2010,
+        "relative_activity": 7
+      },
+      {
+        "year": 2015,
+        "relative_activity": 7
+      },
+      {
+        "year": 2018,
+        "relative_activity": 6
+      },
+      {
+        "year": 2020,
+        "relative_activity": 6
+      },
+      {
+        "year": 2022,
+        "relative_activity": 5
+      },
+      {
+        "year": 2024,
+        "relative_activity": 5
+      },
+      {
+        "year": 2026,
+        "relative_activity": 5
+      }
+    ],
+    "method_notes": "Web search quota was exhausted during compilation, so popularity relies on the society websites, PubMed counts, and historical milestones (STAT 1958, Tinbergen 1973, AmSAT 1987, ATEAM 2008, ATLAS 2015). The trajectory is a qualitative within-program index: growth through professionalisation and performing-arts adoption in the 1970s-90s, a peak of medical and media attention around the 2008 ATEAM trial, and then flat to slowly declining consumer interest (an impression of Google Trends patterns, not freshly queried) as brain-retraining programs and yoga/Pilates dominate. Reach is an order-of-magnitude guess from teacher counts multiplied by pupils per career. Fact-check 2026-10-12: AmSAT '>500 teachers' confirmed on site; STAT size claim and reach estimate not independently verified."
+  },
+  "sources": [
+    "https://alexandertechniqueusa.org/",
+    "https://alexandertechnique.co.uk/",
+    "https://www.nhs.uk/conditions/alexander-technique/",
+    "https://en.wikipedia.org/wiki/Alexander_Technique",
+    "https://pubmed.ncbi.nlm.nih.gov/18713809/",
+    "https://pubmed.ncbi.nlm.nih.gov/19074232/",
+    "https://pubmed.ncbi.nlm.nih.gov/26524571/",
+    "https://pubmed.ncbi.nlm.nih.gov/29211741/",
+    "https://pubmed.ncbi.nlm.nih.gov/25834276/",
+    "https://pubmed.ncbi.nlm.nih.gov/35248289/",
+    "https://pubmed.ncbi.nlm.nih.gov/12428818/",
+    "https://pubmed.ncbi.nlm.nih.gov/27568007/",
+    "https://pubmed.ncbi.nlm.nih.gov/40360190/",
+    "https://pubmed.ncbi.nlm.nih.gov/26215122/",
+    "https://pubmed.ncbi.nlm.nih.gov/22171910/",
+    "https://pubmed.ncbi.nlm.nih.gov/22972048/",
+    "https://pubmed.ncbi.nlm.nih.gov/39576801/",
+    "https://pubmed.ncbi.nlm.nih.gov/41880301/",
+    "https://pubmed.ncbi.nlm.nih.gov/25085609/",
+    "https://pubmed.ncbi.nlm.nih.gov/39717699/",
+    "https://pubmed.ncbi.nlm.nih.gov/25027444/",
+    "https://www.aetna.com/cpb/medical/data/300_399/0388.html",
+    "https://www.nhmrc.gov.au/health-advice/public-health/complementary-medicines/natural-therapies-review"
+  ]
+}

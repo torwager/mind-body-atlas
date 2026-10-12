@@ -1,0 +1,46 @@
+{
+  "slug": "compassionate-inquiry-gabor-mate",
+  "name": "Compassionate Inquiry (Gabor Maté)",
+  "url": "https://compassionateinquiry.com/",
+  "founders": ["Gabor Maté, MD (b. 1944; UBC MD 1977; Canadian family/palliative/addiction physician, author; Order of Canada 2018)", "Sat Dharam Kaur, ND (naturopath, Owen Sound ON; Co-Executive Director, CEO, Facilitator and Practitioner)"],
+  "founded_year": 2015,
+  "founded_year_range": "2010-2016 (method grew out of Maté's 2000s clinical work and workshops; structured online Professional Training c. 2015-16, approx., unverified because neither official site gives a founding date; the illness framework dates to When the Body Says No, 2003)",
+  "category": "influencer/author method",
+  "delivery": ["online course", "clinician-delivered", "group", "book", "film/talks"],
+  "business_model": "mixed",
+  "cost_summary": "Short Course CAD 350 (+CAD 150 for 30 US CE credits; 'over 30 hours' of material), verified 2026-10-12. Professional Training (1 yr; 330 hrs per compassionateinquiry.com, 240 hrs per drgabormate.com): $50 one-time application fee; tuition not shown publicly, monthly payment plans offered (historically about USD 6-8k, approx., unverified). Repeat training CAD 1,000. Practitioner sessions and Circles are priced privately. Lots of free public content (talks, the film).",
+  "cost_usd_typical": 255,
+  "conditions_claimed": ["PTSD/trauma", "addiction/substance use", "anxiety", "depression", "general stress/wellbeing", "fibromyalgia", "ME/CFS", "IBS/functional GI", "headache/migraine", "chronic pain (general)", "autoimmune disease", "cancer", "ALS/MS", "ADHD"],
+  "conditions_primary": ["PTSD/trauma", "addiction/substance use", "anxiety", "depression"],
+  "differentiation": "single unified mechanism",
+  "mechanisms": ["unresolved trauma stored in body", "repressed emotion / psychodynamic (rage, TMS)", "stress / HPA axis", "inflammation / immune", "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")", "attention & interoception / hypervigilance"],
+  "mechanism_summary": "Childhood and intergenerational trauma, defined as an internal wound that includes emotional misattunement, causes disconnection from the authentic self. Addiction, anxiety, depression and relationship patterns are adaptive coping strategies. In Maté's books, chronic hidden stress from emotional repression, compulsive caretaking and an inability to say no dysregulates the HPA axis, the ANS and immunity, which he says promotes autoimmune disease, cancer, ALS/MS and functional illness. A 'toxic culture' adds a social layer. One transdiagnostic model; CI itself is not disorder-specific. Conditions beyond trauma/addiction/mood come from Maté's books, not from the CI site.",
+  "roots": ["Freudian psychoanalysis / psychodynamic theory", "Selye stress theory", "Somatic Experiencing / ethology", "Buddhist vipassana/insight meditation", "Hindu yoga/pranayama", "attachment theory (Bowlby, Neufeld, Alice Miller)", "ACE research / psychoneuroimmunology", "Diamond Approach (A.H. Almaas)", "functional/integrative medicine"],
+  "techniques": ["attuned compassionate questioning that reflects the client's experience back", "tracking body sensations, emotions and tone in session", "tracing current triggers to early memories and implicit beliefs", "identifying adaptive coping patterns and shame", "self-compassion and forgiveness work", "7 A's of healing (acceptance, awareness, anger, autonomy, attachment, assertion, affirmation)", "learning to say no / emotional expression", "trainee personal therapy (>=12 sessions/yr) and dyad/triad practice", "peer support Circles (10 weeks)", "adjunct Kundalini yoga, breathwork and meditation (Kaur)"],
+  "mainstream_adoption": "limited",
+  "mainstream_notes": "drgabormate.com says the training is 'studied by thousands of therapists, physicians, counselors, and others in over 80 countries'. The Short Course carries 10 CE credits from CCPA (Canada) and 30 CE credits through the Spiritual Competency Academy (verified). It is not in any clinical guideline. Maté's ideas are influential in trauma-informed care and harm reduction. The Myth of Normal was reviewed in BJGP (Milton 2024) and Family Medicine (Fogleman 2024).",
+  "insurance": "sometimes/indirect",
+  "insurance_notes": "There is no payer recognition or CPT code for CI as a branded therapy. It is reimbursed only when a licensed psychotherapist uses it inside billable generic psychotherapy. Circles and training are private pay.",
+  "evidence_level": "none",
+  "key_trials": [],
+  "controversy": "Critics on record (via Wikipedia): Nick Haslam ('focus on trauma as the singular primary cause of ill health is unbalanced'), Stanton Peele ('a reductionist vision of addiction'), James Coyne (says Maté 'urges us to abandon ... evidence-based solutions'), Vincenzo Di Nicola (parts not evidence-based). Linking cancer, ALS and autoimmunity to personality or repressed anger risks blaming patients and rests on anecdote and contested 'Type C' research. Framing ADHD as environmental conflicts with genetic evidence. His March 2023 public 'diagnosis' of Prince Harry was criticised. The costly year-long training has no outcome data and is certified only by the organisation itself. He is also associated with psychedelic (ayahuasca) advocacy.",
+  "popularity": {
+    "indicators": [
+      {"metric": "Wisdom of Trauma film viewers", "value": "'Over 10 million ... from 230 countries and territories' (self-reported)", "source": "thewisdomoftrauma.com (SAND)", "year": 2021},
+      {"metric": "CI trainees", "value": "'thousands' of professionals in 'over 80 countries' (self-reported)", "source": "drgabormate.com/about", "year": 2026},
+      {"metric": "Book: The Myth of Normal", "value": "International bestseller; 2023 Vine Award", "source": "Wikipedia", "year": 2022},
+      {"metric": "Book: In the Realm of Hungry Ghosts", "value": "Hubert Evans Prize 2009", "source": "Wikipedia", "year": 2008},
+      {"metric": "Book: When the Body Says No", "value": "Long-running bestseller since 2003", "source": "Wikipedia / publisher", "year": 2003},
+      {"metric": "Media spike", "value": "Prince Harry livestream interview (March 2023, global coverage)", "source": "Wikipedia", "year": 2023},
+      {"metric": "Training cohorts", "value": "3 intakes/year (Feb/May/Sept)", "source": "drgabormate.com/compassionate-inquiry", "year": 2026},
+      {"metric": "Peer-reviewed trials", "value": "0 (PubMed 'compassionate inquiry' = 7 unrelated hits; Europe PMC; ClinicalTrials.gov)", "source": "searches 2026-10-12, re-run in fact-check", "year": 2026}
+    ],
+    "reach_estimate": "Direct CI reach is probably ~10^4 (thousands of trainees plus their clients). Maté's broader framework has reached ~10^7 (self-reported 10M+ film viewers, millions of book readers and podcast listeners). Weighted estimate is ~10^6.5 people exposed to the CI/Maté model.",
+    "reach_log10": 6.5,
+    "trajectory": [
+      {"year": 2003, "relative_activity": 1.5}, {"year": 2005, "relative_activity": 1.5}, {"year": 2008, "relative_activity": 2.5}, {"year": 2010, "relative_activity": 3}, {"year": 2012, "relative_activity": 3.5}, {"year": 2014, "relative_activity": 4}, {"year": 2016, "relative_activity": 5}, {"year": 2018, "relative_activity": 5.5}, {"year": 2019, "relative_activity": 6}, {"year": 2020, "relative_activity": 7}, {"year": 2021, "relative_activity": 9}, {"year": 2022, "relative_activity": 9.5}, {"year": 2023, "relative_activity": 10}, {"year": 2024, "relative_activity": 8.5}, {"year": 2025, "relative_activity": 8}, {"year": 2026, "relative_activity": 7.5}
+    ],
+    "method_notes": "Activity is anchored to dated milestones: books (2003, 2008, 2022), the expansion of online training (~2016, approx.), the free-streamed Wisdom of Trauma film (2021), the Prince Harry interview (2023), and ongoing 3 cohorts/yr. The web-search budget ran out in both research and fact-check, so Reddit, Google Trends, social follower counts and the Wayback founding date could not be checked. The post-2023 decline is an assumption. Reach mixes direct CI training reach (~10^4) with exposure to Maté's framework through the film and books (~10^7)."
+  },
+  "sources": ["https://compassionateinquiry.com/", "https://compassionateinquiry.com/about/", "https://compassionateinquiry.com/faq/", "https://compassionateinquiry.com/professional-training/", "https://compassionateinquiry.com/short-course/", "https://compassionateinquiry.com/sat-dharam-kaur/", "https://drgabormate.com/about/", "https://drgabormate.com/compassionate-inquiry/", "https://thewisdomoftrauma.com/", "https://en.wikipedia.org/wiki/Gabor_Maté", "https://pubmed.ncbi.nlm.nih.gov/?term=%22compassionate+inquiry%22", "https://www.ebi.ac.uk/europepmc/ (PMC10824345, PMC10836633)", "https://clinicaltrials.gov/"]
+}

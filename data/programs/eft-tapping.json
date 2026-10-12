@@ -1,0 +1,327 @@
+{
+  "slug": "eft-tapping",
+  "name": "EFT Tapping (Emotional Freedom Techniques) / The Tapping Solution",
+  "url": "https://www.thetappingsolution.com/",
+  "founders": [
+    "Gary Craig (EFT creator; b. 1940, retired 2025; site lists 1940-2026)",
+    "Roger Callahan (Thought Field Therapy precursor)",
+    "Nick Ortner (The Tapping Solution; NeuroTap Health CEO)",
+    "Jessica Ortner",
+    "Alex Ortner",
+    "Dawson Church (Clinical EFT / EFT Universe)",
+    "Peta Stapleton (Bond University, Clinical EFT research)"
+  ],
+  "founded_year": 1993,
+  "founded_year_range": "1993-1995: Wikipedia gives 1993; Craig's official site dates his work 1995-2025. Derived from Callahan's TFT (c. 1979-1980s). Tapping Solution film 2008, app 2018, NeuroTap Health 2026",
+  "category": "trauma/emotion-focused therapy (energy psychology)",
+  "delivery": [
+    "app",
+    "book",
+    "online course",
+    "clinician-delivered",
+    "group",
+    "self-help technique",
+    "online summit"
+  ],
+  "business_model": "freemium/hybrid",
+  "cost_summary": "The EFT technique itself is free, and Gary Craig's Official EFT archive costs USD 100 one-time (verified 2026). The Tapping Solution app is free with premium tiers; the site publishes no price, and app-store listings of about USD 12.99/month or USD 94.99/year are unverified. Books cost about USD 15-25 and practitioners about USD 75-200 per session (estimate). NeuroTap Health is USD 0 to Original Medicare beneficiaries under the CMS ACCESS Model (2026).",
+  "cost_usd_typical": 95,
+  "conditions_claimed": [
+    "anxiety",
+    "PTSD/trauma",
+    "depression",
+    "chronic pain (general)",
+    "chronic back/neck pain",
+    "headache/migraine",
+    "fibromyalgia",
+    "pelvic pain/endometriosis/vulvodynia/IC",
+    "insomnia",
+    "addiction/substance use",
+    "general stress/wellbeing",
+    "somatic symptom disorder"
+  ],
+  "conditions_primary": [
+    "anxiety",
+    "PTSD/trauma",
+    "chronic pain (general)",
+    "depression"
+  ],
+  "differentiation": "single unified mechanism",
+  "mechanisms": [
+    "limbic system impairment / amygdala threat conditioning",
+    "stress / HPA axis",
+    "unresolved trauma stored in body",
+    "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")",
+    "conditioning / classical learning",
+    "energy meridian disruption (original Craig/Callahan theory)"
+  ],
+  "mechanism_summary": "Craig's original theory was that all negative emotions come from a \"disruption in the body's energy system,\" and that tapping acupuncture-meridian points while focusing on the problem clears it. The modern Tapping Solution and Clinical EFT framing drops meridians. In that version, acupoint stimulation is said to send a calming \"safety\" signal to the amygdala and to lower cortisol and fight-or-flight arousal; paired with exposure to a distressing memory, thought or sensation, this is said to drive counter-conditioning and memory reconsolidation. Chronic pain is framed as amplified by stress, emotions and unresolved trauma. All targets share the same mechanism and sequence. Critics accept the exposure and cognitive components as plausible but dispute that tapping is a specific active ingredient.",
+  "roots": [
+    "acupuncture / TCM meridian theory",
+    "Applied Kinesiology / Thought Field Therapy (Callahan)",
+    "NLP",
+    "behaviorism / classical conditioning",
+    "CBT (Beck/Ellis)",
+    "Christian Science / New Thought / mind-cure",
+    "life coaching / positive psychology",
+    "energy psychology"
+  ],
+  "techniques": [
+    "EFT Basic Recipe: rate SUDS 0-10, say a setup statement while tapping the karate-chop point, tap 8-9 acupoints (eyebrow, side of eye, under eye, under nose, chin, collarbone, under arm, top of head) with a reminder phrase, re-rate, repeat",
+    "Original 9-gamut procedure (eye movements, humming, counting)",
+    "Movie Technique / Tell the Story (graded exposure to a trauma memory)",
+    "Tearless Trauma technique",
+    "Chasing the pain (tapping on sensations as they move)",
+    "Tapping on emotions, beliefs and past events linked to pain",
+    "Positive affirmation rounds",
+    "Guided app tapping meditations (5-20 min) and multi-day challenges",
+    "Clinical EFT manualized protocol (e.g. 6-10 sessions for PTSD; 6-week group program for chronic pain)",
+    "Surrogate tapping; Optimal EFT / Unseen Therapist (Craig's later spiritual variant)",
+    "NeuroTap Health self-guided 10-20 min sessions for anxiety/depression and chronic MSK pain"
+  ],
+  "mainstream_adoption": "limited",
+  "mainstream_notes": "NICE, APA and VA/DoD guidelines do not recommend EFT, and a UK-commissioned network meta-analysis for youth PTSD found no good evidence (Mavranezouli 2020). Use is limited to NHS pockets (Staffordshire) and VA research settings, plus holistic nursing. Proponents have published their own clinical guidelines (Church 2017 Perm J; Church 2018 Healthcare). In 2026 NeuroTap Health (Nick Ortner) appeared on CMS's ACCESS Model accepted-participant list for the MSK and BH tracks; ACCESS pays outcome-aligned payments for chronic MSK pain and depression/anxiety.",
+  "insurance": "sometimes/indirect",
+  "insurance_notes": "There are no EFT-specific billing codes; licensed therapists can bill standard psychotherapy codes while using EFT. Since the ACCESS Model began on 5 Jul 2026, NeuroTap Health (a CMS-listed participant) is USD 0 to Original Medicare beneficiaries. ACCESS pays organizations outcome-aligned payments and is not a coverage decision for EFT. The consumer app is out-of-pocket.",
+  "evidence_level": "systematic reviews/meta-analyses",
+  "key_trials": [
+    {
+      "citation": "Stapleton P et al. A randomized clinical trial of emotional freedom techniques for chronic pain: live versus self-paced delivery with 6-month follow-up. Eur J Pain 2025;29(3):e4740. PMID 39425257",
+      "design": "RCT, 6-week EFT program (live group vs self-paced online) vs waitlist; per-protocol analysis, consistent with ITT",
+      "n": 147,
+      "finding": "Pain severity and interference were lower than waitlist after treatment and stayed lower at 6 months; QoL improved. No effect on anxiety, depression or wellbeing. The two delivery formats did not differ. Proponent lab.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39425257/"
+    },
+    {
+      "citation": "Bougea AM et al. Effect of the emotional freedom technique on perceived stress, quality of life, and cortisol salivary levels in tension-type headache sufferers: RCT. Explore (NY) 2013;9(2):91-99. PMID 23452711",
+      "design": "RCT, EFT twice daily for 2 months (n=19) vs standard care (n=16)",
+      "n": 35,
+      "finding": "Within the EFT arm, headache frequency and intensity, perceived stress and all SF-36 subscales improved. No cortisol change. Independent group (Athens); between-group statistics not reported in the abstract.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23452711/"
+    },
+    {
+      "citation": "Cuvadar A, Guksu Z, Ates S. Effects of EFT on pelvic pain and quality of life in women with endometriosis: RCT. J Integr Complement Med 2026;32(5):453-464. PMID 41313614",
+      "design": "RCT: two 45-60 min EFT sessions (one per month) plus affirmations at least twice weekly vs breathing exercises",
+      "n": 64,
+      "finding": "Pain VAS fell from 7.3 to 4.7 over 2 months, with a significant group x time interaction (eta2=0.32); several SF-36 subscales improved. Unblinded; independent group (Turkey).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41313614/"
+    },
+    {
+      "citation": "Stapleton P et al. Neural changes after EFT treatment for chronic pain sufferers. Complement Ther Clin Pract 2022;49:101653. PMID 35933806",
+      "design": "Uncontrolled pre-post trial with resting-state fMRI, 6-week online group EFT",
+      "n": 24,
+      "finding": "Pain severity fell 21% and interference 26%. mPFC connectivity with PCC and thalamus decreased.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35933806/"
+    },
+    {
+      "citation": "Church D, Yount G, Brooks AJ. The effect of EFT on stress biochemistry: RCT. J Nerv Ment Dis 2012;200(10):891-896. PMID 22986277",
+      "design": "RCT, single 1-hour session: EFT vs supportive interview vs no treatment, non-clinical sample",
+      "n": 83,
+      "finding": "Cortisol fell 24% with EFT vs about 14% in each control; distress symptoms also fell.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22986277/"
+    },
+    {
+      "citation": "Stapleton P et al. Reexamining the effect of EFT on stress biochemistry: RCT. Psychol Trauma 2020;12(8):869-877. PMID 32162958",
+      "design": "Replication RCT: EFT vs psychoeducation vs no treatment (60-min group sessions)",
+      "n": 53,
+      "finding": "Cortisol fell 43% with EFT vs 20% with psychoeducation (significant difference). EFT did not differ significantly from no treatment, and subjective distress did not improve.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32162958/"
+    },
+    {
+      "citation": "Church D et al. Psychological trauma symptom improvement in veterans using EFT: RCT. J Nerv Ment Dis 2013;201(2):153-160. PMID 23364126",
+      "design": "RCT, 6 EFT coaching sessions vs standard-of-care waitlist",
+      "n": 59,
+      "finding": "90% of the EFT group no longer met PTSD criteria vs 4% on waitlist; 80% still did not at 6 months. Proponent lab; self-report measures.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23364126/"
+    },
+    {
+      "citation": "Clond M. EFT for anxiety: systematic review with meta-analysis. J Nerv Ment Dis 2016;204(5):388-395. PMID 26894319",
+      "design": "Meta-analysis of 14 studies (RCTs)",
+      "n": 658,
+      "finding": "Pre-post effect size 1.23 for EFT vs 0.41 for controls; too few comparisons with CBT.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26894319/"
+    },
+    {
+      "citation": "Gilomen SA, Lee CW. The efficacy of acupoint stimulation in the treatment of psychological distress: a meta-analysis. J Behav Ther Exp Psychiatry 2015;48:140-148. PMID 25863484",
+      "design": "Independent meta-analysis of 18 RCTs (12 vs waitlist)",
+      "n": 921,
+      "finding": "Moderate effect (g=-0.66; -0.51 after removing outliers; high heterogeneity). Methodological shortcomings meant the authors could not tell whether the effect is due to acupoint stimulation or to common therapy elements.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25863484/"
+    },
+    {
+      "citation": "Seok JW, Kim JU. The effectiveness of EFT for depressive symptoms: a meta-analysis. J Clin Med 2024;13(21):6481. PMID 39518619",
+      "design": "Meta-analysis of 18 RCTs (independent group, Korea Institute of Oriental Medicine)",
+      "finding": "Overall effect size about 1.27; group formats and moderate depression had larger effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39518619/"
+    },
+    {
+      "citation": "Stapleton P et al. EFT for PTSD: updated systematic review and meta-analysis. Front Psychol 2023;14:1195286. PMID 37637920",
+      "design": "Meta-analysis of 6 RCTs (proponent authors with disclosed COI)",
+      "finding": "Effect sizes 1.38-2.51 vs inactive controls; -0.15 to 0.79 vs active controls. Pfund et al. 2024 (PMID 38464621) rated it critically low quality.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37637920/"
+    },
+    {
+      "citation": "Spielmans GI, Rosen GM, Spence-Sing T. Tapping away at a misleading meta-analysis: no evidence for specificity of acupoint tapping. J Nerv Ment Dis 2020;208(8):628-631. PMID 32740560",
+      "design": "Critical re-analysis of Church et al. 2018 dismantling meta-analysis (k=3; PMID 30273275)",
+      "finding": "Acupoint tapping was no better than comparison groups (d=-0.38, p=0.12). The critique cites non-clinical samples, controls that were not bona fide therapies, and allegiance bias.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32740560/"
+    }
+  ],
+  "controversy": "EFT's original meridian/energy theory is unsupported, and EFT is widely listed as fringe or pseudoscientific (Lilienfeld 2003; Norcross 2006 Delphi poll, mean 3.8 between \"possibly\" and \"probably discredited\"; Bakker 2013; McCaslin 2009). Dismantling evidence does not show that point location matters: Church 2018 claimed an acupoint effect, Spielmans et al.'s 2020 re-analysis found none, and Gilomen & Lee 2015 could not attribute effects to acupoints. The trial literature is dominated by proponents who disclose income from EFT (Church, Stapleton, Feinstein), mostly against waitlist controls. Independent critics (Pfund, Boness & Tolin 2024) rate EFT meta-analyses \"critically low\" quality and call acupressure in psychotherapy an \"unsinkable rubber duck.\" Commercially, the Tapping Solution applies one mechanism to everything from pain to money and weight, and it cites \"98 RCTs / 400+ studies\" without grading their quality. NeuroTap's 2026 Medicare entry rests on uncontrolled within-session app data (16.6M sessions, d=1.21-1.66; manuscript under review). Gary Craig's later \"Unseen Therapist\" spiritual turn diverges from the Clinical EFT research branch. In EFT's favour, it is low-risk and cheap, and its exposure and cognitive components are plausible active ingredients.",
+  "popularity": {
+    "indicators": [
+      {
+        "metric": "People reached (company claim)",
+        "value": "4M+",
+        "source": "thetappingsolution.com home page (verified 2026-10-12)",
+        "year": 2026
+      },
+      {
+        "metric": "App sessions completed",
+        "value": "32M+ (home page); the app page still says 17M+ meditations played",
+        "source": "thetappingsolution.com home and /app pages",
+        "year": 2026
+      },
+      {
+        "metric": "App reviews",
+        "value": "40,000+ reviews, 4.8 stars",
+        "source": "thetappingsolution.com home page",
+        "year": 2026
+      },
+      {
+        "metric": "Countries",
+        "value": "190+ (not re-verified)",
+        "source": "thetappingsolution.com/about-us",
+        "year": 2026
+      },
+      {
+        "metric": "Social followers",
+        "value": "433K Facebook, 145K Instagram (brand); Nick Ortner 1.1M Facebook",
+        "source": "thetappingsolution.com/app",
+        "year": 2026
+      },
+      {
+        "metric": "NeuroTap/Tapping Solution platform data",
+        "value": "16.6M rated sessions, 868,244 unique users",
+        "source": "neurotap.com/health.html",
+        "year": 2026
+      },
+      {
+        "metric": "Books",
+        "value": "The Tapping Solution (2013) and Jessica Ortner's weight-loss book (2014) described as NYT bestsellers; Pain Relief book 2015",
+        "source": "thetappingsolution.com/about-us",
+        "year": 2013
+      },
+      {
+        "metric": "Tapping World Summit",
+        "value": "annual online summit since 2010",
+        "source": "thetappingsolution.com/about-us",
+        "year": 2010
+      },
+      {
+        "metric": "Medicare access",
+        "value": "NeuroTap Health, Inc. listed as an ACCESS Model participant (MSK, BH tracks); the model began 5 Jul 2026",
+        "source": "cms.gov/priorities/innovation/access-model-participants",
+        "year": 2026
+      }
+    ],
+    "reach_estimate": "About 5-10 million people cumulatively. The Tapping Solution claims 4M+ (with 868k unique users who rated sessions in the app); on top of that are 1990s-2000s users of Craig's free EFT manual and emofree.com, readers of Mercola's promotion, and Clinical EFT practitioners' clients worldwide.",
+    "reach_log10": 6.8,
+    "trajectory": [
+      {
+        "year": 1993,
+        "relative_activity": 0.5
+      },
+      {
+        "year": 1996,
+        "relative_activity": 1
+      },
+      {
+        "year": 1999,
+        "relative_activity": 2
+      },
+      {
+        "year": 2002,
+        "relative_activity": 3
+      },
+      {
+        "year": 2005,
+        "relative_activity": 4
+      },
+      {
+        "year": 2008,
+        "relative_activity": 5
+      },
+      {
+        "year": 2010,
+        "relative_activity": 5.5
+      },
+      {
+        "year": 2012,
+        "relative_activity": 6
+      },
+      {
+        "year": 2013,
+        "relative_activity": 6.5
+      },
+      {
+        "year": 2015,
+        "relative_activity": 6.5
+      },
+      {
+        "year": 2016,
+        "relative_activity": 6.5
+      },
+      {
+        "year": 2018,
+        "relative_activity": 7
+      },
+      {
+        "year": 2020,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2022,
+        "relative_activity": 8
+      },
+      {
+        "year": 2024,
+        "relative_activity": 8.5
+      },
+      {
+        "year": 2026,
+        "relative_activity": 9
+      }
+    ],
+    "method_notes": "Trajectory is anchored on documented milestones: EFT 1993-95 via Craig's free manual and emofree.com; Mercola promotion around 2005-10; the Tapping Solution film 2008; Tapping World Summit 2010; NYT-bestselling books 2013-15; app launch 2018; rising PubMed output with several meta-analyses in 2023-26; and Medicare/NeuroTap in 2026. Company figures are self-reported. The 17M vs 32M session counts appear on different current pages and are not treated as a time series. Google Trends, Reddit and app-store data were not checked because the web-search budget was exhausted; pre-2008 levels are judgement-based."
+  },
+  "sources": [
+    "https://www.thetappingsolution.com/",
+    "https://www.thetappingsolution.com/about-us/",
+    "https://www.thetappingsolution.com/what-is-eft-tapping/",
+    "https://www.thetappingsolution.com/app/",
+    "https://www.neurotap.com/health.html",
+    "https://www.cms.gov/priorities/innovation/innovation-models/access",
+    "https://www.cms.gov/priorities/innovation/access-model-participants",
+    "https://www.palaceofpossibilities.com/",
+    "https://en.wikipedia.org/wiki/Emotional_Freedom_Techniques",
+    "https://pubmed.ncbi.nlm.nih.gov/39425257/",
+    "https://pubmed.ncbi.nlm.nih.gov/35933806/",
+    "https://pubmed.ncbi.nlm.nih.gov/23452711/",
+    "https://pubmed.ncbi.nlm.nih.gov/41313614/",
+    "https://pubmed.ncbi.nlm.nih.gov/22986277/",
+    "https://pubmed.ncbi.nlm.nih.gov/32162958/",
+    "https://pubmed.ncbi.nlm.nih.gov/23364126/",
+    "https://pubmed.ncbi.nlm.nih.gov/26894319/",
+    "https://pubmed.ncbi.nlm.nih.gov/25863484/",
+    "https://pubmed.ncbi.nlm.nih.gov/39518619/",
+    "https://pubmed.ncbi.nlm.nih.gov/37637920/",
+    "https://pubmed.ncbi.nlm.nih.gov/30273275/",
+    "https://pubmed.ncbi.nlm.nih.gov/32740560/",
+    "https://pubmed.ncbi.nlm.nih.gov/38464621/",
+    "https://pubmed.ncbi.nlm.nih.gov/39006869/",
+    "https://pubmed.ncbi.nlm.nih.gov/42534037/",
+    "https://pubmed.ncbi.nlm.nih.gov/28678690/",
+    "https://pubmed.ncbi.nlm.nih.gov/30545069/"
+  ]
+}

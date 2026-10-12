@@ -1,0 +1,194 @@
+{
+  "slug": "fibroguide-painguide",
+  "name": "FibroGuide / PainGuide (University of Michigan CPFRC)",
+  "url": "https://painguide.com",
+  "founders": [
+    "David A. Williams, PhD (clinical psychologist, U-Michigan)",
+    "Daniel J. Clauw, MD (rheumatologist, director U-M Chronic Pain and Fatigue Research Center)",
+    "Executive-team contributors listed on PainGuide About page: Afton Hassett PsyD, Daniel Whibley PhD, Anna Kratz PhD"
+  ],
+  "founded_year": 2010,
+  "founded_year_range": "Lineage: 2002 (face-to-face 6-session FM CBT protocol) -> c.2005-2010 ('Living Well with Fibromyalgia' / WEB-SM website, RCT published 2010) -> c.2010-2015 public FibroGuide (in clinical use by 2015 pilot) -> c.2019-2022 PainGuide relaunch (used as BEST ESC arm from 2022; exact launch date unverified)",
+  "category": "digital app/platform (academic, free web-based CBT self-management)",
+  "delivery": [
+    "website",
+    "app (web-based tracker)",
+    "online course (self-paced modules)",
+    "coaching (in research versions: medical-assistant coached)"
+  ],
+  "business_model": "free",
+  "cost_summary": "Free (USD 0). Grant-funded (NIAMS R01-AR050044 for the 2010 trial, which was also DoD-sponsored; NIH HEAL BACPAC); Stoltz Family listed as sponsor. Free account needed only for the symptom tracker. Developers disclose royalties from a commercial digital pain tool (Tonix) and digital-therapeutics consultancies.",
+  "cost_usd_typical": 0,
+  "conditions_claimed": [
+    "fibromyalgia",
+    "chronic pain (general)",
+    "chronic back/neck pain",
+    "IBS/functional GI",
+    "TMD/jaw",
+    "headache/migraine",
+    "pelvic pain/endometriosis/vulvodynia/IC",
+    "ME/CFS",
+    "CRPS",
+    "osteoarthritis",
+    "rheumatoid arthritis",
+    "MS pain",
+    "sickle cell pain",
+    "cancer-related pain / chemotherapy neuropathy",
+    "lipedema",
+    "pediatric and geriatric pain"
+  ],
+  "conditions_primary": [
+    "fibromyalgia",
+    "chronic back/neck pain",
+    "chronic pain (general)"
+  ],
+  "differentiation": "mostly unified with condition-specific emphasis",
+  "mechanisms": [
+    "central sensitization",
+    "fear-avoidance / catastrophizing / cognitive appraisal",
+    "stress / HPA axis",
+    "sensorimotor / movement patterns / body schema",
+    "peripheral nerve / pain gating"
+  ],
+  "mechanism_summary": "Pain is split into nociceptive, neuropathic and nociplastic ('centrally augmented') types. Fibromyalgia and other COPCs are framed as the prototype of central amplification: high CNS sensory gain and reduced descending inhibition, with triggers including genetics, infection, hormones, trauma, repetitive injury and stress. The COPCs 'may share' a common mechanism. Deconditioning, boom-bust activity, poor sleep, negative thoughts and distress are treated as maintaining factors targeted by CBT. The goal is management rather than cure, and the program makes no psychogenic, autonomic or limbic claims. Mechanisms are differentiated per patient and per condition (nociceptive vs neuropathic vs nociplastic), but the self-care toolkit is the same for all.",
+  "roots": [
+    "CBT (Beck/Ellis)",
+    "behaviorism / classical conditioning",
+    "gate control / neuromatrix pain science",
+    "autogenic training / Relaxation Response",
+    "life coaching / positive psychology",
+    "Traditional Chinese medicine (acupressure)"
+  ],
+  "techniques": [
+    "pain neuroscience education (nociceptive/neuropathic/nociplastic)",
+    "graded exercise / physical activity",
+    "activity pacing",
+    "relaxation training (audio)",
+    "cognitive reframing",
+    "resilience / strengths exercises",
+    "pleasant activity scheduling / emotion management",
+    "communication skills",
+    "sleep hygiene",
+    "self-acupressure",
+    "spirituality",
+    "ergonomics/posture",
+    "nutrition and supplements info",
+    "goal setting, problem solving, maintenance",
+    "symptom and activity tracking app",
+    "information on professional care (meds, devices, procedures)"
+  ],
+  "mainstream_adoption": "moderate",
+  "mainstream_notes": "Created and hosted by the University of Michigan and used in U-M care. It is the Enhanced Self-Care arm of the NIH HEAL BACPAC BEST SMART trial (about 1,014-1,019 enrolled, 805 randomized; the design paper names the modules 'PainGuide') and the run-in for the U-M interventional-response phenotyping study (Pain Med 2023 protocol). It is also tested in the Tailored PainGuide RCT (target n=550, NCT05843890; tailored vs standard PainGuide). Derivatives include PROSPECT (chemotherapy neuropathy) and a breast-cancer symptom site. The International Pelvic Pain Society lists it as a patient resource. It is not itself named in guidelines, but it delivers guideline-recommended CBT and exercise content.",
+  "insurance": "no",
+  "insurance_notes": "Free, so reimbursement is not applicable. Clinician or medical-assistant coaching around it could be billed under generic codes, but there is no specific coverage policy.",
+  "evidence_level": "pilot or single RCT",
+  "key_trials": [
+    {
+      "citation": "Williams DA, Kuper D, Segar M, Mohan N, Sheth M, Clauw DJ. Internet-enhanced management of fibromyalgia: a randomized controlled trial. Pain 2010;151(3):694-702. PMID 20855168",
+      "design": "RCT: standard care + 'Living Well with Fibromyalgia' website (WEB-SM; FibroGuide precursor; 13 modules) vs standard care; 6 months; rural South Dakota (Avera) network",
+      "n": 118,
+      "finding": "Pain, physical function and PGIC significantly better. 30% pain responders 29% vs 8% (NNT 5); function responders 31% vs 6%; PGIC improved 57% vs 21% (PGIC available for only 68/118). Sleep, fatigue and mood not different. No attention control; developers ran the trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20855168/"
+    },
+    {
+      "citation": "Hassett AL, Voepel-Lewis T, Zhu G, Parks A, Tsodikov A, Long J, Shaikh S, Burgess B, Brummett CM, Clauw DJ, Williams DA. Randomized controlled trial of medical assistant-coached behavioral intervention for chronic pain. Reg Anesth Pain Med 2026 (online Mar 6). PMID 41791834; NCT03304613",
+      "design": "3-arm RCT: PRISM-CBT (resilience-enhanced) vs standard CBT (both via FibroGuide modules, 1/week for 8 weeks, medical-assistant coaching) vs usual care; spinal pain with FM symptoms",
+      "n": 299,
+      "finding": "Primary outcome null: no FIQR difference PRISM-CBT vs usual care at 8 weeks (0.20 points, p=.94). At 12 months PRISM-CBT was 7.4 points better than usual care (p=.045). BPI pain interference 0.88 points lower vs usual care at 8 weeks and 6 months, 1.42 lower at 12 months; PRISM-CBT also beat standard CBT on interference. Developer-run; authors disclose commercial COIs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41791834/"
+    },
+    {
+      "citation": "BEST trial (BACPAC), NCT05396014; design Mauck MC et al. Pain Med 2025; baseline Rowland B et al. Pain Med 2025. Primary results posted to ClinicalTrials.gov July 2025 (not peer-reviewed)",
+      "design": "Multisite SMART for chronic low back pain: Enhanced Self-Care (unguided PainGuide modules, 12 weeks) vs ACT vs exercise/manual therapy vs duloxetine as first-stage treatments",
+      "n": 805,
+      "finding": "Registry-posted 24-week PEG change (LS mean, higher = worse): ESC/PainGuide 4.72 (95% CI 4.30-5.14, n=205) vs ACT 4.16, duloxetine 3.86, exercise/manual therapy 3.57 (3.15-3.99). PainGuide self-care was numerically the weakest arm. Unpublished; interpret cautiously.",
+      "url": "https://clinicaltrials.gov/study/NCT05396014"
+    },
+    {
+      "citation": "Sparks T, Kawi J, Menzel NN, Hartley K. Implementation of health information technology in routine care for fibromyalgia: pilot study. Pain Manag Nurs 2016;17(1):54-62. PMID 26777125",
+      "design": "Single-arm pre/post implementation pilot of FibroGuide (10 modules) in an APRN clinic, 12 weeks (independent UNLV team)",
+      "n": 35,
+      "finding": "FIQ impact improved (p=.017); most found it helpful, but 57% preferred talking to providers. Uncontrolled.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26777125/"
+    },
+    {
+      "citation": "Knoerl R, Smith EML, Barton DL, Williams DA, Holden JE, Krauss JC, LaVasseur B. Self-guided online cognitive behavioral strategies for chemotherapy-induced peripheral neuropathy: a multicenter, pilot, randomized, wait-list controlled trial. J Pain 2018;19(4):382-394. PMID 29229430",
+      "design": "Pilot RCT of PROSPECT (adapted from FibroGuide) vs usual care, 8 weeks",
+      "n": 60,
+      "finding": "Worst pain improved (p=.046, d=0.58; analysed n=38); no significant secondary outcomes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29229430/"
+    },
+    {
+      "citation": "Henry NL, Kidwell KM, Alsamarraie C, Bridges CM, Kwiatkowski C, Clauw DJ, Smith EML, Williams DA. Pilot study of an internet-based self-management program for symptom control in patients with early-stage breast cancer. JCO Clin Cancer Inform 2018;2:1-12. PMID 30652562",
+      "design": "Single-arm pilot of a U-M internet self-management derivative, 8 weeks",
+      "n": 50,
+      "finding": "Significant PROMIS improvements in anxiety, sleep, fatigue, activity and pain (n=45 analysed); 62.9% of 35 PGIC responders reported improvement in their primary symptom. Uncontrolled.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30652562/"
+    },
+    {
+      "citation": "Williams DA, Cary MA, Groner KH, Chaplin W, Glazer LJ, Rodriguez AM, Clauw DJ. Improving physical functional status in patients with fibromyalgia: a brief cognitive behavioral intervention. J Rheumatol 2002;29(6):1280-6. PMID 12064847",
+      "design": "RCT of the face-to-face 6-session CBT antecedent (not the website) + standard care vs standard care; 1-year follow-up",
+      "n": 145,
+      "finding": "25% vs 12% reached clinically meaningful functional improvement; no lasting pain difference.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12064847/"
+    }
+  ],
+  "controversy": "Little controversy about the program itself: it is non-commercial, makes no cure claims and uses conventional CBT and exercise content. Critiques target the underlying centralized/nociplastic construct: a diagnosis by exclusion without a validated biomarker, which some advocates see as psychologizing illness or overlooking peripheral pathology such as small-fibre neuropathy. Other criticisms: modest effect sizes, low engagement in unguided use, only one adequately controlled efficacy RCT (from 2010) and none with an attention control, and nearly all trials run by the developers, some of whom disclose royalties from a commercial digital pain tool (Tonix) and digital-therapeutics consultancies. The 2026 PRISM-CBT trial missed its primary endpoint. Registry-posted (unpublished) BEST results show the unguided PainGuide self-care arm did worst of four first-line treatments for chronic low back pain.",
+  "popularity": {
+    "indicators": [
+      {"metric": "RCT publication of web program", "value": "Pain 2010, N=118", "source": "PubMed 20855168", "year": 2010},
+      {"metric": "Independent clinical implementation pilot", "value": "N=35 APRN clinic", "source": "Pain Manag Nurs 2016", "year": 2015},
+      {"metric": "Use as NIH HEAL BACPAC trial arm", "value": "BEST trial: 1,014-1,019 enrolled / 805 randomized (205 to PainGuide self-care)", "source": "ClinicalTrials.gov NCT05396014; Pain Med 2025", "year": 2024},
+      {"metric": "Tailored PainGuide RCT enrollment target", "value": "550", "source": "ClinicalTrials.gov NCT05843890", "year": 2023},
+      {"metric": "Reddit/social media mentions", "value": "essentially none found", "source": "web search", "year": 2026},
+      {"metric": "Site maintenance", "value": "(c) 2025 footer; FibroGuide URL now PainGuide-branded", "source": "painguide.com, fibroguide.med.umich.edu", "year": 2026}
+    ],
+    "reach_estimate": "~10^4-10^5 cumulative users. A few thousand trial participants across U-M, BACPAC and derivative studies; public free use via clinician referral and lectures is unquantified. No published usage figures.",
+    "reach_log10": 4.5,
+    "trajectory": [
+      {"year": 2002, "relative_activity": 1},
+      {"year": 2005, "relative_activity": 2},
+      {"year": 2008, "relative_activity": 3},
+      {"year": 2010, "relative_activity": 5},
+      {"year": 2012, "relative_activity": 5},
+      {"year": 2014, "relative_activity": 5},
+      {"year": 2016, "relative_activity": 5},
+      {"year": 2018, "relative_activity": 5},
+      {"year": 2020, "relative_activity": 6},
+      {"year": 2022, "relative_activity": 7},
+      {"year": 2023, "relative_activity": 7},
+      {"year": 2024, "relative_activity": 8},
+      {"year": 2025, "relative_activity": 7},
+      {"year": 2026, "relative_activity": 7}
+    ],
+    "method_notes": "Trajectory is inferred from dated milestones: 2002 face-to-face protocol, 2010 RCT and public FibroGuide, 2015-16 pilots, 2018 derivative trials, c.2020-22 PainGuide relaunch and BACPAC adoption (BEST 2022-24), 2023 Tailored PG RCT, 2026 PRISM-CBT publication. Exact launch dates are not verified, and no Google Trends, app-store or Reddit signal was detectable. Activity therefore mainly reflects academic and research use, not consumer popularity. Reach is an order-of-magnitude guess from trial enrolments plus assumed clinic referrals."
+  },
+  "sources": [
+    "https://painguide.com/",
+    "https://painguide.com/about/",
+    "https://painguide.com/about-pain/",
+    "https://painguide.com/pain-conditions/",
+    "https://painguide.com/pain-care/self-care/",
+    "https://fibroguide.med.umich.edu",
+    "https://bacpac.painguide.med.umich.edu/about",
+    "https://pubmed.ncbi.nlm.nih.gov/20855168/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC2972378/",
+    "https://pubmed.ncbi.nlm.nih.gov/26777125/",
+    "https://pubmed.ncbi.nlm.nih.gov/41791834/",
+    "https://clinicaltrials.gov/study/NCT03304613",
+    "https://pubmed.ncbi.nlm.nih.gov/29229430/",
+    "https://pubmed.ncbi.nlm.nih.gov/30652562/",
+    "https://pubmed.ncbi.nlm.nih.gov/12064847/",
+    "https://pubmed.ncbi.nlm.nih.gov/24737367/",
+    "https://pubmed.ncbi.nlm.nih.gov/34062144/",
+    "https://pubmed.ncbi.nlm.nih.gov/19638325/",
+    "https://pubmed.ncbi.nlm.nih.gov/27586833/",
+    "https://clinicaltrials.gov/study/NCT05843890",
+    "https://clinicaltrials.gov/study/NCT05396014",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC12405758/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC12585105/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10403311/",
+    "https://www.pelvicpain.org/public/resources/educational-resources/websites/5-painguide",
+    "/Users/f003vz1/Dartmouth College Dropbox/Tor Wager/A10_Mini-Reviews/Mind_Brain_Body_treatments_review/programs/fibroguide-painguide.md"
+  ]
+}

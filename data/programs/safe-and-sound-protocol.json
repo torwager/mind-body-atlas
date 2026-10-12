@@ -1,0 +1,145 @@
+{
+  "slug": "safe-and-sound-protocol",
+  "name": "Safe and Sound Protocol (SSP)",
+  "url": "https://integratedlistening.com/products/ssp-safe-sound-protocol/",
+  "founders": [
+    "Stephen W. Porges, PhD (developer; Polyvagal Theory; Kinsey Institute/Indiana Univ. and UNC Chapel Hill; Unyte Chief Scientific Advisor)",
+    "Integrated Listening Systems (iLs), now Unyte Health / Unyte-iLs (commercializer)"
+  ],
+  "founded_year": 2017,
+  "founded_year_range": "Precursor Listening Project Protocol was developed in the late 1990s-2000s (Porges says 20+ years before 2020; RCTs published 2013-14). Commercial SSP launched 2016-2017 (Unyte says available 'since 2017'; earliest archived SSP page is from 2018).",
+  "category": "device/neuromodulation/biofeedback (filtered-music listening therapy)",
+  "delivery": ["clinician-delivered", "app", "device (headphones + filtered audio)", "remote/home listening under provider supervision"],
+  "business_model": "commercial",
+  "cost_summary": "Provider-gated. Provider certification costs USD 399 on its own, or USD 249-349 when bundled with a subscription (Unyte pages are inconsistent). Subscription is USD 139/month or 1,499/year (25 client licenses), or a 3-month trial at 169/month (6 licenses); extra licenses are USD 25 each (Oct 2026). Client cost is set by the provider and is usually folded into therapy or OT session fees. No standard published client price.",
+  "cost_usd_typical": null,
+  "conditions_claimed": ["PTSD/trauma", "anxiety", "depression", "insomnia", "POTS/dysautonomia", "IBS/functional GI", "FND", "long COVID", "MCS/IEI", "chronic pain (general)", "fibromyalgia", "ME/CFS", "general stress/wellbeing", "autism/sensory processing (free term)", "auditory hypersensitivity (free term)"],
+  "conditions_primary": ["PTSD/trauma", "anxiety", "autism/sensory processing (free term)", "depression"],
+  "differentiation": "single unified mechanism",
+  "mechanisms": ["polyvagal / vagal tone / safety signalling", "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")", "attention & interoception / hypervigilance", "unresolved trauma stored in body", "sensorimotor / movement patterns / body schema"],
+  "mechanism_summary": "Based on Polyvagal Theory. \"Neuroception\" of threat is said to lock the autonomic nervous system into sympathetic or dorsal-vagal defense, and with it the cranial-nerve \"social engagement system,\" which includes the middle-ear muscles and vagal control of the heart. This produces auditory hypersensitivity, poor social engagement, anxiety, trauma symptoms and bodily symptoms. Music filtered to emphasize the frequencies of human prosody is claimed to act as a \"neural exercise\" for the middle-ear muscles, raising ventral-vagal tone (RSA) and making felt safety accessible. One mechanism is used for every condition; only pacing and pathway are titrated.",
+  "roots": ["polyvagal theory", "biofeedback (1960s-70s)", "Somatic Experiencing / ethology", "Tomatis method / auditory integration training (free term)"],
+  "techniques": [
+    "Passive headphone listening to Porges-filtered music (patented, dynamically progressing algorithm)",
+    "SSP Connect (unfiltered familiarization), SSP Core (~5 h filtered), SSP Balance (light filtering, maintenance) pathways",
+    "Eight playlists (pop, classical/Mozart, children's, ambient, etc.)",
+    "Provider co-regulation and titration of session length (1 min to 1 h) to autonomic response",
+    "Remote delivery via Unyte app / MyUnyte",
+    "Outcome tracking with GAD-7, PHQ-9, PCL-5, caregiver scales",
+    "Adjunct to psychotherapy (EMDR, IFS, SE), OT sensory integration",
+    "Spin-off Rest & Restore Protocol (10 sessions, 'homeostatic entrainment')"
+  ],
+  "mainstream_adoption": "limited",
+  "mainstream_notes": "More than 10,000 certified providers (OTs, psychotherapists, SLPs, coaches) in 50+ countries. Used in some residential addiction and trauma centres, plus isolated hospital use (paediatric FND, Westmead, Sydney). Not in NICE or other clinical guidelines. Unyte says it is not a medical device and has not been FDA-evaluated. The theory it rests on (Polyvagal Theory) is strongly contested by autonomic physiologists.",
+  "insurance": "sometimes/indirect",
+  "insurance_notes": "No CPT code or payer coverage for SSP itself. Providers sometimes deliver it within sessions billed under existing psychotherapy or OT codes.",
+  "evidence_level": "pilot or single RCT",
+  "key_trials": [
+    {
+      "citation": "Porges SW, Bazhenova OV, Bal E, et al. Reducing auditory hypersensitivities in autistic spectrum disorder: preliminary findings evaluating the listening project protocol. Front Pediatr 2014;2:80. PMID 25136545",
+      "design": "Two sequential quasi-randomized controlled trials of the precursor (LPP) in children with ASD: Trial I filtered music vs headphones-only; Trial II filtered vs unfiltered music (2:1). Five daily ~45-min sessions; parent-report outcomes; developer-run.",
+      "finding": "Filtered music improved parent-reported hearing sensitivity and several behavioral domains vs headphones-only. Against unfiltered music, only hearing sensitivity and emotional control differed.",
+      "n": 175,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25136545/"
+    },
+    {
+      "citation": "Porges SW, Macellaio M, Stanfill SD, et al. Respiratory sinus arrhythmia and auditory processing in autism: modifiable deficits of an integrated social engagement system? Int J Psychophysiol 2013;88:261-70. PMID 23201146",
+      "design": "Cross-sectional ASD vs typically developing comparison, with an uncontrolled intervention subset",
+      "finding": "ASD children had lower baseline RSA and poorer auditory processing. In a subset, auditory processing and RSA improved after the listening intervention (uncontrolled).",
+      "n": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23201146/"
+    },
+    {
+      "citation": "Kawai H, Kishimoto M, Okahisa Y, et al. Initial Outcomes of the Safe and Sound Protocol on Patients with Adult Autism Spectrum Disorder: Exploratory Pilot Study. Int J Environ Res Public Health 2023;20:4862. PMID 36981773",
+      "design": "Uncontrolled pre-post pilot. Unyte-iLs supplied equipment and paid the training fee.",
+      "finding": "Only the SRS-2 Social Awareness family-report subscale improved. No significant change in other primary or secondary outcomes.",
+      "n": 6,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36981773/"
+    },
+    {
+      "citation": "Rajabalee N, Kozlowska K, Lee SY, ... Porges SW, et al. Neuromodulation Using Computer-Altered Music to Treat a Ten-Year-Old Child Unresponsive to Standard Interventions for Functional Neurological Disorder. Harv Rev Psychiatry 2022;30:303-16. PMID 35616609",
+      "design": "Single case report (Porges co-author)",
+      "finding": "A child with FND unresponsive to standard care improved after SSP within a multidisciplinary program.",
+      "n": 1,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35616609/"
+    },
+    {
+      "citation": "NCT04999852: The Effects of the Safe and Sound Protocol on PTSD Symptoms and Anxiety (Indiana University / Spencer Psychology; completed 2023; results posted on ClinicalTrials.gov, not peer-reviewed)",
+      "design": "Non-randomized, unmasked: SSP + psychotherapy (n=32) vs psychotherapy as usual (n=13)",
+      "finding": "PCL-5 change was -9.9 (SD 11.1) with SSP vs -2.3 (SD 12.2) without; GAD-7 change was -1.9 vs -0.8. Groups were self-selected and attrition differed (19/32 SSP vs 12/13 controls completed), so no causal inference.",
+      "n": 45,
+      "url": "https://clinicaltrials.gov/study/NCT04999852"
+    },
+    {
+      "citation": "NCT03083977: Examining the Effects of Processed Music on Chronic Pain (Porges, Indiana University)",
+      "design": "Single-arm pilot in older adults with chronic pain",
+      "finding": "Terminated at n=8 (pandemic recruitment). No results. This is the only chronic-pain study of SSP.",
+      "n": 8,
+      "url": "https://clinicaltrials.gov/study/NCT03083977"
+    }
+  ],
+  "controversy": "Rests on Polyvagal Theory, whose core premises many autonomic physiologists dispute: Grossman 2023 Biol Psychol, and a 39-author 2026 critique calling the theory \"untenable\" (Porges rebutted). Marketing as \"evidence-based\" and \"vagus nerve stimulating,\" with improvement percentages, far exceeds the evidence. That evidence is one developer-run, quasi-randomized, parent-report trial of the precursor in autistic children, plus tiny pilots, a non-randomized trial with differential attrition, and case reports. Developer and commercial conflicts. Unyte disclaims medical-device status. Uncontrolled \"real-world evidence\" gives no denominators. Off-label promotion for chronic illness (MCS, ME/CFS, POTS, fibromyalgia) via limbic-retraining communities, where no trials exist; the one chronic-pain pilot was terminated. Possible dysregulation reactions are acknowledged in training, but adverse-event data are absent.",
+  "popularity": {
+    "indicators": [
+      {"metric": "Certified SSP providers", "value": "10,000+ in 50+ countries", "source": "integratedlistening.com product and about pages", "year": 2026},
+      {"metric": "People served (company claim)", "value": "'hundreds of thousands of children, youth and adults'", "source": "integratedlistening.com/about", "year": 2026},
+      {"metric": "Commercial availability", "value": "Available to professionals since 2017; first archived SSP pages 2018; 'SSP Gathering' conference 2019", "source": "Unyte Porges letter page; Wayback Machine CDX", "year": 2017},
+      {"metric": "Registered clinical trials", "value": "8 SSP-related ClinicalTrials.gov records: 1 completed non-randomized, 4 terminated, 3 RCTs recruiting or not yet recruiting (2025-26)", "source": "ClinicalTrials.gov API", "year": 2026},
+      {"metric": "Peer-reviewed SSP/LPP-specific papers (PubMed/Europe PMC)", "value": "~5 (2013 and 2014 LPP studies, 2022 FND case, 2023 pilot, 2025 systematic review); 19 Europe PMC records mention 'Safe and Sound Protocol'", "source": "PubMed / Europe PMC search", "year": 2026},
+      {"metric": "Training channels", "value": "PESI and Psychotherapy Networker SSP training bundles", "source": "integratedlistening.com sitemap", "year": 2024}
+    ],
+    "reach_estimate": "~300,000 cumulative clients (order 10^5-10^6). Basis: Unyte's claim of 'hundreds of thousands' served and 10,000+ providers × ~10-30 clients each.",
+    "reach_log10": 5.5,
+    "trajectory": [
+      {"year": 2000, "relative_activity": 0.3},
+      {"year": 2005, "relative_activity": 0.5},
+      {"year": 2010, "relative_activity": 0.7},
+      {"year": 2013, "relative_activity": 1},
+      {"year": 2014, "relative_activity": 1.2},
+      {"year": 2015, "relative_activity": 1},
+      {"year": 2016, "relative_activity": 1.5},
+      {"year": 2017, "relative_activity": 2.5},
+      {"year": 2018, "relative_activity": 3.5},
+      {"year": 2019, "relative_activity": 4.5},
+      {"year": 2020, "relative_activity": 6},
+      {"year": 2021, "relative_activity": 7},
+      {"year": 2022, "relative_activity": 8},
+      {"year": 2023, "relative_activity": 8.5},
+      {"year": 2024, "relative_activity": 9},
+      {"year": 2025, "relative_activity": 9},
+      {"year": 2026, "relative_activity": 8.5}
+    ],
+    "method_notes": "Trajectory is anchored on documented milestones: LPP lab-research era (2000s; RCTs published 2013-14); commercial launch via iLs (2017); first Wayback SSP pages (2018) and the 2019 SSP Gathering; app-based remote delivery and the polyvagal/'nervous system regulation' boom in therapy culture (2020-22); 10,000+ providers and pathway/playlist expansion and Rest & Restore spin-off (2023-25); a slight dip in 2026 reflects high-profile scientific critiques of Polyvagal Theory. Google Trends, Reddit and YouTube metrics were NOT directly measured (search budget exhausted for both researcher and fact-checker). Levels are judgment-based interpolations from company provider counts and these milestones. Reach is based on the company's 'hundreds of thousands' claim and is unverified."
+  },
+  "sources": [
+    "https://integratedlistening.com/products/ssp-safe-sound-protocol/",
+    "https://integratedlistening.com/products/ssp-safe-sound-protocol/ssp-music/",
+    "https://integratedlistening.com/products/ssp-safe-sound-protocol/how-it-works/",
+    "https://integratedlistening.com/products/ssp-safe-sound-protocol/pricing/",
+    "https://integratedlistening.com/letter-from-dr-stephen-porges-ssp/",
+    "https://integratedlistening.com/polyvagal-theory/porges/",
+    "https://integratedlistening.com/about/",
+    "https://integratedlistening.com/research/unytes-real-world-evidence/",
+    "https://integratedlistening.com/products/rest-and-restore-protocol/",
+    "https://pubmed.ncbi.nlm.nih.gov/25136545/",
+    "https://pubmed.ncbi.nlm.nih.gov/23201146/",
+    "https://pubmed.ncbi.nlm.nih.gov/36981773/",
+    "https://pubmed.ncbi.nlm.nih.gov/35616609/",
+    "https://pubmed.ncbi.nlm.nih.gov/40519630/",
+    "https://pubmed.ncbi.nlm.nih.gov/42338740/",
+    "https://pubmed.ncbi.nlm.nih.gov/37230290/",
+    "https://pubmed.ncbi.nlm.nih.gov/41768017/",
+    "https://pubmed.ncbi.nlm.nih.gov/41768026/",
+    "https://pubmed.ncbi.nlm.nih.gov/39766460/",
+    "https://pubmed.ncbi.nlm.nih.gov/40386190/",
+    "https://doi.org/10.18060/25904",
+    "https://clinicaltrials.gov/study/NCT04999852",
+    "https://clinicaltrials.gov/study/NCT03083977",
+    "https://clinicaltrials.gov/study/NCT06701578",
+    "https://clinicaltrials.gov/study/NCT06925867",
+    "https://clinicaltrials.gov/study/NCT07219056",
+    "https://clinicaltrials.gov/study/NCT03101826",
+    "https://clinicaltrials.gov/study/NCT03871751",
+    "https://clinicaltrials.gov/study/NCT05249270"
+  ]
+}

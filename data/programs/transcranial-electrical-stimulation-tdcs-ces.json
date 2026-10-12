@@ -1,0 +1,287 @@
+{
+  "slug": "transcranial-electrical-stimulation-tdcs-ces",
+  "name": "Home transcranial electrical stimulation (Flow tDCS, Alpha-Stim and Fisher Wallace CES)",
+  "url": "https://www.flowneuroscience.com/",
+  "founders": [
+    "Daniel Månsson (Flow Neuroscience co-founder, clinical psychologist; unverified)",
+    "Erik Rehn (Flow Neuroscience, CTO)",
+    "Daniel L. Kirsch (Alpha-Stim / Electromedical Products International; unverified)",
+    "Chip Fisher (Fisher Wallace Laboratories co-founder, chairman)",
+    "Martin Wallace (Fisher Wallace co-founder, deceased)",
+    "Kelly Roman (Fisher Wallace co-founder, CEO)"
+  ],
+  "founded_year": 1981,
+  "founded_year_range": "Alpha-Stim/EPI ~1981 (unverified); Fisher Wallace ~2007-2009 (unverified); Flow ~2016 (unverified; EU CE mark ~2019; FDA PMA P230024 Dec 2025). Underlying CES/electrosleep dates to the 1950s-60s.",
+  "category": "device/neuromodulation/biofeedback",
+  "delivery": [
+    "device",
+    "app",
+    "clinician-prescribed home use"
+  ],
+  "business_model": "commercial",
+  "cost_summary": "Flow headset ~EUR 459 (~US$537) in Europe (unverified); estimated US retail US$500-800 (prescription; Reuters/Psychiatric Times Dec 2025). Halo sister headset ~US$600 (IEEE Spectrum). Alpha-Stim AID/M roughly US$800-1,200 (unverified; no price on site; HSA/FSA accepted). Fisher Wallace legacy device ~US$500-700 (unverified; no price on site).",
+  "cost_usd_typical": 600,
+  "conditions_claimed": [
+    "depression",
+    "anxiety",
+    "insomnia",
+    "chronic pain (general)",
+    "fibromyalgia",
+    "addiction/substance use",
+    "tinnitus",
+    "PTSD/trauma"
+  ],
+  "conditions_primary": [
+    "depression",
+    "anxiety",
+    "insomnia",
+    "chronic pain (general)"
+  ],
+  "differentiation": "mostly unified with condition-specific emphasis",
+  "mechanisms": [
+    "brain network / oscillation dysregulation",
+    "central sensitization",
+    "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")",
+    "peripheral nerve / pain gating"
+  ],
+  "mechanism_summary": "No disease theory of their own. The devices assume circuit or oscillatory dysregulation that weak current can normalise. tDCS (Flow) uses 2 mA anodal stimulation of the left DLPFC to raise prefrontal excitability, via LTP-like after-effects, and restore top-down control of limbic circuits in depression. In research, anodal M1 tDCS is used for fibromyalgia and pain, to modulate thalamic and descending inhibition and reduce central sensitization. CES (Alpha-Stim, Fisher Wallace) delivers ear or temple alternating microcurrent. It is claimed to shift EEG toward alpha, lower arousal, and modulate neurotransmitters and the autonomic state. This rests largely on small, industry-linked physiology studies.",
+  "roots": [
+    "galvanism / electrotherapy (Aldini 1804)",
+    "Soviet electrosleep / CES",
+    "biofeedback (1960s-70s)",
+    "gate control / neuromatrix pain science",
+    "TMS/neuromodulation psychiatry"
+  ],
+  "techniques": [
+    "2 mA anodal left-DLPFC tDCS, 30 min, 5x/week for 3 weeks then 2-3x/week to 10-12 weeks (Flow)",
+    "app-guided session scheduling and adherence logging with behaviour-therapy lessons (sleep, exercise, nutrition, meditation; unverified)",
+    "ear-clip microcurrent CES 20-60 min daily (Alpha-Stim)",
+    "local microcurrent probes for pain (Alpha-Stim M)",
+    "temple-electrode CES headband 20 min 1-2x daily (Fisher Wallace)",
+    "M1 anodal tDCS for fibromyalgia (research protocols)",
+    "remote clinician supervision"
+  ],
+  "mainstream_adoption": "moderate",
+  "mainstream_notes": "Flow FL-100 received FDA PMA (P230024, Dec 2025), the first home brain stimulation device approved for MDD (adults, moderate-severe, non-treatment-resistant); prescription-only, US launch planned Q2 2026 and the site now says it is available. The IFCN guideline (Lefaucheur 2017) gives Level B probable efficacy for tDCS in non-resistant depression, fibromyalgia and craving. In Dec 2019 the FDA reclassified CES for anxiety/insomnia to Class II and required PMA for depression, citing lack of valid evidence. Alpha-Stim is FDA-cleared for anxiety, insomnia and pain only; it has had NHS pilots, was tested in the independent NIHR Alpha-Stim-D trial (null), and offers military/veteran pricing. Fisher Wallace reports a VA pilot and a pending anxiety clearance. Cochrane rates the chronic-pain tDCS evidence very low quality. None is routine first-line care.",
+  "insurance": "sometimes/indirect",
+  "insurance_notes": "Generally out of pocket in the US. Alpha-Stim accepts HSA/FSA and offers military/veteran discounts. Flow said US coverage details would come in early 2026; payer coverage not verified. Some NHS trusts funded Alpha-Stim pilots.",
+  "evidence_level": "systematic reviews/meta-analyses",
+  "key_trials": [
+    {
+      "citation": "Woodham RD ... Fu CHY. Nat Med 2025;31:87-95 (epub Oct 2024). PMID 39433921",
+      "design": "Fully remote multisite double-blind sham-controlled phase 2 RCT, Flow headset, 10 weeks, real-time supervised; FDA pivotal (Empower) trial",
+      "n": 174,
+      "finding": "HDRS improvement 9.41 vs 7.14 points (CI of difference 0.51-4.01, p=0.012); response ~58% vs ~38% (secondary; some press mislabelled as remission)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39433921/"
+    },
+    {
+      "citation": "Borrione L ... Brunoni AR. JAMA Psychiatry 2024;81:329-337. PMID 38170541",
+      "design": "Three-arm double-blind sham-controlled unsupervised home tDCS (+/- digital therapy) RCT, major depressive episode, Brazil (generic tDCS)",
+      "n": 210,
+      "finding": "No arm superior to sham on HDRS-17 (d -0.25 to 0.05)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38170541/"
+    },
+    {
+      "citation": "Morriss R ... Kai J. Lancet Psychiatry 2023;10:172-183. PMID 36724796",
+      "design": "Independent NIHR multicentre double-blind RCT, Alpha-Stim AID (100 uA, 1 h daily, 8 weeks) vs sham, UK primary care depression",
+      "n": 236,
+      "finding": "Negative: GRID-HDRS-17 change at 16 weeks -5.9 vs -6.5 (p=0.46)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36724796/"
+    },
+    {
+      "citation": "Barclay TH, Barclay RD. J Affect Disord 2014;164:171-177. PMID 24856571",
+      "design": "Double-blind sham-controlled RCT, Alpha-Stim CES, anxiety disorders with comorbid depression, primary care",
+      "n": 115,
+      "finding": "Active superior for anxiety (d=0.94) and depression (d=0.78); industry-linked",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24856571/"
+    },
+    {
+      "citation": "McClure D et al. J Nerv Ment Dis 2015;203:827-835. PMID 26414234",
+      "design": "Pilot sham-controlled RCT of CES (Fisher Wallace-type device), bipolar II depression",
+      "n": 16,
+      "finding": "Depression scores improved with active CES; very small sample",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26414234/"
+    },
+    {
+      "citation": "Caumo W et al. JAMA Netw Open 2025;8:e2514262. PMID 40478572",
+      "design": "Double-blind sham-controlled RCT of home-based tDCS (2 mA, 20 min daily) plus exercise and pain neuroscience education, fibromyalgia, women (generic tDCS, Brazil)",
+      "n": 112,
+      "finding": "Pain interference (MPII) reduced 38.8% vs 16.1% (d=0.73); >=50% improvement 62.5% vs 37.5%",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40478572/"
+    },
+    {
+      "citation": "Haimi M et al. JMIR Ment Health 2026;13:e92522. PMID 42696738",
+      "design": "Systematic review (12 studies) and meta-analysis of 6 sham-controlled home-tDCS RCTs for MDD",
+      "n": null,
+      "finding": "g=0.36 (0.06-0.66); not robust to removal of largest positive trial; two largest trials (n=210 unsupervised, n=141 self-administered) negative",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42696738/"
+    },
+    {
+      "citation": "Shekelle PG et al. Ann Intern Med 2018;168:414-421. PMID 29435567",
+      "design": "Systematic review of 26 CES RCTs (VA ESP)",
+      "n": null,
+      "finding": "Insufficient evidence for pain, insomnia, depression; low-strength modest benefit in patients with anxiety and depression",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29435567/"
+    },
+    {
+      "citation": "O'Connell NE et al. Cochrane Database Syst Rev 2018;4:CD008208. PMID 29652088",
+      "design": "Cochrane review of NIBS for chronic pain (tDCS subset 27 studies)",
+      "n": 747,
+      "finding": "tDCS SMD -0.43, very low quality, no disability benefit",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29652088/"
+    },
+    {
+      "citation": "Teixeira PEP et al. Neuromodulation 2023;26:715-727. PMID 36435660",
+      "design": "Meta-analysis of 16 RCTs of tDCS in fibromyalgia",
+      "n": null,
+      "finding": "Pain reduction vs sham SMD 1.22 (0.80-1.65); protocols >=4 weeks larger effects; high heterogeneity, limited quality",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36435660/"
+    }
+  ],
+  "controversy": "The CES evidence is dominated by small, manufacturer-linked trials (e.g., EPI-affiliated meta-analysis authors). The largest independent sham-controlled trials (Alpha-Stim-D for depression, a remote GAD trial reported as a preprint) were null. In 2019 the FDA stated there was no valid evidence that CES treats depression. Home tDCS for depression has mixed results: the supervised Flow trial was positive, while the two largest unsupervised/self-administered trials were negative. Critics (Wexler) say the Flow/Halo pairing blurs medical and wellness device lines. Safety concerns include burns from dried or reused pads, DIY montages, and long-term unsupervised use. Fibromyalgia meta-analyses show large effects from small, heterogeneous trials, and Cochrane rates chronic-pain tDCS evidence very low quality.",
+  "popularity": {
+    "indicators": [
+      {
+        "metric": "Flow cumulative users",
+        "value": ">55,000 (Europe, UK, Switzerland, Hong Kong)",
+        "source": "Psychiatric Times, Dec 2025",
+        "year": 2025
+      },
+      {
+        "metric": "Alpha-Stim users",
+        "value": "'hundreds of thousands' (company claim)",
+        "source": "alpha-stim.com",
+        "year": 2026
+      },
+      {
+        "metric": "Fisher Wallace distribution",
+        "value": "tens of thousands of patients via thousands of prescribers; >US$11M equity crowdfunding",
+        "source": "fisherwallace.com",
+        "year": 2026
+      },
+      {
+        "metric": "FDA PMA media coverage",
+        "value": "Reuters, Bloomberg, IEEE Spectrum, Psychiatric Times",
+        "source": "news reports",
+        "year": 2025
+      },
+      {
+        "metric": "CES media attention",
+        "value": "Wall Street Journal feature (Beck, Jan 2011)",
+        "source": "Wikipedia (CES)",
+        "year": 2011
+      },
+      {
+        "metric": "Home-tDCS meta-analyses",
+        "value": "multiple per year 2023-2026",
+        "source": "PubMed",
+        "year": 2026
+      }
+    ],
+    "reach_estimate": "~300,000-1,000,000 cumulative users across Alpha-Stim (hundreds of thousands over 4 decades, company claim), Fisher Wallace (tens of thousands), Flow (>55k) and Halo/DIY tDCS",
+    "reach_log10": 5.7,
+    "trajectory": [
+      {
+        "year": 1981,
+        "relative_activity": 1
+      },
+      {
+        "year": 1990,
+        "relative_activity": 1.5
+      },
+      {
+        "year": 2000,
+        "relative_activity": 2
+      },
+      {
+        "year": 2005,
+        "relative_activity": 3
+      },
+      {
+        "year": 2010,
+        "relative_activity": 3.5
+      },
+      {
+        "year": 2011,
+        "relative_activity": 4.5
+      },
+      {
+        "year": 2013,
+        "relative_activity": 5
+      },
+      {
+        "year": 2015,
+        "relative_activity": 5.5
+      },
+      {
+        "year": 2016,
+        "relative_activity": 5.5
+      },
+      {
+        "year": 2017,
+        "relative_activity": 5.5
+      },
+      {
+        "year": 2018,
+        "relative_activity": 5.5
+      },
+      {
+        "year": 2019,
+        "relative_activity": 6
+      },
+      {
+        "year": 2020,
+        "relative_activity": 6
+      },
+      {
+        "year": 2021,
+        "relative_activity": 6.5
+      },
+      {
+        "year": 2022,
+        "relative_activity": 6.5
+      },
+      {
+        "year": 2023,
+        "relative_activity": 7
+      },
+      {
+        "year": 2024,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2025,
+        "relative_activity": 9
+      },
+      {
+        "year": 2026,
+        "relative_activity": 9.5
+      }
+    ],
+    "method_notes": "Grouped entry, with the trajectory starting at the Alpha-Stim founding (~1981, unverified). Activity levels are judgement-based and anchored on documented events: CES growth in the mid-2000s and the Jan 2011 WSJ feature; the consumer/DIY tDCS boom of 2012-2016; Flow's EU launch ~2019 and growth to >55k users by 2025; the Nat Med trial (Oct 2024) and FDA PMA (Dec 2025); Flow US launch and Fisher Wallace FDA anxiety submission in 2026; the rise in home-tDCS publications 2023-2026. User counts are unaudited company claims. Google Trends and Reddit metrics were not checked (web-search quota exhausted in both research and fact-check passes)."
+  },
+  "sources": [
+    "https://www.flowneuroscience.com/",
+    "https://www.alpha-stim.com/",
+    "https://www.fisherwallace.com/",
+    "https://www.psychiatrictimes.com/view/fda-approves-first-at-home-brain-stimulation-device-for-treatment-of-depression",
+    "https://spectrum.ieee.org/flow-neuroscience-tdcs-depression-fda",
+    "https://alert.psychnews.org/fda-approves-at-home-brain-stimulation-device",
+    "https://en.wikipedia.org/wiki/Cranial_electrotherapy_stimulation",
+    "https://pubmed.ncbi.nlm.nih.gov/39433921/",
+    "https://pubmed.ncbi.nlm.nih.gov/38170541/",
+    "https://pubmed.ncbi.nlm.nih.gov/36724796/",
+    "https://pubmed.ncbi.nlm.nih.gov/24856571/",
+    "https://pubmed.ncbi.nlm.nih.gov/26414234/",
+    "https://pubmed.ncbi.nlm.nih.gov/40478572/",
+    "https://pubmed.ncbi.nlm.nih.gov/42696738/",
+    "https://pubmed.ncbi.nlm.nih.gov/29435567/",
+    "https://pubmed.ncbi.nlm.nih.gov/29652088/",
+    "https://pubmed.ncbi.nlm.nih.gov/27866120/",
+    "https://pubmed.ncbi.nlm.nih.gov/25000907/",
+    "https://pubmed.ncbi.nlm.nih.gov/33477056/",
+    "https://pubmed.ncbi.nlm.nih.gov/36435660/",
+    "https://pubmed.ncbi.nlm.nih.gov/41398008/",
+    "https://pubmed.ncbi.nlm.nih.gov/40286924/"
+  ]
+}

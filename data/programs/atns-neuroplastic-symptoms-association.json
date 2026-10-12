@@ -1,0 +1,322 @@
+{
+  "slug": "atns-neuroplastic-symptoms-association",
+  "name": "Association for the Treatment of Neuroplastic Symptoms (ATNS; formerly Psychophysiologic Disorders Association, PPDA)",
+  "url": "https://neuroplastic.org/",
+  "founders": [
+    "David D. Clarke, MD (President & co-founder; gastroenterologist, Kaiser Permanente NW 1984-2009; OHSU clinical asst. prof. emeritus)",
+    "Rob Munger, MA, MS (VP & co-founder; TMSWiki creator)",
+    "Howard Schubiner, MD (co-founder; internist, Michigan State/Ascension)",
+    "Alan Gordon, LCSW (co-founder, former board; PRT developer)",
+    "Eric G. Sherman, PsyD (co-founder, former board)",
+    "Frances Sommer Anderson, PhD (co-founder, former board)",
+    "Peter Zafirides, MD (co-founder, former board)",
+    "Peg Hanson, RN, BSN (co-founder, former board)"
+  ],
+  "founded_year": 2011,
+  "founded_year_range": "2011 (Clarke's ATNS bio: President since 2011; researcher cites March 2011 incorporation per archived 2012 PPDA page, not re-verified; renamed Symptomatic/ATNS autumn 2024; neuroplastic.org 2026; Clarke's stress-illness approach dates to the 1980s, book 2007)",
+  "category": "psychological/neuroplastic-pain therapy (nonprofit education, referral and advocacy hub)",
+  "delivery": [
+    "online education hub",
+    "practitioner directory / referral",
+    "free self-assessment quiz",
+    "self-paced online course",
+    "membership community/forum",
+    "annual conference (CE/CME)",
+    "podcasts",
+    "books/textbooks",
+    "clinician-delivered (via directory)",
+    "coaching (via directory)"
+  ],
+  "business_model": "freemium/hybrid",
+  "cost_summary": "501(c)(3) nonprofit. Quiz and practitioner directory are free; Clarke's 12-chapter self-treatment course is described as free (no price on the course page). Rewiring Project membership starts at US$5.50/month (Community tier; ~$66/yr); professional tiers exist but prices are not posted; first month free. 2026 conference registration price not posted (member discount); pre-conference workshops +$126. 2023 virtual conference was reportedly $375 with CE/CME or $275 without (archived page, not re-verified). Therapy from directory practitioners is billed separately at private rates.",
+  "cost_usd_typical": 66,
+  "conditions_claimed": [
+    "chronic back/neck pain",
+    "fibromyalgia",
+    "headache/migraine",
+    "IBS/functional GI",
+    "ME/CFS",
+    "long COVID",
+    "CRPS",
+    "FND",
+    "pelvic pain/endometriosis/vulvodynia/IC",
+    "chronic pain (general)",
+    "chronic Lyme",
+    "adrenal fatigue",
+    "MCS/IEI",
+    "EHS",
+    "MCAS",
+    "POTS/dysautonomia",
+    "TMD/jaw",
+    "tinnitus",
+    "anxiety",
+    "depression",
+    "insomnia",
+    "PTSD/trauma",
+    "TMS (tension myositis)",
+    "somatic symptom disorder",
+    "Ehlers-Danlos syndrome",
+    "vertigo/dizziness",
+    "eating disorders",
+    "OCD",
+    "small fiber neuropathy",
+    "trigeminal/post-herpetic neuralgia",
+    "EBV reactivation",
+    "SIBO/candida/leaky gut",
+    "visual snow",
+    "tics/stuttering/dystonia"
+  ],
+  "conditions_primary": [
+    "chronic back/neck pain",
+    "chronic pain (general)",
+    "fibromyalgia",
+    "headache/migraine"
+  ],
+  "differentiation": "single unified mechanism",
+  "mechanisms": [
+    "neuroplastic/learned pain (brain-generated danger signal / predictive processing)",
+    "repressed emotion / psychodynamic (rage, TMS)",
+    "unresolved trauma stored in body",
+    "stress / HPA axis",
+    "fear-avoidance / catastrophizing / cognitive appraisal",
+    "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")",
+    "attention & interoception / hypervigilance"
+  ],
+  "mechanism_summary": "ATNS calls these conditions \"neuroplastic symptoms.\" The brain has learned a danger or alarm signal and keeps firing it, producing real pain or illness with no tissue damage behind it. Stress, unrecognised emotion and trauma (especially adverse childhood experiences) set it off. Personality habits such as perfectionism, people-pleasing and self-criticism keep it going, along with fear of the symptoms. The older PPDA protocol added Sarno-style psychodynamic ideas: symptoms express intolerable emotions somatically and distract from them. ATNS rejects Sarno's oxygen-deprivation hypothesis in favour of \"learned neural pathways\" that can be unlearned. It uses one mechanism for every condition (\"Many Symptoms, One Brain\"), from back pain to ME/CFS, long COVID, chronic Lyme, MCS, POTS and EDS, with a caveat to rule out structural disease first.",
+  "roots": [
+    "Sarno TMS",
+    "Freudian psychoanalysis / psychodynamic theory",
+    "Davanloo ISTDP",
+    "Selye stress theory",
+    "CBT (Beck/Ellis)",
+    "third-wave CBT (ACT, DBT)",
+    "gate control / neuromatrix pain science",
+    "Somatic Experiencing / ethology",
+    "Buddhist vipassana/insight meditation",
+    "Gestalt therapy",
+    "psychosomatic medicine"
+  ],
+  "techniques": [
+    "pain neuroscience education / diagnosis acceptance (learned brain pathway, not damage)",
+    "self-diagnosis quiz using exclusion plus positive criteria",
+    "referral to Pain Reprocessing Therapy (somatic tracking, safety reappraisal)",
+    "referral to Emotional Awareness and Expression Therapy",
+    "graded return to avoided activities / outcome independence",
+    "positive self-talk for symptom fears",
+    "linking symptom onset to life stressors and ACEs",
+    "emotion identification, tolerance and expression (journaling, free-writing, role play, Gestalt empty chair, free association, dream interpretation)",
+    "mindfulness",
+    "Somatic Experiencing techniques",
+    "addressing perfectionism, people-pleasing and self-criticism; self-compassion",
+    "12-chapter self-treatment course (Clarke)",
+    "peer community, monthly expert Q&As, local chapters",
+    "recommended books and apps (Unlearn Your Pain, Curable, Nervana)"
+  ],
+  "mainstream_adoption": "limited",
+  "mainstream_notes": "Board members hold or held academic and health-system posts: Clarke (Kaiser Permanente NW gastroenterologist 1984-2009; OHSU emeritus), Schubiner (Michigan State/Ascension), Rashbaum (former; NYU Rusk TMS/Mind-Body), Kennedy (former; Kaiser Permanente NW long COVID). Conference carries accredited CE/CME (up to 17.75 h in 2026), and Clarke led two professional textbooks (2019, 2022). PPDA is listed as a funder of the JAMA Psychiatry PRT trial, which drew wide mainstream attention. No clinical guideline (NICE, CMS, AHRQ) recognises \"neuroplastic symptoms\" or PPD as a diagnosis or endorses ATNS. The organisation states it advocates to federal policymakers.",
+  "insurance": "sometimes/indirect",
+  "insurance_notes": "Membership, conferences and courses are not reimbursable. Psychotherapy from licensed directory clinicians can be billed under standard psychotherapy codes; 49 of 155 directory listings say they accept insurance (Oct 2026). Recovery coaches are not covered.",
+  "evidence_level": "multiple RCTs",
+  "key_trials": [
+    {
+      "citation": "Ashar YK, Gordon A, Schubiner H, Uipi C, et al., Wager TD. Effect of Pain Reprocessing Therapy vs Placebo and Usual Care for Patients With Chronic Back Pain. JAMA Psychiatry 2022;79(1):13-23",
+      "design": "RCT: PRT vs open-label placebo injection vs usual care, chronic back pain. Trial of affiliated therapy (PRT), not of ATNS itself; PPDA listed as a funder; ATNS co-founders (Gordon, Schubiner) and board member (Uipi) are co-authors",
+      "n": 151,
+      "finding": "66% (33/50) pain-free or nearly pain-free post-treatment after PRT vs 20% placebo and 10% usual care; effects maintained at 1 year (Hedges g -0.70 vs placebo)",
+      "url": "https://doi.org/10.1001/jamapsychiatry.2021.2669"
+    },
+    {
+      "citation": "Lumley MA, Schubiner H, Lockhart NA, Kidwell KM, Harte SE, Clauw DJ, Williams DA. Emotional awareness and expression therapy, cognitive behavioral therapy, and education for fibromyalgia: a cluster-randomized controlled trial. Pain 2017;158(12):2354-2363",
+      "design": "Cluster RCT (40 groups): EAET vs CBT vs education, fibromyalgia; trial of affiliated therapy (EAET)",
+      "n": 230,
+      "finding": "EAET did not differ from education on the primary outcome (pain severity at 6 months); better than education on several secondary outcomes (d 0.29-0.45); vs CBT, lower FM symptoms and widespread pain and more >=50% pain reduction (22.5% vs 8.3%)",
+      "url": "https://doi.org/10.1097/j.pain.0000000000001036"
+    },
+    {
+      "citation": "Yarns BC, Jackson NJ, Alas A, Melrose RJ, Lumley MA, Sultzer DL. Emotional Awareness and Expression Therapy vs Cognitive Behavioral Therapy for Chronic Pain in Older Veterans. JAMA Netw Open 2024;7(6):e2415842",
+      "design": "RCT: EAET vs CBT, older veterans (92% male) with chronic musculoskeletal pain; trial of affiliated therapy (EAET)",
+      "n": 126,
+      "finding": "EAET superior on pain severity post-treatment and at 6 months; >=30% pain reduction 63% vs 17%, >=50% 35% vs 7% post-treatment",
+      "url": "https://doi.org/10.1001/jamanetworkopen.2024.15842"
+    },
+    {
+      "citation": "Donnino MW, Thompson GS, Mehta S, Paschali M, Howard P, Antonsen SB, et al. Psychophysiologic symptom relief therapy for chronic back pain: a pilot randomized controlled trial. PAIN Reports 2021;6(3):e959",
+      "design": "Pilot RCT: PSRT vs MBSR vs usual care, chronic back pain; trial of affiliated therapy (PSRT)",
+      "n": 35,
+      "finding": "Greater RMDQ disability reduction with PSRT; pain-free at 26 weeks 63.6% PSRT (n=11) vs 25.0% MBSR vs 16.7% usual care",
+      "url": "https://doi.org/10.1097/PR9.0000000000000959"
+    },
+    {
+      "citation": "Hsu MC, Schubiner H, Lumley MA, Stracks JS, Clauw DJ, Williams DA. Sustained Pain Reduction Through Affective Self-awareness in Fibromyalgia: A Randomized Controlled Trial. J Gen Intern Med 2010;25(10):1064-1070",
+      "design": "RCT: affective self-awareness (1 physician consult + 3 weekly 2-h group sessions) vs waitlist, women with fibromyalgia",
+      "n": 45,
+      "finding": "Lower pain severity, better physical function and higher tender-point threshold at 6 months vs waitlist; >=30% pain reduction in 45.8% vs 0%",
+      "url": "https://doi.org/10.1007/s11606-010-1418-6"
+    },
+    {
+      "citation": "Donnino MW, Howard P, Mehta S, Silverman J, Cabrera MJ, Yamin JB, et al. Psychophysiologic Symptom Relief Therapy for Post-Acute Sequelae of Coronavirus Disease 2019. Mayo Clin Proc Innov Qual Outcomes 2023;7(4):337-348",
+      "design": "Uncontrolled single-arm interventional cohort, long COVID without objective organ injury (NCT04854772)",
+      "n": 23,
+      "finding": "Mean SSS-8 somatic symptom score fell 10.9 points by 13 weeks (p<.001); dyspnea, fatigue, pain and brain fog also improved. No control group, no post-treatment follow-up",
+      "url": "https://doi.org/10.1016/j.mayocpiqo.2023.05.002"
+    }
+  ],
+  "controversy": "The self-assessment treats a lack of medical explanation as evidence of neuroplastic illness. The condition list (\"nearly 500\" symptoms) is very broad. It includes EDS, small fiber neuropathy, trigeminal and post-herpetic neuralgia, POTS, MCAS, interstitial cystitis, ME/CFS, long COVID and \"chronic Lyme,\" which risks missed organic disease and draws objections from patient groups that it psychologises their illness. Claims that \"most patients fully recover\" go beyond the RCT data, which come mainly from back pain and fibromyalgia and include a null primary outcome for EAET vs education (Lumley 2017). An uncontrolled long COVID cohort (N=23) is promoted alongside RCTs. Screening and treatment content stresses ACEs and personality traits, which some patients may read as blame. Board members sell their own books, courses and therapy, and most trials were run by the therapies' developers. Prevalence (\"1 in 3 adults\", \"80 million Americans\") and cost (\"$600B\") figures come from the organisation's own non-peer-reviewed surveys and extrapolations. Disclosure: PPDA is a listed funder of the Boulder PRT trial, whose senior investigator is the survey author (Wager).",
+  "popularity": {
+    "indicators": [
+      {
+        "metric": "First teaching conference attendance",
+        "value": "~250 practitioners from 11 states and 4 countries (NY Academy of Medicine); archived page, not re-verified",
+        "source": "PPDA blog via Wayback (ppdassociation.org/blog/2013/8/24)",
+        "year": 2012
+      },
+      {
+        "metric": "Research crowdfunding",
+        "value": "$65k goal reached 144%; ~500 international donors (Boulder PRT trial); archived page, not re-verified. PPDA funding confirmed in JAMA Psychiatry 2022 acknowledgments",
+        "source": "PPDA blog via Wayback (2017/7/28)",
+        "year": 2017
+      },
+      {
+        "metric": "Monthly reach",
+        "value": "~30,000 people/month via site, emails and community (self-reported)",
+        "source": "neuroplastic.org/rewiring-project",
+        "year": 2026
+      },
+      {
+        "metric": "Practitioner directory size",
+        "value": "155 listings: 131 licensed practitioners + 24 recovery coaches; ~13 countries; 49 accept insurance",
+        "source": "neuroplastic.org/practitioner-directory",
+        "year": 2026
+      },
+      {
+        "metric": "Local chapters",
+        "value": "Toronto, Rochester NY, NYC, Colorado, Oregon, Wisconsin, Michigan, Texas",
+        "source": "neuroplastic.org/rewiring-project",
+        "year": 2026
+      },
+      {
+        "metric": "Founder media exposure",
+        "value": "Clarke: 300+ TV/radio/podcast interviews; executive producer of 3 documentaries (All The Rage 2016, This Might Hurt 2018, Pain Brain 2023)",
+        "source": "neuroplastic.org/people/david-d-clarke-md",
+        "year": 2026
+      },
+      {
+        "metric": "Annual conference",
+        "value": "40+ sessions, up to 17.75 CE/CME hours, in person in Dallas, Oct 15-17 2026",
+        "source": "neuroplastic.org/events/2026-atns-conference",
+        "year": 2026
+      },
+      {
+        "metric": "Claimed patients treated by board clinicians",
+        "value": ">10,000 since the 1980s (self-reported; Clarke alone reports >7,000)",
+        "source": "neuroplastic.org/atns-research/neuroplastic-statistics; Clarke bio",
+        "year": 2026
+      }
+    ],
+    "reach_estimate": "About 300k-1M cumulative people reached. Basis: ~30k/month self-reported current reach (~360k/yr), lower in earlier years; thousands of conference, course and membership participants; >10k patients treated by board clinicians. Deep engagement (members, course takers, attendees) is probably in the low tens of thousands.",
+    "reach_log10": 5.6,
+    "trajectory": [
+      {
+        "year": 2011,
+        "relative_activity": 1.5
+      },
+      {
+        "year": 2012,
+        "relative_activity": 2.5
+      },
+      {
+        "year": 2013,
+        "relative_activity": 2
+      },
+      {
+        "year": 2014,
+        "relative_activity": 2
+      },
+      {
+        "year": 2015,
+        "relative_activity": 2
+      },
+      {
+        "year": 2016,
+        "relative_activity": 2.5
+      },
+      {
+        "year": 2017,
+        "relative_activity": 3.5
+      },
+      {
+        "year": 2018,
+        "relative_activity": 3
+      },
+      {
+        "year": 2019,
+        "relative_activity": 3.5
+      },
+      {
+        "year": 2020,
+        "relative_activity": 4
+      },
+      {
+        "year": 2021,
+        "relative_activity": 6
+      },
+      {
+        "year": 2022,
+        "relative_activity": 6
+      },
+      {
+        "year": 2023,
+        "relative_activity": 6.5
+      },
+      {
+        "year": 2024,
+        "relative_activity": 7
+      },
+      {
+        "year": 2025,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2026,
+        "relative_activity": 8.5
+      }
+    ],
+    "method_notes": "Web search quota was exhausted for both the researcher and the fact-checker, so Reddit/forum sizes, Google Trends and social follower counts were not checked directly, and Wayback pages could not be re-fetched. The trajectory is anchored on dated, documented events: 2011 founding; 2012 website launch and NYAM conference (~250); 2013-2016 low activity; 2017 crowdfunding of the Boulder PRT trial; 2019 and 2022 textbooks; 2020s virtual CE/CME conferences; Sept 2021 JAMA Psychiatry PRT publication with heavy media coverage; 2023 long COVID content and first national survey; autumn 2024 rebrand to Symptomatic/ATNS; 2026 neuroplastic.org relaunch and Dallas conference. Current reach figures are self-reported by ATNS. Reach_log10 is an order-of-magnitude estimate of unique people exposed to its materials."
+  },
+  "sources": [
+    "https://neuroplastic.org/",
+    "https://neuroplastic.org/atns/",
+    "https://neuroplastic.org/neuroplastic-pain/",
+    "https://neuroplastic.org/neuroplastic-conditions/",
+    "https://neuroplastic.org/conditions/chronic-fatigue-syndrome/",
+    "https://neuroplastic.org/conditions/long-covid/",
+    "https://neuroplastic.org/conditions/chronic-lyme-disease/",
+    "https://neuroplastic.org/neuroplastic-recovery-therapies/",
+    "https://neuroplastic.org/learning-program/",
+    "https://neuroplastic.org/rewiring-project/",
+    "https://neuroplastic.org/events/2026-atns-conference/",
+    "https://neuroplastic.org/atns-research/neuroplastic-statistics/",
+    "https://neuroplastic.org/atns-research/neuroplastic-symptoms-survey/",
+    "https://neuroplastic.org/blog/many-symptoms-one-brain-different-forms-of-pain-trace-back-to-the-same-source/",
+    "https://neuroplastic.org/practitioner-directory/",
+    "https://neuroplastic.org/people/david-d-clarke-md/",
+    "https://neuroplastic.org/quiz/",
+    "https://web.archive.org/web/2012/http://www.ppdassociation.org/mission-and-history",
+    "https://web.archive.org/web/2024/https://ppdassociation.org/board-of-directors",
+    "https://web.archive.org/web/2024/https://ppdassociation.org/treatment-outline",
+    "https://web.archive.org/web/2024/https://ppdassociation.org/blog/dr-john-sarno-tms-similarities-and-differences-with-our-work",
+    "https://web.archive.org/web/2020/https://ppdassociation.org/blog/2017/7/28/fundraising-goal-exceeded",
+    "https://web.archive.org/web/2020/https://ppdassociation.org/blog/2013/8/24/ny-conference-a-success",
+    "https://web.archive.org/web/2024/https://ppdassociation.org/2023-conference",
+    "https://web.archive.org/web/20241101/https://symptomatic.me/",
+    "https://doi.org/10.1001/jamapsychiatry.2021.2669",
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8482298/",
+    "https://doi.org/10.1097/PR9.0000000000000959",
+    "https://doi.org/10.1016/j.mayocpiqo.2023.05.002",
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10196153/",
+    "https://doi.org/10.1001/jamanetworkopen.2024.15842",
+    "https://doi.org/10.1097/j.pain.0000000000001036",
+    "https://doi.org/10.1007/s11606-010-1418-6",
+    "https://doi.org/10.1016/j.jpain.2023.09.019"
+  ]
+}

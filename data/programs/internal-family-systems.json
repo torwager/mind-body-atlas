@@ -1,0 +1,125 @@
+{
+  "slug": "internal-family-systems",
+  "name": "Internal Family Systems (IFS)",
+  "url": "https://ifs-institute.com",
+  "founders": ["Richard C. Schwartz, PhD"],
+  "founded_year": 1985,
+  "founded_year_range": "1982-1987. The model was developed in the 1980s, the Guilford textbook appeared in 1995, and the Center for Self Leadership was founded in 2000 and renamed the IFS Institute in 2019.",
+  "category": "trauma/emotion-focused therapy",
+  "delivery": ["clinician-delivered", "group", "online course", "book", "retreat", "professional training"],
+  "business_model": "clinician-delivered (fee-for-service)",
+  "cost_summary": "Patients pay ordinary therapy fees, about US$120-250 per session and often private pay. The No Bad Parts book costs about US$20. Per The Nation (2025), clinician training costs US$3,990-5,300 for Level 1 and nearly US$10k to reach Level 3. Retreats run about US$7,000-8,500. The IFS Online Circle course is currently closed and its price is unverified.",
+  "cost_usd_typical": 2400,
+  "conditions_claimed": ["PTSD/trauma", "depression", "anxiety", "addiction/substance use", "eating disorders", "general stress/wellbeing", "chronic pain (general)", "autoimmune disease (rheumatoid arthritis)", "IBS/functional GI"],
+  "conditions_primary": ["PTSD/trauma", "depression", "anxiety", "general stress/wellbeing"],
+  "differentiation": "transdiagnostic / not disorder-focused",
+  "mechanisms": ["parts/Self multiplicity: protective parts (managers, firefighters) shielding burdened exiles", "unresolved trauma stored in body", "repressed emotion / psychodynamic (rage, TMS)", "attention & interoception / hypervigilance", "stress / HPA axis"],
+  "mechanism_summary": "The mind is made up of sub-personalities (\"parts\") around an undamaged core Self. Trauma loads exiled parts with burdens. Protective managers and firefighters keep that pain out of awareness, and their extreme strategies produce psychiatric symptoms. IFS authors also propose that they produce or amplify bodily symptoms such as pain, fatigue, gut symptoms and inflammation. Healing comes from unblending from protectors, accessing Self, then witnessing and unburdening exiles. One model is applied across all conditions, and IFS offers no pain-neuroscience or central-sensitisation model of its own.",
+  "roots": ["structural/systemic family therapy (Minuchin, Bateson)", "Freudian psychoanalysis / psychodynamic theory", "Jungian active imagination / psychosynthesis subpersonalities", "Transactional Analysis ego states / Gestalt empty chair", "Buddhist vipassana/insight meditation", "Somatic Experiencing / ethology"],
+  "techniques": ["6 Fs unblending (find, focus, flesh out, feel toward, befriend, fear)", "accessing Self energy (8 Cs)", "negotiating with protector parts", "witnessing and re-parenting exiles", "retrieval and unburdening imagery", "befriending bodily symptoms as parts", "parts check-ins/journaling", "guided IFS meditations", "PARTS 16-week online group program", "intensives/retreats, incl. IFS-informed ketamine/psychedelic therapy"],
+  "mainstream_adoption": "moderate",
+  "mainstream_notes": "IFS is very widely used by psychotherapists: 45,764 Psychology Today profiles mentioned it in April 2024 (Brownstone et al. 2024). SAMHSA NREPP listed it in 2015, rating it effective for general functioning and wellbeing and promising for anxiety, depression, physical health and resilience, mainly on the strength of the RA trial. NREPP closed in 2018. The PARTS programme was developed at Cambridge Health Alliance, a Harvard affiliate. IFS is not in NICE, APA or VA/DoD guidelines and is not standard in pain clinics.",
+  "insurance": "sometimes/indirect",
+  "insurance_notes": "IFS can be billed as generic psychotherapy (CPT 90834/90837) by licensed in-network clinicians. There is no modality-specific coverage, and many IFS therapists are private pay. Training, courses and retreats are not covered.",
+  "evidence_level": "multiple RCTs",
+  "key_trials": [
+    {
+      "citation": "Shadick NA, Sowell NF, ... Schwartz RC. J Rheumatol 2013;40(11):1831-41. doi:10.3899/jrheum.121465",
+      "design": "Proof-of-concept RCT: 9-month IFS vs mailed education, both arms with usual RA care (NCT00869349)",
+      "n": 79,
+      "finding": "Post-treatment, IFS improved overall pain (p=0.04) and physical function (p=0.04). At 1 year, self-rated joint pain, depression and self-compassion remained better. There was no sustained improvement in anxiety, self-efficacy or disease activity. The developer was a co-author.",
+      "url": "https://www.jrheum.org/content/40/11/1831.abstract"
+    },
+    {
+      "citation": "Haddock SA, Weiler LM, Trump LJ, Henry KL. J Marital Fam Ther 2017;43(1):131-44. doi:10.1111/jmft.12184",
+      "design": "Pilot RCT: IFS vs treatment as usual (CBT/IPT) for depressed female college students",
+      "n": 37,
+      "finding": "37 were randomised and 17 vs 15 analysed. Depression fell in both arms, with no significant difference between groups in the size or rate of change.",
+      "url": "https://ifs-institute.com/resources/research/efficacy-internal-family-systems-therapy-treatment-depression-among-female"
+    },
+    {
+      "citation": "Hodgdon HB, Anderson FG, Southwell E, Hrubec W, Schwartz R. J Aggress Maltreat Trauma 2022;31(1):22-43 (online 2021). doi:10.1080/10926771.2021.2013375",
+      "design": "Uncontrolled pilot: 16 x 90-min individual sessions for PTSD after multiple childhood trauma",
+      "n": 17,
+      "finding": "Large pre-post reductions in PTSD, depression, dissociation and somatisation. At 1-month follow-up, 12 of 13 PTSD-diagnosed completers no longer met criteria. The developer was a co-author.",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/10926771.2021.2013375"
+    },
+    {
+      "citation": "Comeau et al. (senior author Schuman-Olivier Z). Psychol Trauma 2024;16(Suppl 3):S636-40. PMID 38934934",
+      "design": "Single-arm feasibility study of PARTS: 16 x 90-min online IFS groups plus 8 individual sessions",
+      "n": 15,
+      "finding": "73% attended at least 12 groups, and 92% of responders would recommend it. PTSD severity fell (d=-0.7 at week 16, -0.9 at week 24).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38934934/"
+    },
+    {
+      "citation": "Joss, Comeau et al. (PI Schuman-Olivier Z). Psychol Trauma 2026 (online ahead of print). doi:10.1037/tra0002089",
+      "design": "RCT: PARTS online group IFS vs Nature-Based Stress Reduction for Trauma Survivors (matched active control), each with 16 weekly groups plus 8 individual sessions (NCT05095428)",
+      "n": 60,
+      "finding": "Both arms had large CAPS-5 reductions, and no between-group PTSD advantage was reported. PARTS had higher attendance and satisfaction.",
+      "url": "https://supp.apa.org/psycarticles/supplemental/tra0002089/tra0002089_supp.html"
+    },
+    {
+      "citation": "Ally et al. Front Psychiatry 2025;16:1544435. doi:10.3389/fpsyt.2025.1544435",
+      "design": "Single-arm pilot of online group IFS (PARTS-SUD: 12 weekly groups plus 6 individual sessions) for comorbid PTSD and substance use",
+      "n": 10,
+      "finding": "Retention was 70%. PCL-5 fell by about 1.7 points per week, and 54% reached the minimally important difference.",
+      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1544435/full"
+    }
+  ],
+  "controversy": "Critics say the 'evidence-based' marketing outstrips a small, mostly developer-affiliated evidence base (Brownstone et al., Psychotherapy Bulletin 2024; McAllen, The Nation 2025). A 2025 scoping review (Buys, Clinical Psychologist) found only 2 RCTs among 27 studies. Other concerns:\n- Splitting into parts may destabilise clients with psychosis or dissociation.\n- Unburdening may risk false or recovered memories.\n- The Cut (New York Magazine, 2025) alleged that Richard Schwartz, as a Castlewood consultant, knew of IFS treatment by Mark Schwartz (unrelated) that led to recovered-memory lawsuits. The IFS Institute disputes this (response of 4 Nov 2025), saying he was never a treating therapist there and was never named in any suit.\n- Spiritual and 'exorcism'-like content ('unattached burdens') has drawn criticism.\n- Attributing autoimmune or chronic symptoms to parts risks blaming patients.\n- Critics point to commercialised tiered training, recertification fees and costly retreats.",
+  "popularity": {
+    "indicators": [
+      {"metric": "IFS Institute trainees per year", "value": "~500 (2017), ~1,600 (2020), nearly 4,000 (c. 2024-25); ~20,000 on waitlist", "source": "The Nation (McAllen), Apr 2025", "year": 2025},
+      {"metric": "Psychology Today therapist profiles mentioning IFS", "value": "45,764 (April 2024)", "source": "Brownstone et al., Psychotherapy Bulletin 2024", "year": 2024},
+      {"metric": "TikTok posts", "value": "~3 million 'Internal Family Systems Therapy'; 1.2M 'Internal Family Systems Technique'", "source": "Brownstone et al. 2024", "year": 2024},
+      {"metric": "Instagram hashtags", "value": "#internalfamilysystems 74,154; #ifstherapy 30,875", "source": "Brownstone et al. 2024", "year": 2024},
+      {"metric": "Bestselling book", "value": "No Bad Parts (Sounds True, 2021), bestseller with an audiobook featuring Alanis Morissette", "source": "Sounds True / retail listings", "year": 2021},
+      {"metric": "IFS Institute staff/trainers", "value": "full-time staff grew from 12 to 35; trainers from 30 to more than 100", "source": "The Nation 2025", "year": 2025},
+      {"metric": "SAMHSA NREPP listing", "value": "Listed 2015 (registry closed 2018)", "source": "IFS Institute brochures; APS InPsych 2022 (secondary)", "year": 2015}
+    ],
+    "reach_estimate": "Several million people. Tens of thousands of trained clinicians (nearly 4,000 per year recently, plus 45k Psychology Today profiles) each see many clients, and books, podcasts and social media reach millions more. Estimate: roughly 1-5 million people have received IFS or IFS-informed therapy or self-help.",
+    "reach_log10": 6.4,
+    "trajectory": [
+      {"year": 1985, "relative_activity": 0.3},
+      {"year": 1990, "relative_activity": 0.5},
+      {"year": 1995, "relative_activity": 0.8},
+      {"year": 2000, "relative_activity": 1},
+      {"year": 2005, "relative_activity": 1.3},
+      {"year": 2010, "relative_activity": 1.7},
+      {"year": 2013, "relative_activity": 2},
+      {"year": 2015, "relative_activity": 2.7},
+      {"year": 2017, "relative_activity": 3.3},
+      {"year": 2018, "relative_activity": 3.8},
+      {"year": 2019, "relative_activity": 4.5},
+      {"year": 2020, "relative_activity": 5.5},
+      {"year": 2021, "relative_activity": 7},
+      {"year": 2022, "relative_activity": 8},
+      {"year": 2023, "relative_activity": 9},
+      {"year": 2024, "relative_activity": 9.7},
+      {"year": 2025, "relative_activity": 10},
+      {"year": 2026, "relative_activity": 9.6}
+    ],
+    "method_notes": "Trajectory anchors:\n- Founding in the 1980s, then a niche period through the 1995 Guilford book and the 2000 Center for Self Leadership.\n- 2013 RA RCT; 2014 The Body Keeps the Score; 2015 NREPP listing.\n- Trainee counts from The Nation: ~500 in 2017, ~1,600 in 2020, nearly 4,000 per year by 2024-25.\n- 2021 No Bad Parts plus podcast exposure; 2024 social-media counts from Brownstone et al.\n- Critical press in 2025 (The Nation, The Cut) and a slight plateau signal in 2026.\nGoogle Trends was not queried directly; levels are relative and judgement-based. The reach estimate assumes about 30-50k IFS-trained clinicians, each seeing dozens to hundreds of clients over time, plus self-help readers."
+  },
+  "sources": [
+    "https://ifs-institute.com/trainings",
+    "https://ifs-institute.com/resources/research",
+    "https://ifs-institute.com/resources/research/new-research-milestone-first-rct-group-based-ifs-ptsd-program",
+    "https://learn.ifs-institute.com/programs/ifs-online-circle",
+    "https://www.jrheum.org/content/40/11/1831.abstract",
+    "https://ifs-institute.com/resources/research/efficacy-internal-family-systems-therapy-treatment-depression-among-female",
+    "https://www.tandfonline.com/doi/full/10.1080/10926771.2021.2013375",
+    "https://pubmed.ncbi.nlm.nih.gov/38934934/",
+    "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1544435/full",
+    "https://supp.apa.org/psycarticles/supplemental/tra0002089/tra0002089_supp.html",
+    "https://clinicaltrials.gov/study/NCT05095428",
+    "https://en.wikipedia.org/wiki/Internal_Family_Systems_Model",
+    "https://en.wikipedia.org/wiki/Richard_C._Schwartz",
+    "https://societyforpsychotherapy.org/internal-family-systems-exploring-its-problematic-popularity/",
+    "https://www.thenation.com/article/society/internal-family-systems-scam/",
+    "https://ifs-institute.com/news-events/news/response-new-york-magazine-article",
+    "https://psychology.org.au/for-members/publications/inpsych/2022/winter-2022/internal-family-systems-therapy",
+    "https://www.pesi.com/item/internal-family-systems-ifs-health-therapy-172476",
+    "https://www.soundstrue.com/products/no-bad-parts"
+  ]
+}

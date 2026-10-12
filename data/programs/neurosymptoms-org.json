@@ -1,0 +1,237 @@
+{
+  "slug": "neurosymptoms-org",
+  "name": "neurosymptoms.org (FND Guide)",
+  "url": "https://www.neurosymptoms.org/",
+  "founders": [
+    "Jon Stone, MB ChB FRCP PhD (consultant neurologist and professor, University of Edinburgh; Founding Secretary of the FND Society)",
+    "Co-authors: Alan Carson, Ingrid Hoeritzauer, Laura McWhirter, Clare Nicholson"
+  ],
+  "founded_year": 2009,
+  "founded_year_range": "2009 (Stone's About page and Edinburgh Innovations; earliest Wayback capture 2009-04-25); redesigned 2020-21",
+  "category": "physio/pain-education approach (academic patient-education / self-help website for FND)",
+  "delivery": [
+    "website (unguided self-help/education)",
+    "app",
+    "fact sheets/videos/podcasts",
+    "signposting to clinician-delivered physio/CBT"
+  ],
+  "business_model": "free",
+  "cost_summary": "Free with no ads. Funded by the Scottish Government Neurological Framework (2020-21 redesign), a Wellcome-funded iTPA Impact Fund grant (£50k, awarded April 2022), and University of Edinburgh donations.",
+  "cost_usd_typical": 0,
+  "conditions_claimed": [
+    "FND",
+    "PPPD/functional dizziness",
+    "chronic pain (general)",
+    "CRPS",
+    "IBS/functional GI",
+    "headache/migraine",
+    "fibromyalgia",
+    "ME/CFS (listed as an overlapping functional disorder; fatigue covered as an associated symptom)",
+    "anxiety",
+    "depression",
+    "somatic symptom disorder",
+    "insomnia",
+    "post-concussion syndrome"
+  ],
+  "conditions_primary": [
+    "FND"
+  ],
+  "differentiation": "mostly unified with condition-specific emphasis",
+  "mechanisms": [
+    "neuroplastic/learned pain (brain-generated danger signal / predictive processing)",
+    "attention & interoception / hypervigilance",
+    "dissociation",
+    "brain network / oscillation dysregulation",
+    "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")",
+    "fear-avoidance / catastrophizing / cognitive appraisal",
+    "central sensitization"
+  ],
+  "mechanism_summary": "FND is framed as a \"software not hardware\" disorder of how the nervous system functions. Symptoms are genuine and involuntary. The proposed mechanisms are: overly strong brain predictions that override sensory input (predictive processing); an underactive self-agency network (right TPJ); protective shutdown or a dissociative trance-like state after injury, pain, migraine or panic; and attention-dependent movement. These sit within a biopsychosocial vulnerability-trigger-maintenance framework in which trauma is a risk factor but is not required. Fibromyalgia, IBS, ME/CFS, migraine and chronic pain are seen as overlapping \"functional disorders,\" possibly \"ONE condition with different aspects.\" Core FND symptoms are distinguished from these associated ones, and comorbid organic disease is acknowledged.",
+  "roots": [
+    "Charcot/Janet hysteria & dissociation (classical neurology)",
+    "Freudian psychoanalysis / psychodynamic theory",
+    "CBT (Beck/Ellis)",
+    "hypnosis (Mesmer, Erickson)",
+    "gate control / neuromatrix pain science",
+    "predictive processing / Bayesian brain",
+    "specialist FND physiotherapy"
+  ],
+  "techniques": [
+    "diagnostic explanation and education (positive signs, myths)",
+    "online self-formulation tool",
+    "attention-redirection and automatic-movement physiotherapy",
+    "graded activity with pacing",
+    "seizure warning-sign recognition",
+    "demanding distraction (serial subtraction, singing, conversation)",
+    "sensory grounding for dissociative seizures",
+    "challenging catastrophic thoughts",
+    "behavioural experiments vs avoidance",
+    "treatment of comorbid anxiety/depression/PTSD",
+    "trauma-focused therapy where relevant",
+    "OT, speech and language therapy, vestibular rehab",
+    "relapse management",
+    "Physio4FMD patient workbook"
+  ],
+  "mainstream_adoption": "substantial",
+  "mainstream_notes": "The site was written by leading academic FND neurologists and neuropsychiatrists. NHS neurology clinics recommend it at diagnosis; the Gloucestershire Hospitals leaflet was verified. The Scottish Government funded the redesign, and Edinburgh Innovations reports it has been adopted by NHS inform and forms part of the NHS pathway. It is cited as a patient resource in the Australian FND treatment recommendations (Lehn et al., BMJ Neurol Open 2025) and is aligned with FND Society teaching.",
+  "insurance": "no",
+  "insurance_notes": "Insurance does not apply because the site is free. The specialist physio, CBT, OT and SLT it describes are delivered by the NHS or covered by insurance elsewhere.",
+  "evidence_level": "pilot or single RCT",
+  "key_trials": [
+    {
+      "citation": "Gelauff JM, Rosmalen JGM, Carson A, Dijk JM, Ekkel M, Nielsen G, Stone J, Tijssen MAJ. Internet-based self-help randomized trial for motor functional neurologic disorder (SHIFT). Neurology 2020;95(13):e1883-e1896. PMID 32690783",
+      "design": "Non-blinded RCT (Netherlands, NCT02589886). Unguided education/self-help website + usual care vs usual care. The intervention was a new Dutch website combining elements of neurosymptoms.org, a CBT self-help workbook and Nielsen physio exercises: a derivative of the site, not the site itself. Stone declared that he runs neurosymptoms.org.",
+      "n": 186,
+      "finding": "Self-rated health (CGI) did not improve: 44% vs 40% at 3 months (p=0.90), 42% vs 43% at 6 months. No secondary outcome differed. 86% would recommend the site. The authors call it a possible adjunct in stepped care but not an effective treatment on its own.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32690783/"
+    },
+    {
+      "citation": "Sharpe M, Walker J, Williams C, Stone J, et al., Carson A. Guided self-help for functional (psychogenic) symptoms: a randomized controlled efficacy trial. Neurology 2011;77(6):564-572. PMID 21795652",
+      "design": "RCT: CBT-based self-help manual + 4 half-hour guidance sessions vs usual care (related technique, not the website)",
+      "n": 127,
+      "finding": "CGI was better at 3 months (adjusted common OR 2.36, 95% CI 1.17-4.74; NNT 8). Not significant on CGI at 6 months, though benefits persisted in symptom improvement and physical functioning.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21795652/"
+    },
+    {
+      "citation": "Goldstein LH, Robinson EJ, Mellers JDC, Stone J, Carson A, et al., Chalder T. CODES. Lancet Psychiatry 2020;7(6):491-505. PMID 32445688",
+      "design": "Pragmatic multicentre RCT: CBT + standardised medical care vs standardised care for dissociative seizures (recommended therapy, not the website)",
+      "n": 368,
+      "finding": "Seizure frequency at 12 months did not differ significantly (IRR 0.78, 95% CI 0.56-1.09, p=0.144). Several secondary outcomes favoured CBT (uncorrected for multiplicity): bothersomeness, longest seizure-free period, QoL, WSAS, distress and somatic symptoms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32445688/"
+    },
+    {
+      "citation": "Nielsen G, Stone J, Lee TC, et al., Edwards MJ. Physio4FMD. Lancet Neurol 2024;23(7):675-686. PMID 38768621",
+      "design": "Pragmatic phase 3 RCT: specialist FND physiotherapy (9 sessions) vs community neurophysio (recommended therapy, not the website). 355 randomised (179 vs 176); 241 in the primary analysis after COVID-19 exclusions.",
+      "n": 355,
+      "finding": "SF-36 physical function at 12 months did not differ significantly (adjusted mean difference 3.5, 95% CI -2.3 to 9.3, p=0.23). Self-rated motor improvement and mental health were better in the specialist arm.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38768621/"
+    }
+  ],
+  "controversy": "This is the mainstream FND model, not a fringe one. Some patient advocates object to its ties to the Sharpe/Chalder CBT and graded-activity tradition (contested after PACE in ME/CFS), and the site lists ME/CFS among functional disorders. It labels migraine as a functional disorder while acknowledging this is controversial. Some psychiatrists criticise the 'agnostic' causal stance (Scamvougeras & Castle, Can J Psychiatry 2024), while some patients resist any psychological framing. The only RCT of a derivative of the site (SHIFT) was run by its developers and found that information alone did not improve outcomes; the large trials of the therapies it recommends were null on their primary outcomes.",
+  "popularity": {
+    "indicators": [
+      {
+        "metric": "Monthly hits",
+        "value": "~60,000/month; 12 translations",
+        "source": "University of Edinburgh staff profile (undated)",
+        "year": null
+      },
+      {
+        "metric": "Monthly users",
+        "value": "~50,000 people/month",
+        "source": "neurosymptoms.org/en/about (June 2021 update)",
+        "year": 2021
+      },
+      {
+        "metric": "Monthly visits",
+        "value": "~60,000/month; 10 languages",
+        "source": "Edinburgh Innovations case study",
+        "year": 2023
+      },
+      {
+        "metric": "Languages",
+        "value": "13",
+        "source": "neurosymptoms.org/en/about",
+        "year": 2026
+      },
+      {
+        "metric": "User survey informing redesign",
+        "value": "434 respondents (65% with FND, 24% professionals)",
+        "source": "neurosymptoms.org/en/about",
+        "year": 2020
+      },
+      {
+        "metric": "Earliest web archive capture",
+        "value": "2009-04-25",
+        "source": "Wayback Machine CDX",
+        "year": 2009
+      },
+      {
+        "metric": "Research grant",
+        "value": "Wellcome-funded iTPA Impact Fund £50k",
+        "source": "Edinburgh Innovations",
+        "year": 2022
+      }
+    ],
+    "reach_estimate": "About 50-60k visits a month over ~15 years is roughly 10 million visits, or perhaps 1-3 million unique people (speculative, based on an assumed 3-10 visits per person). Many more are reached indirectly through NHS clinic referrals and translations.",
+    "reach_log10": 6.3,
+    "trajectory": [
+      {
+        "year": 2009,
+        "relative_activity": 2
+      },
+      {
+        "year": 2011,
+        "relative_activity": 3
+      },
+      {
+        "year": 2013,
+        "relative_activity": 4
+      },
+      {
+        "year": 2015,
+        "relative_activity": 5
+      },
+      {
+        "year": 2017,
+        "relative_activity": 6.5
+      },
+      {
+        "year": 2019,
+        "relative_activity": 7
+      },
+      {
+        "year": 2020,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2021,
+        "relative_activity": 8.5
+      },
+      {
+        "year": 2022,
+        "relative_activity": 8.5
+      },
+      {
+        "year": 2023,
+        "relative_activity": 9
+      },
+      {
+        "year": 2024,
+        "relative_activity": 9
+      },
+      {
+        "year": 2025,
+        "relative_activity": 9
+      },
+      {
+        "year": 2026,
+        "relative_activity": 9
+      }
+    ],
+    "method_notes": "Anchors:\n- 2009 launch (Wayback earliest capture; Edinburgh Innovations).\n- ~60k hits/month in an undated staff profile, placed at about 2017.\n- FND Society founded 2019.\n- SHIFT trial and user survey 2020.\n- 2021 redesign and app, ~50k users/month.\n- 2022 Wellcome iTPA grant.\n- ~60k visits/month per Edinburgh Innovations.\nEarly years (2009-2015) are interpolated with no direct metrics. The plateau after 2021 reflects stable reported traffic. Subreddit and Google Trends data could not be retrieved (web-search budget exhausted). Reach is visits converted to unique users with an assumed 3-10 visits per person."
+  },
+  "sources": [
+    "https://www.neurosymptoms.org/",
+    "https://www.neurosymptoms.org/en/about/",
+    "https://www.neurosymptoms.org/en/causes/how-was-it-happened/",
+    "https://www.neurosymptoms.org/en/causes/why-has-it-happened/",
+    "https://www.neurosymptoms.org/en/causes/fnd-and-other-functional-disorders/",
+    "https://www.neurosymptoms.org/en/treatment/physiotherapy/",
+    "https://www.neurosymptoms.org/en/treatment/treatment-of-functional-seizures/",
+    "https://www.neurosymptoms.org/en/treatment/psychological-therapy/",
+    "https://edinburgh-innovations.ed.ac.uk/case-studies/shedding-light-on-functional-neurological-disorder",
+    "https://www.research.ed.ac.uk/en/projects/developing-neurosymptomsorg-as-a-research-and-treatment-platform--2/",
+    "https://edwebprofiles.ed.ac.uk/profile/prof-jon-stone",
+    "https://www.gloshospitals.nhs.uk/documents/26340/Functional_Neurological_Symptoms_GHPI1553_10_25.pdf",
+    "http://web.archive.org/cdx/search/cdx?url=neurosymptoms.org",
+    "https://www.pure.ed.ac.uk/ws/files/160711661/Gelauff_Internet_based_self_help_randomized_trial_for_motor_FND.pdf",
+    "https://pubmed.ncbi.nlm.nih.gov/32690783/",
+    "https://pubmed.ncbi.nlm.nih.gov/21795652/",
+    "https://pubmed.ncbi.nlm.nih.gov/32445688/",
+    "https://pubmed.ncbi.nlm.nih.gov/38768621/",
+    "https://pubmed.ncbi.nlm.nih.gov/40552010/",
+    "https://pubmed.ncbi.nlm.nih.gov/38584382/",
+    "https://pubmed.ncbi.nlm.nih.gov/42750449/"
+  ]
+}

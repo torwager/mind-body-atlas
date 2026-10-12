@@ -1,0 +1,351 @@
+{
+  "slug": "istdp",
+  "name": "Intensive Short-Term Dynamic Psychotherapy (ISTDP)",
+  "url": "https://www.istdpinstitute.com/",
+  "founders": [
+    "Habib Davanloo, MD (originator; McGill / Montreal General Hospital; b. 1927, death reported Nov 2023, announced Apr 2024)",
+    "Allan Abbass, MD (later developer, not a co-founder; Dalhousie University, Centre for Emotions and Health; somatic/ED applications)",
+    "Jon Frederickson, MSW (trainer and disseminator, not a co-founder; ISTDP Institute; Washington School of Psychiatry)"
+  ],
+  "founded_year": 1962,
+  "founded_year_range": "1962-1980 (Davanloo began developing the technique in 1962; first book 1978/80). Somatic/ED application from 2002 (NCT00833742)",
+  "category": "trauma/emotion-focused therapy (short-term psychodynamic psychotherapy)",
+  "delivery": [
+    "clinician-delivered",
+    "individual psychotherapy",
+    "telehealth",
+    "group",
+    "residential program",
+    "books",
+    "professional training courses"
+  ],
+  "business_model": "clinician-delivered (fee-for-service)",
+  "cost_summary": "No set price; billed as ordinary psychotherapy. US private practice is roughly USD 150-300 per session (unverified estimate). Typical course is 1-5 sessions in the ED model, about 7 in the tertiary/MUS service (Abbass 2015 mean 7.3), and about 20 for treatment-resistant depression, so roughly USD 1,000-5,000. Free at point of use in Nova Scotia public services and in some NHS services. Therapist training is a 3-year core program (4 x 3-day weekends per year); prices vary by country and are not published.",
+  "cost_usd_typical": 2000,
+  "conditions_claimed": [
+    "somatic symptom disorder",
+    "chronic pain (general)",
+    "chronic back/neck pain",
+    "headache/migraine",
+    "IBS/functional GI",
+    "FND",
+    "pelvic pain/endometriosis/vulvodynia/IC",
+    "TMD/jaw",
+    "fibromyalgia",
+    "depression",
+    "anxiety",
+    "PTSD/trauma",
+    "addiction/substance use",
+    "personality disorders"
+  ],
+  "conditions_primary": [
+    "somatic symptom disorder",
+    "chronic pain (general)",
+    "FND",
+    "depression"
+  ],
+  "differentiation": "mostly unified with condition-specific emphasis",
+  "mechanisms": [
+    "repressed emotion / psychodynamic (rage, TMS)",
+    "unresolved trauma stored in body",
+    "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")",
+    "attention & interoception / hypervigilance",
+    "neuroplastic/learned pain (brain-generated danger signal / predictive processing)"
+  ],
+  "mechanism_summary": "Painful early attachment experiences leave complex mixed feelings (rage, guilt about rage, grief) that are kept out of awareness. When current situations re-evoke them, unconscious anxiety and defenses (including somatisation and self-attack) produce symptoms; this is Malan's triangle of conflict. Unconscious anxiety is said to discharge through distinct bodily pathways, and each pathway maps onto a symptom class: striated muscle (musculoskeletal pain, tension headache), smooth muscle/autonomic (IBS, migraine, bladder), cognitive-perceptual disruption (dizziness, blurred vision, dissociation) and motor conversion (FND, functional seizures). The cause is a single unified one, but the anxiety pathway determines technique (high-pressure versus the graded format). Abbass and Schubiner add a neuroscience gloss (psychophysiologic disorders, brain-generated danger signals). ME/CFS, long COVID, MCS and EHS are not addressed.",
+  "roots": [
+    "Freudian psychoanalysis / psychodynamic theory",
+    "Davanloo ISTDP",
+    "Malan brief dynamic psychotherapy (triangle of conflict/person)",
+    "Alexander corrective emotional experience / Chicago psychosomatics",
+    "Bowlby attachment theory"
+  ],
+  "techniques": [
+    "2-3 h trial therapy / direct diagnosis of emotional factors in somatic symptoms",
+    "real-time tracking of unconscious anxiety pathways (striated, smooth muscle, cognitive-perceptual, conversion)",
+    "pressure to experience specific feelings bodily",
+    "clarification and challenge of defenses; head-on collision",
+    "graded format to build anxiety tolerance in fragile patients",
+    "somatic experiencing of rage, guilt and grief toward attachment figures (unlocking the unconscious)",
+    "linking dynamics to current relationships and symptoms (triangle of person)",
+    "video-recorded sessions for supervision",
+    "brief ED consultation model (1-5 sessions)"
+  ],
+  "mainstream_adoption": "moderate",
+  "mainstream_notes": "Embedded in Nova Scotia Health (Halifax) emergency-department, primary-care MUS and tertiary psychotherapy services since about 2002. Taught at McGill (historically) and Dalhousie, with core training programs in the US, Canada, UK, Scandinavia, Netherlands, Italy, Poland and Australia, and residential programs in Norway. Used in some UK FND services. Not named in NICE guidance. Short-term psychodynamic therapy as a class (not ISTDP specifically) received a strong recommendation for depressive and somatic symptom disorders in a 2023 World Psychiatry umbrella review co-authored by Abbass. IEDTA self-reports 1,000+ therapists worldwide.",
+  "insurance": "yes",
+  "insurance_notes": "Reimbursed as generic psychotherapy (US CPT 90834/90837/90853; Canadian provincial plans when a physician delivers it; NHS free at point of use where offered). There is no ISTDP-specific code. Many specialised US ISTDP therapists are out-of-network.",
+  "evidence_level": "systematic reviews/meta-analyses",
+  "key_trials": [
+    {
+      "citation": "Town JM, Abbass A, Campbell S. Halifax somatic symptom disorder trial. J Psychosom Res 2024;187:111889 (PMID 39241562; NCT02076867)",
+      "design": "Pilot RCT, ISTDP + medical care vs 8-wk waitlist symptom monitoring, ED patients with somatic symptom and related disorders",
+      "n": 37,
+      "finding": "Greater reduction in somatic symptoms with ISTDP (reported d=0.94 at 8 wk, 1.54 at end of treatment); depression and illness anxiety improved; reduced ED use at 2 years",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39241562/"
+    },
+    {
+      "citation": "Abbass A, Campbell S, Magee K, Tarzwell R. CJEM 2009;11:529-34 (PMID 19922712; NCT00833742)",
+      "design": "Pre-post service evaluation with comparison populations (not randomised), ED patients with medically unexplained symptoms",
+      "n": 77,
+      "finding": "ED return visits fell 69% (3.2/patient) in the following year vs -15% to +43% in comparison groups; mean 3.8 sessions; BSI improved",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19922712/"
+    },
+    {
+      "citation": "Chavooshi B, Saberi M, Tavallaie SA, Sahraei H. Psychosomatics 2017;58:506-518 (PMID 28279495)",
+      "design": "RCT ISTDP (n=177) vs 16-session manualised CBT (n=164) for medically unexplained pain (Iran)",
+      "n": 341,
+      "finding": "Both improved pain, distress, depression and catastrophizing; equivalent at 3-month follow-up; CBT alone improved self-efficacy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28279495/"
+    },
+    {
+      "citation": "Chavooshi B, Mohammadkhani P, Dolatshahi B. Psychosomatics 2016;57:292-300 (PMID 27017450)",
+      "design": "RCT, 16 weekly Skype-delivered ISTDP sessions vs TAU, medically unexplained pain, blinded assessment, 6-mo follow-up (Iran)",
+      "n": 100,
+      "finding": "Pain fell with ISTDP but not with TAU; depression, anxiety, stress, emotion regulation and QoL favoured ISTDP at 6 months",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27017450/"
+    },
+    {
+      "citation": "Chavooshi B, Mohammadkhani P, Dolatshahee B. J Telemed Telecare 2017;23:133-141 (PMID 27036877)",
+      "design": "RCT in-person vs video-delivered ISTDP, medically unexplained pain, 12 mo (Iran)",
+      "n": 81,
+      "finding": "In-person ISTDP lower pain (d=0.97 post, 0.82 at 12 mo)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27036877/"
+    },
+    {
+      "citation": "Chavooshi B, Mohammadkhani P, Dolatshahee B. Psychother Psychosom 2016;85:123-125 (PMID 26808505)",
+      "design": "Pilot 3-arm RCT ISTDP vs MBSR vs waitlist, medically unexplained pain (Iran); letter-format report",
+      "n": null,
+      "finding": "Reported ISTDP superior; N and effect sizes not verifiable (no abstract)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26808505/"
+    },
+    {
+      "citation": "Shafiei F, Dehghani M, Lavasani FF, Manouchehri M. Front Psychol 2024;15:1293150 (PMID 38605838)",
+      "design": "RCT ISTDP vs control, IBS (Iran)",
+      "n": 30,
+      "finding": "Reduced IBS severity and frequency; improved emotion regulation and QoL; 10-wk follow-up",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38605838/"
+    },
+    {
+      "citation": "Shahverdi ZA, Dehghani M, Ashouri A, Manouchehri M. Acta Psychol 2024;244:104176 (PMID 38330733)",
+      "design": "RCT ISTDP vs control, tension-type headache (Iran)",
+      "n": 30,
+      "finding": "Reduced headache symptoms, anxiety, anger",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38330733/"
+    },
+    {
+      "citation": "Abbass A, Town J, Holmes H, Luyten P. Psychother Psychosom 2020;89:363-370 (PMID 32428905)",
+      "design": "Meta-analysis of 17 RCTs of short-term psychodynamic psychotherapy (STPP, not only ISTDP) for functional somatic disorders",
+      "n": null,
+      "finding": "STPP superior to minimal/TAU/waitlist on somatic symptoms at all time points (small to large effects); authors note possible publication bias",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32428905/"
+    },
+    {
+      "citation": "Abbass A, Kisely S, Rasic D, Town JM, Johansson R. J Psychiatr Res 2015;64:114-20 (PMID 25840829; NCT01924715)",
+      "design": "Quasi-experimental cost-offset study, tertiary service (890 treated vs 192 referred-untreated)",
+      "n": 1082,
+      "finding": "Mean CAD 12,628 reduction in healthcare costs over 3 yrs per treated case vs CAD 708 treatment cost; mean 7.3 sessions",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25840829/"
+    },
+    {
+      "citation": "Malda-Castillo J, Howell B, Russell L, Town J et al. Epilepsy Behav 2023;141:109147 (PMID 36924611)",
+      "design": "Uncontrolled case series follow-up, 3-session ISTDP for functional seizures (18 recruited)",
+      "n": 17,
+      "finding": "Healthcare utilisation decreased in 12 mo post vs 12 mo pre",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36924611/"
+    },
+    {
+      "citation": "Town JM, Abbass A, Stride C, Bernier D. J Affect Disord 2017;214:15-25 (PMID 28266318; NCT01141426)",
+      "design": "RCT ISTDP vs TAU, treatment-resistant depression",
+      "n": 60,
+      "finding": "Complete remission 36% vs 3.7% at 6 mo; cost-effective at 18 mo (PMID 32421603)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28266318/"
+    },
+    {
+      "citation": "Heshmati R, Wienicke FJ, Driessen E. Psychotherapy (Chic) 2023;60:497-511 (PMID 37843533)",
+      "design": "RCT, 20 sessions ISTDP vs waitlist, treatment-resistant depression (Iran); retrospectively registered",
+      "n": 86,
+      "finding": "Very large effects on depression (d=-1.73), emotional repression and negative affect post-treatment, maintained at 3 mo",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37843533/"
+    }
+  ],
+  "controversy": "The confrontational techniques (pressure, challenge, \"head-on collision\") are criticised as harsh and skill-dependent; the graded format and relational reframing partly answer this. Davanloo's later theories rested on his own videotaped case series. Investigator allegiance is high: Abbass co-authors most meta-analyses, including the 2023 umbrella review, and these pool ISTDP with other STPP. The largest somatic RCTs come from Iranian groups (Chavooshi; Dehghani; Heshmati) with unusually large effects that have not been independently replicated, and in the largest (n=341) ISTDP was only equivalent to CBT. The definitive SSD trial is still a pilot (n=37). The repressed-rage framing can feel invalidating to patients with contested illnesses, and ISTDP has no trials in ME/CFS, long COVID, POTS, MCS or EHS. Training is long and demanding, which limits scalability.",
+  "popularity": {
+    "indicators": [
+      {
+        "metric": "PubMed records matching \"intensive short-term dynamic psychotherapy\" AND random*",
+        "value": "29",
+        "source": "PubMed esearch 2026-10-12 (re-verified)",
+        "year": 2026
+      },
+      {
+        "metric": "ClinicalTrials.gov registrations",
+        "value": "6 (2002-2024 start dates); 4 checked: NCT00833742, NCT02076867, NCT01924715, NCT01141426",
+        "source": "ClinicalTrials.gov API",
+        "year": 2026
+      },
+      {
+        "metric": "IEDTA therapists (experiential dynamic therapies incl. ISTDP), self-reported",
+        "value": "1000+",
+        "source": "iedta.net homepage",
+        "year": 2026
+      },
+      {
+        "metric": "Patients treated in Halifax tertiary service cost study",
+        "value": "890 treated over 9 years",
+        "source": "Abbass et al. 2015 J Psychiatr Res",
+        "year": 2015
+      },
+      {
+        "metric": "Books by ISTDP Institute-listed authors",
+        "value": "14 titles (Frederickson, Abbass, Coughlin, Malan, Kuhn, Rousmaniere)",
+        "source": "istdpinstitute.com/books (not re-verified)",
+        "year": 2026
+      },
+      {
+        "metric": "Crossover book into mind-body/PPD community",
+        "value": "Hidden From View (Abbass & Schubiner)",
+        "source": "unlearnyourpain.com",
+        "year": 2018
+      }
+    ],
+    "reach_estimate": "~10^5 cumulative patients (range 5x10^4-5x10^5): thousands of trained therapists worldwide, each seeing tens to hundreds of patients, plus large public-service volumes in Halifax and Norway",
+    "reach_log10": 5,
+    "trajectory": [
+      {
+        "year": 1970,
+        "relative_activity": 1
+      },
+      {
+        "year": 1975,
+        "relative_activity": 2
+      },
+      {
+        "year": 1980,
+        "relative_activity": 3
+      },
+      {
+        "year": 1985,
+        "relative_activity": 3
+      },
+      {
+        "year": 1990,
+        "relative_activity": 3.5
+      },
+      {
+        "year": 1995,
+        "relative_activity": 3.5
+      },
+      {
+        "year": 2000,
+        "relative_activity": 4
+      },
+      {
+        "year": 2002,
+        "relative_activity": 4
+      },
+      {
+        "year": 2005,
+        "relative_activity": 4.5
+      },
+      {
+        "year": 2008,
+        "relative_activity": 5
+      },
+      {
+        "year": 2010,
+        "relative_activity": 5
+      },
+      {
+        "year": 2012,
+        "relative_activity": 5.5
+      },
+      {
+        "year": 2014,
+        "relative_activity": 6
+      },
+      {
+        "year": 2016,
+        "relative_activity": 6.5
+      },
+      {
+        "year": 2017,
+        "relative_activity": 7
+      },
+      {
+        "year": 2018,
+        "relative_activity": 7
+      },
+      {
+        "year": 2019,
+        "relative_activity": 7
+      },
+      {
+        "year": 2020,
+        "relative_activity": 8
+      },
+      {
+        "year": 2021,
+        "relative_activity": 8
+      },
+      {
+        "year": 2022,
+        "relative_activity": 8
+      },
+      {
+        "year": 2023,
+        "relative_activity": 8.5
+      },
+      {
+        "year": 2024,
+        "relative_activity": 9
+      },
+      {
+        "year": 2025,
+        "relative_activity": 9
+      },
+      {
+        "year": 2026,
+        "relative_activity": 9
+      }
+    ],
+    "method_notes": "Web search was rate-limited, so the trajectory is based mainly on verified publication and registration dates rather than social-media or Google Trends data. Inputs: Davanloo's development from 1962 and books 1978/80, 1990 and 2001; Abbass's ED service from 2002; somatic meta-analyses 2009, 2012, 2014, 2020, 2021 and 2025; RCT publication peaks 2016-2017 and 2020-2025; the 2018 Hidden From View crossover into the PPD/mind-body community; post-COVID telehealth and online training expansion; IEDTA's self-reported 1,000+ therapists and 12th biennial conference (Croatia, 2026). Activity is relative within the program (10 = peak). Reach is a Fermi estimate (therapists x caseload plus Halifax service volumes) and is uncertain by about half an order of magnitude. Reddit and Twitter metrics were not retrievable."
+  },
+  "sources": [
+    "https://www.istdpinstitute.com/",
+    "https://www.istdpinstitute.com/about/",
+    "https://www.istdpinstitute.com/advanced-training/",
+    "https://www.istdpinstitute.com/books/",
+    "https://www.iedta.net/",
+    "https://en.wikipedia.org/wiki/Intensive_short-term_dynamic_psychotherapy",
+    "https://en.wikipedia.org/wiki/Habib_Davanloo",
+    "https://www.unlearnyourpain.com/hidden-from-view",
+    "https://pubmed.ncbi.nlm.nih.gov/39241562/",
+    "https://pubmed.ncbi.nlm.nih.gov/19922712/",
+    "https://pubmed.ncbi.nlm.nih.gov/28279495/",
+    "https://pubmed.ncbi.nlm.nih.gov/27017450/",
+    "https://pubmed.ncbi.nlm.nih.gov/27036877/",
+    "https://pubmed.ncbi.nlm.nih.gov/26808505/",
+    "https://pubmed.ncbi.nlm.nih.gov/38605838/",
+    "https://pubmed.ncbi.nlm.nih.gov/38330733/",
+    "https://pubmed.ncbi.nlm.nih.gov/36924611/",
+    "https://pubmed.ncbi.nlm.nih.gov/32428905/",
+    "https://pubmed.ncbi.nlm.nih.gov/33814192/",
+    "https://pubmed.ncbi.nlm.nih.gov/19602915/",
+    "https://pubmed.ncbi.nlm.nih.gov/22512743/",
+    "https://pubmed.ncbi.nlm.nih.gov/24385460/",
+    "https://pubmed.ncbi.nlm.nih.gov/25840829/",
+    "https://pubmed.ncbi.nlm.nih.gov/32093498/",
+    "https://pubmed.ncbi.nlm.nih.gov/28266318/",
+    "https://pubmed.ncbi.nlm.nih.gov/32421603/",
+    "https://pubmed.ncbi.nlm.nih.gov/37843533/",
+    "https://pubmed.ncbi.nlm.nih.gov/37159376/",
+    "https://pubmed.ncbi.nlm.nih.gov/40401139/",
+    "https://pubmed.ncbi.nlm.nih.gov/35390566/",
+    "https://pubmed.ncbi.nlm.nih.gov/18771494/",
+    "https://clinicaltrials.gov/study/NCT02076867",
+    "https://clinicaltrials.gov/study/NCT00833742",
+    "https://clinicaltrials.gov/study/NCT01924715",
+    "https://clinicaltrials.gov/study/NCT01141426"
+  ]
+}

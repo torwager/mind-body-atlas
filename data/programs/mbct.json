@@ -1,0 +1,311 @@
+{
+  "slug": "mbct",
+  "name": "Mindfulness-Based Cognitive Therapy (MBCT)",
+  "url": "https://www.mbct.com/",
+  "founders": [
+    "Zindel V. Segal",
+    "J. Mark G. Williams",
+    "John D. Teasdale"
+  ],
+  "founded_year": 2000,
+  "founded_year_range": "1992-2002 (developed 1992-99; first RCT 2000; Guilford manual 2002)",
+  "category": "contemplative/meditation program",
+  "delivery": [
+    "group",
+    "clinician-delivered",
+    "book",
+    "online course"
+  ],
+  "business_model": "mixed",
+  "cost_summary": "No prices are posted on mbct.com, mindfulmood.org or the Oxford course list (checked 2026-10-12). Unverified estimate: about USD 300-700 for a private 8-week group in the US and about GBP 200-400 in the UK; free on the NHS. Workbook about USD 20-30. The protocol is not proprietary.",
+  "cost_usd_typical": 450,
+  "conditions_claimed": [
+    "depression",
+    "anxiety",
+    "somatic symptom disorder",
+    "chronic pain (general)",
+    "headache/migraine",
+    "chronic back/neck pain",
+    "IBS/functional GI",
+    "general stress/wellbeing"
+  ],
+  "conditions_primary": [
+    "depression",
+    "anxiety",
+    "general stress/wellbeing"
+  ],
+  "differentiation": "mostly unified with condition-specific emphasis",
+  "mechanisms": [
+    "mind-wandering / reactivity (mindfulness model)",
+    "fear-avoidance / catastrophizing / cognitive appraisal",
+    "attention & interoception / hypervigilance"
+  ],
+  "mechanism_summary": "After recovery from depression, mild dysphoria can reactivate depressogenic thinking (cognitive reactivity). Rumination and experiential avoidance (\"doing mode\") then drive relapse. MBCT trains decentering and metacognitive awareness (\"thoughts are not facts\") and a \"being mode\", so people notice early warning signs and disengage. The theoretical basis is Teasdale's ICS model. MBCT claims no central neurological or autonomic cause of somatic illness. Adaptations for pain and health anxiety apply the same reactivity model to aversive sensations.",
+  "roots": [
+    "Buddhist vipassana/insight meditation",
+    "Zen",
+    "Hindu yoga/pranayama",
+    "CBT (Beck/Ellis)",
+    "third-wave CBT (ACT, DBT)",
+    "MBSR (Kabat-Zinn)"
+  ],
+  "techniques": [
+    "8 weekly 2-2.25 h group sessions plus a practice day",
+    "body scan",
+    "sitting meditation (breath, sounds, thoughts)",
+    "mindful movement/yoga",
+    "3-minute breathing space",
+    "raisin exercise / informal everyday mindfulness",
+    "thoughts-are-not-facts decentering exercises",
+    "pleasant/unpleasant event calendars",
+    "mastery/pleasure activity scheduling",
+    "relapse-signature and action plan",
+    "about 45 min a day of home practice with audio",
+    "supported antidepressant tapering (MBCT-TS, Kuyken 2008/PREVENT)",
+    "digital Mindful Mood Balance (8 online sessions over 3 months with minimal coaching)"
+  ],
+  "mainstream_adoption": "substantial",
+  "mainstream_notes": "NICE recommended MBCT for recurrent depression (3+ episodes) in CG23 (2004) and CG90 (2009). NG222 (2022) retains group MBCT for relapse prevention in people at higher risk; the exact NG222 wording could not be re-fetched (403) and is unverified. MBCT is delivered in NHS Talking Therapies and secondary care, and the Oxford 'MBCT for Depression' course is for UK residents with a GP. The UK APPG report Mindful Nation UK (2015) recommended it. Kaiser Permanente Colorado hosted the 460-person digital trial. Teacher training runs at Oxford, Bangor, UCSD and Toronto.",
+  "insurance": "sometimes/indirect",
+  "insurance_notes": "Free through the UK NHS. In the US it can be billed as group psychotherapy (e.g., CPT 90853) when a licensed clinician delivers it; there is no MBCT-specific code. Community or lay-teacher courses are self-pay.",
+  "evidence_level": "systematic reviews/meta-analyses",
+  "key_trials": [
+    {
+      "citation": "Teasdale JD, Segal ZV, Williams JM et al. J Consult Clin Psychol 2000;68:615-23 (PMID 10965637)",
+      "design": "RCT, MBCT+TAU vs TAU, recovered recurrent depression",
+      "n": 145,
+      "finding": "Over 60 weeks, relapse fell for patients with 3+ prior episodes (77% of the sample) but not for those with 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10965637/"
+    },
+    {
+      "citation": "Ma SH, Teasdale JD. J Consult Clin Psychol 2004;72:31-40 (PMID 14756612)",
+      "design": "Replication RCT, MBCT+TAU vs TAU",
+      "n": 75,
+      "finding": "Replicated the relapse reduction for 3+ episodes",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14756612/"
+    },
+    {
+      "citation": "Kuyken W et al. J Consult Clin Psychol 2008;76:966-78 (PMID 19045965)",
+      "design": "RCT, MBCT with support to taper antidepressants vs maintenance antidepressants",
+      "n": 123,
+      "finding": "Relapse over 15 months 47% vs 60% (HR 0.63, 95% CI 0.39-1.04, ns); MBCT better on residual symptoms, comorbidity and quality of life; 75% fully discontinued antidepressants",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19045965/"
+    },
+    {
+      "citation": "Segal ZV et al. Arch Gen Psychiatry 2010;67:1256-64 (PMID 21135325)",
+      "design": "3-arm RCT, MBCT vs maintenance antidepressants vs placebo, in remitters (160 treated acutely, 84 remitted and randomized)",
+      "n": 84,
+      "finding": "In unstable remitters, MBCT and antidepressants both cut relapse hazard by 73% vs placebo; no difference in stable remitters",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21135325/"
+    },
+    {
+      "citation": "Williams JM et al. J Consult Clin Psychol 2014;82:275-86 (PMID 24294837)",
+      "design": "Dismantling RCT, MBCT vs cognitive psychoeducation vs TAU",
+      "n": 274,
+      "finding": "No significant overall effect on relapse over 12 months (HR 0.88 [0.58-1.35] vs CPE, 0.69 [0.42-1.12] vs TAU); benefit only with above-median childhood trauma",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24294837/"
+    },
+    {
+      "citation": "Kuyken W et al. (PREVENT) Lancet 2015;386:63-73 (PMID 25907157)",
+      "design": "Single-blind RCT, MBCT with antidepressant taper vs maintenance antidepressants, 95 UK general practices",
+      "n": 424,
+      "finding": "MBCT not superior: HR 0.89 (0.67-1.18) over 24 months; outcomes similar in both arms",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25907157/"
+    },
+    {
+      "citation": "Huijbers MJ et al. (MOMENT) Br J Psychiatry 2016;208:366-73 (PMID 26892847)",
+      "design": "Non-inferiority RCT, MBCT then antidepressant discontinuation vs MBCT + continued antidepressants",
+      "n": 249,
+      "finding": "Non-inferiority not shown; relapse was higher and came sooner after discontinuation",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26892847/"
+    },
+    {
+      "citation": "Kuyken W et al. JAMA Psychiatry 2016;73:565-74 (PMID 27119968)",
+      "design": "Individual patient data meta-analysis of 9 RCTs",
+      "n": 1258,
+      "finding": "Relapse HR 0.69 (0.58-0.82) vs no MBCT and 0.79 (0.64-0.97) vs active treatments over 60 weeks; some evidence (no significant formal interaction) of a larger effect with higher baseline severity",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27119968/"
+    },
+    {
+      "citation": "McManus F et al. J Consult Clin Psychol 2012;80:817-28 (PMID 22708977)",
+      "design": "RCT, MBCT + usual services vs usual services, health anxiety",
+      "n": 74,
+      "finding": "ITT d=0.48 on health anxiety at post and 1 year; diagnosis retained by 36% vs 76% at 1 year",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22708977/"
+    },
+    {
+      "citation": "Farb N et al. J Consult Clin Psychol 2018;86:200-4 (PMID 29265831)",
+      "design": "RCT, MBCT (n=82) vs cognitive therapy (n=84) for relapse prevention in remitted MDD",
+      "n": 166,
+      "finding": "No difference in relapse rate or time to relapse over 24 months",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29265831/"
+    },
+    {
+      "citation": "Segal ZV, Dimidjian S et al. JAMA Psychiatry 2020;77:563-73 (PMID 31995132)",
+      "design": "RCT, online Mindful Mood Balance + usual care vs usual care, Kaiser Colorado, residual depressive symptoms",
+      "n": 460,
+      "finding": "Small PHQ-9 advantage (~1 point), more remission, relapse HR 0.61 (0.39-0.95); no difference in physical functioning",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31995132/"
+    },
+    {
+      "citation": "Dimidjian S et al. J Consult Clin Psychol 2016;84:134-45 (PMID 26654212)",
+      "design": "Pilot RCT, perinatal MBCT (MBCT-PD, n=43) vs TAU (n=43), pregnant women with depression history",
+      "n": 86,
+      "finding": "Lower relapse/recurrence through 6 months postpartum (pilot)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26654212/"
+    },
+    {
+      "citation": "Day MA et al. Clin J Pain 2014;30:152-61 (PMID 23446085)",
+      "design": "Pilot RCT, MBCT for headache vs delayed treatment",
+      "n": 36,
+      "finding": "Feasible; ITT gains in pain self-efficacy and acceptance (d=0.82); pain interference improved only in completers",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23446085/"
+    },
+    {
+      "citation": "Day MA et al. Pain Med 2019;20:2134-48 (PMID 30605517)",
+      "design": "Pilot RCT, MBCT vs mindfulness meditation vs cognitive therapy, chronic low back pain",
+      "n": 69,
+      "finding": "All arms improved with no between-group differences post-treatment; at follow-up MBCT beat meditation on some outcomes",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30605517/"
+    }
+  ],
+  "controversy": "Most pivotal trials were run by the developers. They earn Guilford royalties and training income, and Segal and Dimidjian disclose cofounding Mindful Noggin, Inc. The dismantling trial (Williams 2014) found no overall benefit over an active control. Farb 2018 found no difference from cognitive therapy. PREVENT was a non-superiority result that the media spun as \"as good as pills\". MOMENT found that stopping antidepressants after MBCT raised relapse. Benefit is concentrated in people with 3+ episodes. Meditation can have adverse effects: Britton et al. 2021 (PMID 35174010) found negative impacts on functioning in 37% of 96 MBCT participants and lasting bad effects in 6-14%. Evidence for pain is limited to small MBCT pilots (Day et al.), and there are no trials of MBCT in ME/CFS, POTS, MCS, long COVID or FND.",
+  "popularity": {
+    "indicators": [
+      {
+        "metric": "First RCT published",
+        "value": "Teasdale et al. 2000, N=145",
+        "source": "PubMed 10965637",
+        "year": 2000
+      },
+      {
+        "metric": "Treatment manual",
+        "value": "Guilford manual; 2nd edition 2013",
+        "source": "background (unverified)",
+        "year": 2002
+      },
+      {
+        "metric": "NICE guideline recommendation",
+        "value": "Recommended for recurrent depression (CG23), retained in CG90; NG222 2022 (wording unverified)",
+        "source": "NICE (background)",
+        "year": 2004
+      },
+      {
+        "metric": "Mass-market self-help book",
+        "value": "Finding Peace in a Frantic World (Williams & Penman), reported UK bestseller",
+        "source": "background (unverified)",
+        "year": 2011
+      },
+      {
+        "metric": "Lancet PREVENT trial plus Mindful Nation UK parliamentary report",
+        "value": "N=424; wide press coverage",
+        "source": "PubMed 25907157",
+        "year": 2015
+      },
+      {
+        "metric": "IPD meta-analysis",
+        "value": "1,258 patients, 9 RCTs",
+        "source": "PubMed 27119968",
+        "year": 2016
+      },
+      {
+        "metric": "Digital MBCT trial",
+        "value": "Mindful Mood Balance, N=460 at Kaiser",
+        "source": "PubMed 31995132",
+        "year": 2020
+      }
+    ],
+    "reach_estimate": "Unverified order-of-magnitude guess: hundreds of thousands of course completers worldwide (NHS, academic centres, private groups) plus self-help book readers, giving about 10^6. No published enrolment or sales figures were found.",
+    "reach_log10": 6,
+    "trajectory": [
+      {
+        "year": 1992,
+        "relative_activity": 0.5
+      },
+      {
+        "year": 1996,
+        "relative_activity": 1
+      },
+      {
+        "year": 2000,
+        "relative_activity": 2
+      },
+      {
+        "year": 2002,
+        "relative_activity": 3
+      },
+      {
+        "year": 2004,
+        "relative_activity": 4
+      },
+      {
+        "year": 2007,
+        "relative_activity": 5
+      },
+      {
+        "year": 2010,
+        "relative_activity": 6
+      },
+      {
+        "year": 2011,
+        "relative_activity": 7
+      },
+      {
+        "year": 2013,
+        "relative_activity": 8
+      },
+      {
+        "year": 2015,
+        "relative_activity": 10
+      },
+      {
+        "year": 2016,
+        "relative_activity": 10
+      },
+      {
+        "year": 2018,
+        "relative_activity": 9
+      },
+      {
+        "year": 2020,
+        "relative_activity": 8.5
+      },
+      {
+        "year": 2022,
+        "relative_activity": 8
+      },
+      {
+        "year": 2024,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2026,
+        "relative_activity": 7
+      }
+    ],
+    "method_notes": "Trajectory is anchored on documented milestones: first RCT 2000, manual 2002, NICE 2004, self-help books 2007/2011, manual 2nd edition 2013, PREVENT and Mindful Nation UK 2015, IPD meta-analysis 2016, digital trial 2020, NICE NG222 2022. The peak around 2015-2016 matches the general mindfulness media and Google Trends peak (background, not re-verified). The web-search quota ran out in both the original and fact-check sessions, so Reddit, Trends and book-sales figures could not be checked. Reach is a rough order-of-magnitude estimate."
+  },
+  "sources": [
+    "https://www.mbct.com/",
+    "https://www.mbct.com/about",
+    "https://www.oxfordmindfulness.org/",
+    "https://www.oxfordmindfulness.org/courses/personal-learning/",
+    "https://mindfulmood.org/",
+    "https://pubmed.ncbi.nlm.nih.gov/10965637/",
+    "https://pubmed.ncbi.nlm.nih.gov/14756612/",
+    "https://pubmed.ncbi.nlm.nih.gov/19045965/",
+    "https://pubmed.ncbi.nlm.nih.gov/21135325/",
+    "https://pubmed.ncbi.nlm.nih.gov/24294837/",
+    "https://pubmed.ncbi.nlm.nih.gov/25907157/",
+    "https://pubmed.ncbi.nlm.nih.gov/26892847/",
+    "https://pubmed.ncbi.nlm.nih.gov/27119968/",
+    "https://pubmed.ncbi.nlm.nih.gov/29265831/",
+    "https://pubmed.ncbi.nlm.nih.gov/31995132/",
+    "https://pubmed.ncbi.nlm.nih.gov/26654212/",
+    "https://pubmed.ncbi.nlm.nih.gov/22708977/",
+    "https://pubmed.ncbi.nlm.nih.gov/23446085/",
+    "https://pubmed.ncbi.nlm.nih.gov/30605517/",
+    "https://pubmed.ncbi.nlm.nih.gov/35174010/",
+    "https://www.nice.org.uk/guidance/ng222"
+  ]
+}

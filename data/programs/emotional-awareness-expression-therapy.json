@@ -1,0 +1,274 @@
+{
+  "slug": "emotional-awareness-expression-therapy",
+  "name": "Emotional Awareness and Expression Therapy (EAET)",
+  "url": "https://unlearnyourpain.com/product/eaet-emotional-awareness-and-expression-therapy-for-chronic-pain/ (no official standalone site; eaet.org is an unrelated ed-tech conference; lab: https://s.wayne.edu/lumleylab/)",
+  "founders": [
+    "Mark A. Lumley, PhD (Distinguished Professor of Psychology, Wayne State University)",
+    "Howard Schubiner, MD (internist; Mind Body Medicine Center, Ascension Providence, Southfield MI; Michigan State University)"
+  ],
+  "founded_year": 2012,
+  "founded_year_range": "2008-2012. Precursor trials ran 2006-2011 (affective self-awareness, Hsu 2010). The NIAMS R01 AR057808 trial first called it 'Emotional Exposure Therapy'. Manual v2 used the EAET name by Sept 2012. The name first appeared in a paper in 2016 (Burger).",
+  "category": "trauma/emotion-focused therapy (psychodynamic-experiential, for centralized/nociplastic pain)",
+  "delivery": [
+    "clinician-delivered",
+    "group",
+    "individual psychotherapy",
+    "telehealth",
+    "single-session interview",
+    "internet self-help (research version, Sweden)",
+    "book (Schubiner's Unlearn Your Pain workbook)"
+  ],
+  "business_model": "clinician-delivered (fee-for-service)",
+  "cost_summary": "No program fee. Patients pay standard psychotherapy fees, roughly USD 100-250 per session, so about USD 1,000-2,500 for a typical 9-session course (author estimate). Treatment manuals are free online. Clinician training costs USD 600 (5 x 3-hr Zoom sessions, 15 CE via Wayne State; unlearnyourpain.com, Oct 2026; waitlist only). The Unlearn Your Pain workbook costs about USD 25.",
+  "cost_usd_typical": 1500,
+  "conditions_claimed": [
+    "fibromyalgia",
+    "chronic pain (general)",
+    "chronic back/neck pain",
+    "IBS/functional GI",
+    "pelvic pain/endometriosis/vulvodynia/IC",
+    "headache/migraine",
+    "somatic symptom disorder",
+    "PTSD/trauma",
+    "anxiety",
+    "depression",
+    "addiction/substance use",
+    "insomnia"
+  ],
+  "conditions_primary": [
+    "fibromyalgia",
+    "chronic pain (general)",
+    "IBS/functional GI",
+    "somatic symptom disorder"
+  ],
+  "differentiation": "mostly unified with condition-specific emphasis",
+  "mechanisms": [
+    "repressed emotion / psychodynamic (rage, TMS)",
+    "neuroplastic/learned pain (brain-generated danger signal / predictive processing)",
+    "unresolved trauma stored in body",
+    "central sensitization",
+    "fear-avoidance / catastrophizing / cognitive appraisal",
+    "limbic system impairment / amygdala threat conditioning"
+  ],
+  "mechanism_summary": "EAET holds that the brain generates or amplifies primary/centralized pain and other somatic symptoms. Lifetime trauma, adversity and interpersonal or intrapsychic conflict sensitize a brain \"danger/alarm\" system. Avoidance of primary emotions (\"affect phobia\") keeps that system active: chiefly anger tied to agency and assertion, plus guilt, grief and longing tied to attachment. Symptoms are expected to resolve through three processes. Patients re-attribute pain to the brain and emotion. They undergo experiential exposure to the avoided emotions, which works as a corrective emotional experience or \"memory reconsolidation\". They practise adaptive assertive and connecting expression in real relationships. One mechanism is applied across fibromyalgia, IBS, pelvic pain, MUS/SSD, musculoskeletal pain and headache. Patients with high trauma or conflict loads are expected to be the best candidates.",
+  "roots": [
+    "Davanloo ISTDP",
+    "Freudian psychoanalysis / psychodynamic theory",
+    "Sarno TMS",
+    "third-wave CBT (ACT, DBT)",
+    "CBT (Beck/Ellis)",
+    "gate control / neuromatrix pain science",
+    "Emotion-focused therapy (Greenberg; empty-chair)",
+    "Pennebaker written emotional disclosure",
+    "McCullough affect phobia / Malan triangles",
+    "Alexander & French corrective emotional experience",
+    "Barlow Unified Protocol / exposure therapy",
+    "Internal Family Systems (adjunct)",
+    "memory reconsolidation theory"
+  ],
+  "techniques": [
+    "pain-attribution education (brain, not tissue, generates pain), with emotion-symptom demonstrations",
+    "life-stress interview linking stressors to symptom onset",
+    "experiential emotional exposure: empty-chair talk to an imagined offender in the present tense",
+    "anger expression with voice, face and body, including imagined protective or retaliatory action",
+    "sequenced processing: anger, then guilt, then sadness/grief/longing, then self-compassion and letting go",
+    "rescripting memories; current self comforting the younger self",
+    "unsent letters read aloud; expressive writing at home",
+    "assertive and connecting communication: role play, then real-life practice",
+    "experiential challenge of probability overestimation and catastrophizing",
+    "self-forgiveness and forgiving or letting go of others",
+    "homework: engaging avoided behaviors and relationships; guided visualization audio",
+    "standard dose: 1 individual + 8 x 90-min small-group sessions (5-7 patients); also 3-session individual, single 90-min interview, 2-hr class, 10-module internet versions"
+  ],
+  "mainstream_adoption": "moderate",
+  "mainstream_notes": "The 2019 HHS Pain Management Best Practices Inter-Agency Task Force report lists EAET as a behavioral treatment option (section 2.5, p. 38, verified in the report). Funding has come from NIH and the VA. NIAMS funded the fibromyalgia RCT. NIH funds the 4-arm M&M trial (CBT vs ACT vs EAET vs control; Rush/Wayne State; NCT06044649; 408 enrolled). The VA funded the Yarns trials. VA Greater Los Angeles delivers EAET clinically and by telehealth. A multisite NCCIH-funded pragmatic trial in veterans (UCLA lead; NCT07218757; estimated N=672) began recruiting in January 2026. Academic programs at Wayne State, Michigan, Stanford, UCLA, Stockholm/Karolinska, Toronto and Utah. Not named in NICE or the VA/DoD pain guidelines. Training is run by the developers.",
+  "insurance": "sometimes/indirect",
+  "insurance_notes": "There is no EAET-specific code or coverage policy. When a licensed clinician delivers it, it is billed as standard psychotherapy (90832/90834/90837, group 90853) or as a health-behavior intervention (96158/96164). Many private mind-body therapists who offer EAET are cash-pay or out-of-network.",
+  "evidence_level": "multiple RCTs",
+  "key_trials": [
+    {
+      "citation": "Lumley MA, Schubiner H, et al. Pain 2017;158:2354-2363 (PMID 28796118)",
+      "design": "Cluster RCT (40 groups); EAET vs CBT vs FM education; 8 x 90-min group sessions",
+      "n": 230,
+      "finding": "EAET did not beat education on the primary outcome (pain severity at 6 months). It did beat education on most secondary outcomes (d 0.29-0.45) and on 'much improved' (34.8% vs 15.4%). Against CBT it was similar on most outcomes but better on widespread pain and on the rate of 50% pain reduction (22.5% vs 8.3%).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28796118/"
+    },
+    {
+      "citation": "Yarns BC, Jackson NJ, Alas A, Melrose RJ, Lumley MA, Sultzer DL. JAMA Netw Open 2024;7:e2415842 (PMID 38869899)",
+      "design": "RCT, EAET vs CBT, older veterans with musculoskeletal pain; 1 individual + 8 group sessions",
+      "n": 126,
+      "finding": "EAET beat CBT on pain severity post-treatment (-1.59) and at 6 months (-1.01). At least 30% pain reduction: 63% vs 17%. At least 50%: 35% vs 7%. EAET was also better on anxiety, depression, PTSD and life satisfaction.",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2819966"
+    },
+    {
+      "citation": "Yarns BC, et al. Pain Med 2020;21:2811-2822 (PMID 32451528)",
+      "design": "Preliminary RCT, EAET vs CBT, older veterans",
+      "n": 53,
+      "finding": "EAET produced lower pain severity than CBT post-treatment and at 3 months (partial eta2 0.13-0.16). 41.7% of EAET patients had at least 30% pain reduction, vs one CBT patient.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32451528/"
+    },
+    {
+      "citation": "Thakur ER, et al. Neurogastroenterol Motil 2017;29:e13143 (PMID 28643436)",
+      "design": "RCT, EAET vs relaxation vs waitlist; 3 individual sessions; IBS",
+      "n": 106,
+      "finding": "At 10 weeks, EAET (but not relaxation) reduced IBS symptom severity vs waitlist. Both improved quality of life. EAET did not reduce psychological symptoms; relaxation reduced depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28643436/"
+    },
+    {
+      "citation": "Ziadni MS, et al. Health Psychol 2018;37:282-290 (PMID 29154608)",
+      "design": "RCT, single 90-min EAET interview vs TAU; primary-care medically unexplained symptoms",
+      "n": 75,
+      "finding": "At 6 weeks, lower pain severity, pain interference, sleep problems and psychological symptoms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29154608/"
+    },
+    {
+      "citation": "Carty JN, et al. Pain Med 2019;20:1321-1329 (PMID 30252113)",
+      "design": "RCT, single life-stress EAET interview vs TAU; women with chronic urogenital pain",
+      "n": 62,
+      "finding": "Lower pain severity and pelvic-floor symptoms. No effect on interference or on anxiety and depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30252113/"
+    },
+    {
+      "citation": "Maroti D, Lumley MA, Schubiner H, et al. J Psychosom Res 2022;163:111068 (PMID 36327532)",
+      "design": "RCT, 10-week internet EAET vs waitlist; somatic symptom disorder",
+      "n": 74,
+      "finding": "Somatic symptoms fell at post-treatment and 4-month follow-up. Gains in pain, depression, anxiety and insomnia were not retained. About 20% had substantial improvement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36327532/"
+    },
+    {
+      "citation": "Krohner S, Town J, Cannoy CN, Schubiner H, Rapport LJ, Grekin E, Lumley MA. J Pain 2024;25:39-52 (PMID 37479050)",
+      "design": "RCT, single 90-min emotion-focused psychodynamic video interview (EAET/ISTDP-based variant) vs waitlist; musculoskeletal pain plus at least 3 adverse childhood experiences",
+      "n": 91,
+      "finding": "No effect on pain severity. Pain interference fell (partial eta2 0.05), and pain attributions and controllability shifted.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37479050/"
+    },
+    {
+      "citation": "Maroti D, Ljungdahl M, Petersen H, Rööst M, Lumley MA, Falkenström F, Lilliengren P. Internet Interv 2026;44:100942 (PMID 41969788)",
+      "design": "RCT, guided vs unguided internet EAET (10 modules); persistent physical symptoms",
+      "n": 154,
+      "finding": "Both arms improved, with no significant group x time difference. Post-treatment d was -0.21 favouring guidance. Responders: 47.2% guided vs 29.6% unguided. Differences attenuated at follow-up. There was no inactive control.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41969788/"
+    },
+    {
+      "citation": "Hsu MC, Schubiner H, Lumley MA, et al. J Gen Intern Med 2010;25:1064-70 (PMID 20532650)",
+      "design": "RCT of the precursor 'affective self-awareness' intervention vs waitlist; fibromyalgia",
+      "n": 45,
+      "finding": "At 6 months, 45.8% vs 0% had at least 30% pain reduction. Physical function and tender-point threshold also improved.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20532650/"
+    },
+    {
+      "citation": "Slavin-Spenny O, Lumley MA, et al. Ann Behav Med 2013;46:181-92 (PMID 23620190)",
+      "design": "RCT, precursor anger awareness and expression training vs relaxation vs waitlist; headache",
+      "n": 147,
+      "finding": "Anger training was roughly equal to relaxation; both beat waitlist on some headache outcomes. This was a precursor, not the branded protocol.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23620190/"
+    },
+    {
+      "citation": "Kaufmann D, Sturgeon JA, ..., Yarns BC, ..., Lumley MA. Pain Med 2026;27:948-951 (PMID 41761583)",
+      "design": "Preliminary RCT, migraine (brief report; NCT05837650, 30 enrolled)",
+      "n": 30,
+      "finding": "Published, but no abstract is available on PubMed. The results are unverified.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41761583/"
+    }
+  ],
+  "controversy": "Concerns include:\n- Nearly all trials are developer-affiliated, with no fully independent replication. The Stockholm I-EAET group is partly independent, but Lumley co-authors. Lumley discloses EAET training fees and CognifiSense fees. Schubiner owns Mind Body Publishing.\n- The trials are unblinded and often use waitlist or TAU controls.\n- The largest RCT (fibromyalgia 2017) missed its primary outcome against education, and the adversity-interview RCT missed pain severity.\n- Effects on anxiety and depression are inconsistent.\n- The CBT arm in Yarns 2024 had an unusually low response rate (17%).\n- The practitioner guide endorses intense anger expression, including imagined violent retaliation against abusers, which raises acceptability and retraumatization questions.\n- \"Memory reconsolidation\" and \"danger/alarm circuit\" claims have not been tested mechanistically.\n- Like other mind-body pain models, it risks a psychogenic framing that patients may reject if extended to ME/CFS or long COVID.\n- Press framing of it as a \"new gold standard\" goes beyond what the evidence shows.",
+  "popularity": {
+    "indicators": [
+      {
+        "metric": "PubMed records with exact phrase 'emotional awareness and expression therapy'",
+        "value": "41",
+        "source": "PubMed search (re-verified 2026-10-12)",
+        "year": 2026
+      },
+      {
+        "metric": "Randomized trials published (EAET or close variants)",
+        "value": "about 9 RCTs plus 2 precursor RCTs and about 5 uncontrolled studies. Registered ongoing trials: NCT06044649 (N=408), NCT06004804 (target 216), NCT07218757 (target 672).",
+        "source": "PubMed / ClinicalTrials.gov",
+        "year": 2026
+      },
+      {
+        "metric": "Federal guideline listing",
+        "value": "Listed as a behavioral treatment option in the HHS Pain Management Best Practices Task Force report (p. 38)",
+        "source": "hhs.gov",
+        "year": 2019
+      },
+      {
+        "metric": "National media",
+        "value": "NPR Shots feature on a fibromyalgia patient treated with EAET",
+        "source": "NPR",
+        "year": 2019
+      },
+      {
+        "metric": "Media spike after JAMA Netw Open trial",
+        "value": "Covered by UCLA Health, ScienceDaily, HealthDay, McKnight's and MDedge ('new psychotherapeutic gold standard')",
+        "source": "news coverage",
+        "year": 2024
+      },
+      {
+        "metric": "Clinician training",
+        "value": "USD 600 Zoom course; waitlist only; next cohort dates given inconsistently (autumn 2026 vs early 2027)",
+        "source": "unlearnyourpain.com",
+        "year": 2026
+      },
+      {
+        "metric": "Consumer/social presence",
+        "value": "No dedicated subreddit or app; only incidental mentions in PRT/Sarno communities",
+        "source": "web/Reddit search",
+        "year": 2026
+      }
+    ],
+    "reach_estimate": "About 10^4 people. Trial participants total about 1,500. Several hundred to low thousands of clinicians have been trained, each treating a few to dozens of patients. VA and academic clinics add to this. Readers of Schubiner's books (likely tens of thousands) were not counted as EAET recipients.",
+    "reach_log10": 4.2,
+    "trajectory": [
+      {"year": 2008, "relative_activity": 1},
+      {"year": 2010, "relative_activity": 1.5},
+      {"year": 2012, "relative_activity": 2},
+      {"year": 2014, "relative_activity": 2},
+      {"year": 2016, "relative_activity": 3},
+      {"year": 2017, "relative_activity": 4},
+      {"year": 2018, "relative_activity": 4},
+      {"year": 2019, "relative_activity": 5},
+      {"year": 2020, "relative_activity": 5},
+      {"year": 2021, "relative_activity": 5},
+      {"year": 2022, "relative_activity": 6},
+      {"year": 2023, "relative_activity": 6.5},
+      {"year": 2024, "relative_activity": 8},
+      {"year": 2025, "relative_activity": 8},
+      {"year": 2026, "relative_activity": 8.5}
+    ],
+    "method_notes": "The trajectory is anchored on documented milestones, not usage data:\n- precursor trials, 2006-2011\n- R01 manual, 2012\n- first EAET-named paper, 2016\n- Pain and NGM RCTs, 2017\n- HHS listing, NPR story and review, 2019\n- VA pilot and internet versions, 2020-2022\n- This Might Hurt / PPDA attention, 2023\n- JAMA Netw Open trial and media spike, 2024\n- multisite NCCIH pragmatic trial launch and new trials, 2025-2026\nGoogle Trends volume for EAET is too low to be informative, and the acronym collides with other uses. There are no user counts or app metrics. Reach is a rough order-of-magnitude estimate built from trial Ns and assumed training throughput."
+  },
+  "sources": [
+    "https://unlearnyourpain.com/product/eaet-emotional-awareness-and-expression-therapy-for-chronic-pain/",
+    "https://societyforhealthpsychology.org/wp-content/uploads/2024/03/EAET-Therapist-Manual-May-2012-updated-Sept-2017.pdf",
+    "https://societyforhealthpsychology.org/wp-content/uploads/2024/03/EAET-Principles-and-Procedures-for-Practitioners-October-2022.pdf",
+    "https://s.wayne.edu/lumleylab/?p=104",
+    "https://s.wayne.edu/lumleylab/?p=706",
+    "https://s.wayne.edu/lumleylab/?p=31",
+    "https://eaet.org/",
+    "https://pubmed.ncbi.nlm.nih.gov/28796118/",
+    "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2819966",
+    "https://pubmed.ncbi.nlm.nih.gov/32451528/",
+    "https://pubmed.ncbi.nlm.nih.gov/28643436/",
+    "https://pubmed.ncbi.nlm.nih.gov/29154608/",
+    "https://pubmed.ncbi.nlm.nih.gov/30252113/",
+    "https://pubmed.ncbi.nlm.nih.gov/36327532/",
+    "https://pubmed.ncbi.nlm.nih.gov/37479050/",
+    "https://pubmed.ncbi.nlm.nih.gov/41969788/",
+    "https://pubmed.ncbi.nlm.nih.gov/41761583/",
+    "https://pubmed.ncbi.nlm.nih.gov/20532650/",
+    "https://pubmed.ncbi.nlm.nih.gov/23620190/",
+    "https://pubmed.ncbi.nlm.nih.gov/26800632/",
+    "https://pubmed.ncbi.nlm.nih.gov/31123837/",
+    "https://www.hhs.gov/sites/default/files/pmtf-final-report-2019-05-23.pdf",
+    "https://clinicaltrials.gov/study/NCT06044649",
+    "https://clinicaltrials.gov/study/NCT07218757",
+    "https://clinicaltrials.gov/study/NCT06004804",
+    "https://clinicaltrials.gov/study/NCT06865560",
+    "https://clinicaltrials.gov/study/NCT05837650",
+    "https://www.uclahealth.org/news/release/confronting-trauma-alleviates-chronic-pain-among-older",
+    "https://mdedge.com/content/new-psychotherapeutic-gold-standard-chronic-pain",
+    "https://www.npr.org/sections/health-shots/2019/06/10/727682322/can-you-reshape-your-brains-response-to-pain",
+    "https://istdpsweden.se/tag/pdt-vs-kbt/"
+  ]
+}

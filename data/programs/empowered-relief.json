@@ -1,0 +1,255 @@
+{
+    "slug": "empowered-relief",
+    "name": "Empowered Relief (Stanford)",
+    "url": "https://empoweredrelief.stanford.edu/",
+    "founders": [
+        "Beth D. Darnall, PhD (clinical psychologist; PhD Univ. Colorado Boulder 2002; Professor of Anesthesiology, Perioperative & Pain Medicine, Stanford; Director, Stanford Pain Relief Innovations Lab)"
+    ],
+    "founded_year": 2014,
+    "founded_year_range": "2013-2018: began as the 2-h class 'From Catastrophizing to Recovery' at the Stanford Pain Management Center (pilot published 2014). Branded 'Empowered Relief' c. 2017 (the name was used in the RCT that started May 2017). Certification and the empoweredrelief.com site by mid-2019 (Wayback); Stanford site by 2020.",
+    "category": "physio/pain-education approach (single-session pain-CBT skills class)",
+    "delivery": [
+        "clinician-delivered",
+        "group",
+        "single 2-hour class (in person or Zoom)",
+        "online/telehealth",
+        "audio (relaxation MP3)",
+        "digital on-demand variants (My Surgical Success, MOBILE Relief)"
+    ],
+    "business_model": "clinician-delivered (fee-for-service)",
+    "cost_summary": "Patients: set by the delivering health system. Often billed to insurance under Health & Behavior codes, or free (e.g., Allegheny Health Network). Clinicians: a 2-day online Stanford CME certification workshop costs ~US$550 (site image alt text, 2026), with need-based scholarships and no further fees after certification. Stanford owns the copyright/trademark and receives certification revenue; Darnall reports receiving none.",
+    "cost_usd_typical": null,
+    "conditions_claimed": [
+        "chronic pain (general)",
+        "chronic back/neck pain",
+        "acute and post-surgical pain",
+        "headache/migraine",
+        "pelvic pain/endometriosis/vulvodynia/IC",
+        "addiction/substance use",
+        "anxiety",
+        "depression",
+        "insomnia"
+    ],
+    "conditions_primary": [
+        "chronic pain (general)",
+        "chronic back/neck pain",
+        "acute and post-surgical pain"
+    ],
+    "differentiation": "single unified mechanism",
+    "mechanisms": [
+        "fear-avoidance / catastrophizing / cognitive appraisal",
+        "stress / HPA axis",
+        "attention & interoception / hypervigilance",
+        "central sensitization",
+        "mind-wandering / reactivity (mindfulness model)",
+        "placebo/expectancy and self-efficacy"
+    ],
+    "mechanism_summary": "A standard biopsychosocial / pain-CBT model. The brain and nervous system process pain, and thoughts, emotions, attention and stress modulate it. The core target is pain catastrophizing (rumination, magnification, helplessness), framed as amplifying distress and engaging pain-facilitating neural patterns, predicting chronicity and opioid use. The class also uses relaxation and self-soothing to lower arousal, and positive expectancy and self-efficacy to counter nocebo. It does not claim pain is purely brain-generated or 'learned', and it works alongside medical care. One curriculum is applied to acute, chronic and post-surgical pain of any cause.",
+    "roots": [
+        "CBT (Beck/Ellis)",
+        "gate control / neuromatrix pain science",
+        "autogenic training / Relaxation Response",
+        "third-wave CBT (ACT, DBT)",
+        "Buddhist vipassana/insight meditation",
+        "pain catastrophizing / fear-avoidance research (Sullivan)",
+        "chronic disease self-management (Lorig, Stanford)",
+        "single-session intervention movement",
+        "placebo/expectancy science"
+    ],
+    "techniques": [
+        "pain neuroscience education",
+        "identifying distressing thoughts and emotions",
+        "cognitive reframing of catastrophizing",
+        "relaxation response / diaphragmatic breathing",
+        "mindfulness principles",
+        "personalized self-soothing 'Empowerment' action plan",
+        "20-min binaural relaxation audio for home practice"
+    ],
+    "mainstream_adoption": "substantial",
+    "mainstream_notes": "Developed and housed at Stanford Medicine. Program-listed adopters/partners: Stanford Health Care, Cleveland Clinic (standard of care for chronic pain and lumbar spine surgery, launched online c. 2020; Davin et al. 2022), Kaiser Permanente, VA clinics, NHS, Brigham and Women's, Cedars-Sinai, Intermountain, Allegheny Health Network, Lehigh Valley Health Network, Humana. Adopters invoke the 2019 HHS Pain Management Best Practices report's general recommendation of behavioral pain care (a specific citation of ER in that report was not verified). Funded by NIH, PCORI and DoD, including the PROs trial (608 TRICARE beneficiaries). CME accredited for multiple professions.",
+    "insurance": "sometimes/indirect",
+    "insurance_notes": "No ER-specific code or coverage policy. Cleveland Clinic bills it as Health and Behavior Assessment and Intervention services (Davin et al. 2022; CPT 9615x-9616x family) when a licensed clinician delivers it to patients with a medical diagnosis. Some systems offer it free.",
+    "evidence_level": "multiple RCTs",
+    "key_trials": [
+        {
+            "citation": "Darnall BD et al. JAMA Netw Open 2021;4(8):e2113401. PMID 34398206; NCT03167086",
+            "design": "3-arm RCT, chronic low back pain: ER (1 session) vs 8-session group CBT vs single-session health education",
+            "n": 263,
+            "finding": "At 3 mo ER was non-inferior to CBT on pain catastrophizing (within-group -9.1 vs -10.9 PCS points) and superior to health education (difference -5.9; HE itself -4.6). Non-inferior on pain intensity/interference, sleep, bothersomeness, depression and anxiety; inferior to CBT on physical function.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34398206/"
+        },
+        {
+            "citation": "Darnall BD et al. Pain Rep 2024;9(1):e1116. PMID 38288134",
+            "design": "6-month follow-up of the 3-arm RCT",
+            "n": 263,
+            "finding": "ER remained non-inferior to CBT on most outcomes; ER and CBT superior to health education on most outcomes. ER effects held or improved from 3 to 6 mo.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38288134/"
+        },
+        {
+            "citation": "Ziadni MS et al. J Med Internet Res 2021;23(9):e29672. PMID 34505832; NCT04546685",
+            "design": "RCT, Zoom-delivered ER vs waitlist, mixed chronic pain (unblinded)",
+            "n": 104,
+            "finding": "ER superior on all outcomes at 3 mo (d=0.45-0.79). PCS reduced 42% vs 11%.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34505832/"
+        },
+        {
+            "citation": "Watson H et al. Pain Manag Nurs 2026;27(1):50-60. PMID 41238484",
+            "design": "National RCT, ASPMN nurse-delivered videoconference ER vs waitlist",
+            "n": 150,
+            "finding": "At 8 weeks, improved pain catastrophizing (p<.001), pain intensity, depression, anxiety, fatigue, self-efficacy and social-role satisfaction.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41238484/"
+        },
+        {
+            "citation": "Ziadni MS et al. J Pain 2026;44:106286. PMID 41990980; NCT03950791",
+            "design": "RCT, Zoom ER vs attention-matched health education in adults on long-term opioids",
+            "n": 213,
+            "finding": "Null for the primary outcome (opioid dose at 3 mo; -2 vs -1 mg, P=.73) and for pain interference. Only PROMIS global mental health improved more with ER.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41990980/"
+        },
+        {
+            "citation": "Ziadni MS et al. Anesth Analg 2022;135(2):394-405. PMID 35696706",
+            "design": "RCT, digital My Surgical Success (ER-based) vs digital health education after orthopedic trauma surgery",
+            "n": 84,
+            "finding": "Group x time effect favouring MSS on pain intensity up to 3 mo (P=.024). No difference in time to opioid cessation or pain catastrophizing (baseline PCS subclinical). 63% engagement.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35696706/"
+        },
+        {
+            "citation": "Darnall BD et al. Pain Med 2019;20(11):2228-2237. PMID 31087093",
+            "design": "Pilot RCT, digital My Surgical Success vs health education after breast cancer surgery (127 randomized)",
+            "n": 68,
+            "finding": "Faster opioid cessation (HR 1.86, 95% CI 1.12-3.10). No group differences in pain or catastrophizing. 44% attrition in MSS arm.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31087093/"
+        },
+        {
+            "citation": "Darnall BD et al. J Pain Res 2014;7:219-26. PMID 24851056",
+            "design": "Uncontrolled pilot of the precursor class 'From Catastrophizing to Recovery'",
+            "n": 57,
+            "finding": "Pain catastrophizing reduced at 2 and 4 weeks (d=0.85-1.15); only 35 completed week-4 PCS.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24851056/"
+        }
+    ],
+    "controversy": "Little public controversy. Academic caveats:\n- Darnall co-authors every trial; Stanford holds the copyright/trademark and earns certification revenue (disclosed; Darnall reports receiving none). Darnall has other industry ties (AppliedVR chief science advisor; axial Healthcare shares/consulting).\n- Trials are unblinded and self-reported, use pain catastrophizing as a proxy primary outcome, and are mostly single-site with White, highly educated samples.\n- ER was inferior to CBT on physical function.\n- It failed to reduce opioid dose in long-term opioid users (2026 RCT), and the orthopedic digital variant did not speed opioid cessation.\n- Follow-up is 6 months at most; no replication without the developer.\n- Some worry that single sessions could substitute for fuller multidisciplinary care.",
+    "popularity": {
+        "indicators": [
+            {
+                "metric": "Patients treated (program-reported)",
+                "value": "10,000+ in 25-30 countries",
+                "source": "empoweredrelief.stanford.edu home / healthcare-executives pages",
+                "year": 2026
+            },
+            {
+                "metric": "Certified instructors (program-reported)",
+                "value": "1,000+ (executives page) to 1,500+ (home page); one image alt text says 8,000+ clinicians (inconsistent)",
+                "source": "empoweredrelief.stanford.edu",
+                "year": 2026
+            },
+            {
+                "metric": "PubMed records mentioning 'Empowered Relief'",
+                "value": "33",
+                "source": "PubMed search (verified 2026-10-12)",
+                "year": 2026
+            },
+            {
+                "metric": "Major media coverage",
+                "value": "NYT (Nov 2021), Harvard Health (Dec 2021), PBS documentary (2021), WSJ (Oct 2023), Men's Health (2023), NIH/NCCIH press releases (2021, 2024)",
+                "source": "empoweredrelief.stanford.edu/news (not independently verified)",
+                "year": 2023
+            },
+            {
+                "metric": "Cleveland Clinic usage",
+                "value": "~650 patients in one recent year",
+                "source": "healthcare-executives testimonial (Sara Davin)",
+                "year": 2025
+            },
+            {
+                "metric": "Web presence start",
+                "value": "empoweredrelief.com first archived Jul 2019; Stanford site Aug 2020",
+                "source": "Wayback Machine CDX",
+                "year": 2019
+            }
+        ],
+        "reach_estimate": "~10,000-30,000 cumulative patients: 10,000+ reported by the program, plus trial participants and unreported classes at adopting health systems (order of magnitude 10^4)",
+        "reach_log10": 4.2,
+        "trajectory": [
+            {
+                "year": 2013,
+                "relative_activity": 0.5
+            },
+            {
+                "year": 2014,
+                "relative_activity": 1
+            },
+            {
+                "year": 2015,
+                "relative_activity": 1
+            },
+            {
+                "year": 2016,
+                "relative_activity": 1
+            },
+            {
+                "year": 2017,
+                "relative_activity": 1.5
+            },
+            {
+                "year": 2018,
+                "relative_activity": 2
+            },
+            {
+                "year": 2019,
+                "relative_activity": 3
+            },
+            {
+                "year": 2020,
+                "relative_activity": 4
+            },
+            {
+                "year": 2021,
+                "relative_activity": 7
+            },
+            {
+                "year": 2022,
+                "relative_activity": 6
+            },
+            {
+                "year": 2023,
+                "relative_activity": 7
+            },
+            {
+                "year": 2024,
+                "relative_activity": 7.5
+            },
+            {
+                "year": 2025,
+                "relative_activity": 8.5
+            },
+            {
+                "year": 2026,
+                "relative_activity": 9
+            }
+        ],
+        "method_notes": "Web search quota was exhausted during both research and fact-checking, so Reddit, Google Trends and social-media metrics were not collected. Trajectory is based on: (1) program-reported patient, instructor and country counts; (2) Wayback first-capture dates; (3) the dated news listing on the official site (media spike Aug-Dec 2021 after the JAMA Netw Open RCT; health-system rollouts and WSJ coverage 2022-2023); and (4) PubMed publication counts by year (rising sharply 2024-2026 with PCORI/NIH/DoD trials and adaptations). Activity rises steadily because adoption is through clinicians and institutions, not consumer marketing. Consumer and forum visibility is low compared with direct-to-patient programs."
+    },
+    "sources": [
+        "https://empoweredrelief.stanford.edu/",
+        "https://empoweredrelief.stanford.edu/clinician-training",
+        "https://empoweredrelief.stanford.edu/healthcare-executives",
+        "https://empoweredrelief.stanford.edu/news",
+        "https://profiles.stanford.edu/beth-darnall",
+        "https://pubmed.ncbi.nlm.nih.gov/34398206/",
+        "https://pubmed.ncbi.nlm.nih.gov/38288134/",
+        "https://pubmed.ncbi.nlm.nih.gov/34505832/",
+        "https://pubmed.ncbi.nlm.nih.gov/41238484/",
+        "https://pubmed.ncbi.nlm.nih.gov/41990980/",
+        "https://pubmed.ncbi.nlm.nih.gov/35696706/",
+        "https://pubmed.ncbi.nlm.nih.gov/31087093/",
+        "https://pubmed.ncbi.nlm.nih.gov/24851056/",
+        "https://pubmed.ncbi.nlm.nih.gov/35599968/",
+        "https://pubmed.ncbi.nlm.nih.gov/41000505/",
+        "https://pubmed.ncbi.nlm.nih.gov/41495090/",
+        "https://pubmed.ncbi.nlm.nih.gov/42542155/",
+        "https://pubmed.ncbi.nlm.nih.gov/41712512/",
+        "https://pubmed.ncbi.nlm.nih.gov/42834451/",
+        "https://clinicaltrials.gov/study/NCT03167086"
+    ]
+}

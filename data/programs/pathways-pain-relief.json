@@ -1,0 +1,113 @@
+{
+  "slug": "pathways-pain-relief",
+  "name": "Pathways Pain Relief (app)",
+  "url": "https://www.pathways.health/",
+  "founders": [
+    "Sandip Singh Sekhon (founder/CEO; ex-finance, internet entrepreneur, former chronic RSI patient)",
+    "Harvir Ubhi, MSc (chartered physiotherapist, co-founder; likely joined after launch)"
+  ],
+  "founded_year": 2018,
+  "founded_year_range": "2018 (iOS app ©2018, Pathways Health Ltd incorporated 15 Oct 2018; website first archived Jul 2019; major video-program relaunch May 2020)",
+  "category": "digital app/platform",
+  "delivery": ["app", "online course"],
+  "business_model": "freemium/hybrid",
+  "cost_summary": "First milestone free. Premium is US$79 one-time lifetime on the website (Oct 2026), with a 14-day money-back guarantee. iOS in-app purchases range from $12.99-14.99/mo and $59.99-69.99/yr to $249.99-299.99 lifetime list price ($79.99-89.99 offer). Healthify NZ listed the full version at US$149 (2023).",
+  "cost_usd_typical": 79,
+  "conditions_claimed": [
+    "chronic pain (general)",
+    "chronic back/neck pain",
+    "headache/migraine",
+    "fibromyalgia",
+    "pelvic pain/endometriosis/vulvodynia/IC",
+    "RSI",
+    "sciatica/nerve pain",
+    "joint/knee pain"
+  ],
+  "conditions_primary": ["chronic pain (general)", "chronic back/neck pain", "fibromyalgia", "headache/migraine"],
+  "differentiation": "mostly unified with condition-specific emphasis",
+  "mechanisms": [
+    "central sensitization",
+    "neuroplastic/learned pain (brain-generated danger signal / predictive processing)",
+    "fear-avoidance / catastrophizing / cognitive appraisal",
+    "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")",
+    "mind-wandering / reactivity (mindfulness model)",
+    "sensorimotor / movement patterns / body schema"
+  ],
+  "mechanism_summary": "Mainstream pain-neuroscience, biopsychosocial model: chronic pain over 3 months reflects a nervous system stuck in heightened sensitivity (central sensitisation), maintained by fear, avoidance, stress and attention. The app aims to retrain brain and body to calm the nervous system and engage endogenous pain relief. A single model covers all pain conditions; only the exercise content is region-specific. Fatigue and multi-system syndromes are not claimed.",
+  "roots": [
+    "gate control / neuromatrix pain science",
+    "CBT (Beck/Ellis)",
+    "third-wave CBT (ACT, DBT)",
+    "Buddhist vipassana/insight meditation",
+    "Hindu yoga/pranayama",
+    "autogenic training / Relaxation Response",
+    "physiotherapy / graded exposure & graded motor imagery",
+    "expressive writing (Pennebaker)"
+  ],
+  "techniques": [
+    "pain neuroscience education (video lessons)",
+    "graded exposure",
+    "activity pacing",
+    "CBT thought challenging",
+    "ACT acceptance/values",
+    "expressive writing",
+    "guided mindfulness meditation and body scan",
+    "visualisation / graded imagery",
+    "diaphragmatic, box and equal breathing ('SOS' flare tools)",
+    "physiotherapy exercise library",
+    "yoga routines",
+    "pain/wellbeing diary and tracking",
+    "challenges and reminders",
+    "masterclasses"
+  ],
+  "mainstream_adoption": "limited",
+  "mainstream_notes": "Listed and rated 5 stars by Healthify NZ (physio review, Oct 2023). Ranked #3 in the US Pain Foundation '10 best apps for people with chronic pain' (Jan 2021). Named among the 3 highest-scoring psychological pain apps in MacPherson et al. 2022. No NHS/NICE/ORCHA, health-system, employer or payer deployment found. Not FDA-cleared.",
+  "insurance": "no",
+  "insurance_notes": "Self-pay only; no reimbursement pathway.",
+  "evidence_level": "none",
+  "key_trials": [
+    {
+      "citation": "MacPherson M, Bakker AM, Anderson K, Holtzman S. Do pain management apps use evidence-based psychological components? A systematic review of app content and quality. Can J Pain 2022;6(1):33-44. doi:10.1080/24740527.2022.2030212. PMID 35694141",
+      "design": "Systematic app-store review of content and quality (MARS plus psychological-components checklist); not an outcome trial",
+      "n": null,
+      "finding": "Of 508 pain apps, 12 had psychological components. Curable, Pathways and Vivify were the highest-scoring apps. The authors note that independent scientific review of apps was scarce. This is not efficacy evidence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35694141/"
+    }
+  ],
+  "controversy": "No specific controversies. General critiques: 'evidence-based' and 'research-backed' marketing without any product-level outcome trial, unverified testimonials and claims (helped '1000s'; 'hundreds' of clinicians recommend it), app glitches and cost complaints in reviews. The iOS app has not been updated since May 2022. Healthify NZ's 'clinically validated with evidence of effectiveness' label rests only on a content appraisal, so it overstates the evidence. The App Store seller is Vortex Media Ltd, a separate entity from Pathways Health Ltd.",
+  "popularity": {
+    "indicators": [
+      {"metric": "US App Store ratings", "value": "4.1 stars from 39 ratings", "source": "apps.apple.com/us/app/id1388251688", "year": 2026},
+      {"metric": "Monthly revenue (founder-reported)", "value": "~US$5k/month (headline figure), not yet break-even", "source": "Failory interview, 17 Sep 2020", "year": 2020},
+      {"metric": "Site claim", "value": "helped '1000s' of people; recommended by 'hundreds' of clinicians", "source": "pathways.health", "year": 2026},
+      {"metric": "Academic app-quality ranking", "value": "Among the 3 highest-scoring of 12 psychological pain apps (508 screened)", "source": "MacPherson et al. 2022 Can J Pain", "year": 2022},
+      {"metric": "Media/directory listing", "value": "#3 in US Pain Foundation '10 best apps for people with chronic pain'", "source": "uspainfoundation.org", "year": 2021},
+      {"metric": "Last iOS update", "value": "v2.20.4, 31 May 2022", "source": "App Store version history", "year": 2022}
+    ],
+    "reach_estimate": "~10^4 cumulative users (low tens of thousands of downloads; likely low thousands of paying members), based on 39 US App Store ratings, ~$5k/mo revenue in 2020 at ~$15-90 price points, and absence of large social following",
+    "reach_log10": 4.2,
+    "trajectory": [
+      {"year": 2018, "relative_activity": 2},
+      {"year": 2019, "relative_activity": 4},
+      {"year": 2020, "relative_activity": 7},
+      {"year": 2021, "relative_activity": 8},
+      {"year": 2022, "relative_activity": 8},
+      {"year": 2023, "relative_activity": 6},
+      {"year": 2024, "relative_activity": 5},
+      {"year": 2025, "relative_activity": 4},
+      {"year": 2026, "relative_activity": 4}
+    ],
+    "method_notes": "Trajectory is inferred from dated events: 2018 launch and incorporation, 2019 first web archive, the May 2020 video relaunch with Facebook-ad and blog growth, the 2021 US Pain Foundation listing, the 2022 academic ranking and web-platform launch, the last iOS update in May 2022, and the 2023 Healthify note that there is no Android version. Reach comes from app-rating counts and founder-reported revenue. Forum and Google Trends data were not collected, so the estimates are coarse. Fact-check (2026-10-12) re-verified the App Store, Companies House, Failory, USPF and Healthify figures."
+  },
+  "sources": [
+    "https://www.pathways.health/",
+    "https://www.pathways.health/about-us/",
+    "https://apps.apple.com/us/app/id1388251688",
+    "https://find-and-update.company-information.service.gov.uk/company/11623974/officers",
+    "https://failory.com/interview/pathways",
+    "https://healthify.nz/apps/p/pathways-pain-relief-app",
+    "https://uspainfoundation.org/blog/10-best-apps-for-people-with-chronic-pain/",
+    "https://pubmed.ncbi.nlm.nih.gov/35694141/",
+    "http://web.archive.org/cdx/search/cdx?url=pathways.health"
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "slug": "mindspot-pain-course",
+  "name": "MindSpot Pain Course",
+  "url": "https://mindspot.org.au/treatments/pain-course",
+  "founders": [
+    "Blake F. Dear (Macquarie University; Director, eCentreClinic)",
+    "Nickolai Titov (Macquarie University; MindSpot co-founder/Executive Director)"
+  ],
+  "founded_year": 2012,
+  "founded_year_range": "2011-2013 (course developed ~2011-12; first RCT published in Pain 2013; MindSpot launched 2012-13)",
+  "category": "digital app/platform",
+  "delivery": [
+    "online course",
+    "clinician-guided internet CBT",
+    "workbook"
+  ],
+  "business_model": "free",
+  "cost_summary": "Free (AUD 0) to Australian adults through MindSpot, which is funded by the Australian Government Department of Health and Aged Care and delivered by MQ Health, Macquarie University. An adapted version is free in Saskatchewan through the University of Regina Online Therapy Unit.",
+  "cost_usd_typical": 0,
+  "conditions_claimed": [
+    "chronic pain (general)",
+    "chronic back/neck pain",
+    "fibromyalgia",
+    "anxiety",
+    "depression"
+  ],
+  "conditions_primary": [
+    "chronic pain (general)",
+    "depression",
+    "anxiety"
+  ],
+  "differentiation": "transdiagnostic / not disorder-focused",
+  "mechanisms": [
+    "fear-avoidance / catastrophizing / cognitive appraisal",
+    "stress / HPA axis",
+    "attention & interoception / hypervigilance"
+  ],
+  "mechanism_summary": "Biopsychosocial CBT model. Chronic pain no longer signals tissue damage and is kept going by a \"pain cycle\" of unhelpful thoughts, anxiety and low mood, avoidance or over-activity, and deconditioning. The course aims at management and better function, not cure, and makes no neuroplastic or brain-generated-pain claims. The same skill set is applied to all pain types, and a sibling Chronic Conditions Course applies it across chronic illnesses.",
+  "roots": [
+    "CBT (Beck/Ellis)",
+    "behaviorism / classical conditioning",
+    "autogenic training / Relaxation Response",
+    "gate control / neuromatrix pain science"
+  ],
+  "techniques": [
+    "pain education (CBT model, pain-anxiety-depression cycle)",
+    "thought monitoring and cognitive restructuring",
+    "controlled breathing / de-arousal",
+    "pleasant activity scheduling",
+    "activity pacing and graded activity",
+    "relapse prevention",
+    "DIY guides on sleep, communication, problem solving, attention, medications",
+    "brief weekly clinician contact by phone/email (optional)",
+    "routine outcome monitoring (PDI, PHQ-9, GAD-7)"
+  ],
+  "mainstream_adoption": "substantial",
+  "mainstream_notes": "Part of MindSpot, Australia's national government-funded digital mental-health service. Patients can self-refer, and GPs can also refer. A MindSpot routine-care cohort reached N=1,567 (Dear 2025). The course was adapted for routine care in Saskatchewan, Canada, by the University of Regina Online Therapy Unit (N=293 over 5 years). Guidelines such as NICE NG193 endorse CBT-type psychological therapy for chronic pain in general, not this branded program. Adoption is essentially limited to Australia and Saskatchewan.",
+  "insurance": "no",
+  "insurance_notes": "Not applicable: free and publicly funded, with no billing to patients or insurers.",
+  "evidence_level": "multiple RCTs",
+  "key_trials": [
+    {
+      "citation": "Dear BF, Titov N, Nicholson Perry K, et al. Pain 2013;154(6):942-950. doi:10.1016/j.pain.2013.03.005",
+      "design": "RCT, clinician-guided iCBT vs waitlist",
+      "n": 63,
+      "finding": "Between-group d at post: disability 0.88, depression 0.66, average pain 0.64, anxiety 0.38. Gains maintained at 3 months. About 82 min of clinician time.",
+      "url": "https://doi.org/10.1016/j.pain.2013.03.005"
+    },
+    {
+      "citation": "Dear BF, Gandy M, Karin E, et al. Pain 2015;156(10):1920-1935. doi:10.1097/j.pain.0000000000000251",
+      "design": "RCT, 3 levels of clinician support (regular/optional/none) vs treatment-as-usual waitlist",
+      "n": 490,
+      "finding": "All versions beat control. Reductions: disability >=18%, anxiety >=32%, depression >=36%, pain >=12% (d>=0.30). Level of clinician support (5-68 min) made no meaningful difference.",
+      "url": "https://doi.org/10.1097/j.pain.0000000000000251"
+    },
+    {
+      "citation": "Dear BF, Gandy M, Karin E, et al. J Pain 2018;19(12):1491-1503. doi:10.1016/j.jpain.2018.07.005",
+      "design": "12- and 24-month follow-up of the 2015 RCT (397 with long-term data)",
+      "n": 490,
+      "finding": "Gains maintained to 24 months: disability down >=27%, depression >=36%, anxiety >=38%, pain >=21%. No control comparison at long-term follow-up.",
+      "url": "https://doi.org/10.1016/j.jpain.2018.07.005"
+    },
+    {
+      "citation": "Dear BF, Gandy M, Karin E, et al. Pain 2017;158(7):1289-1301. doi:10.1097/j.pain.0000000000000916",
+      "design": "RCT, online vs mailed workbook",
+      "n": 178,
+      "finding": "Workbook not inferior to online format. PHQ-9 fell 36% vs 36%, GAD-7 36% vs 26%, PDI 16% vs 24%.",
+      "url": "https://doi.org/10.1097/j.pain.0000000000000916"
+    },
+    {
+      "citation": "Friesen LN, Hadjistavropoulos HD, Schneider LH, Alberts NM, Titov N, Dear BF. Pain 2017;158(4):593-604. doi:10.1097/j.pain.0000000000000802",
+      "design": "RCT, Pain Course adapted for fibromyalgia vs waitlist (Canada)",
+      "n": 60,
+      "finding": "Beat waitlist on fibromyalgia symptoms (d=0.70), depression (d=0.63-0.72), pain (d=0.87) and fear of pain (d=1.61). Smaller effect on anxiety. Follow-up was only 4 weeks.",
+      "url": "https://doi.org/10.1097/j.pain.0000000000000802"
+    },
+    {
+      "citation": "Dear BF, Karin E, Fogliati R, et al. Pain 2022;163(7):1388-1401. doi:10.1097/j.pain.0000000000002507",
+      "design": "RCT with economic evaluation, Pain Course vs waitlist",
+      "n": 659,
+      "finding": "Beat waitlist on disability, depression, anxiety, pain and QALYs. One QALY cost AUD 152 or AUD 11,910, depending on the criterion. Not cost-saving over the short term.",
+      "url": "https://doi.org/10.1097/j.pain.0000000000002507"
+    },
+    {
+      "citation": "Hadjistavropoulos HD, Schneider LH, Hadjistavropoulos T, Titov N, Dear BF. Can J Pain 2018;2(1):62-73. doi:10.1080/24740527.2018.1442675",
+      "design": "Uncontrolled effectiveness study in a routine online clinic (Saskatchewan)",
+      "n": 55,
+      "finding": "Disability d=0.45 (18%), depression d=0.85 (36%), anxiety d=0.52 (32%). Completion 76%. About 13 min of coach time per week.",
+      "url": "https://doi.org/10.1080/24740527.2018.1442675"
+    },
+    {
+      "citation": "Hadjistavropoulos HD, Peynenburg V, Thiessen D, Schneider LH. Eur J Pain 2022;26(2):390-404. doi:10.1002/ejp.1866",
+      "design": "Five-year observational routine-care study (Saskatchewan)",
+      "n": 293,
+      "finding": "Depression improved 35-41%, anxiety 37-41%, disability 19-20%. Demand grew from 64 to 133 patients a year.",
+      "url": "https://doi.org/10.1002/ejp.1866"
+    },
+    {
+      "citation": "Dear BF, Staples L, Nielssen O, Titov N. Aust J Rural Health 2025;33(1):e70008. doi:10.1111/ajr.70008",
+      "design": "Uncontrolled routine-care cohort at MindSpot",
+      "n": 1567,
+      "finding": "Pre-post: disability -32%, depression -44%, anxiety -43%, pain -23%. Maintained at 3 months and similar across rural and urban patients.",
+      "url": "https://doi.org/10.1111/ajr.70008"
+    }
+  ],
+  "controversy": "No public controversy. Academic critiques: trials are mostly developer-led and use waitlist or treatment-as-usual controls rather than active comparators. Effects on pain intensity are modest relative to effects on mood. Routine-care cohorts are uncontrolled. The Cochrane review by Rosser et al. 2023 (CD013863) found only small post-treatment benefits of remote CBT for pain (SMD -0.28) and disability (SMD -0.38), and these were not maintained at follow-up. The framing is pain management rather than cure, which limits its appeal in recovery-oriented online communities.",
+  "popularity": {
+    "indicators": [
+      {
+        "metric": "Cumulative MindSpot users (all courses)",
+        "value": ">250,000 Australians (research page); 'over 200,000' (Pain Course page)",
+        "source": "mindspot.org.au/research; mindspot.org.au/treatments/pain-course",
+        "year": 2026
+      },
+      {
+        "metric": "Annual patients treated by eCentreClinic plus MindSpot (all courses)",
+        "value": ">20,000 adults/year (not re-verified)",
+        "source": "Macquarie researcher profile of B. Dear",
+        "year": 2026
+      },
+      {
+        "metric": "Pain Course routine-care patients at MindSpot (published cohort)",
+        "value": "1,567",
+        "source": "Dear et al. Aust J Rural Health 2025",
+        "year": 2025
+      },
+      {
+        "metric": "Saskatchewan routine-care patients over 5 years",
+        "value": "293",
+        "source": "Hadjistavropoulos et al. Eur J Pain 2022",
+        "year": 2022
+      },
+      {
+        "metric": "RCT participants across Pain Course trials",
+        "value": "~1,450 (63+490+178+60+659)",
+        "source": "Dear 2013/2015/2017/2022; Friesen 2017",
+        "year": 2022
+      },
+      {
+        "metric": "Social media presence",
+        "value": "Minimal; no subreddit or influencer following",
+        "source": "Qualitative assessment",
+        "year": 2026
+      }
+    ],
+    "reach_estimate": "~10^4 people: about 1,450 RCT participants, at least 1,567 published MindSpot routine-care patients (the true total is probably several thousand), and about 350 in Saskatchewan",
+    "reach_log10": 3.8,
+    "trajectory": [
+      {
+        "year": 2011,
+        "relative_activity": 1
+      },
+      {
+        "year": 2012,
+        "relative_activity": 2
+      },
+      {
+        "year": 2013,
+        "relative_activity": 4
+      },
+      {
+        "year": 2014,
+        "relative_activity": 5
+      },
+      {
+        "year": 2015,
+        "relative_activity": 7
+      },
+      {
+        "year": 2016,
+        "relative_activity": 7
+      },
+      {
+        "year": 2017,
+        "relative_activity": 8
+      },
+      {
+        "year": 2018,
+        "relative_activity": 8
+      },
+      {
+        "year": 2019,
+        "relative_activity": 7
+      },
+      {
+        "year": 2020,
+        "relative_activity": 7
+      },
+      {
+        "year": 2021,
+        "relative_activity": 7
+      },
+      {
+        "year": 2022,
+        "relative_activity": 7
+      },
+      {
+        "year": 2023,
+        "relative_activity": 6
+      },
+      {
+        "year": 2024,
+        "relative_activity": 6
+      },
+      {
+        "year": 2025,
+        "relative_activity": 6
+      },
+      {
+        "year": 2026,
+        "relative_activity": 5
+      }
+    ],
+    "method_notes": "Trajectory is based on trial and cohort publication years (2013, 2015, 2017, 2018, 2022, 2025), MindSpot's 2012-13 launch, the Canadian adoption (2016-2021), and the eCentreClinic's shift to the Chronic Conditions Course. Reach is estimated from trial Ns and published routine-care cohorts; the Pain Course share of total MindSpot traffic is not published. Web search budget was exhausted, so Google Trends and Reddit were not checked directly."
+  },
+  "sources": [
+    "https://mindspot.org.au/treatments/pain-course",
+    "https://mindspot.org.au/research/",
+    "https://www.ecentreclinic.org/pain-course",
+    "https://www.ecentreclinic.org/chronic-conditions-course",
+    "https://researchers.mq.edu.au/en/persons/blake-dear",
+    "https://doi.org/10.1016/j.pain.2013.03.005",
+    "https://doi.org/10.1097/j.pain.0000000000000251",
+    "https://doi.org/10.1016/j.jpain.2018.07.005",
+    "https://doi.org/10.1097/j.pain.0000000000000916",
+    "https://doi.org/10.1097/j.pain.0000000000000802",
+    "https://doi.org/10.1097/j.pain.0000000000002507",
+    "https://doi.org/10.1080/24740527.2018.1442675",
+    "https://doi.org/10.1002/ejp.1866",
+    "https://doi.org/10.1111/ajr.70008",
+    "https://doi.org/10.1002/14651858.CD013863.pub2",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8730571"
+  ]
+}

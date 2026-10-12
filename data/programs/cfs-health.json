@@ -1,0 +1,60 @@
+{
+  "slug": "cfs-health",
+  "name": "CFS Health (Online Recovery Program / RECOVERY Mentorship 3.0)",
+  "url": "https://www.cfshealth.com/",
+  "founders": ["Toby Morrison (Melbourne, Australia; founder and head coach; developed CFS after glandular fever as a teenage athlete; reports exercise-science and personal-trainer background (self-reported); no medical licence listed)"],
+  "founded_year": 2013,
+  "founded_year_range": "2009-2013. The site says it was founded in 2009; the book page says 'over 16 years'. The founder describes informal 1:1 coaching around 2012, and the site confirms the online program launched in 2013 (October per podcast Ep. 1).",
+  "category": "nervous-system / pacing / recovery coaching course",
+  "delivery": ["online course", "coaching", "group", "app", "book", "podcast/YouTube"],
+  "business_model": "commercial",
+  "cost_summary": "No public price; you have to book a call, and payment plans are offered with no discounted tier. A Feb 2026 Trustpilot reviewer reports 'just under $4000 for 6 months' (currency unstated, likely AUD); another mentions a '£500+ commitment'. There is a minimum 6-month commitment with no early cancellation, and most members stay 9-15 months. Payment is by credit or debit card only. The ebook 'Get Your Life Back' is US$9 (limited-time). Free trainings, podcast and YouTube serve as the funnel.",
+  "cost_usd_typical": 2600,
+  "conditions_claimed": ["ME/CFS", "fibromyalgia", "PVFS", "long COVID", "general chronic illness"],
+  "conditions_primary": ["ME/CFS", "PVFS"],
+  "differentiation": "single unified mechanism",
+  "mechanisms": ["push-crash / energy-envelope overexertion (deconditioning)", "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")", "stress / HPA axis", "fear-avoidance / catastrophizing / cognitive appraisal"],
+  "mechanism_summary": "The program gives little explicit pathophysiology and calls itself 'NOT a medical program'. Illness is said to start with an infection plus pushing through without rest. It is perpetuated by the push-crash cycle and a depleted baseline, and in more recent marketing by a nervous system 'stuck in fight or flight'. Fear, guilt, non-acceptance and identity loss are treated as obstacles. Symptoms are expected to fall as a by-product of rebuilding overall health. The book page explicitly sets the approach apart from 'brain retraining'. One generic model is applied to ME/CFS, post-viral fatigue (including long COVID) and fibromyalgia.",
+  "roots": ["pacing / energy envelope (ME/CFS rehabilitation)", "graded exercise / exercise physiology", "life coaching / positive psychology", "CBT (Beck/Ellis)", "third-wave CBT (ACT, DBT)", "functional/integrative medicine"],
+  "techniques": ["finding a stable activity baseline", "stopping the push-crash cycle (pacing)", "RPE-based movement pacing ('RPE Method')", "restorative movement modules overseen by a clinical exercise physiologist, then progressive reconditioning", "nervous-system calming/relaxation", "mindset work: acceptance, belief in recovery, reframing thoughts, guilt/shame", "nutrition e-books (stable blood sugar)", "sleep", "boundaries/relationships", "setback strategy", "staged return to work/social life", "1:1 Momentum Coach, weekly group Zoom calls, 20+ mentors", "daily planner/tracker and weekly 'wins'", "optional supplement education from an integrative medical doctor"],
+  "mainstream_adoption": "none",
+  "mainstream_notes": "No health-system or guideline adoption found. The team includes a clinical exercise physiologist (Steph Ryan, MCEP), and an integrative medical doctor provides content. The progressive reconditioning stage is in tension with NICE NG206 (2021), which advises against graded exercise therapy for ME/CFS.",
+  "insurance": "no",
+  "insurance_notes": "Direct-pay coaching by credit or debit card, with payment plans. The provider states it is 'NOT a medical program'. No insurance mentioned.",
+  "evidence_level": "none",
+  "key_trials": [],
+  "controversy": "Pricing is hidden and high-ticket, with a 6-month lock-in and no early cancellation. Outcome claims are vendor self-report: 92% improved, '1000's' and '5,500+' clients, and testimonials. Trustpilot is mixed (28 reviews, 3.5/5, 25% one-star; profile unclaimed). The 2026 1-star reviews allege 'scam'/'con man', compare the company to Belle Gibson, and complain about salesmanship and value; these claims are unverified. ME/CFS patient communities raise generic concerns that recovery coaching plus progressive exercise and mindset work implies patient blame and risks PEM; no CFS Health-specific critique was verified. The Facebook group's 'no negative venting' rule may suppress reports of harm.",
+  "popularity": {
+    "indicators": [
+      {"metric": "YouTube subscribers (@tobytvcfs)", "value": "~45.1K subscribers, ~1,164 videos, ~5.48M total views; channel created Sep 2011", "source": "youtube.com/tobytvcfs (researcher; not re-verified)", "year": 2026},
+      {"metric": "Claimed clients helped", "value": "5,500+ over 16 years, 78 countries", "source": "cfshealth.com/book", "year": 2026},
+      {"metric": "Claimed members", "value": "'hundreds' of members in 53 countries", "source": "Podcast Ep. 1 transcript", "year": 2022},
+      {"metric": "Podcast episodes", "value": "~213 episodes (started 7 Aug 2022)", "source": "cfshealth.com/podcast", "year": 2026},
+      {"metric": "Trustpilot", "value": "28 reviews, 3.5/5 (71% 5-star, 25% 1-star)", "source": "trustpilot.com/review/cfshealth.com", "year": 2026},
+      {"metric": "Book", "value": "Get Your Life Back (Dean Publishing, 15 Apr 2026; narrated by Morrison)", "source": "audiobooksnow.com", "year": 2026},
+      {"metric": "Online program launch", "value": "2013", "source": "cfshealth.com/meettheteam; Podcast Ep. 1", "year": 2013}
+    ],
+    "reach_estimate": "Roughly 5,000-10,000 paying members cumulatively (vendor claim 5,500+). Free-content reach is about 10^5-10^6 (5.5M YouTube views). Cumulative people meaningfully reached is estimated at about 50K-100K.",
+    "reach_log10": 4.8,
+    "trajectory": [
+      {"year": 2011, "relative_activity": 0.5}, {"year": 2012, "relative_activity": 1}, {"year": 2013, "relative_activity": 2}, {"year": 2014, "relative_activity": 2.5}, {"year": 2015, "relative_activity": 3}, {"year": 2016, "relative_activity": 3}, {"year": 2017, "relative_activity": 3.5}, {"year": 2018, "relative_activity": 4}, {"year": 2019, "relative_activity": 4}, {"year": 2020, "relative_activity": 5}, {"year": 2021, "relative_activity": 6}, {"year": 2022, "relative_activity": 7}, {"year": 2023, "relative_activity": 7.5}, {"year": 2024, "relative_activity": 8}, {"year": 2025, "relative_activity": 8.5}, {"year": 2026, "relative_activity": 9}
+    ],
+    "method_notes": "Anchors: YouTube channel 2011; local 1:1 coaching ~2012; online launch 2013; 'hundreds' of members in 53 countries in 2022; weekly podcast from Aug 2022; Mentorship 3.0 with 20+ mentors; 5,500+ clients and 78 countries in 2026, plus a book and documentary. The long-COVID era is assumed to have raised demand. Google Trends and Reddit counts were not obtained because the web-search budget was exhausted. Reach_log10 combines the vendor's member claim with YouTube views, discounted for repeat viewers."
+  },
+  "sources": [
+    "https://www.cfshealth.com/",
+    "https://www.cfshealth.com/faq",
+    "https://www.cfshealth.com/programinfo",
+    "https://www.cfshealth.com/meettheteam",
+    "https://www.cfshealth.com/book",
+    "https://www.cfshealth.com/trainings",
+    "https://www.cfshealth.com/freedom",
+    "https://www.cfshealth.com/podcast",
+    "https://www.cfshealth.com/podcasts/the-chronic-illness-recovery-podcast/episodes/2147771465",
+    "https://www.cfshealth.com/podcasts/the-chronic-illness-recovery-podcast/episodes/2149206545",
+    "https://www.youtube.com/tobytvcfs",
+    "https://www.trustpilot.com/review/cfshealth.com",
+    "https://www.audiobooksnow.com/audiobook/get-your-life-back/10456943/",
+    "https://pubmed.ncbi.nlm.nih.gov/?term=%22CFS+Health%22+Morrison"
+  ]
+}

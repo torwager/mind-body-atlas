@@ -1,0 +1,189 @@
+{
+  "slug": "meditation-apps-headspace-calm",
+  "name": "Mass-market meditation apps (Headspace, Calm, Insight Timer, Healthy Minds Program)",
+  "url": "https://www.headspace.com/",
+  "founders": [
+    "Andy Puddicombe (Headspace)",
+    "Rich Pierson (Headspace)",
+    "Michael Acton Smith (Calm)",
+    "Alex Tew (Calm)",
+    "Christopher Plowman (Insight Timer co-founder & CEO)",
+    "Richard J. Davidson / Healthy Minds Innovations, now Humin (Healthy Minds Program)"
+  ],
+  "founded_year": 2012,
+  "founded_year_range": "2009-2019. Insight Timer started as a timer app about 2009 (not verified). Headspace was founded as an events company in London in May 2010, and its app launched in 2012. Calm was founded on 4 May 2012. The HMP app arrived about 2019 (first RCT ran Oct 2019-Apr 2020). 2012 is used as the modal app-era start.",
+  "category": "digital app/platform",
+  "delivery": ["app", "online course", "coaching", "clinician-delivered"],
+  "business_model": "mixed",
+  "cost_summary": "Headspace: 14-day trial, then a widely reported ~USD 12.99/month or ~69.99/year. Calm: 14-day trial, then ~USD 14.99/month, ~69.99/year or ~399.99 lifetime. Insight Timer: large free library, with MemberPlus at ~USD 60/year. Healthy Minds Program: free (nonprofit; 'up to 600 days of guided practices'). Prices are reported 2024-25 figures and were not re-verified in Oct 2026. Headspace and Calm are often free through employers or health plans.",
+  "cost_usd_typical": 70,
+  "conditions_claimed": ["general stress/wellbeing", "anxiety", "depression", "insomnia", "chronic pain (general)"],
+  "conditions_primary": ["general stress/wellbeing", "anxiety", "insomnia", "depression"],
+  "differentiation": "transdiagnostic / not disorder-focused",
+  "mechanisms": [
+    "mind-wandering / reactivity (mindfulness model)",
+    "attention & interoception / hypervigilance",
+    "stress / HPA axis",
+    "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")"
+  ],
+  "mechanism_summary": "The apps have no disease model. They use the generic mindfulness/stress model: rumination, mind-wandering and reactivity amplify suffering, and meditation trains attention, decentering and acceptance, which lowers stress and arousal. Pain content (e.g., Headspace's 30-day Pain Management course) separates the pain sensation from the reaction to it and aims to change one's relationship to pain, not to remove it. HMP frames wellbeing as trainable skills across four pillars (awareness, connection, insight, purpose), drawing on contemplative neuroscience. The same practices are offered for every condition, and none of the apps claims that functional syndromes share a common central cause.",
+  "roots": [
+    "Buddhist vipassana/insight meditation",
+    "Zen",
+    "Hindu yoga/pranayama",
+    "autogenic training / Relaxation Response",
+    "third-wave CBT (ACT, DBT)",
+    "life coaching / positive psychology",
+    "MBSR/MBCT (Kabat-Zinn)",
+    "contemplative neuroscience"
+  ],
+  "techniques": [
+    "guided breath-focused mindfulness meditation (3-20 min)",
+    "body scan",
+    "noting / curious investigation of sensations (Headspace Pain Management 30-day course)",
+    "loving-kindness / compassion practice",
+    "breathing exercises",
+    "sleep stories / sleepcasts / soundscapes",
+    "gentle movement (Calm Body)",
+    "HMP four-pillar journey: awareness, connection, insight (defusion), purpose; sitting or active practices",
+    "multi-day themed courses (anxiety, sleep, pain, stress)",
+    "Headspace text coaching, therapy and psychiatry; Calm Health clinical programs",
+    "Insight Timer user-uploaded tracks incl. yoga nidra, EFT, TMS/mind-body pain content"
+  ],
+  "mainstream_adoption": "substantial",
+  "mainstream_notes": "The apps are widely adopted as employer, EAP and health-plan wellness benefits. Headspace for Work and Calm Business/Calm Health (launched Oct 2022 after Calm acquired Ripple Health Group in Feb 2022) sell through these channels. Kaiser Permanente lists Calm and Headspace as member self-care apps but states they are not covered health-plan benefits. Headspace was offered free to NHS staff in 2020. Headspace merged with Ginger (announced Aug 2021, closed Oct 2021), which added therapy and psychiatry, and headspace.com now says it is 'part of Sword' (date and terms not verified). No pain or fatigue guideline names these apps; guidelines endorse mindfulness-based interventions generically, not app delivery.",
+  "insurance": "sometimes/indirect",
+  "insurance_notes": "Consumer subscriptions are not reimbursable as a medical treatment. Access is often provided free through employers, EAPs and health plans, as a wellness perk rather than a covered benefit (e.g., Kaiser Permanente). Headspace's clinical therapy and psychiatry services can be billed to insurance, and Calm Health is sold to payers and providers.",
+  "evidence_level": "systematic reviews/meta-analyses",
+  "key_trials": [
+    {
+      "citation": "Taylor H, Cavanagh K, Field AP, Strauss C. JMIR Mhealth Uhealth 2022;10(8):e31744 (PMID 36006668)",
+      "design": "Definitive superiority RCT, Headspace vs NHS Moodzone active control for 4.5 months, NHS health-care workers",
+      "n": 2182,
+      "finding": "Small ITT reductions in stress (b=-0.31), depression, anxiety and worry; no effect on burnout, rumination or sickness absence; first author's doctoral studentship was funded by Headspace",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36006668/"
+    },
+    {
+      "citation": "Radin RM ... Prather AA. JAMA Netw Open 2025;8(1):e2454435 (PMID 39808431)",
+      "design": "RCT, Headspace (10 min/day for 8 wk) vs waitlist, academic-medical-centre employees with mild-moderate stress",
+      "n": 1458,
+      "finding": "Perceived stress d=0.85 at 8 wk and 0.71 at 4 mo; job strain d=0.34; study co-funded by Headspace, which supplied subscriptions; senior author has Headspace grants and fees; waitlist control",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39808431/"
+    },
+    {
+      "citation": "Huberty J et al. JMIR Mhealth Uhealth 2019;7(6):e14273 (PMID 31237569)",
+      "design": "RCT, Calm 10 min/day for 8 wk vs waitlist, stressed college students",
+      "n": 88,
+      "finding": "Improved stress, mindfulness and self-compassion (effect sizes 0.59-1.24); Huberty became Calm's Director of Science about a year after the study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31237569/"
+    },
+    {
+      "citation": "Huberty JL et al. PLoS One 2021;16(1):e0244717 (PMID 33411779)",
+      "design": "RCT, Calm (10 min/day for 8 wk) vs waitlist, adults with sleep disturbance (ISI>10)",
+      "n": 263,
+      "finding": "Reduced daytime fatigue, daytime sleepiness and cognitive/somatic pre-sleep arousal; authors include Calm's Director of Science and Calm advisory-board members",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33411779/"
+    },
+    {
+      "citation": "Goldberg SB et al. JMIR Ment Health 2020;7(11):e23825 (PMID 33245288)",
+      "design": "3-arm RCT, two Healthy Minds Program versions vs waitlist, 8 wk",
+      "n": 343,
+      "finding": "Reduced distress and increased social connectedness and mindfulness (d 0.28-0.41); 54% completed a posttest; Davidson is founder and president of the HMP owner",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33245288/"
+    },
+    {
+      "citation": "Hirshberg MJ et al. JAMA Intern Med 2025;185(10):1248-56 (PMID 40824577)",
+      "design": "RCT, HMP app for 13 wk plus nine 2-hour Zoom sessions vs wait-list, Mexican health-care professionals",
+      "n": 2315,
+      "finding": "Distress SMD -0.24 at 13 wk and -0.36 at 37 wk; well-being +0.27 and +0.42; blended intervention; Davidson is a co-author",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40824577/"
+    },
+    {
+      "citation": "Forbes G et al. BMJ Open 2020;10(3):e030164 (MEMPHIS; PMID 32165549)",
+      "design": "3-arm feasibility RCT, mindfulness app vs relaxation app vs usual care over 60 days, women with chronic pelvic pain (not Headspace or Calm)",
+      "n": 90,
+      "finding": "Mean mindfulness-app use 1.8 days; CIs consistent with no benefit; definitive trial judged not warranted",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32165549/"
+    },
+    {
+      "citation": "O'Daffer A et al. JMIR Ment Health 2022;9(9):e40924 (PMID 36125880)",
+      "design": "Systematic review of Headspace and Calm RCTs (14 Headspace, 1 Calm)",
+      "n": null,
+      "finding": "93% of Headspace RCTs were in non-clinical samples, mostly underpowered; Headspace improved depression in 75% of trials measuring it; 50% (7/14) of Headspace RCTs had a company COI and 2/14 involved Headspace employees; 36% preregistered; the single Calm RCT was not preregistered",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36125880/"
+    },
+    {
+      "citation": "Gál É, Ștefan S, Cristea IA. J Affect Disord 2021;279:131-142 (PMID 33049431)",
+      "design": "Meta-analysis of 34 RCTs of mindfulness meditation apps (generic, not only these brands)",
+      "n": 7566,
+      "finding": "Stress g=0.46, anxiety g=0.28, depression g=0.33, psychological wellbeing g=0.29; no significant effect on distress; high risk of bias and mostly waitlist controls",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33049431/"
+    }
+  ],
+  "controversy": "Company-linked conflicts of interest are common. Half of Headspace RCTs had a company COI, and Headspace co-funded the largest US trial (Radin 2025). Calm's Director of Science led most Calm trials, and HMP trials come from the founder's center. Most trials use waitlist controls, have high attrition and see low real-world engagement. Pain marketing cites MBSR and neuroimaging studies of in-person practice rather than app trials. Branded chronic-pain trials have no published or posted results (NCT03495726, NCT03936088). Corporate issues include therapists' complaints about abrupt appointment cancellations during the July 2023 Headspace layoffs, Calm's AI-cloned James Stewart sleep story (Dec 2023), Calm's ~20% layoffs (Aug 2022) and data-privacy concerns. Insight Timer hosts uncurated content that includes unvetted limbic-retraining, neuroplastic-pain and energy-healing claims.",
+  "popularity": {
+    "indicators": [
+      {"metric": "Headspace app downloads", "value": "105M+ downloads; '100M+ lives touched'; 200 countries/regions", "source": "headspace.com/about-us", "year": 2026},
+      {"metric": "Calm app downloads", "value": "180M+ downloads; 3M five-star reviews", "source": "calm.com/about", "year": 2026},
+      {"metric": "Calm paid subscribers", "value": "~4 million (Nov 2022)", "source": "Wikipedia, Calm (company)", "year": 2022},
+      {"metric": "Calm valuation", "value": "USD 1B (Feb 2019), USD 116M raised in total", "source": "Wikipedia, Calm (company)", "year": 2019},
+      {"metric": "Calm revenue", "value": "USD 22M (2017); USD 75M run rate", "source": "Wikipedia, Calm (company)", "year": 2017},
+      {"metric": "Headspace-Ginger merger valuation", "value": "~USD 3B", "source": "Wikipedia, Headspace (company)", "year": 2021},
+      {"metric": "Insight Timer users and library", "value": "~30M users; 300,000+ titles; ~20k teachers", "source": "insighttimer.com/about", "year": 2026},
+      {"metric": "Humin/HMP reach", "value": ">1M people in 140 countries", "source": "humin.org", "year": 2026},
+      {"metric": "Apple App of the Year", "value": "Calm, 2017", "source": "calm.com/about", "year": 2017},
+      {"metric": "Published RCTs", "value": "14 Headspace and 1 Calm RCTs by May 2021; dozens more by 2026", "source": "O'Daffer 2022; PubMed", "year": 2021}
+    ],
+    "reach_estimate": "~100-200 million unique people. Combined downloads exceed 300M (Headspace 105M+, Calm 180M+, plus Insight Timer's ~30M users and HMP's ~1M), discounted for repeat installs and overlap between apps. Paid subscribers number in the single-digit millions per app.",
+    "reach_log10": 8.2,
+    "trajectory": [
+      {"year": 2009, "relative_activity": 0.3},
+      {"year": 2010, "relative_activity": 0.5},
+      {"year": 2011, "relative_activity": 0.8},
+      {"year": 2012, "relative_activity": 1.5},
+      {"year": 2013, "relative_activity": 2.2},
+      {"year": 2014, "relative_activity": 3},
+      {"year": 2015, "relative_activity": 4},
+      {"year": 2016, "relative_activity": 5},
+      {"year": 2017, "relative_activity": 6.5},
+      {"year": 2018, "relative_activity": 7},
+      {"year": 2019, "relative_activity": 7.5},
+      {"year": 2020, "relative_activity": 10},
+      {"year": 2021, "relative_activity": 9},
+      {"year": 2022, "relative_activity": 8},
+      {"year": 2023, "relative_activity": 7.5},
+      {"year": 2024, "relative_activity": 7.5},
+      {"year": 2025, "relative_activity": 7.5},
+      {"year": 2026, "relative_activity": 7}
+    ],
+    "method_notes": "The trajectory is anchored on documented events. Insight Timer began about 2009 (unverified) and Headspace in 2010 (events), with the Headspace and Calm apps launching in 2012. Calm launched Sleep Stories in Dec 2016 and was App of the Year in 2017 (USD 22M revenue). Calm reached a USD 1B valuation in Feb 2019 and the HMP app launched the same year. 2020 is scored 10 for the COVID surge in downloads, free offers and media coverage. 2021 brought the Netflix series and the USD 3B Ginger merger. Calm reported ~4M subscribers in Nov 2022 and laid off ~20% of staff in Aug 2022. Headspace had layoffs in 2023 and is now described as part of Sword (date unverified), as the consumer market plateaued. Google Trends and Reddit data were not quantified because the web-search budget was exhausted, so the trajectory shape relies on the reported 2020 pandemic peak. Reach is cumulative downloads discounted for overlap."
+  },
+  "sources": [
+    "https://www.headspace.com/about-us",
+    "https://www.headspace.com/meditation/pain",
+    "https://www.calm.com/about",
+    "https://calmhealth.com/",
+    "https://insighttimer.com/about",
+    "https://humin.org/",
+    "https://centerhealthyminds.org/",
+    "https://healthy.kaiserpermanente.org/health-wellness/mental-health/tools-resources/digital",
+    "https://en.wikipedia.org/wiki/Headspace_(company)",
+    "https://en.wikipedia.org/wiki/Calm_(company)",
+    "https://pubmed.ncbi.nlm.nih.gov/36125880/",
+    "https://pubmed.ncbi.nlm.nih.gov/36006668/",
+    "https://pubmed.ncbi.nlm.nih.gov/39808431/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11733700/",
+    "https://pubmed.ncbi.nlm.nih.gov/31237569/",
+    "https://pubmed.ncbi.nlm.nih.gov/33411779/",
+    "https://pubmed.ncbi.nlm.nih.gov/33245288/",
+    "https://pubmed.ncbi.nlm.nih.gov/40824577/",
+    "https://pubmed.ncbi.nlm.nih.gov/33049431/",
+    "https://pubmed.ncbi.nlm.nih.gov/32165549/",
+    "https://pubmed.ncbi.nlm.nih.gov/39230745/",
+    "https://pubmed.ncbi.nlm.nih.gov/32046499/",
+    "https://pubmed.ncbi.nlm.nih.gov/35899379/",
+    "https://pubmed.ncbi.nlm.nih.gov/42284591/",
+    "https://clinicaltrials.gov/study/NCT03495726",
+    "https://clinicaltrials.gov/study/NCT03936088"
+  ]
+}

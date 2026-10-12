@@ -1,0 +1,215 @@
+{
+  "slug": "wim-hof-method",
+  "name": "Wim Hof Method",
+  "url": "https://www.wimhofmethod.com/",
+  "founders": [
+    "Wim Hof",
+    "Enahm Hof (son; reported business co-lead at Innerfire BV; not independently verified)"
+  ],
+  "founded_year": 2011,
+  "founded_year_range": "2010-2013. Hof's personal cold practice dates from about 1976-77, when he was 17. Commercial method: the Radboud research began in 2011 and aired on Dutch TV on 19 Apr 2011; wimhofmethod.com was first archived in May 2013; the instructor Academy dates from 2013 (site: 'since its launch in 2013'); the iOS app was released on 14 Sep 2014 (App Store, verified).",
+  "category": "somatic/movement practice (breathwork + cold exposure)",
+  "delivery": ["online course", "app", "group workshops/retreats", "certified instructor network", "book", "YouTube"],
+  "business_model": "freemium/hybrid",
+  "cost_summary": "Free: 3-lesson mini-class and YouTube sessions. App (US App Store, verified 2026-10-12): Supporter $5.99/mo or $42.99/yr, weekly $2.99, 30-Day Audio Challenge $26.99. Course prices are not public and were not verified; historically the Fundamentals course was about $60-100 and the Classic 10-Week about $200. Retreats and instructor Academy training cost thousands of euros, with prices given on request.",
+  "cost_usd_typical": 43,
+  "conditions_claimed": [
+    "general stress/wellbeing",
+    "anxiety",
+    "depression",
+    "insomnia",
+    "chronic pain (general)",
+    "autoimmune/inflammatory disease (RA, axial spondyloarthritis, MS, psoriasis)",
+    "immune function"
+  ],
+  "conditions_primary": [
+    "general stress/wellbeing",
+    "autoimmune/inflammatory disease (RA, axial spondyloarthritis, MS, psoriasis)",
+    "depression",
+    "anxiety"
+  ],
+  "differentiation": "single unified mechanism",
+  "mechanisms": [
+    "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")",
+    "inflammation / immune",
+    "stress / HPA axis",
+    "polyvagal / vagal tone / safety signalling",
+    "attention & interoception / hypervigilance",
+    "mitochondrial / metabolic / cell danger response",
+    "hormesis (voluntary acute stressor training)"
+  ],
+  "mechanism_summary": "This is a hormesis/self-regulation model rather than a disease model. Cyclic hyperventilation followed by breath retention causes respiratory alkalosis and intermittent hypoxia, which produces a large epinephrine surge. In an acute endotoxin challenge, that surge raised IL-10 and suppressed TNF-a/IL-6/IL-8 (Kox 2014, PNAS). Graded cold exposure is said to train vascular, brown-fat and stress resilience, and 'mindset/commitment' is said to give top-down ('brain over body') control of autonomic and immune function. Marketing adds uncited vagal, cortisol and 'alkalizing' claims. The core mechanism is deliberate acute sympathetic activation, which is unusual in this survey. There are no condition-specific models, only contraindications.",
+  "roots": [
+    "Tibetan Tummo (Vajrayana inner-heat meditation)",
+    "Hindu yoga/pranayama",
+    "cold-water immersion / hydrotherapy traditions",
+    "Selye stress theory",
+    "life coaching / positive psychology"
+  ],
+  "techniques": [
+    "cyclic hyperventilation (30-40 deep breaths) with exhale breath retention and 15-s recovery hold, 3-4 rounds",
+    "push-ups during breath retention",
+    "graded cold showers",
+    "ice baths and outdoor cold/snow exposure",
+    "third-eye/focus meditation and visualization",
+    "commitment/mindset training",
+    "yoga-style stretching and strength exercises",
+    "app-guided breathing bubble, 30-day challenges and streak tracking",
+    "instructor-led workshops and retreats"
+  ],
+  "mainstream_adoption": "limited",
+  "mainstream_notes": "Used as a research intervention at Radboud UMC, Amsterdam UMC, UCSF (Epel lab), Univ. of Queensland, Wayne State, a Dutch spinal cord injury rehabilitation centre and a Slovak MS clinic. It appears in no clinical guideline. The AHA and BHF have cautioned about cold therapy and advise seeing a physician first. It is widely used in sports, military and corporate wellness and drives the commercial cold-plunge market.",
+  "insurance": "no",
+  "insurance_notes": "Not reimbursed by any insurer, and there is no CPT code or clinical pathway. Courses, the app, retreats and certification are all paid out of pocket.",
+  "evidence_level": "systematic reviews/meta-analyses",
+  "key_trials": [
+    {
+      "citation": "Kox M et al. 2014. Voluntary activation of the sympathetic nervous system and attenuation of the innate immune response in humans. PNAS 111:7379-7384",
+      "design": "RCT in healthy males: 10 days of training (taught by Hof) vs no training, then IV endotoxin 2 ng/kg",
+      "n": 24,
+      "finding": "Higher epinephrine and IL-10; lower TNF-a, IL-6 and IL-8; fewer flu-like symptoms",
+      "url": "https://doi.org/10.1073/pnas.1322174111"
+    },
+    {
+      "citation": "Zwaag J et al. 2022. The effects of cold exposure training and a breathing exercise on the inflammatory response in humans: a pilot study. Psychosom Med",
+      "design": "Two randomized pilot studies with endotoxin challenge. Study 1 (n=40): trainer (Hof vs independent) and training duration. Study 2 (n=48): breathing vs cold vs both vs none",
+      "n": 88,
+      "finding": "The breathing exercise drove the epinephrine and anti-inflammatory effect; cold training alone did not, but it augmented breathing. Effects held with an independent trainer.",
+      "url": "https://doi.org/10.1097/PSY.0000000000001065"
+    },
+    {
+      "citation": "Zwaag J et al. 2023. Modulation of pain sensitivity by a hyperventilatory breathing exercise and cold exposure training. J Pain Res",
+      "design": "Acute within-subject study (n=20) plus 4-arm RCT (n=48), with quantitative sensory testing",
+      "n": 68,
+      "finding": "Electrical pain-detection thresholds rose during breathing and for 4 h afterwards",
+      "url": "https://doi.org/10.2147/JPR.S400408"
+    },
+    {
+      "citation": "Buijze GA et al. 2019. An add-on training program involving breathing exercises, cold exposure, and meditation attenuates inflammation and disease activity in axial spondyloarthritis. PLoS ONE 14:e0225749",
+      "design": "Open-label, randomized one-way crossover proof-of-concept trial in axial spondyloarthritis, 8 weeks (19 completers)",
+      "n": 24,
+      "finding": "Safe. ESR, ASDAS-CRP and BASDAI improved within the intervention group. Unblinded, with no between-group efficacy test.",
+      "url": "https://doi.org/10.1371/journal.pone.0225749"
+    },
+    {
+      "citation": "Kopplin CS, Rosenthal L. 2022. The positive effects of combined breathing techniques and cold exposure on perceived stress: a randomised trial. Curr Psychol",
+      "design": "4-arm randomized trial (breathing, cold, both, control), 2 weeks",
+      "n": 86,
+      "finding": "Only combined breathing plus cold reduced perceived stress versus control (medium-to-large effect); neither component alone did",
+      "url": "https://doi.org/10.1007/s12144-022-03739-y"
+    },
+    {
+      "citation": "Ketelhut S et al. 2023. The effectiveness of the Wim Hof method on cardiac autonomic function, blood pressure, arterial compliance, and different psychological parameters. Sci Rep",
+      "design": "RCT, 15 days of daily WHM vs control",
+      "n": 42,
+      "finding": "Null on HRV, blood pressure, pulse wave velocity, stress, affect and vitality",
+      "url": "https://doi.org/10.1038/s41598-023-44902-0"
+    },
+    {
+      "citation": "Blades R et al. 2024. A randomized controlled clinical trial of a Wim Hof Method intervention in women with high depressive symptoms. Compr Psychoneuroendocrinol 20:100272",
+      "design": "RCT in women with high stress and depressive symptoms, 21 days of 15-min daily audio: WHM vs slow breathing plus warm showers",
+      "n": 84,
+      "finding": "Depression, anxiety and stress fell equally in both arms, and gains held at 3 months. WHM had a small reduction in daily post-stress rumination (p=.048) that faded by the end; the authors say it would not survive multiple-comparison correction. All 6 dropouts were in WHM.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11599992/"
+    },
+    {
+      "citation": "Epel ES et al. 2025. A randomized controlled pilot trial of low and high arousal resilience interventions for depressive symptoms. Ann Behav Med 59:kaaf081",
+      "design": "4-arm pilot RCT in women with high perceived stress, 3 weeks: WHM, HIIT, mindfulness, slow breathing plus warm showers",
+      "n": 141,
+      "finding": "All groups improved, with no between-group differences after the intervention. A post hoc 'as treated' analysis found better 3-month maintenance of depression gains, and more positive affect, with WHM.",
+      "url": "https://doi.org/10.1093/abm/kaaf081"
+    },
+    {
+      "citation": "Fox N, Biddell H, King J. 2025. A semi-randomised control trial assessing psychophysiological effects of breathwork and cold immersion. Sci Rep 15:43879",
+      "design": "Semi-randomised trial in healthy adults, 29 days: WHM in-person vs WHM remote vs mindfulness meditation",
+      "n": 404,
+      "finding": "WHM gave greater momentary gains in energy, clarity and stress-handling, with minimal between-condition trait differences",
+      "url": "https://doi.org/10.1038/s41598-025-29187-9"
+    },
+    {
+      "citation": "de Groot S et al. 2026. The effect of breathing exercises and mindset with or without cold exposure on mental and physical health in persons with a spinal cord injury. Clin Rehabil 40:1016-1034",
+      "design": "RCT in chronic spinal cord injury, 7 weeks: WHM with cold vs WHM without cold vs usual care",
+      "n": 62,
+      "finding": "Null on the primary mental-health outcome (MHI-5). The cold arm improved pain interference, inspiratory flow and fasting glucose versus usual care. 44% dropped out of the no-cold arm.",
+      "url": "https://doi.org/10.1177/02692155261428705"
+    },
+    {
+      "citation": "Slezakova D et al. 2026. Targeting low-grade inflammation in multiple sclerosis through the Wim Hof method or lifestyle intervention: a pilot comparative study. Neurol Sci 47:291",
+      "design": "Randomized pilot in MS, 12 weeks: WHM vs lifestyle intervention vs control (43 of 60 analysed)",
+      "n": 60,
+      "finding": "WHM and lifestyle both lowered IL-17A and IL-18; WHM also lowered IFN-g. No change in NfL or GFAP.",
+      "url": "https://doi.org/10.1007/s10072-026-08895-8"
+    },
+    {
+      "citation": "Almahayni O, Hammond L. 2024. Does the Wim Hof Method have a beneficial impact on physiological and psychological outcomes in healthy and non-healthy participants? A systematic review. PLoS ONE 19:e0286933",
+      "design": "Systematic review (narrative synthesis, no meta-analysis) of 9 papers / 8 trials, N=15-48 each, 86% male",
+      "n": null,
+      "finding": "Possible anti-inflammatory effect via epinephrine; mixed effects on performance. All trials were at high risk of bias, and overall quality was very low.",
+      "url": "https://doi.org/10.1371/journal.pone.0286933"
+    }
+  ],
+  "controversy": "Shallow-water blackout drownings: Scott Carney's 2023 documentary linked 13 deaths to the method, and his public spreadsheet listed 32 alleged deaths by March 2024 (causation mostly unestablished). A US$67M wrongful-death suit over a 17-year-old's 2022 pool drowning (Metzger) was dismissed on 2 Jul 2024 because causation could not be proven. Hof's claims about RA, MS and cancer were disowned by his own researchers (Pickkers, Kox), and he misdescribed the results as 'neutralizing bacteria'. The 'backed by science' marketing rests partly on n=1 studies. Cardiac cautions apply to cold immersion with breath-holding. In 2012 Hof was convicted of assaulting his then-partner's 18-year-old son (40 h community service and a EUR350 fine). A de Volkskrant investigation (Sept 2024) reported further family-abuse allegations, which Hof denies; a planned biopic was put on hold.",
+  "popularity": {
+    "indicators": [
+      {"metric": "Certified instructors", "value": "1,200+ trained since 2013", "source": "wimhofmethod.com (homepage and instructors page, verified)", "year": 2026},
+      {"metric": "iOS app ratings", "value": "13,494 ratings, 4.86 average", "source": "Apple iTunes Lookup API (verified 2026-10-12)", "year": 2026},
+      {"metric": "YouTube subscribers", "value": "3.15M (Wim Hof channel @wimhof1); about 32K (@wimhofmethod)", "source": "youtube.com channel pages (checked 2026-10-12)", "year": 2026},
+      {"metric": "Instagram followers", "value": "3.5M+ (company claim)", "source": "wimhofmethod.com", "year": 2026},
+      {"metric": "Company claim", "value": "'Practiced by millions' (banner); 'thousands ... practice every day'", "source": "wimhofmethod.com", "year": 2026},
+      {"metric": "Major media", "value": "Vice documentary and Joe Rogan #712 (2015); Netflix Goop Lab (2020); BBC Freeze the Fear (2022)", "source": "Wikipedia / press", "year": 2022},
+      {"metric": "Books", "value": "Becoming the Iceman (2012, with Justin Rosales); Carney's What Doesn't Kill Us (2017); The Wim Hof Method (2020)", "source": "Wikipedia", "year": 2020},
+      {"metric": "Peer-reviewed WHM-titled papers", "value": "About 11 in Europe PMC with 'Wim Hof' in the title, plus about 10 more trials using the protocol", "source": "Europe PMC", "year": 2026},
+      {"metric": "Earliest website capture", "value": "2013-05-15", "source": "Wayback Machine CDX", "year": 2013}
+    ],
+    "reach_estimate": "Several million people have probably tried the breathing at least once, via the 3.15M-subscriber YouTube channel and its guided-breathing videos, the app (likely more than 1M downloads across platforms, inferred from about 13.5k iOS ratings), and books. Paid course and app users probably number in the hundreds of thousands.",
+    "reach_log10": 6.5,
+    "trajectory": [
+      {"year": 2007, "relative_activity": 1},
+      {"year": 2009, "relative_activity": 1},
+      {"year": 2011, "relative_activity": 2},
+      {"year": 2012, "relative_activity": 2},
+      {"year": 2013, "relative_activity": 3},
+      {"year": 2014, "relative_activity": 4},
+      {"year": 2015, "relative_activity": 6},
+      {"year": 2016, "relative_activity": 6},
+      {"year": 2017, "relative_activity": 7},
+      {"year": 2018, "relative_activity": 7.5},
+      {"year": 2019, "relative_activity": 8},
+      {"year": 2020, "relative_activity": 9},
+      {"year": 2021, "relative_activity": 9},
+      {"year": 2022, "relative_activity": 10},
+      {"year": 2023, "relative_activity": 9.5},
+      {"year": 2024, "relative_activity": 8.5},
+      {"year": 2025, "relative_activity": 8},
+      {"year": 2026, "relative_activity": 7.5}
+    ],
+    "method_notes": "The trajectory is anchored to dated milestones, not measured Google Trends or Reddit data: Radboud TV coverage (2011); website and Academy (2013); the PNAS paper and app launch (2014); Vice and Rogan #712 (2015); Carney's book (2017); the NeuroImage study (2018); Hof's book, Goop Lab and the COVID home-practice surge (2020); BBC Freeze the Fear and the cold-plunge boom (2022); and the 2023-24 coverage of deaths and abuse. The modest decline after 2024 is an assumption. Reach combines company claims, App Store rating counts (ratings are assumed to be 1-2% of installs) and YouTube subscriber counts (3.15M, verified at fact-check). Subreddit sizes and download counts were not verified. A second Rogan appearance, often cited for 2018, could not be verified."
+  },
+  "sources": [
+    "https://www.wimhofmethod.com/",
+    "https://www.wimhofmethod.com/science",
+    "https://www.wimhofmethod.com/faq",
+    "https://www.wimhofmethod.com/instructors",
+    "https://www.wimhofmethod.com/academy",
+    "https://www.wimhofmethod.com/breathing-exercises",
+    "https://www.wimhofmethod.com/wim-hof-method-mobile-app",
+    "https://apps.apple.com/us/app/wim-hof-method-breathwork/id890471578",
+    "https://www.youtube.com/@wimhof1",
+    "https://en.wikipedia.org/wiki/Wim_Hof",
+    "https://en.wikipedia.org/wiki/Wim_Hof_Method",
+    "https://nltimes.nl/2024/09/30/biopic-iceman-wim-hof-put-hold-domestic-violence-allegations",
+    "https://doi.org/10.1073/pnas.1322174111",
+    "https://doi.org/10.1097/PSY.0000000000001065",
+    "https://doi.org/10.2147/JPR.S400408",
+    "https://doi.org/10.1371/journal.pone.0225749",
+    "https://doi.org/10.1007/s12144-022-03739-y",
+    "https://doi.org/10.1038/s41598-023-44902-0",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11599992/",
+    "https://doi.org/10.1093/abm/kaaf081",
+    "https://doi.org/10.1038/s41598-025-29187-9",
+    "https://doi.org/10.1177/02692155261428705",
+    "https://doi.org/10.1007/s10072-026-08895-8",
+    "https://doi.org/10.1016/j.neuroimage.2018.01.067",
+    "https://doi.org/10.1371/journal.pone.0286933"
+  ]
+}

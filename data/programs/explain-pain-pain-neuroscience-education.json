@@ -1,0 +1,288 @@
+{
+  "slug": "explain-pain-pain-neuroscience-education",
+  "name": "Explain Pain / Pain Neuroscience Education (NOI Group)",
+  "url": "https://www.noigroup.com/",
+  "founders": [
+    "David S. Butler (physiotherapist, EdD; founder/director of NOI, early 1990s)",
+    "G. Lorimer Moseley (physiotherapist, clinical neuroscientist; co-author of Explain Pain; Adelaide University, formerly UniSA)",
+    "Adriaan Louw (PT, PhD; independent parallel US line, Therapeutic Neuroscience Education / Why You Hurt, ISPI; not an NOI founder)"
+  ],
+  "founded_year": 2003,
+  "founded_year_range": "2002-2003 (Moseley's first PNE RCT 2002; Explain Pain book 2003). NOI itself dates from the early 1990s; offshoots ~2013-2021",
+  "category": "physio/pain-education approach",
+  "delivery": [
+    "clinician-delivered",
+    "book",
+    "online course",
+    "group",
+    "free public education videos/podcasts/campaigns"
+  ],
+  "business_model": "mixed",
+  "cost_summary": "Explain Pain 2nd ed. (2013) AUD 75 +GST; Explain Pain Supercharged AUD 140 +GST; Anniversary Pack AUD 221.85 (noigroup.com, Oct 2026). Clinician courses are paid. Patients pay standard physio fees. Tame the Beast, Flippin' Pain and Pain Revolution community talks are free. Pain Revolution Local Pain Educator training is AUD 10,000 for self-funded applicants.",
+  "cost_usd_typical": 50,
+  "conditions_claimed": [
+    "chronic pain (general)",
+    "chronic back/neck pain",
+    "fibromyalgia",
+    "CRPS",
+    "headache/migraine",
+    "pelvic pain/endometriosis/vulvodynia/IC",
+    "TMD/jaw",
+    "ME/CFS"
+  ],
+  "conditions_primary": [
+    "chronic pain (general)",
+    "chronic back/neck pain",
+    "fibromyalgia"
+  ],
+  "differentiation": "mostly unified with condition-specific emphasis",
+  "mechanisms": [
+    "neuroplastic/learned pain (brain-generated danger signal / predictive processing)",
+    "central sensitization",
+    "fear-avoidance / catastrophizing / cognitive appraisal",
+    "sensorimotor / movement patterns / body schema",
+    "conditioning / classical learning",
+    "attention & interoception / hypervigilance",
+    "inflammation / immune"
+  ],
+  "mechanism_summary": "Pain is a protective output the brain constructs when it evaluates credible evidence of danger. It is not a measure of tissue damage. In persistent pain, a bioplastic nervous system becomes sensitised and overprotective: peripheral and central sensitisation, altered cortical body maps, and immune and endocrine protective responses. Pain is also cued by learned contexts. Threatening beliefs, catastrophizing and fear of movement keep the system sensitive. The Protectometer frames pain as the balance of 'Danger in Me' versus 'Safety in Me' cues. Reconceptualising pain (conceptual change) is the proposed active ingredient, combined with graded exposure. The scope is pain; it does not claim a single brain disorder spanning ME/CFS, MCS or POTS.",
+  "roots": [
+    "gate control / neuromatrix pain science",
+    "CBT (Beck/Ellis)",
+    "behaviorism / classical conditioning",
+    "neurodynamics / manual physiotherapy",
+    "fear-avoidance model",
+    "conceptual change learning theory"
+  ],
+  "techniques": [
+    "pain neuroscience education sessions with metaphors (alarm, beast, Protectometer)",
+    "Protectometer DIMs/SIMs self-inventory",
+    "graded exposure and activity pacing (baselines, then nudge up)",
+    "flare-up plans",
+    "combined exercise / cognition-targeted motor control training",
+    "pre-operative therapeutic neuroscience education",
+    "graded motor imagery / body-map work (separate GMI program)",
+    "public videos, podcasts, community talks"
+  ],
+  "mainstream_adoption": "substantial",
+  "mainstream_notes": "Core content in physiotherapy curricula and multidisciplinary pain programs in Australia, the UK, Europe and the US. EIM Therapeutic Pain Specialist certification in the US. Flippin' Pain (a Cora initiative) lists NHS bodies and the Scottish Government as partners and is endorsed by the British Pain Society and EFIC. Pain Revolution is hosted by Adelaide University. LBP guidelines (NICE NG59, Lancet 2018 series, APTA) recommend patient education and reassurance generically, not PNE by name. NICE NG193 does not name PNE. It is the education layer of Curable, Pathways and PRT.",
+  "insurance": "sometimes/indirect",
+  "insurance_notes": "No dedicated code. Reimbursed as part of covered physiotherapy and pain-management visits (US therapeutic activity/self-care codes, Australian Medicare allied-health items, NHS care). Books and courses are out of pocket.",
+  "evidence_level": "systematic reviews/meta-analyses",
+  "key_trials": [
+    {
+      "citation": "Moseley L. Aust J Physiother 2002;48(4):297-302",
+      "design": "RCT, chronic LBP, 4-week combined physio (manual therapy + exercise + neurophysiology education) vs GP-directed care",
+      "n": 57,
+      "finding": "Pain -1.5/10, RMDQ -3.9, maintained at 1 yr. Education is not isolated."
+    },
+    {
+      "citation": "Moseley GL, Nicholas MK, Hodges PW. Clin J Pain 2004;20(5):324-330",
+      "design": "Blinded RCT, chronic LBP, single intensive neurophysiology education session vs back anatomy/physiology education",
+      "n": 58,
+      "finding": "Improved pain attitudes, catastrophizing, SLR and forward bending. Small, likely non-meaningful RMDQ effect. Pain intensity not a primary outcome."
+    },
+    {
+      "citation": "Meeus M et al. Arch Phys Med Rehabil 2010;91(8):1153-1159",
+      "design": "Double-blind RCT, CFS with chronic pain, one pain physiology education session vs pacing/self-management education; outcomes immediately post-session",
+      "n": 48,
+      "finding": "Better pain-neurophysiology knowledge and reduced rumination. Pain-threshold effects not supported. No follow-up."
+    },
+    {
+      "citation": "Van Oosterwijck J et al. Clin J Pain 2013;29(10):873-882",
+      "design": "Double-blind RCT, fibromyalgia, pain physiology education vs pacing self-management education",
+      "n": 30,
+      "finding": "Improved SF-36 domains, endogenous pain inhibition and pain scores at 3 months. Small trial by the developers' group."
+    },
+    {
+      "citation": "Louw A et al. Spine 2014;39(18):1449-1457",
+      "design": "Multicenter RCT, pre-operative PNE (1 session + booklet) for lumbar radiculopathy surgery",
+      "n": 67,
+      "finding": "No difference in pain or function at 1 yr. Better surgical experience and 45% lower post-op healthcare expenditure. 3-yr follow-up (J Spine Surg 2016) again showed no difference in patient-reported outcomes."
+    },
+    {
+      "citation": "Malfliet A et al. JAMA Neurol 2018;75(7):808-817",
+      "design": "RCT, chronic spinal pain, PNE + cognition-targeted motor control vs best-evidence physio (back/neck education + general exercise)",
+      "n": 120,
+      "finding": "Small-to-medium benefits on Central Sensitization Inventory, disability (3-12 mo) and SF-36. Borderline pressure-pain-threshold effect. No gray-matter changes."
+    },
+    {
+      "citation": "Traeger AC et al. JAMA Neurol 2019;76(2):161-169 (PREVENT)",
+      "design": "Placebo-controlled RCT, acute LBP at high risk of chronicity, 2x1-h pain-biology education vs placebo education (active listening)",
+      "n": 202,
+      "finding": "No effect on 3-month pain (MD -0.3/10). Small disability benefit at 1 wk and 3 mo, not at 6 or 12 mo."
+    },
+    {
+      "citation": "Bagg MK et al. JAMA 2022;328(5):430-439 (RESOLVE)",
+      "design": "RCT, chronic LBP, 12-session graded sensorimotor retraining incl. pain education vs sham + attention control",
+      "n": 276,
+      "finding": "Pain -1.0/10 at 18 weeks (95% CI -1.5 to -0.4), small. Tests a bundled package; single centre."
+    },
+    {
+      "citation": "Lane E et al. Pain 2022;163(5):852-860",
+      "design": "Pragmatic cluster RCT, 45 PT clinics (108 PTs), chronic spine pain, PNE training vs usual care",
+      "n": 319,
+      "finding": "No difference in PROMIS physical function at 12 weeks. Small gain in pain self-efficacy. Poor fidelity."
+    },
+    {
+      "citation": "Dams L et al. Pain 2023;164(7):1489-1501 (EduCan)",
+      "design": "Double-blind RCT, after breast cancer surgery, PNE vs biomedical pain education",
+      "n": 184,
+      "finding": "No difference in pain-related disability at 12 months or on any secondary outcome."
+    },
+    {
+      "citation": "Huysmans E et al. Br J Anaesth 2023;131(3):572-585",
+      "design": "Multicentre RCT, perioperative PNE vs biomedical education, lumbar radiculopathy surgery",
+      "n": 120,
+      "finding": "No difference in pain at 12 months. Better SF-36 physical score, kinesiophobia and catastrophizing; cost-effective."
+    },
+    {
+      "citation": "Wood L, Hendrick PA. Eur J Pain 2019;23(2):234-249",
+      "design": "Systematic review/meta-analysis, chronic LBP (8 RCTs)",
+      "n": 615,
+      "finding": "PNE alone: short-term pain difference 0.73/10, not significant (low certainty). PNE added to physio: pain 1.32/10 and RMDQ 3.94 (moderate certainty)."
+    },
+    {
+      "citation": "Watson JA et al. J Pain 2019;20(10):1140.e1-e22",
+      "design": "Mixed-methods systematic review/meta-analysis, chronic MSK pain (12 RCTs)",
+      "n": 755,
+      "finding": "Pain effects of low clinical relevance and not significant (-5.9/100). Small disability effects. Clinically relevant short-term kinesiophobia reduction."
+    },
+    {
+      "citation": "Siddall B et al. Pain 2022;163(1):e20-e30",
+      "design": "Systematic review/meta-analysis, PNE + exercise vs exercise (5 RCTs)",
+      "n": 460,
+      "finding": "Short-term pain -2.09/10 (low certainty), plus disability, kinesiophobia and catastrophizing benefits. Long-term data too sparse to pool."
+    }
+  ],
+  "controversy": "Pooled effects on pain intensity are small or non-significant, and education alone is weak. Several large or pragmatic trials were null on their primary outcomes: PREVENT (acute LBP), EduCan (post-breast-cancer surgery), Lane 2022 (cluster RCT of PT training), and pain outcomes in Louw 2014 and Huysmans 2023. Originators sell the materials and run many of the trials and reviews. 'Pain is in the brain' slogans can feel invalidating. The concept has been extrapolated by commercial brain-retraining programs to conditions without PNE trial evidence. Its use in chronic fatigue syndrome is contested by some ME/CFS advocates.",
+  "popularity": {
+    "indicators": [
+      {
+        "metric": "Explain Pain translations",
+        "value": "At least 5 languages (Dutch, French, Portuguese, German, Hebrew)",
+        "source": "noigroup.com product page",
+        "year": 2026
+      },
+      {
+        "metric": "Pain Revolution reach",
+        "value": "20,000+ lives changed; 150+ communities; 80+ with a trained Local Pain Educator; AUD 700k+ raised",
+        "source": "painrevolution.org",
+        "year": 2026
+      },
+      {
+        "metric": "Flippin' Pain reach",
+        "value": "180,000+ people in UK",
+        "source": "flippinpain.co.uk",
+        "year": 2026
+      },
+      {
+        "metric": "Moseley TEDxAdelaide 'Why things hurt'",
+        "value": "Widely viewed lay talk (view count not verified)",
+        "source": "YouTube/TEDx (unverified)",
+        "year": 2011
+      },
+      {
+        "metric": "Peer-reviewed literature",
+        "value": "~112 Europe PMC records with 'pain neuroscience/science education' plus RCT or meta-analysis in the title, 2022-2026 alone",
+        "source": "Europe PMC search at fact-check",
+        "year": 2026
+      }
+    ],
+    "reach_estimate": "~1-5 million people. Basis: decades of PNE delivery in physio practice worldwide (tens of thousands of trained clinicians), book sales, 180k Flippin' Pain, 20k Pain Revolution, plus video audiences. Excludes indirect exposure via apps. Rough estimate.",
+    "reach_log10": 6.3,
+    "method_notes": "Indicators come from directly fetched official sites (noigroup, painrevolution, flippinpain) and Europe PMC literature counts. The trajectory reflects milestones: NOI courses (1990s), Explain Pain book (2003), TEDx (2011), 2nd ed. and Louw books (2013), Supercharged/Pain Revolution/Tame the Beast (~2017), major trials and meta-analyses (2018-2019), Flippin' Pain and the PRT-era surge (2021-2022). Plateau thereafter. Google Trends and Reddit counts were not retrieved; dates for Flippin' Pain and Tame the Beast are approximate.",
+    "trajectory": [
+      {
+        "year": 1995,
+        "relative_activity": 1
+      },
+      {
+        "year": 2000,
+        "relative_activity": 1.5
+      },
+      {
+        "year": 2003,
+        "relative_activity": 2.5
+      },
+      {
+        "year": 2005,
+        "relative_activity": 3
+      },
+      {
+        "year": 2008,
+        "relative_activity": 3.5
+      },
+      {
+        "year": 2011,
+        "relative_activity": 5
+      },
+      {
+        "year": 2013,
+        "relative_activity": 6
+      },
+      {
+        "year": 2015,
+        "relative_activity": 7
+      },
+      {
+        "year": 2017,
+        "relative_activity": 8
+      },
+      {
+        "year": 2019,
+        "relative_activity": 9
+      },
+      {
+        "year": 2021,
+        "relative_activity": 9
+      },
+      {
+        "year": 2022,
+        "relative_activity": 9.5
+      },
+      {
+        "year": 2023,
+        "relative_activity": 9
+      },
+      {
+        "year": 2024,
+        "relative_activity": 9
+      },
+      {
+        "year": 2025,
+        "relative_activity": 8.5
+      },
+      {
+        "year": 2026,
+        "relative_activity": 8.5
+      }
+    ]
+  },
+  "sources": [
+    "https://www.noigroup.com/",
+    "https://www.noigroup.com/product/explain-pain-second-edition/",
+    "https://www.noigroup.com/product/explain-pain-supercharged/",
+    "https://courses.noigroup.com/course-options",
+    "https://www.tamethebeast.org/",
+    "https://www.painrevolution.org/",
+    "https://www.flippinpain.co.uk/",
+    "https://www.retrainpain.org/",
+    "https://www.optp.com/innovators/davidbutler",
+    "Moseley & Butler, J Pain 2015;16(9):807-813",
+    "Moseley, Aust J Physiother 2002;48(4):297-302",
+    "Moseley et al., Clin J Pain 2004;20(5):324-330",
+    "Meeus et al., Arch Phys Med Rehabil 2010;91(8):1153-1159",
+    "Van Oosterwijck et al., Clin J Pain 2013;29(10):873-882",
+    "Louw et al., Spine 2014;39(18):1449-1457",
+    "Malfliet et al., JAMA Neurol 2018;75(7):808-817",
+    "Traeger et al., JAMA Neurol 2019;76(2):161-169",
+    "Bagg et al., JAMA 2022;328(5):430-439",
+    "Lane et al., Pain 2022;163(5):852-860",
+    "Dams et al., Pain 2023;164(7):1489-1501",
+    "Huysmans et al., Br J Anaesth 2023;131(3):572-585",
+    "Wood & Hendrick, Eur J Pain 2019;23(2):234-249",
+    "Watson et al., J Pain 2019;20(10):1140.e1-e22",
+    "Siddall et al., Pain 2022;163(1):e20-e30"
+  ]
+}

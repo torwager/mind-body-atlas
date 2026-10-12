@@ -1,0 +1,281 @@
+{
+  "slug": "joe-dispenza",
+  "name": "Dr Joe Dispenza meditations, workshops and retreats (Encephalon Inc.)",
+  "url": "https://drjoedispenza.com/",
+  "founders": [
+    "Joe Dispenza, DC (chiropractor; Encephalon Inc.)"
+  ],
+  "founded_year": 2009,
+  "founded_year_range": "2007-2010. Basis: first book Evolve Your Brain (2007); weekend workshops from about 2009-10; week-long retreats from about 2013-14. Unverified background knowledge, since the live search quota was exhausted.",
+  "category": "influencer/author method",
+  "delivery": [
+    "retreat",
+    "workshop",
+    "online course",
+    "guided meditation audio",
+    "book",
+    "subscription livestream",
+    "docuseries"
+  ],
+  "business_model": "commercial",
+  "cost_summary": "Week-long retreat about USD 2,300-2,500 registration, excluding lodging and travel (attendee blogs aggregated by unanswered.io 2026; not shown on official pages; unverified). Four-day advanced follow-up retreat about USD 1,499 + tax (2024, secondary). Progressive Online Course (required before retreats) USD 399 for unlimited access, or free for 30 days with retreat registration (official, 2026). Dr Joe Live subscription price not public. Books about USD 15-25. Free YouTube and blog content.",
+  "cost_usd_typical": 2500,
+  "conditions_claimed": [
+    "general stress/wellbeing",
+    "ME/CFS",
+    "long COVID",
+    "chronic pain (general)",
+    "anxiety",
+    "depression",
+    "PTSD/trauma",
+    "fibromyalgia",
+    "IBS",
+    "chronic Lyme",
+    "migraine/headache",
+    "cancer (testimonial)",
+    "autoimmune disease (testimonial)",
+    "multiple sclerosis (testimonial)",
+    "Parkinson's (testimonial)"
+  ],
+  "conditions_primary": [
+    "general stress/wellbeing",
+    "ME/CFS",
+    "long COVID",
+    "chronic pain (general)"
+  ],
+  "differentiation": "single unified mechanism",
+  "mechanisms": [
+    "stress / HPA axis",
+    "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")",
+    "conditioning / classical learning",
+    "brain network / oscillation dysregulation",
+    "inflammation / immune",
+    "placebo / expectation (self-generated)",
+    "epigenetic signalling by emotion",
+    "quantum field / energetic (non-scientific)"
+  ],
+  "mechanism_summary": "Illness is attributed to chronic survival emotions that keep the body in stress chemistry (sympathetic and cortisol), which is said to suppress immune and repair gene expression. The body becomes conditioned or \"addicted\" to these emotions and acts as the unconscious mind. The proposed remedy is meditation that shifts brainwaves (beta to alpha, theta and gamma) and heart-brain coherence, combined with elevated emotion and clear intention, which is said to send new epigenetic signals and to harness placebo-like self-healing through neuroplastic rewiring. A quantum-field and energy-centre layer sits on top. One model covers all diseases.",
+  "roots": [
+    "Christian Science / New Thought / mind-cure",
+    "Hindu yoga/pranayama",
+    "Buddhist vipassana/insight meditation",
+    "Selye stress theory",
+    "biofeedback (1960s-70s)",
+    "osteopathy/chiropractic",
+    "life coaching / positive psychology",
+    "Ramtha's School of Enlightenment (New Age channelling)",
+    "HeartMath heart coherence",
+    "placebo research / psychoneuroimmunology",
+    "quantum mysticism / parapsychology"
+  ],
+  "techniques": [
+    "open-focus induction meditation",
+    "unmemorizing / surrendering survival emotions",
+    "mental rehearsal with elevated emotion and intention",
+    "'The Breath' (pelvic/abdominal contraction breath drawing energy up spine)",
+    "Blessing of the Energy Centers (chakra meditation)",
+    "heart-coherence meditation with HRV",
+    "standing, walking and lying-down meditations",
+    "kaleidoscope / Mind Movie visualization",
+    "group non-contact Coherence Healing circles",
+    "lectures on neuroscience/epigenetics/placebo/quantum ('reconceptualization')",
+    "week-long immersive retreats with early-morning multi-hour meditation"
+  ],
+  "mainstream_adoption": "none",
+  "mainstream_notes": "Not in any clinical guideline or health-system programme. Academic engagement is limited to company-co-authored observational studies with a UCSD/VA San Diego anesthesiology lab (Patel), VitaMed Research, Bond University (Stapleton) and the HeartMath Institute. A corporate offshoot, Neuro Change Solutions, sells workplace training.",
+  "insurance": "no",
+  "insurance_notes": "Not reimbursable; entirely self-pay.",
+  "evidence_level": "case reports/observational only",
+  "key_trials": [
+    {
+      "citation": "Stapleton P, Dispenza J, McGill S, Sabot D, Peach M, Raynor D. Large effects of brief meditation intervention on EEG spectra in meditation novices. IBRO Rep 2020;9:290-301. PMID 33204893",
+      "design": "Single-arm, 3-day workshop, pre/post EEG (5,616 scans); no control",
+      "n": 223,
+      "finding": "Pre- to end-meditation: theta +29%, alpha +16%, beta +17%, gamma +11%, delta -5%; state EEG only, no clinical outcomes",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33204893/"
+    },
+    {
+      "citation": "Zuniga-Hertz JP, ... Dispenza J, ... Patel HH. Meditation-induced bloodborne factors as an adjuvant treatment to COVID-19 disease. Brain Behav Immun Health 2023;32:100675. PMID 37600600",
+      "design": "Cross-sectional online survey of past 7-day-retreat attendees (2,844 respondents of 22,459 invited) plus in vitro pseudovirus assays with meditators' plasma; COI declared (Encephalon)",
+      "n": 2844,
+      "finding": "Longer and more frequent meditation practice was associated with less self-reported SARS-CoV-2 infection; meditators' plasma reduced pseudovirus entry in vitro (SERPINA5). Self-selected and confounded; no clinical trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37600600/"
+    },
+    {
+      "citation": "Qammar NW, ... McCraty R, Stanton C, Dispenza J. The Mathematical Characterization of the Complexity Matching during a Healing Circle Meditation. Nonlinear Dynamics Psychol Life Sci 2023;27:259-290. PMID 37429004",
+      "design": "Methods demonstration: HRV of 8 'healers' + 1 'healee' during a non-contact healing circle",
+      "n": 9,
+      "finding": "Reported HRV 'complexity matching' changes; no health outcome",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37429004/"
+    },
+    {
+      "citation": "Zuniga-Hertz JP, ... Dispenza J, ... Patel HH. Multidimensional Analysis of Twin Sets During an Intensive Week-Long Meditation Retreat: A Pilot Study. Mindfulness 2025;16:1634-1655. PMID 40535580",
+      "design": "Uncontrolled, non-preregistered pilot: 6 twin sets (5 MZ, 1 DZ) at a retreat, plus 13 age-matched controls for qEEG; transcriptomics, metabolomics, cytokines, qEEG, HR; COI declared",
+      "n": 12,
+      "finding": "Twins diverged mid-retreat and converged by the end; claimed EEG spectral correlations between twins in separate rooms",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40535580/"
+    },
+    {
+      "citation": "Jinich-Diamant A, ... Dispenza J, ... Patel HH. Neural and molecular changes during a mind-body reconceptualization, meditation, and open label placebo healing intervention. Commun Biol 2025;8:1525. PMID 41198896 (Author Correction 2026, PMID 42502079)",
+      "design": "Observational pre/post in 20 healthy attendees randomly sampled from 561 at one 7-day retreat; fMRI plus plasma omics and cell assays; no control group; COI declared",
+      "n": 20,
+      "finding": "Reduced DMN and salience-network integration during meditation; post-retreat plasma increased in vitro neurite outgrowth and glycolysis, and up-regulated BDNF, inflammatory, anti-inflammatory and opioid pathways",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41198896/"
+    },
+    {
+      "citation": "Plonka N, Davies S, Atkinson M, Crowe K, Dispenza J, McCraty R. Correlations between onsite and global networks of random number generators during group healing meditations. Explore (NY) 2026;22:103312. PMID 41485440",
+      "design": "Exploratory parapsychology study: 40 onsite random-number generators vs the GCP 2.0 global network across 15 healing meditations at the first-half-2024 events (1,000-2,200 attendees each). The paper declares no COI despite company authors",
+      "n": null,
+      "finding": "Local-global random-number-generator coherence correlation r=0.27 during healing meditations; no health outcomes",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41485440/"
+    },
+    {
+      "citation": "NCT06583395 QUANTUM: 'Quest to Analyze One Thousand Humans Meditating' / Effects of Meditation on the Gut Microbiome and Human Health and Disease (sponsor VitaMed Research; collaborators Metamorphosis LLC and UCSD)",
+      "design": "Observational prospective cohort of retreat attendees, estimated enrolment 3,000; no control arm; registered retrospectively (started 2021-12, first posted 2024-09); the condition list includes CFS, fibromyalgia, IBS, Lyme and migraine",
+      "n": null,
+      "finding": "Enrolling by invitation; estimated completion 2025-03 has passed with no results posted",
+      "url": "https://clinicaltrials.gov/study/NCT06583395"
+    }
+  ],
+  "controversy": "Widely criticized as pseudoscience. A 2020 Skeptical Inquirer review of Becoming Supernatural by C. van Steenderen (SI 44(4)) cites misuse of quantum physics, pineal-gland 'piezoelectric crystal' claims, HeartMath claims and Ramtha ties. He uses the title \"Dr\" on a chiropractic degree and is often presented as a neuroscientist. He has a long association with Ramtha's School of Enlightenment and was featured in What the Bleep Do We Know!? Testimonials claim healing of cancer and MS, which raises concerns about people forgoing care and about blaming those who do not heal. All research is company-co-authored and uncontrolled, including a COVID-19 'adjuvant' claim from a self-selected survey and parapsychology random-number-generator studies; one paper declares no COI despite company authors. The QUANTUM cohort was registered retrospectively. Costs are high, with upselling to advanced retreats, subscriptions and supplements. Long multi-hour meditation days may be hard to tolerate for people with post-exertional malaise in ME/CFS.",
+  "popularity": {
+    "indicators": [
+      {
+        "metric": "Retreat size",
+        "value": "1,000-2,200 participants per event, held almost monthly",
+        "source": "Plonka et al., Explore 2026 (PMID 41485440)",
+        "year": 2024
+      },
+      {
+        "metric": "Cumulative past 7-day-retreat attendees surveyed",
+        "value": "22,459 invited; 2,844 responded (66 countries)",
+        "source": "Zuniga-Hertz et al., Brain Behav Immun Health 2023 (PMID 37600600)",
+        "year": 2022
+      },
+      {
+        "metric": "Retreat attendees at a single sampled event",
+        "value": "561",
+        "source": "Jinich-Diamant et al., Commun Biol 2025",
+        "year": 2025
+      },
+      {
+        "metric": "Registered study cohort target",
+        "value": "3,000 estimated enrolment",
+        "source": "ClinicalTrials.gov NCT06583395",
+        "year": 2024
+      },
+      {
+        "metric": "Upcoming events listed",
+        "value": "4 week-long + 2 advanced retreats (Oct 2026-Apr 2027; FL, CA, Mexico)",
+        "source": "drjoedispenza.com/retreats",
+        "year": 2026
+      },
+      {
+        "metric": "Bestselling books",
+        "value": "Evolve Your Brain (2007), Breaking the Habit of Being Yourself (2012), You Are the Placebo (2014), Becoming Supernatural (2017); widely translated (sales figures unverified)",
+        "source": "Publisher/background knowledge",
+        "year": 2017
+      },
+      {
+        "metric": "Film/media",
+        "value": "What the Bleep Do We Know!? (2004), Heal (2017), Rewired (Gaia docuseries)",
+        "source": "Wikipedia (Heal film); background",
+        "year": 2017
+      },
+      {
+        "metric": "Social media",
+        "value": "Active YouTube, Instagram, TikTok, Facebook and X channels; large following (exact counts not verified)",
+        "source": "drjoedispenza.com",
+        "year": 2026
+      }
+    ],
+    "reach_estimate": "Order of 10^6-10^7 people exposed through books, YouTube and podcasts (unverified). About 2.2x10^4 cumulative 7-day-retreat attendees by about 2021-22 (company survey frame), probably 5x10^4-10^5 by 2026 at about 10-12 events a year x 1,000-2,200 people.",
+    "reach_log10": 6.5,
+    "trajectory": [
+      {
+        "year": 2004,
+        "relative_activity": 1
+      },
+      {
+        "year": 2007,
+        "relative_activity": 1.5
+      },
+      {
+        "year": 2010,
+        "relative_activity": 2
+      },
+      {
+        "year": 2012,
+        "relative_activity": 3
+      },
+      {
+        "year": 2014,
+        "relative_activity": 4
+      },
+      {
+        "year": 2016,
+        "relative_activity": 5
+      },
+      {
+        "year": 2017,
+        "relative_activity": 6
+      },
+      {
+        "year": 2018,
+        "relative_activity": 6.5
+      },
+      {
+        "year": 2019,
+        "relative_activity": 7
+      },
+      {
+        "year": 2020,
+        "relative_activity": 8
+      },
+      {
+        "year": 2021,
+        "relative_activity": 9
+      },
+      {
+        "year": 2022,
+        "relative_activity": 9.5
+      },
+      {
+        "year": 2023,
+        "relative_activity": 10
+      },
+      {
+        "year": 2024,
+        "relative_activity": 10
+      },
+      {
+        "year": 2025,
+        "relative_activity": 10
+      },
+      {
+        "year": 2026,
+        "relative_activity": 9.5
+      }
+    ],
+    "method_notes": "Trajectory is anchored on dated milestones: the 2004 film, book releases in 2007, 2012, 2014 and 2017, the 2017 Heal documentary, the pandemic-era social-media surge in 2020-22, the 22,459 past-attendee survey frame (about 2021-22), and the almost-monthly 1,000-2,200-person retreats documented for 2024. The levels are judgement-based estimates; Google Trends, subreddit counts and book and subscriber numbers were not checked live because of search rate limits. Reach is a Fermi estimate."
+  },
+  "sources": [
+    "https://drjoedispenza.com/",
+    "https://drjoedispenza.com/the-mission",
+    "https://drjoedispenza.com/dr-joe-live",
+    "https://drjoedispenza.com/retreats",
+    "https://drjoedispenza.com/required-coursework",
+    "https://pubmed.ncbi.nlm.nih.gov/33204893/",
+    "https://pubmed.ncbi.nlm.nih.gov/37600600/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10432704/",
+    "https://pubmed.ncbi.nlm.nih.gov/37429004/",
+    "https://pubmed.ncbi.nlm.nih.gov/40535580/",
+    "https://pubmed.ncbi.nlm.nih.gov/41198896/",
+    "https://pubmed.ncbi.nlm.nih.gov/42502079/",
+    "https://pubmed.ncbi.nlm.nih.gov/41485440/",
+    "https://clinicaltrials.gov/study/NCT06583395",
+    "https://en.wikipedia.org/wiki/Heal_(film)",
+    "https://unanswered.io/guide/joe-dispenza-retreat-cost",
+    "https://skepticalinquirer.org/2020/06/joe-dispenzas-becoming-supernatural-how-common-people-are-being-misled/"
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "slug": "emdr",
+  "name": "EMDR (Eye Movement Desensitization and Reprocessing)",
+  "url": "https://www.emdria.org/",
+  "founders": [
+    "Francine Shapiro, PhD (1948-2019; PhD 1988, Professional School of Psychological Studies, San Diego, unaccredited and now defunct; later Senior Research Fellow, Mental Research Institute, Palo Alto)",
+    "EMDR Institute (emdr.com; created 1990, incorporated 1993)",
+    "EMDR International Association (EMDRIA; founded 1995)"
+  ],
+  "founded_year": 1989,
+  "founded_year_range": "1987-1995 (1987: Shapiro's observation; 1989: first published as EMD; 1990: EMDR Institute; 1991: renamed EMDR; 1993: Institute incorporated; 1995: training restrictions lifted, EMDRIA founded; 2014: 'EMDR therapy'), per emdr.com history page",
+  "category": "trauma/emotion-focused therapy",
+  "delivery": [
+    "clinician-delivered",
+    "individual psychotherapy",
+    "telehealth",
+    "group (pain protocols)",
+    "self-administered bilateral stimulation (adjunct)"
+  ],
+  "business_model": "clinician-delivered (fee-for-service)",
+  "cost_summary": "No central price. Background estimate (not verified this session): US sessions about US$100-250 each, with 6-15 sessions typical, so roughly US$1,000-3,000 per course. EMDRIA says training prices vary by site. Clinician basic training about US$1,500-2,500 (EMDRIA minimum is 20 h instruction + 20 h practicum + 10 h consultation). Free on the NHS for PTSD.",
+  "cost_usd_typical": 1500,
+  "conditions_claimed": [
+    "PTSD/trauma",
+    "anxiety",
+    "depression",
+    "chronic pain (general)",
+    "addiction/substance use",
+    "chronic back/neck pain",
+    "fibromyalgia",
+    "headache/migraine",
+    "IBS/functional GI",
+    "FND",
+    "tinnitus",
+    "somatic symptom disorder",
+    "pelvic pain/endometriosis/vulvodynia/IC",
+    "phantom limb pain",
+    "OCD",
+    "insomnia/sleep",
+    "eating disorders",
+    "dissociative disorders"
+  ],
+  "conditions_primary": [
+    "PTSD/trauma",
+    "chronic pain (general)",
+    "anxiety",
+    "depression"
+  ],
+  "differentiation": "mostly unified with condition-specific emphasis",
+  "mechanisms": [
+    "unresolved trauma stored in body",
+    "conditioning / classical learning",
+    "central sensitization",
+    "attention & interoception / hypervigilance",
+    "fear-avoidance / catastrophizing / cognitive appraisal",
+    "working-memory taxing / memory reconsolidation"
+  ],
+  "mechanism_summary": "Shapiro's Adaptive Information Processing (AIP) model holds that symptoms come from inadequately processed adverse memories, stored with their original images, emotions, body sensations and negative beliefs. Bilateral stimulation during recall is said to engage innate processing that integrates these memories adaptively. Research accounts instead propose working-memory taxing that reduces vividness and leads to reconsolidation, or plain exposure/extinction. For chronic pain, 'pain memories' (pre-amputation pain, injuries, medical trauma) and trauma-linked threat sensitization are proposed to maintain pain. Processing these memories and the current pain sensation is proposed to reduce pain and distress. The model is transdiagnostic in principle, but the pain applications target mainly trauma-exposed or highly distressed patients.",
+  "roots": [
+    "behaviorism / classical conditioning",
+    "systematic desensitization (Wolpe) / exposure therapy",
+    "CBT (Beck/Ellis)",
+    "hypnosis (Erickson) / guided imagery",
+    "Freudian psychoanalysis / psychodynamic theory",
+    "gate control / neuromatrix pain science"
+  ],
+  "techniques": [
+    "8-phase protocol (history, preparation, assessment, desensitization, installation, body scan, closure, re-evaluation)",
+    "bilateral stimulation: therapist-guided eye movements, alternating taps, tones, light bar",
+    "SUD and VoC ratings; negative/positive cognition",
+    "safe/calm place imagery and resource installation",
+    "three-pronged targeting of past memories, present triggers and future templates",
+    "pain-focused protocols that target the current pain sensation and injury/medical memories",
+    "phantom limb pain protocol",
+    "FND-specific protocol (MODIFI)",
+    "group EMDR for chronic pain (4 days x 5 h)",
+    "butterfly hug self-administered bilateral stimulation",
+    "between-session log"
+  ],
+  "mainstream_adoption": "substantial",
+  "mainstream_notes": "Recommended for PTSD by WHO 2013, NICE NG116 2018, ISTSS 2018 and VA/DoD 2017/2023; APA 2017 conditional; Cochrane 2013 includes it with TF-CBT. Delivered in NHS, VA, and Dutch and German routine care. For chronic pain and somatic conditions adoption is limited: German psychosomatic pain centres (EMDR Pain Network Germany) and UK FND trials. Not in chronic pain guidelines such as NICE NG193.",
+  "insurance": "yes",
+  "insurance_notes": "Reimbursed as standard psychotherapy (US CPT 90834/90837) by commercial insurers, Medicare and Medicaid when a licensed clinician treats a covered diagnosis. There is no EMDR-specific code. Pain-only indications need a coded mental-health diagnosis. Free via the NHS for PTSD.",
+  "evidence_level": "systematic reviews/meta-analyses",
+  "key_trials": [
+    {
+      "citation": "Shapiro F. 1989. Efficacy of the eye movement desensitization procedure in the treatment of traumatic memories. J Trauma Stress 2:199-223",
+      "design": "Randomized controlled study (founding trial; developer-run, unblinded)",
+      "n": 22,
+      "finding": "EMD reduced distress (SUD) from traumatic memories vs an imagery-based (modified flooding) comparison; founding study of EMD",
+      "url": "https://doi.org/10.1002/jts.2490020207"
+    },
+    {
+      "citation": "Davidson PR, Parker KC. 2001. EMDR: a meta-analysis. J Consult Clin Psychol 69:305-16",
+      "design": "Meta-analysis of 34 studies",
+      "n": null,
+      "finding": "EMDR beats no treatment but is no better than other exposure techniques; no incremental effect of eye movements",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11393607/"
+    },
+    {
+      "citation": "Lee CW, Cuijpers P. 2013. A meta-analysis of the contribution of eye movements in processing emotional memories. J Behav Ther Exp Psychiatry 44:231-9",
+      "design": "Meta-analysis (15 clinical + 11 lab trials)",
+      "n": 849,
+      "finding": "Additive eye-movement effect d=0.41 in clinical trials and d=0.74 in lab studies",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23266601/"
+    },
+    {
+      "citation": "Wright SL et al. 2024. EMDR v. other psychological therapies for PTSD: systematic review and IPD meta-analysis. Psychol Med 54:1580-1588",
+      "design": "Individual participant data meta-analysis (8 of 15 eligible RCTs)",
+      "n": 346,
+      "finding": "No significant difference between EMDR and other psychological therapies on PTSD severity, response, remission or dropout",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38173121/"
+    },
+    {
+      "citation": "de Roos C et al. 2010. Treatment of chronic phantom limb pain using a trauma-focused psychological approach. Pain Res Manag 15:65-71",
+      "design": "Uncontrolled case series",
+      "n": 10,
+      "finding": "Significant PLP reduction maintained at 3 months; 3 of 6 pain-free at ~2.8-year follow-up",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20458374/"
+    },
+    {
+      "citation": "Gerhardt A et al. 2016. EMDR vs treatment-as-usual for non-specific chronic back pain patients with psychological trauma. Front Psychiatry 7:201",
+      "design": "Pilot RCT, 10 sessions pain-focused EMDR + TAU vs TAU",
+      "n": 40,
+      "finding": "Pain intensity d=0.79 post-treatment and 0.50 at 6 months; disability not significant; ~50% clinically improved vs 0 in controls",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28066274/"
+    },
+    {
+      "citation": "Rostaminejad A et al. 2017. Efficacy of EMDR on the phantom limb pain of patients with amputations within a 24-month follow-up. Int J Rehabil Res 40:209-214",
+      "design": "RCT, 12 sessions vs control",
+      "n": 60,
+      "finding": "PLP reduced and maintained at 24 months; no change in controls (p<.001); purposive sampling",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28368869/"
+    },
+    {
+      "citation": "Nia NG et al. 2018. Comparing EMDR with guided imagery on pain severity in rheumatoid arthritis. J Pain Res 11:2107-2113",
+      "design": "3-arm controlled trial; self-described RCT, but participants were selected non-randomly",
+      "n": 75,
+      "finding": "Both EMDR and guided imagery reduced pain vs control. The abstract's subscale means favour guided imagery, yet its conclusion favours EMDR. Shares an author (Behnammoghadam) with Rostaminejad 2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30319285/"
+    },
+    {
+      "citation": "Zat Ciftci Z et al. 2024. A randomized controlled trial of EMDR therapy in the treatment of fibromyalgia. Front Psychiatry 15:1286118",
+      "design": "RCT, TAU + 15 EMDR sessions vs TAU",
+      "n": 79,
+      "finding": "EMDR improved VAS pain, WPI, SSS, depression, sleep and trauma symptoms through 3-month follow-up after Bonferroni correction. Proponent group (senior author Konuk). The abstract reports TSC-40 p=0.21 alongside a claim of significance",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38835548/"
+    },
+    {
+      "citation": "Cope SR et al. 2025. Randomised feasibility study evaluating EMDR for functional neurological disorder (MODIFI). J Neurol 272:493",
+      "design": "Randomised feasibility trial, EMDR + neuropsychiatric care vs care alone",
+      "n": 50,
+      "finding": "Feasible (88% adherence); greater satisfaction, FND improvement and reductions in PTSD, depression, dissociation and disability; not powered for efficacy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40627223/"
+    },
+    {
+      "citation": "Ramisch M et al. 2026. Personalized psychotherapy in IBS: pilot RCT (PIONEER-IBS). J Psychosom Res 211:113003",
+      "design": "Pilot RCT, personalised vs reverse allocation to EMDR or gut-directed hypnotherapy vs TAU",
+      "n": 79,
+      "finding": "Feasible; no difference between personalised and reverse allocation; within-group somatic symptom improvement",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42837716/"
+    },
+    {
+      "citation": "Tesarz J et al. 2014. Effects of EMDR treatment in chronic pain patients: a systematic review. Pain Med 15:247-63",
+      "design": "Systematic review (2 controlled trials + 10 observational studies)",
+      "n": 196,
+      "finding": "Large but heterogeneous pain reductions; no adverse events; insufficient evidence for recommendations",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24308821/"
+    },
+    {
+      "citation": "Singla A et al. 2025. EMDR for chronic pain: a systematic review. J Integr Complement Med 31:1045-1055",
+      "design": "Systematic review (9 studies, 7 RCTs)",
+      "n": null,
+      "finding": "All studies reported pain improvement; effects large in 3 RCTs, moderate in 2, small or n.s. in 1; 'promising' but heterogeneous",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40735790/"
+    }
+  ],
+  "controversy": "The long-standing 'purple hat' critique (Davidson & Parker 2001; Lohr et al. 1999; Herbert, Lilienfeld et al. 2000, Clin Psychol Rev; Rosen; McNally) holds that the eye movements add nothing beyond exposure and that EMDR was marketed pseudoscientifically. Lee & Cuijpers (2013) and working-memory research partly rebut the claim that eye movements are inert. Still, the 2024 IPD meta-analysis found no advantage over other therapies. Shapiro's doctorate came from an unaccredited school. Training was proprietary and gatekept until 1995, and certification remains expensive. EMDRIA claims EMDR is 'highly effective' for chronic pain and addiction on thin evidence. Pain RCTs are small, TAU-controlled, proponent-run and sometimes poorly reported (Nia 2018 is non-randomly selected and internally inconsistent), with implausibly large effects in some studies (g=-6.87 in Tesarz 2014). There is a risk of destabilisation in complex or dissociative trauma without adequate preparation.",
+  "popularity": {
+    "indicators": [
+      {
+        "metric": "Clinicians using EMDR worldwide (organisational claim)",
+        "value": "over 100,000",
+        "source": "emdr.com/what-is-emdr",
+        "year": 2026
+      },
+      {
+        "metric": "EMDRIA members",
+        "value": "more than 15,000 (elsewhere on the same page, 20,000+)",
+        "source": "emdria.org/about-emdr-therapy",
+        "year": 2026
+      },
+      {
+        "metric": "People treated (organisational claim)",
+        "value": "millions (emdr.com, 'over the past 33 years'); EMDRIA: 'millions of people across 130 countries'",
+        "source": "emdr.com/what-is-emdr; emdria.org",
+        "year": 2026
+      },
+      {
+        "metric": "PubMed records (EMDR in title/abstract) per year",
+        "value": "12 (1995), 16 (2000), 16 (2005), 29 (2010), 36 (2015), 87 (2020), 113 (2023), 159 (2025)",
+        "source": "PubMed E-utilities count, queried 2026-10-12",
+        "year": 2025
+      },
+      {
+        "metric": "Guideline endorsements for PTSD",
+        "value": "WHO 2013, ISTSS 2018, NICE 2018, VA/DoD 2017/2023",
+        "source": "guideline documents (background knowledge)",
+        "year": 2018
+      },
+      {
+        "metric": "Major media exposure",
+        "value": "Prince Harry on-camera EMDR session, The Me You Can't See (Apple TV+)",
+        "source": "background knowledge",
+        "year": 2021
+      },
+      {
+        "metric": "Popular books",
+        "value": "Shapiro textbook 1995/2001/2018; Getting Past Your Past 2012; featured in van der Kolk's The Body Keeps the Score 2014",
+        "source": "background knowledge",
+        "year": 2014
+      }
+    ],
+    "reach_estimate": "About 5 million cumulative clients (order of magnitude). Basis: organisational claims of more than 100,000 trained clinicians and 'millions' treated, plus routine PTSD use in NHS, VA and European services. Pain-specific reach is far smaller, probably tens of thousands.",
+    "reach_log10": 6.7,
+    "trajectory": [
+      {
+        "year": 1987,
+        "relative_activity": 0.5
+      },
+      {
+        "year": 1989,
+        "relative_activity": 1.5
+      },
+      {
+        "year": 1991,
+        "relative_activity": 2.5
+      },
+      {
+        "year": 1995,
+        "relative_activity": 3.5
+      },
+      {
+        "year": 2000,
+        "relative_activity": 4
+      },
+      {
+        "year": 2005,
+        "relative_activity": 4.5
+      },
+      {
+        "year": 2010,
+        "relative_activity": 5
+      },
+      {
+        "year": 2013,
+        "relative_activity": 5.5
+      },
+      {
+        "year": 2015,
+        "relative_activity": 6
+      },
+      {
+        "year": 2018,
+        "relative_activity": 7
+      },
+      {
+        "year": 2020,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2021,
+        "relative_activity": 8.5
+      },
+      {
+        "year": 2023,
+        "relative_activity": 9
+      },
+      {
+        "year": 2025,
+        "relative_activity": 9.5
+      },
+      {
+        "year": 2026,
+        "relative_activity": 9.5
+      }
+    ],
+    "method_notes": "The trajectory is anchored on founding milestones (1987 observation, 1989 papers, 1990 Institute, 1995 EMDRIA and the first textbook) and guideline endorsements (WHO 2013, NICE/ISTSS 2018). It also uses PubMed annual publication counts queried this session, which rose ~13-fold from 1995 to 2025, and the 2021 Prince Harry media spike. Reach comes from organisational claims (over 100,000 clinicians, 'millions' treated) and is discounted to ~5 million. WebSearch quota was exhausted, so Reddit, Google Trends and social-media metrics could not be retrieved; the trajectory after 2020 is a judgment based on the PubMed growth and media coverage."
+  },
+  "sources": [
+    "https://www.emdria.org/about-emdr-therapy/",
+    "https://www.emdria.org/emdr-training/",
+    "https://www.emdr.com/history-of-emdr/",
+    "https://www.emdr.com/what-is-emdr/",
+    "https://doi.org/10.1002/jts.2490020207",
+    "https://pubmed.ncbi.nlm.nih.gov/2576656/",
+    "https://pubmed.ncbi.nlm.nih.gov/11393607/",
+    "https://pubmed.ncbi.nlm.nih.gov/23266601/",
+    "https://pubmed.ncbi.nlm.nih.gov/24338345/",
+    "https://pubmed.ncbi.nlm.nih.gov/38173121/",
+    "https://pubmed.ncbi.nlm.nih.gov/20458374/",
+    "https://pubmed.ncbi.nlm.nih.gov/28066274/",
+    "https://pubmed.ncbi.nlm.nih.gov/28368869/",
+    "https://pubmed.ncbi.nlm.nih.gov/30319285/",
+    "https://pubmed.ncbi.nlm.nih.gov/38835548/",
+    "https://pubmed.ncbi.nlm.nih.gov/40627223/",
+    "https://pubmed.ncbi.nlm.nih.gov/42837716/",
+    "https://pubmed.ncbi.nlm.nih.gov/24308821/",
+    "https://pubmed.ncbi.nlm.nih.gov/40735790/",
+    "https://pubmed.ncbi.nlm.nih.gov/38455119/",
+    "https://pubmed.ncbi.nlm.nih.gov/42150933/",
+    "https://www.nice.org.uk/guidance/ng116",
+    "https://pubmed.ncbi.nlm.nih.gov/11098395/",
+    "https://pubmed.ncbi.nlm.nih.gov/10225508/",
+    "https://pubmed.ncbi.nlm.nih.gov/23987561/",
+    "https://en.wikipedia.org/wiki/Francine_Shapiro"
+  ]
+}

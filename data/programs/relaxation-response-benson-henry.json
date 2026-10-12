@@ -1,0 +1,140 @@
+{
+  "slug": "relaxation-response-benson-henry",
+  "name": "Relaxation Response / SMART-3RP (Benson-Henry Institute)",
+  "url": "https://bensonhenryinstitute.org/",
+  "founders": [
+    "Herbert Benson, MD (1935-2022), Harvard cardiologist",
+    "Elyse R. Park, PhD, MPH (3RP/SMART-3RP curriculum)"
+  ],
+  "founded_year": 1975,
+  "founded_year_range": "1968-1975: RR physiology research 1968-74 (with TM researcher R. Keith Wallace), book 1975. Mind/Body Medical Institute 1988; BHI at MGH 2006; 3RP manualized about 2010-2013.",
+  "category": "hypnosis/relaxation",
+  "delivery": ["clinician-delivered", "group", "book", "online course", "clinician training/certification", "audio recordings"],
+  "business_model": "clinician-delivered (fee-for-service)",
+  "cost_summary": "No patient price is posted. SMART is 3 individual visits (billed to insurance) plus 8 weekly 2-h groups (self-pay). BHI's clinician-certification fee schedule (Oct 2024) lists the SMART 8-session class at $700, a trainee line item and the best proxy for the group price. The Harvard CME course costs $975 ($875 for residents; 2026). BHI states full certification costs about $8,725-9,210. The core RR technique is free or the price of a book (about $10-17).",
+  "cost_usd_typical": 700,
+  "conditions_claimed": ["general stress/wellbeing", "anxiety", "depression", "headache/migraine", "chronic pain (general)", "TMD/jaw", "insomnia", "fatigue", "IBS/functional GI", "IBD", "autoimmune disorders", "skin conditions", "asthma/allergy", "somatic symptom disorder", "hypertension", "cardiac disease", "infertility", "menopausal symptoms", "cancer-related distress", "neurofibromatosis"],
+  "conditions_primary": ["general stress/wellbeing", "anxiety", "chronic pain (general)", "IBS/functional GI"],
+  "differentiation": "mostly unified with condition-specific emphasis",
+  "mechanisms": ["stress / HPA axis", "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")", "inflammation / immune", "fear-avoidance / catastrophizing / cognitive appraisal", "mitochondrial / metabolic / cell danger response", "expectation/belief (\"remembered wellness\")"],
+  "mechanism_summary": "Chronic or repeated activation of Cannon's fight-or-flight response (sympathetic arousal, stress hormones) is held to cause or worsen many conditions. The relaxation response is an innate counter-state: lower metabolism, heart rate, breathing rate and BP, and reduced noradrenergic responsiveness. Two elements elicit it: a repetitive mental focus and passive disregard of intruding thoughts. Later work added genomic claims, from small, preliminary studies, that NF-kB inflammatory genes are downregulated and energy-metabolism genes upregulated, and the role of belief (\"remembered wellness\"). The 3RP resiliency model combines RR physiology with stress awareness, cognitive appraisal, positive psychology and lifestyle. Stress is framed as an aggravator across many diseases, including organic ones, not as the single cause of a unified syndrome.",
+  "roots": ["Transcendental Meditation (Vedic mantra meditation)", "Hindu yoga/pranayama", "Cannon fight-or-flight physiology", "Selye stress theory", "autogenic training / Relaxation Response", "Jacobson progressive relaxation", "biofeedback (1960s-70s)", "Buddhist vipassana/insight meditation", "Daoist qigong/tai chi", "CBT (Beck/Ellis)", "life coaching / positive psychology"],
+  "techniques": [
+    "Relaxation response elicitation: repetitive word/phrase/prayer/breath focus with passive disregard of thoughts, 10-20 min once or twice daily",
+    "Diaphragmatic breathing and 'mini-relaxations'",
+    "Body scan and progressive muscle relaxation",
+    "Guided imagery, mindful awareness, self-hypnosis",
+    "Yoga, tai chi, qigong classes",
+    "Stress awareness monitoring (warning signs, triggers)",
+    "CBT-style cognitive restructuring and adaptive coping",
+    "Positive psychology (gratitude, optimism, humor, empathy)",
+    "Healthy lifestyle: sleep, nutrition, physical activity, social support",
+    "Condition-specific groups (GI, cardiac ICR, cancer, fertility, menopause, aging)",
+    "SMART-3RP format: 3 individual visits plus 8 weekly 2-h groups (research versions 8-9 x 1.5 h)"
+  ],
+  "mainstream_adoption": "substantial",
+  "mainstream_notes": "Housed at Massachusetts General Hospital/Harvard Medical School since 2006 (Mind/Body Medical Institute from 1988). It runs the annual Harvard CME 'Herbert Benson, MD Course in Mind Body Medicine' (22-24 Oct 2026), and about 155 SMART-certified practitioners are listed in the US and 13 other countries. The Benson-Henry Institute Cardiac Wellness Program is one of only three CMS-approved Medicare intensive cardiac rehab programs, effective 6 May 2014 (verified). The RR is a standard element of behavioral medicine, nursing and primary-care stress management. No guideline body endorses the branded SMART-3RP specifically.",
+  "insurance": "sometimes/indirect",
+  "insurance_notes": "Individual SMART intake appointments are 'reimbursed by most insurers'; SMART group sessions are self-pay. The cardiac program is covered under the Medicare intensive cardiac rehab benefit (CMS national coverage determination, effective 6 May 2014).",
+  "evidence_level": "multiple RCTs",
+  "key_trials": [
+    {
+      "citation": "Vranceanu AM, Riklin E, Merker VL, Macklin EA, Park ER, Plotkin SR. Mind-body therapy via videoconferencing in patients with neurofibromatosis: an RCT. Neurology 2016;87(8):806-814 (PMID 27449066)",
+      "design": "RCT, 3RP-NF via videoconference vs attention control (health education); developer-run",
+      "n": 63,
+      "finding": "Greater improvement than control in physical-health, social and environmental QoL and anxiety, maintained at 6 months. Psychological QoL p=0.056. Depression improved equally in both arms; pain did not improve more than control. Non-target population.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27449066/"
+    },
+    {
+      "citation": "Kuo B, Bhasin M, Jacquart J, et al. Genomic and clinical effects associated with a relaxation response mind-body intervention in patients with IBS and IBD. PLoS One 2015;10(4):e0123861 (PMID 25927528; NCT02136745; correction PLoS One 2017;12(2):e0172872)",
+      "design": "Single-arm open-label pilot; 9 weekly 1.5-h RR mind-body groups",
+      "n": 48,
+      "finding": "IBS (n=19): IBS-SSI 215 to 128 at wk10 (p<0.001), 147 at wk13; IBS-QOL improved. Trait anxiety and pain catastrophizing fell in both IBS and IBD; no change in BPI, CRP or ESR. Blood transcriptome changes centered on NF-kB. Uncontrolled; 9 withdrew (4 IBS, 5 IBD).",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0123861"
+    },
+    {
+      "citation": "Keefer L, Blanchard EB. The effects of relaxation response meditation on the symptoms of irritable bowel syndrome: results of a controlled treatment study. Behav Res Ther 2001;39(7):801-811 (PMID 11419611)",
+      "design": "Small pair-matched randomized trial, 6 weeks of Benson RR meditation (15 min twice daily) vs symptom-monitoring waitlist; independent (non-BHI) group; generic RR technique",
+      "n": 16,
+      "finding": "13 completed. Meditation beat the control on composite IBS symptoms (p=0.04). Flatulence and belching improved post-treatment; flatulence, belching, bloating and diarrhea improved at 3-month follow-up. A 1-year follow-up (2002) is recalled, not re-verified.",
+      "url": "https://doi.org/10.1016/s0005-7967(00)00078-4"
+    },
+    {
+      "citation": "Stahl JE, Dossett ML, LaJoie AS, Denninger JW, Mehta DH, Goldman R, Fricchione GL, Benson H. Relaxation Response and Resiliency Training and Its Effect on Healthcare Resource Utilization. PLoS One 2015;10(10):e0140212",
+      "design": "Retrospective propensity-matched cohort (4,452 3RP participants vs 13,149 controls)",
+      "n": 17601,
+      "finding": "Billable encounters fell 43% in the year after 3RP (53.5 to 30.5 per year). In high utilizers, the reductions exceeded controls by 18-25% across categories. Observational, with in-house authors; some figures are reported inconsistently between the abstract and results.",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140212"
+    },
+    {
+      "citation": "Bhasin MK, Dusek JA, Chang BH, et al. Relaxation response induces temporal transcriptome changes in energy metabolism, insulin secretion and inflammatory pathways. PLoS One 2013;8(5):e62817",
+      "design": "Mechanistic study: 26 healthy novices before and after 8 wks RR training (self-controlled), plus 26 long-term practitioners (cross-sectional)",
+      "n": 52,
+      "finding": "Single RR sessions were associated with upregulated energy-metabolism, ATP synthase and insulin genes and downregulated NF-kB-related inflammatory genes, more so in long-term practitioners. Small, peripheral blood; the authors call the findings preliminary.",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0062817"
+    },
+    {
+      "citation": "Caudill M, Schnable R, Zuttermeister P, Benson H, Friedman R. Decreased clinic use by chronic pain patients: response to behavioral medicine intervention. Clin J Pain 1991;7(4):305-310",
+      "design": "Uncontrolled pre/post clinical cohort",
+      "n": 109,
+      "finding": "Clinic visits fell 36% in the year after an RR-based outpatient behavioral medicine program, with reductions persisting at 2 years in the first 50 patients. Estimated net savings.",
+      "url": "https://doi.org/10.1097/00002508-199112000-00009"
+    },
+    {
+      "citation": "Park ER, Traeger L, Vranceanu AM, et al. The development of a patient-centered program based on the relaxation response: the Relaxation Response Resiliency Program (3RP). Psychosomatics 2013;54(2):165-174",
+      "design": "Program development/description",
+      "n": null,
+      "finding": "Defines the 3RP components (RR elicitation, stress awareness, adaptive strategies, healthy lifestyle); not an outcome trial.",
+      "url": "https://doi.org/10.1016/j.psym.2012.09.001"
+    }
+  ],
+  "controversy": "The TM movement disputed what it saw as Benson's secularized repackaging of TM. Benson led the Templeton-funded STEP intercessory prayer trial (Am Heart J 2006), which was null overall, with more complications in patients told they were prayed for; the trial drew public criticism. Claims run ahead of the data: the weakly sourced '60-90% of doctor visits are stress-related' statistic, gene-expression 'switching' claims from small samples, and cost-savings claims from retrospective billing data. Nearly all branded-program evaluations are by BHI-affiliated investigators. It is less contentious than brain-retraining programs because it is positioned as an adjunct and does not claim to cure contested or organic illnesses.",
+  "popularity": {
+    "indicators": [
+      {"metric": "Book copies in print (all Benson books)", "value": ">5 million, many languages", "source": "Wikipedia: Herbert Benson", "year": null},
+      {"metric": "Top self-help book recommended by clinical psychologists (national survey)", "value": "#1 (The Relaxation Response)", "source": "NYT 1986 via Wikipedia: The Relaxation Response", "year": 1986},
+      {"metric": "3RP participants in MGH utilization dataset", "value": "4,452", "source": "Stahl et al. PLoS One 2015", "year": 2015},
+      {"metric": "Patients treated per year at BHI", "value": "'thousands'", "source": "bensonhenryinstitute.org/mission-history", "year": 2026},
+      {"metric": "SMART-certified practitioners listed", "value": "~155 (about 130 US, about 26 in 13 other countries)", "source": "bensonhenryinstitute.org certified practitioner list", "year": 2026},
+      {"metric": "Annual Harvard CME course attendance", "value": "'hundreds of clinicians'", "source": "bensonhenryinstitute.org/training-live-cme-course", "year": 2026},
+      {"metric": "Published research entries on BHI site", "value": "~110 distinct papers", "source": "bensonhenryinstitute.org/research-published-research", "year": 2026}
+    ],
+    "reach_estimate": "~3-10 million people. Book readership dominates (>5 million Benson books in print, plus wide secondary teaching of the RR in nursing and psychology); direct BHI clinical reach is in the tens of thousands (thousands per year since 1988).",
+    "reach_log10": 6.7,
+    "trajectory": [
+      {"year": 1970, "relative_activity": 2}, {"year": 1972, "relative_activity": 4}, {"year": 1974, "relative_activity": 6},
+      {"year": 1975, "relative_activity": 9}, {"year": 1976, "relative_activity": 10}, {"year": 1978, "relative_activity": 9},
+      {"year": 1980, "relative_activity": 8}, {"year": 1984, "relative_activity": 8}, {"year": 1986, "relative_activity": 8},
+      {"year": 1988, "relative_activity": 7}, {"year": 1992, "relative_activity": 7}, {"year": 1996, "relative_activity": 7},
+      {"year": 2000, "relative_activity": 6}, {"year": 2003, "relative_activity": 6}, {"year": 2006, "relative_activity": 6},
+      {"year": 2008, "relative_activity": 6}, {"year": 2010, "relative_activity": 5}, {"year": 2013, "relative_activity": 5},
+      {"year": 2015, "relative_activity": 5}, {"year": 2018, "relative_activity": 4}, {"year": 2020, "relative_activity": 4},
+      {"year": 2022, "relative_activity": 4}, {"year": 2024, "relative_activity": 3}, {"year": 2026, "relative_activity": 3}
+    ],
+    "method_notes": "Trajectory is anchored to documented milestones:\n- 1970-74: TM/RR physiology papers\n- 1975-76: bestseller peak\n- 1986: NYT survey ranks it top recommended self-help book\n- 1988: Mind/Body Medical Institute founded\n- 1992-2010: follow-up books\n- 2006: BHI at MGH\n- 2008-2015: genomics papers and media revival\n- 2014: CMS ICR approval\n- 2015: utilization study\n- 2022: Benson's death\n- 2026: about 155 certified practitioners; 'thousands' of patients a year\nThe declining post-2000 slope is a qualitative judgment, with attention moving to mindfulness/MBSR. Google Trends, Reddit and book-sales data were not quantified because web-search quota ran out in both the research and fact-check passes. Reach is based on >5 million Benson books in print plus a secondary-teaching multiplier; direct clinical reach is about 10^4-10^5."
+  },
+  "sources": [
+    "https://bensonhenryinstitute.org/",
+    "https://bensonhenryinstitute.org/mission-history/",
+    "https://bensonhenryinstitute.org/about-us-dr-herbert-benson/",
+    "https://bensonhenryinstitute.org/services-treatments-services/",
+    "https://bensonhenryinstitute.org/smart-program/",
+    "https://bensonhenryinstitute.org/training-apply-for-certification/",
+    "https://bensonhenryinstitute.org/training-smart-certified-healthcare-practitioners/",
+    "https://bensonhenryinstitute.org/training-live-cme-course/",
+    "https://learn.hms.harvard.edu/mindbody",
+    "https://bensonhenryinstitute.org/research-published-research/",
+    "https://www.cms.gov/medicare/medicare-general-information/medicareapprovedfacilitie/icr",
+    "https://www.hhs.gov/guidance/document/intensive-cardiac-rehabilitation-program-benson-henry-institute-cardiac-wellness-program",
+    "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0123861",
+    "https://clinicaltrials.gov/study/NCT02136745",
+    "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140212",
+    "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0062817",
+    "https://pubmed.ncbi.nlm.nih.gov/27449066/",
+    "https://doi.org/10.1016/s0005-7967(00)00078-4",
+    "https://doi.org/10.1097/00002508-199112000-00009",
+    "https://doi.org/10.1016/j.psym.2012.09.001",
+    "https://en.wikipedia.org/wiki/Herbert_Benson",
+    "https://en.wikipedia.org/wiki/The_Relaxation_Response"
+  ]
+}

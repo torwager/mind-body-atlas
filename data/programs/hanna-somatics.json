@@ -1,0 +1,97 @@
+{
+  "slug": "hanna-somatics",
+  "name": "Hanna Somatic Education / Clinical Somatics (incl. Somatic Movement Center, Essential Somatics)",
+  "url": "https://www.associationforhannasomaticeducation.com/",
+  "founders": ["Thomas Hanna (1928-1990)", "Eleanor Criswell Hanna", "Sarah Warren (Somatic Movement Center)", "Martha Peterson (Essential Somatics)"],
+  "founded_year": 1975,
+  "founded_year_range": "1975 (Novato Institute founded by Thomas Hanna and Eleanor Criswell Hanna). Somatics book 1988; first HSE training 1990; AHSE 501(c)(3) 1998; Essential Somatics site ~2008; Somatic Movement Center 2010 (Wayback)",
+  "category": "somatic/movement practice",
+  "delivery": ["clinician-delivered (certified practitioner, hands-on)", "group", "online course", "book", "free YouTube videos", "workshops/retreats"],
+  "business_model": "freemium/hybrid",
+  "cost_summary": "Somatic Movement Center online: Level One $45, Level Two $75, combo $95 (lifetime access); instructor (CEI) training $575 + $475 + $475. Essential Somatics Move With Ease $249 or 3x$87. Private HSE sessions are not priced on the sites (approx. $100-175 per session, unverified). Novato practitioner training: 324 h in 6 modules over ~3 yr, tuition not posted. Prices verified Oct 2026.",
+  "cost_usd_typical": 95,
+  "conditions_claimed": ["chronic back/neck pain", "chronic pain (general)", "TMD/jaw", "headache/migraine", "general stress/wellbeing", "anxiety", "sciatica/radiculopathy", "posture/scoliosis", "repetitive strain/tendinopathy", "whiplash", "aging stiffness/balance", "PTSD/trauma"],
+  "conditions_primary": ["chronic back/neck pain", "chronic pain (general)", "general stress/wellbeing"],
+  "differentiation": "mostly unified with condition-specific emphasis",
+  "mechanisms": ["sensorimotor / movement patterns / body schema", "stress / HPA axis", "attention & interoception / hypervigilance", "conditioning / classical learning"],
+  "mechanism_summary": "Sensory-Motor Amnesia: repeated stress (injury, surgery, repetitive tasks, emotional stress) produces habituated, involuntary muscle contraction that the sensorimotor cortex can no longer sense or release. The patterns follow three stress reflexes: Red Light (flexor/withdrawal), Green Light (extensor/action) and Trauma (asymmetric guarding). The tight muscles compress joints and nerves, causing pain, stiffness and the posture usually blamed on aging. Voluntary pandiculation (contract, slow release, rest) is said to restore central control and reset resting tone. This is a learned sensorimotor-habit model, not a central-sensitisation model.",
+  "roots": ["Feldenkrais / Alexander / somatics", "Selye stress theory", "biofeedback (1960s-70s)", "phenomenology / humanistic psychology (human potential movement)", "reflex physiology (startle/Landau reflexes)"],
+  "techniques": ["pandiculation (voluntary contract-slow release-rest)", "assisted pandiculation (hands-on)", "Hanna 'Cat Stretch' / Myths of Aging daily routine (arch and flatten, arch and curl, side bend, washrag, human X, flowers, walking)", "reflex-specific protocols (Red Light, Green Light, Trauma reflex)", "postural and gait assessment", "home exercise practice, ~daily 10-20 min", "proprioceptive exercises", "staged online courses over 2-3 months"],
+  "mainstream_adoption": "limited",
+  "mainstream_notes": "No guideline endorsement. The only documented institutional use is a nurse-run program at Johns Hopkins Aramco Healthcare (Saudi Arabia, 2016-18). Pandiculation has been taken up informally by some PTs, massage therapists and yoga teachers. Certification is private (Novato CHSE, Essential Somatics, SMC). The 2023-25 social-media 'somatic exercises' trend broadened its visibility.",
+  "insurance": "no",
+  "insurance_notes": "Paid out of pocket. Coverage is possible only indirectly if a licensed PT delivers it as billable neuromuscular re-education (unverified).",
+  "evidence_level": "case reports/observational only",
+  "key_trials": [
+    {
+      "citation": "Huang Q, Babgi AA. Effect of Hanna Somatic Education on Low Back and Neck Pain Levels. Saudi J Med Med Sci 2022;10(3):266-271. doi:10.4103/sjmms.sjmms_580_21. PMID 36247048",
+      "design": "Retrospective uncontrolled records review, Jan 2016-Jan 2018; 2-5 one-to-one sessions (mean 2.8; 60 min first, 40 min follow-up) over 2-8 weeks; delivered by a nurse/certified HSE practitioner (first author)",
+      "finding": "Wong-Baker FACES pain fell from 3.2 to 0.6 (0-5 scale; P<0.001; ~80% relative reduction). Patients using pain medication fell from 53 to 14 and doctor visits from 2.0 to 0.5 per 6 months. No control group; 137 of 240 screened were excluded (20 for no follow-up). AHSE site misstates N as 108.",
+      "n": 103,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36247048/"
+    },
+    {
+      "citation": "Posner G. A Survey of Hanna Somatic Education Clients. Somatics Magazine-Journal (not PubMed-indexed)",
+      "design": "Retrospective client survey (self-selected)",
+      "finding": "Self-reported ~44% reduction in symptom severity, unrelated to the number of sessions or the amount of home practice",
+      "n": null,
+      "url": "https://www.associationforhannasomaticeducation.com/research-projects"
+    },
+    {
+      "citation": "NCT07618143: The Effects of Somatic-Based Chair Exercises on Balance, Pain, and Quality of Life in the Elderly (Istanbul Gedik University / Medipol University)",
+      "design": "Registered 2-arm RCT (35/arm), 8 weeks twice weekly vs conventional ROM/static stretching; not yet recruiting (planned start 25 June 2026). Generic somatic chair program citing Hanna/pandiculation, not a branded HSE protocol",
+      "finding": "No results",
+      "n": 70,
+      "url": "https://clinicaltrials.gov/study/NCT07618143"
+    }
+  ],
+  "controversy": "Sensory-Motor Amnesia and the three-reflex taxonomy rest on Hanna's clinical observation and have never been validated with EMG or imaging. The condition lists are expansive (scoliosis, disc healing, carpal tunnel, stroke recovery) and supported mainly by testimonials and in-house self-selected surveys (SMC, N=2,268). The peripheral muscle-tension model of chronic pain conflicts with modern pain-neuroscience accounts. The broader 'somatic exercise' social-media trend has been criticised for vague trauma-release claims. The method is low-risk and low-cost.",
+  "popularity": {
+    "indicators": [
+      {"metric": "YouTube subscribers, Somatic Movement Center", "value": "57.2K (51 videos)", "source": "youtube.com/@SomaticMovementCenter", "year": 2026},
+      {"metric": "YouTube subscribers, Essential Somatics", "value": "45.1K (197 videos)", "source": "youtube.com/@EssentialSomatics", "year": 2026},
+      {"metric": "SMC student outcome survey respondents", "value": "2,268 (2019-2024)", "source": "somaticmovementcenter.com/student-survey-results", "year": 2024},
+      {"metric": "Book Somatics (Hanna) in print", "value": "since 1988, multiple editions", "source": "Open Library", "year": 1988},
+      {"metric": "Peer-reviewed publications (PubMed) on HSE", "value": "1", "source": "PubMed E-utilities", "year": 2022},
+      {"metric": "Website first captures", "value": "hannasomatics.com 2001; essentialsomatics.com 2008; somaticmovementcenter.com 2010", "source": "Wayback Machine CDX", "year": null}
+    ],
+    "reach_estimate": "~10^5.5 (~300k) people. Basis: a few hundred practitioners each seeing hundreds of clients over 50 years; a book in print since 1988 (likely ~100k+ copies, unverified); SMC and Essential Somatics online courses with thousands to tens of thousands of enrollees (a 2,268-respondent survey of completers implies a far larger enrolled base); ~100k YouTube subscribers across the two channels, with likely millions of video views. Excludes the wider generic 'somatic exercise' social-media audience. Coarse; not independently verified.",
+    "reach_log10": 5.5,
+    "trajectory": [
+      {"year": 1975, "relative_activity": 1.5}, {"year": 1980, "relative_activity": 2}, {"year": 1985, "relative_activity": 2},
+      {"year": 1988, "relative_activity": 3}, {"year": 1990, "relative_activity": 3}, {"year": 1995, "relative_activity": 2},
+      {"year": 2000, "relative_activity": 2}, {"year": 2005, "relative_activity": 2.5}, {"year": 2008, "relative_activity": 3},
+      {"year": 2010, "relative_activity": 3}, {"year": 2012, "relative_activity": 3.5}, {"year": 2014, "relative_activity": 4},
+      {"year": 2016, "relative_activity": 4.5}, {"year": 2018, "relative_activity": 5}, {"year": 2019, "relative_activity": 5.5},
+      {"year": 2020, "relative_activity": 6}, {"year": 2021, "relative_activity": 6.5}, {"year": 2022, "relative_activity": 7},
+      {"year": 2023, "relative_activity": 8.5}, {"year": 2024, "relative_activity": 9.5}, {"year": 2025, "relative_activity": 9},
+      {"year": 2026, "relative_activity": 8.5}
+    ],
+    "method_notes": "Trajectory anchored on documented events: Novato Institute 1975; Somatics book 1988; first training and Hanna's death 1990; AHSE 501(c)(3) 1998 (IRS letter verified); Wayback first captures (2001, 2008, 2010); SMC survey start 2019 and Warren's book ~2019; first PubMed paper 2022. The 2023-25 peak reflects the widely reported social-media 'somatic exercises' trend, which was not quantified here because web search and Google Trends were unavailable this session (search budget exhausted) and Reddit's API blocked access. YouTube counts were scraped 2026-10-12. Values are relative within the program and coarse."
+  },
+  "sources": [
+    "https://www.associationforhannasomaticeducation.com/",
+    "https://www.associationforhannasomaticeducation.com/learn-more",
+    "https://www.associationforhannasomaticeducation.com/faq",
+    "https://www.associationforhannasomaticeducation.com/about-our-association",
+    "https://www.associationforhannasomaticeducation.com/research-projects",
+    "https://somaticmovementcenter.com/",
+    "https://somaticmovementcenter.com/learn-somatics-exercises/",
+    "https://somaticmovementcenter.com/what-conditions-can-clinical-somatics-help/",
+    "https://somaticmovementcenter.com/student-survey-results/",
+    "https://somaticmovementcenter.com/clinical-somatics-research-study/",
+    "https://somaticmovementcenter.com/clinical-somatics-training/",
+    "https://essentialsomatics.com/clinical-somatic-education/",
+    "https://essentialsomatics.com/move-with-ease/",
+    "https://essentialsomatics.com/our-teaching-team/",
+    "https://pubmed.ncbi.nlm.nih.gov/36247048/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9555036/",
+    "https://pubmed.ncbi.nlm.nih.gov/21665102/",
+    "https://clinicaltrials.gov/study/NCT07618143",
+    "https://en.wikipedia.org/wiki/Thomas_Louis_Hanna",
+    "https://en.wikipedia.org/wiki/Somatics",
+    "https://www.youtube.com/@SomaticMovementCenter",
+    "https://www.youtube.com/@EssentialSomatics",
+    "/Users/f003vz1/Dartmouth College Dropbox/Tor Wager/A10_Mini-Reviews/Mind_Brain_Body_treatments_review/programs/hanna-somatics.md"
+  ]
+}

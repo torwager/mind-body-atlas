@@ -1,0 +1,203 @@
+{
+  "slug": "tai-chi-qigong",
+  "name": "Tai Chi and Qigong programs (Tai Chi for Health Institute; Spring Forest Qigong)",
+  "url": "https://www.taichiforhealthinstitute.org/",
+  "founders": [
+    "Paul Lam, MD (Sydney family physician, UNSW graduate 1974; Tai Chi for Arthritis 1997; Tai Chi for Health Institute 2010)",
+    "Chunyi Lin (Spring Forest Qigong, 'since 1995')"
+  ],
+  "founded_year": 1997,
+  "founded_year_range": "1995-2010 for the branded programs: SFQ 'since 1995', Tai Chi for Arthritis 1997, TCHI 2010 (per official sites). The underlying traditions are centuries old.",
+  "category": "somatic/movement practice",
+  "delivery": ["group", "community classes", "clinician-referred classes", "online course", "DVD/video", "retreat", "instructor certification"],
+  "business_model": "mixed",
+  "cost_summary": "TCHI is a non-profit instructor-certification network. Its community classes are often free or low-cost through Older Americans Act/AAA-funded senior programs (typical, not verified per site). It earns from paid 1-2-day instructor workshops and DVDs (prices not shown on its home page). Spring Forest Qigong is commercial: online courses, monthly subscriptions and 'karmic cleansing' (prices not shown), and a 5-day Intensive Healing Retreat at USD 3,295-3,800 (site, 2026). Generic tai chi/qigong is available free on YouTube or as paid local classes.",
+  "cost_usd_typical": 100,
+  "conditions_claimed": ["chronic pain (general)", "chronic back/neck pain", "fibromyalgia", "ME/CFS", "long COVID", "depression", "anxiety", "insomnia", "general stress/wellbeing", "arthritis/knee OA", "fall prevention", "diabetes", "osteoporosis", "cardiac conditions", "memory/cognition"],
+  "conditions_primary": ["chronic pain (general)", "fibromyalgia", "chronic back/neck pain", "general stress/wellbeing"],
+  "differentiation": "transdiagnostic / not disorder-focused",
+  "mechanisms": [
+    "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")",
+    "sensorimotor / movement patterns / body schema",
+    "attention & interoception / hypervigilance",
+    "stress / HPA axis",
+    "central sensitization",
+    "fear-avoidance / catastrophizing / cognitive appraisal",
+    "inflammation / immune",
+    "qi / energy flow (traditional)"
+  ],
+  "mechanism_summary": "Traditionally, illness reflects blocked or imbalanced qi, and slow movement, breath and intention restore its flow. Spring Forest Qigong adds energy-healing claims. Researchers frame it as multicomponent meditative movement: gentle aerobic, balance and strength exercise with graded exposure to movement; parasympathetic/vagal up-regulation through slow breathing; HPA-axis and inflammatory down-regulation; mindfulness-like body awareness and interoception; and self-efficacy and social support. Fibromyalgia trialists hypothesise effects on central sensitization, but this was not tested mechanistically. No disease-specific mechanisms are proposed.",
+  "roots": ["Daoist qigong/tai chi", "Traditional Chinese Medicine (qi, meridians, yin-yang)", "Chinese martial arts (Chen/Yang/Sun styles)", "Buddhist vipassana/insight meditation", "PRC standardised medical qigong (1950s+)", "geriatric exercise / fall-prevention science"],
+  "techniques": [
+    "Sun-style 12-movement Tai Chi for Arthritis form",
+    "Yang-style simplified forms (e.g., 8-, 10-, 24-form)",
+    "Baduanjin / Eight Brocades qigong",
+    "slow weight-shifting movement",
+    "diaphragmatic breathing coordinated with movement",
+    "mindful body awareness / standing meditation",
+    "warm-up and cool-down qigong",
+    "SFQ Level 1 Active Exercises (6 movements) + guided audio meditation, 30-60 min daily",
+    "SFQ Qi-ssage self-massage, healing circles, energy healing",
+    "group classes 1-2x/week for 8-24 weeks plus home practice"
+  ],
+  "mainstream_adoption": "substantial",
+  "mainstream_notes": "Several guidelines recommend tai chi: the ACP 2017 guideline lists it as a nonpharmacologic option for chronic low back pain, the ACR/AF 2019 guideline strongly recommends it for knee and hip OA, and EULAR 2016 rates meditative movement for fibromyalgia as weak-for. AHRQ reviews (Skelly 2018/2020) include it. CDC and the Arthritis Foundation recommend Tai Chi for Arthritis (and Fall Prevention), and it appears on ACL/NCOA evidence-based program lists. It is offered in VA Whole Health and academic integrative centres (general knowledge, not re-verified). The Yang 2024 virtual LBP RCT had Mayo co-authors but was industry-funded by the lead author's company, so it is not evidence of Mayo adoption. Spring Forest Qigong's mainstream adoption is limited: University of Minnesota feasibility studies only.",
+  "insurance": "sometimes/indirect",
+  "insurance_notes": "Tai chi has no CPT code of its own. Access comes indirectly through Medicare Advantage fitness benefits (e.g., SilverSneakers class menus), Older Americans Act Title III-D funding for evidence-based programs, the VA, and employer wellness programs (general knowledge; not re-fetched). Qigong energy healing is not reimbursed.",
+  "evidence_level": "systematic reviews/meta-analyses",
+  "key_trials": [
+    {
+      "citation": "Wang C et al. A randomized trial of tai chi for fibromyalgia. N Engl J Med 2010;363:743-754. PMID 20818876",
+      "design": "Single-blind RCT, classic Yang-style tai chi vs wellness education + stretching, 12 wk, 2x60 min/wk",
+      "n": 66,
+      "finding": "FIQ fell 18.4 points more than control (p<0.001), and the gap held at 24 weeks (-18.3). SF-36 physical and mental scores improved. No adverse events.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20818876/"
+    },
+    {
+      "citation": "Wang C et al. Effect of tai chi versus aerobic exercise for fibromyalgia: comparative effectiveness RCT. BMJ 2018;360:k851. PMID 29563100",
+      "design": "Single-blind comparative-effectiveness RCT, 4 Yang-style tai chi dose arms (12 or 24 wk, 1x or 2x/wk) vs aerobic exercise 24 wk; 52-wk follow-up",
+      "n": 226,
+      "finding": "Combined tai chi beat aerobic exercise on FIQR at 24 wk: difference 5.5 (95% CI 0.6-10.4), and 16.2 at equal dose. 24 wk of tai chi beat 12 wk; 2x/wk was not better than 1x/wk. Tai chi attendance was higher.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29563100/"
+    },
+    {
+      "citation": "Jones KD et al. A randomized controlled trial of 8-form Tai chi improves symptoms and functional mobility in fibromyalgia patients. Clin Rheumatol 2012;31:1205-14. PMID 22581278",
+      "design": "RCT, FM-modified 8-form Yang-style tai chi vs education, 2x90 min/wk for 12 wk",
+      "n": 101,
+      "finding": "FIQ improved 16.5 vs 3.1 (p=0.0002), with gains in pain, sleep, self-efficacy and mobility. No adverse events.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22581278/"
+    },
+    {
+      "citation": "Hall AM, Maher CG, Lam P, Ferreira M, Latimer J. Tai chi exercise for treatment of pain and disability in people with persistent low back pain: RCT. Arthritis Care Res 2011;63:1576-83. PMID 22034119",
+      "design": "Pragmatic RCT, tai chi (Paul Lam co-author) vs waitlist, 18 x 40 min over 10 wk",
+      "n": 160,
+      "finding": "Bothersomeness fell 1.7/10, pain 1.3/10 and RMDQ 2.6/24 vs waitlist.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22034119/"
+    },
+    {
+      "citation": "Callahan LF et al. Evaluation of Tai Chi Program Effectiveness for People with Arthritis in the Community: RCT. J Aging Phys Act 2016;24:101-10. PMID 26099162",
+      "design": "Community RCT of the Arthritis Foundation Tai Chi Program (AF-licensed Tai Chi for Arthritis) vs waitlist, 8 wk; 1-yr self-report follow-up",
+      "n": 343,
+      "finding": "Balance by reach (ES 0.30) and helplessness, sleep and role satisfaction (ES 0.24-0.54) improved. Pain, fatigue and stiffness (ES 0.15-0.23) only approached significance. No change in mobility, strength or single-leg balance. Gains were maintained at 1 yr (uncontrolled).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26099162/"
+    },
+    {
+      "citation": "Lynch M, Sawynok J, Hiew C, Marcon D. A randomized controlled trial of qigong for fibromyalgia. Arthritis Res Ther 2012;14:R178. PMID 22863206",
+      "design": "RCT, immediate vs delayed Chaoyi Fanhuan qigong vs waitlist/usual care, 8 wk + 45-60 min/day home practice, 6-mo follow-up",
+      "n": 100,
+      "finding": "Pain, impact, sleep and physical and mental function improved, sustained to 6 mo. A post hoc per-protocol analysis found more benefit with fuller practice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22863206/"
+    },
+    {
+      "citation": "Chan JS et al. Effects of qigong exercise on fatigue, anxiety, and depressive symptoms of patients with CFS-like illness: RCT. eCAM 2013:485341. PMID 23983785",
+      "design": "RCT, qigong (Baduanjin) 10 sessions over 5 wk + 12 wk home practice vs waitlist",
+      "n": 137,
+      "finding": "Total and physical fatigue and depression fell. Mental fatigue was marginal (p=0.05). Anxiety did not change.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23983785/"
+    },
+    {
+      "citation": "Ho RT et al. RCT of qigong exercise on fatigue symptoms, functioning, and telomerase activity in persons with chronic fatigue or CFS. Ann Behav Med 2012;44:160-70. PMID 22736201",
+      "design": "RCT, 4-mo qigong vs waitlist",
+      "n": 64,
+      "finding": "Fatigue and mental functioning improved, and telomerase activity rose. Physical functioning was not reported as improved.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22736201/"
+    },
+    {
+      "citation": "Markwart M et al. Qigong and Tai Chi for ME/CFS: A Systematic Review of RCTs. Glob Adv Integr Med Health 2024;13:27536130241275607. PMID 39524182",
+      "design": "Systematic review (no meta-analysis)",
+      "n": 481,
+      "finding": "5 qigong RCTs (2012-2023) and no tai chi RCTs found. Verdict: promising yet understudied; calls for standardized ME/CFS eligibility criteria.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39524182/"
+    },
+    {
+      "citation": "Wang C et al. Comparative Effectiveness of Tai Chi Versus Physical Therapy for Knee Osteoarthritis. Ann Intern Med 2016;165:77-86. PMID 27183035",
+      "design": "RCT, tai chi vs PT, 12 wk",
+      "n": 204,
+      "finding": "WOMAC improvement was equivalent. Tai chi improved depression more.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27183035/"
+    },
+    {
+      "citation": "Yang Y et al. A Tai chi and qigong mind-body program for low back pain: a virtually delivered RCT. N Am Spine Soc J 2024;20:100557. PMID 39469294",
+      "design": "RCT, 12-wk live-online Chen-style tai chi + Hunyuan qigong + meditation (2x60 min/wk) vs waitlist; led by Center for Taiji and Qigong Studies (NY), funded by the lead author's company Qi Balance LLC; Mayo/Weill Cornell co-authors",
+      "n": 350,
+      "finding": "ODI improved by 4.7 at 8 wk, 6.4 at 12 wk and 8.1 at 16 wk vs control (p<.01). About 30% attrition.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39469294/"
+    },
+    {
+      "citation": "Dietzel J et al. Acupressure and Qigong in post-infectious fatigue with impaired physical function: a randomized clinical trial. Front Med (Lausanne) 2026;13:1872035. PMID 42638691",
+      "design": "Open-label RCT (ACUQiG, Charite Berlin), 8 wk daily self-acupressure + twice-weekly online qigong vs self-care leaflet, post-COVID fatigue",
+      "n": 235,
+      "finding": "Null on primary outcome: SF-36 physical function difference 4.2 (95% CI -0.9 to 9.4, p=0.11). Chalder fatigue slightly better (p=0.04). Some symptom aggravation occurred.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42638691/"
+    },
+    {
+      "citation": "Coleman JF. Spring Forest Qigong and chronic pain: making a difference. J Holist Nurs 2011;29:118-28. PMID 21062951",
+      "design": "Uncontrolled mixed-methods pilot, SFQ Level 1, 30 min/day x 8 wk (122 oriented, 86 analysed)",
+      "n": 86,
+      "finding": "Reported significant symptom improvement. No control group, and the abstract gives no effect sizes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21062951/"
+    }
+  ],
+  "controversy": "Qi and meridian theory has no demonstrated physical basis. Spring Forest Qigong's energy-healing, distant-healing and 'karmic cleansing' offerings, and its testimonials of cancer and Parkinson's recovery, are unsupported. The Chinese qigong-fever era included fraudulent masters. The trials cannot blind participants, mostly use waitlist or education controls, are often small and high-risk-of-bias, and are highly heterogeneous. Several trials were run or funded by practitioners (Yang 2024 by the lead author's company; Lam co-authored Hall 2011). The ME/CFS qigong trials come mostly from one Hong Kong group using 'CFS-like illness' samples without PEM criteria. The first large long-COVID RCT (Dietzel 2026) was null on its primary outcome and reported some symptom aggravation. TCHI's 'CDC-supported' marketing applies to arthritis and falls only, not to its other condition-labelled programs. The best branded-program trial (Callahan 2016) found only modest effects, with pain not significantly improved.",
+  "popularity": {
+    "indicators": [
+      {"metric": "People who learned Paul Lam programs (self-reported)", "value": ">10 million worldwide by 2020", "source": "TCHI Dr Paul Lam bio page", "year": 2020},
+      {"metric": "Instructional DVDs / online clips", "value": "20+ DVDs; 15 health programs (bio also says 'ten'), 650+ video clips", "source": "TCHI Paul Lam bio", "year": 2026},
+      {"metric": "CDC/Arthritis Foundation endorsement", "value": "Tai Chi for Arthritis and Fall Prevention 'recommended' by CDC and Arthritis Foundation (TCHI claim)", "source": "TCHI home page", "year": 2026},
+      {"metric": "Fibromyalgia tai chi publications in PubMed", "value": "Meta-analyses roughly every 1-3 years (e.g., 2013, 2019, 2024, 2026)", "source": "PubMed search", "year": 2026},
+      {"metric": "Qigong RCTs in ME/CFS", "value": "5 RCTs, N=481", "source": "Markwart 2024 SR", "year": 2024},
+      {"metric": "SFQ retreat price", "value": "USD 3,295-3,800 for a 5-day retreat", "source": "springforestqigong.com", "year": 2026}
+    ],
+    "reach_estimate": "Tens of millions cumulatively for tai chi/qigong in the West (NHIS: roughly 1-2% of US adults practise; unverified figure). Lam programs claim >10 million (self-reported, unaudited). Spring Forest Qigong probably 10^4-10^5 (no published numbers).",
+    "reach_log10": 7.3,
+    "trajectory": [
+      {"year": 1970, "relative_activity": 3},
+      {"year": 1980, "relative_activity": 4},
+      {"year": 1990, "relative_activity": 4.5},
+      {"year": 1995, "relative_activity": 5},
+      {"year": 1997, "relative_activity": 5},
+      {"year": 2000, "relative_activity": 5.5},
+      {"year": 2005, "relative_activity": 6},
+      {"year": 2008, "relative_activity": 6.5},
+      {"year": 2010, "relative_activity": 7.5},
+      {"year": 2012, "relative_activity": 7.5},
+      {"year": 2014, "relative_activity": 7.5},
+      {"year": 2016, "relative_activity": 7.5},
+      {"year": 2018, "relative_activity": 8},
+      {"year": 2020, "relative_activity": 8},
+      {"year": 2021, "relative_activity": 8},
+      {"year": 2022, "relative_activity": 7.5},
+      {"year": 2024, "relative_activity": 7.5},
+      {"year": 2026, "relative_activity": 7.5}
+    ],
+    "method_notes": "Umbrella entry with a long pre-1970 baseline (mass practice in China; Western spread from the 1970s). The trajectory has these steps: Spring Forest Qigong 'since 1995'; Tai Chi for Arthritis launched 1997; DVDs in the 2000s; NCCAM-funded trials and CDC/AF endorsement in the late 2000s; NEJM fibromyalgia trial and TCHI founding in 2010; BMJ trial media spike in 2018; COVID-era virtual classes and qigong long-COVID trials in 2020-26. After that it plateaus. Reach combines Lam's self-reported >10M and approximate NHIS prevalence. NHIS and Google Trends values come from general knowledge and were not re-fetched, because the web-search budget was exhausted (during both research and fact-check). Reddit and social-media metrics were not gathered."
+  },
+  "sources": [
+    "https://www.taichiforhealthinstitute.org/",
+    "https://taichiforhealthinstitute.org/about-dr-paul-lam/",
+    "https://www.springforestqigong.com/",
+    "https://pubmed.ncbi.nlm.nih.gov/20818876/",
+    "https://pubmed.ncbi.nlm.nih.gov/29563100/",
+    "https://pubmed.ncbi.nlm.nih.gov/22581278/",
+    "https://pubmed.ncbi.nlm.nih.gov/22034119/",
+    "https://pubmed.ncbi.nlm.nih.gov/26099162/",
+    "https://pubmed.ncbi.nlm.nih.gov/27183035/",
+    "https://pubmed.ncbi.nlm.nih.gov/22863206/",
+    "https://pubmed.ncbi.nlm.nih.gov/22736201/",
+    "https://pubmed.ncbi.nlm.nih.gov/23983785/",
+    "https://pubmed.ncbi.nlm.nih.gov/25610473/",
+    "https://pubmed.ncbi.nlm.nih.gov/39524182/",
+    "https://pubmed.ncbi.nlm.nih.gov/39469294/",
+    "https://pubmed.ncbi.nlm.nih.gov/42638691/",
+    "https://pubmed.ncbi.nlm.nih.gov/21062951/",
+    "https://pubmed.ncbi.nlm.nih.gov/37719467/",
+    "https://pubmed.ncbi.nlm.nih.gov/36824785/",
+    "https://pubmed.ncbi.nlm.nih.gov/27345663/",
+    "https://pubmed.ncbi.nlm.nih.gov/31905305/",
+    "https://pubmed.ncbi.nlm.nih.gov/31519264/",
+    "https://pubmed.ncbi.nlm.nih.gov/39093008/",
+    "https://pubmed.ncbi.nlm.nih.gov/41605190/",
+    "https://pubmed.ncbi.nlm.nih.gov/40530198/",
+    "https://pubmed.ncbi.nlm.nih.gov/30179389/"
+  ]
+}

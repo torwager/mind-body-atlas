@@ -1,0 +1,305 @@
+{
+  "slug": "somatic-experiencing",
+  "name": "Somatic Experiencing (SE)",
+  "url": "https://traumahealing.org/",
+  "founders": [
+    "Peter A. Levine, PhD (biophysics, UC Berkeley; psychology, International University)"
+  ],
+  "founded_year": 1970,
+  "founded_year_range": "1969-1994. The 1969 origin case is followed by method development in the 1970s (SIBAM model; Levine met Porges in 1978). The trademark was registered in 1989. The Foundation for Human Enrichment (now SEI) dates to about 1994, which the SEI 2020 annual report implies by referring to 'the Institute's 26 years'.",
+  "category": "trauma/emotion-focused therapy",
+  "delivery": [
+    "clinician-delivered",
+    "practitioner training",
+    "book",
+    "audio course",
+    "group"
+  ],
+  "business_model": "clinician-delivered (fee-for-service)",
+  "cost_summary": "Client sessions are priced by each practitioner, roughly US$100-250 per session (estimate, not an SEI figure). The SEI professional training (US, 2026) has 8 modules: six at $1,180 (early $1,130) and two Advanced at $1,650 (early $1,600), for about $10,380 total plus a $49 application fee, 12 h of required personal sessions and 18 h of case consultation paid to providers. The Levine 'Healing Trauma' audio course costs $44 streaming. Books cost about $15-20.",
+  "cost_usd_typical": 2250,
+  "conditions_claimed": [
+    "PTSD/trauma",
+    "general stress/wellbeing",
+    "anxiety",
+    "depression",
+    "chronic pain (general)",
+    "chronic back/neck pain",
+    "headache/migraine",
+    "fibromyalgia",
+    "ME/CFS",
+    "somatic symptom disorder",
+    "addiction/substance use"
+  ],
+  "conditions_primary": [
+    "PTSD/trauma",
+    "general stress/wellbeing",
+    "chronic pain (general)"
+  ],
+  "differentiation": "single unified mechanism",
+  "mechanisms": [
+    "unresolved trauma stored in body",
+    "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")",
+    "polyvagal / vagal tone / safety signalling",
+    "attention & interoception / hypervigilance",
+    "sensorimotor / movement patterns / body schema",
+    "conditioning / classical learning"
+  ],
+  "mechanism_summary": "Trauma symptoms are attributed to thwarted, incomplete defensive responses (fight, flight, freeze). These leave 'survival energy' and autonomic activation bound in the nervous system, producing sympathetic hyperarousal and dorsal-vagal shutdown or dissociation (polyvagal framing). Payne, Levine and Crane-Godreau (2015) recast this as dysregulation of a subcortical 'core response network' of autonomic, limbic, motor and arousal systems. Persisting activation is proposed to drive somatic symptoms such as chronic pain, migraine, fibromyalgia and fatigue. The model is a single transdiagnostic mechanism; it is differentiated only by trauma type (shock vs developmental) and autonomic state, not by diagnosis.",
+  "roots": [
+    "Somatic Experiencing / ethology",
+    "Reichian body psychotherapy",
+    "Feldenkrais / Alexander / somatics",
+    "polyvagal theory",
+    "Selye stress theory",
+    "behaviorism / classical conditioning",
+    "Pavlov"
+  ],
+  "techniques": [
+    "resourcing and grounding",
+    "tracking the felt sense (interoceptive/proprioceptive attention)",
+    "titration (small doses of activation)",
+    "pendulation between activation and resource",
+    "completion of thwarted defensive responses (slow-motion movements, impulses)",
+    "allowing autonomic discharge (trembling, breath, heat)",
+    "orienting to the environment",
+    "renegotiation of traumatic event",
+    "SIBAM coupling/uncoupling",
+    "consensual supportive touch",
+    "self-holding, 'voo' breath, body-boundary tapping (self-help)",
+    "brief/single-session and group adaptations (Trauma Resiliency Model)"
+  ],
+  "mainstream_adoption": "limited",
+  "mainstream_notes": "Widely used by licensed therapists and in disaster response. SEI trained about 6-7k students per year (2019-2020); Levine's site claims 30,000+ trained in 42+ countries, and somaticexperiencing.com says training is available in 54 countries / 42 languages. SE is not in NICE, VA/DoD, APA or ISTSS PTSD guidelines; Bisson et al. 2020 rate it 'emerging evidence' (based on one trial, GRADE very uncertain), not for routine use. It has been tested in Danish public spine-centre and Israeli trauma-centre trials. SEI regained NBCC continuing-education provider approval in May 2026 for select modules.",
+  "insurance": "sometimes/indirect",
+  "insurance_notes": "There is no SE-specific billing code. Sessions are reimbursable only when a licensed clinician bills standard psychotherapy CPT codes. Sessions with non-licensed SEPs (bodyworkers, coaches) are self-pay.",
+  "evidence_level": "multiple RCTs",
+  "key_trials": [
+    {
+      "citation": "Brom D, et al. Somatic Experiencing for PTSD: a randomized controlled outcome study. J Trauma Stress 2017;30:304-312",
+      "design": "RCT, 15 weekly SE sessions vs waitlist (33 vs 30), Israel",
+      "n": 63,
+      "finding": "PTSD severity d=0.94-1.26 and depression d=0.70-1.08 vs waitlist, maintained at 15-week follow-up. Waitlist control; some authors affiliated with SE training (International Trauma-Healing Institute).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28585761/"
+    },
+    {
+      "citation": "Andersen TE, et al. A randomized controlled trial of brief Somatic Experiencing for chronic low back pain and comorbid PTSD symptoms. Eur J Psychotraumatol 2017;8:1331108",
+      "design": "RCT, exercise TAU + 6-12 SE sessions vs TAU, 12-month follow-up",
+      "n": 91,
+      "finding": "SE reduced PTSD symptoms (large effect) and fear of movement (moderate). No added benefit for pain, disability or catastrophising; clinical importance questioned by the authors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28680540/"
+    },
+    {
+      "citation": "Andersen TE, et al. Somatic Experiencing for patients with low back pain and comorbid posttraumatic stress symptoms - a randomised controlled trial. Eur J Psychotraumatol 2020;11:1797306",
+      "design": "RCT, SE (up to 12) + physiotherapy vs physiotherapy alone, 6- and 12-month follow-up",
+      "n": 114,
+      "finding": "Null: no between-group differences on disability (primary) or any secondary outcome.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33029333/"
+    },
+    {
+      "citation": "Lehmivaara J, et al. From Somatic Experiencing to felt safety. Eur J Psychotraumatol 2026;17:2613544",
+      "design": "Two randomised experiments (n=89, n=55), single 60-min SE-derived session vs psychoeducation",
+      "n": 144,
+      "finding": "Increased state psychological safety (d~0.95) and reduced disrupted body boundaries (d~1.13); HR/HRV changes not group-specific; momentary outcomes only.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41586542/"
+    },
+    {
+      "citation": "Kuhfuss M, et al. Somatic experiencing - effectiveness and key factors: a scoping literature review. Eur J Psychotraumatol 2021;12:1929023",
+      "design": "Scoping review of 16 studies",
+      "n": null,
+      "finding": "Preliminary positive effects on PTSD and some affective and somatic symptoms; mixed study quality and risk of bias; unbiased RCTs needed.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34290845/"
+    },
+    {
+      "citation": "Leitch ML, et al. Somatic experiencing treatment with social service workers following Hurricanes Katrina and Rita. Soc Work 2009;54:9-18",
+      "design": "Non-randomised, propensity-matched comparison (91 vs 51), 1-2 sessions SE/TRM",
+      "n": 142,
+      "finding": "Greater resilience gains and fewer PTSD symptoms vs comparison; first author affiliated with the Foundation for Human Enrichment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19205253/"
+    }
+  ],
+  "controversy": "The evidence is thin relative to SE's reach. Positive results come mainly from waitlist-controlled and SE-affiliated studies, while the more independent Danish back-pain RCT (2020) was null on all outcomes, and the 2017 trial showed no added effect on pain or disability. Guideline-level appraisal (Bisson 2020) rests on a single trial. The core concepts of 'discharge of survival energy' and the claim that prey animals don't get traumatised lack ethological support. SE relies on contested polyvagal theory (dorsal vagal shutdown). Critics argue that titration and pendulation are graded interoceptive exposure. Levine's writings include esoteric content (shamanism, a reported dialogue with an apparition of Einstein). SE vocabulary underpins many unregulated somatic-coaching programs that make broad chronic-illness claims (ME/CFS, MCS, long COVID) that SE itself has never tested. Touch work by non-licensed practitioners raises scope-of-practice issues.",
+  "popularity": {
+    "indicators": [
+      {
+        "metric": "Students trained per year (SEI)",
+        "value": "6,314 (2019); ~7,000 (2020)",
+        "source": "SEI 2020 Annual Report",
+        "year": 2020
+      },
+      {
+        "metric": "Cumulative people trained (claimed)",
+        "value": "over 30,000 in over 42 countries",
+        "source": "somaticexperiencing.com/about-peter",
+        "year": 2026
+      },
+      {
+        "metric": "SEI members",
+        "value": "2,994",
+        "source": "SEI 2021 Annual Report",
+        "year": 2021
+      },
+      {
+        "metric": "Countries offering training",
+        "value": "38 (2021); 54 countries / 42 languages (2026 Levine site)",
+        "source": "SEI 2021 Annual Report; somaticexperiencing.com",
+        "year": 2026
+      },
+      {
+        "metric": "SEI annual revenue",
+        "value": "$5.42M (2019); ~$5.06M (2021)",
+        "source": "SEI Annual Reports",
+        "year": 2021
+      },
+      {
+        "metric": "Waking the Tiger sales",
+        "value": ">250,000 copies, 24 languages",
+        "source": "traumahealing.org SE 101",
+        "year": null
+      },
+      {
+        "metric": "PubMed items for 'somatic experiencing'",
+        "value": "26 total; 1 (2009), 1 (2012), 3 (2015), 3 (2017), 4 (2018), 1-2/yr 2020-2023, 4 (2025), 5 (2026)",
+        "source": "NCBI E-utilities query, Oct 2026",
+        "year": 2026
+      },
+      {
+        "metric": "Trademark / training institute",
+        "value": "SE trademark 1989; institute ~1994",
+        "source": "Wikipedia; SEI 2020 annual report",
+        "year": 1994
+      }
+    ],
+    "reach_estimate": "~1 million (order of magnitude). Levine's site claims 30,000+ people trained; SEI trains ~6-7k per year recently. Each practitioner treats many clients, so clients plausibly number in the hundreds of thousands to ~1 million. Waking the Tiger alone has sold more than 250k copies, plus other titles. Reach also extends through derivative programs and social-media 'somatic' content.",
+    "reach_log10": 6.0,
+    "trajectory": [
+      {
+        "year": 1970,
+        "relative_activity": 0.5
+      },
+      {
+        "year": 1975,
+        "relative_activity": 0.7
+      },
+      {
+        "year": 1980,
+        "relative_activity": 1
+      },
+      {
+        "year": 1985,
+        "relative_activity": 1.2
+      },
+      {
+        "year": 1989,
+        "relative_activity": 1.5
+      },
+      {
+        "year": 1994,
+        "relative_activity": 2
+      },
+      {
+        "year": 1997,
+        "relative_activity": 3
+      },
+      {
+        "year": 2000,
+        "relative_activity": 3.3
+      },
+      {
+        "year": 2005,
+        "relative_activity": 4
+      },
+      {
+        "year": 2008,
+        "relative_activity": 4.3
+      },
+      {
+        "year": 2010,
+        "relative_activity": 4.8
+      },
+      {
+        "year": 2012,
+        "relative_activity": 5.2
+      },
+      {
+        "year": 2014,
+        "relative_activity": 5.6
+      },
+      {
+        "year": 2016,
+        "relative_activity": 6
+      },
+      {
+        "year": 2017,
+        "relative_activity": 6.3
+      },
+      {
+        "year": 2018,
+        "relative_activity": 6.6
+      },
+      {
+        "year": 2019,
+        "relative_activity": 7
+      },
+      {
+        "year": 2020,
+        "relative_activity": 7.3
+      },
+      {
+        "year": 2021,
+        "relative_activity": 7.6
+      },
+      {
+        "year": 2022,
+        "relative_activity": 8.3
+      },
+      {
+        "year": 2023,
+        "relative_activity": 9
+      },
+      {
+        "year": 2024,
+        "relative_activity": 9.5
+      },
+      {
+        "year": 2025,
+        "relative_activity": 9.6
+      },
+      {
+        "year": 2026,
+        "relative_activity": 9.5
+      }
+    ],
+    "method_notes": "Trajectory is anchored to documented milestones: the 1969 origin case, the 1989 trademark, the institute around 1994, Waking the Tiger in 1997, Healing Trauma in 2005, books in 2010, 2012 and 2015, The Body Keeps the Score (2014) driving body-trauma interest, the first RCTs in 2017, SEI training volume of about 6-7k per year in 2019-2020, and expansion to 54 countries by 2026. The 2022-2025 rise reflects the widely observed social-media 'somatic healing / nervous system regulation' boom; it was not directly quantified (no Google Trends or Reddit counts) and should be treated as an estimate. PubMed counts come from an NCBI E-utilities query (re-verified at fact-check). Reach is an order-of-magnitude estimate from claimed cumulative trainees (30k+) x clients per practitioner, plus book sales."
+  },
+  "sources": [
+    "https://traumahealing.org/",
+    "https://traumahealing.org/se-101/",
+    "https://traumahealing.org/tuition-and-support/",
+    "https://traumahealing.org/about-us/",
+    "https://traumahealing.org/research/",
+    "https://traumahealing.org/somaticexperiencinginternationalreceivesnbccapproval/",
+    "https://traumahealing.org/wp-content/uploads/2022/04/SE_AnnualReport_FINAL_12.28.20.pdf",
+    "https://traumahealing.org/wp-content/uploads/2022/04/SEI_AnnualReport_2-16-22-FB.pdf",
+    "https://www.somaticexperiencing.com/",
+    "https://www.somaticexperiencing.com/about-peter",
+    "https://en.wikipedia.org/wiki/Somatic_experiencing",
+    "https://en.wikipedia.org/wiki/Peter_A._Levine",
+    "https://en.wikipedia.org/wiki/Waking_the_Tiger",
+    "https://www.soundstrue.com/products/healing-trauma-1",
+    "https://pubmed.ncbi.nlm.nih.gov/28585761/",
+    "https://pubmed.ncbi.nlm.nih.gov/28680540/",
+    "https://pubmed.ncbi.nlm.nih.gov/33029333/",
+    "https://pubmed.ncbi.nlm.nih.gov/34290845/",
+    "https://pubmed.ncbi.nlm.nih.gov/33029330/",
+    "https://pubmed.ncbi.nlm.nih.gov/41586542/",
+    "https://pubmed.ncbi.nlm.nih.gov/39807650/",
+    "https://pubmed.ncbi.nlm.nih.gov/25699005/",
+    "https://pubmed.ncbi.nlm.nih.gov/19205253/",
+    "https://pubmed.ncbi.nlm.nih.gov/29503607/",
+    "https://pubmed.ncbi.nlm.nih.gov/29535648/",
+    "https://pubmed.ncbi.nlm.nih.gov/37510644/",
+    "https://pubmed.ncbi.nlm.nih.gov/41428713/",
+    "https://clinicaltrials.gov/study/NCT02298764"
+  ]
+}

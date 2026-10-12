@@ -1,0 +1,181 @@
+{
+  "slug": "eno-breathe",
+  "name": "ENO Breathe (English National Opera / Imperial College Healthcare NHS Trust)",
+  "url": "https://www.eno.org/eno-breathe/",
+  "founders": [
+    "English National Opera Learning & Participation (then ENO Baylis, now Engage; Jenny Mollica, Director at founding; Beth Warnock, Director of Engage by 2026)",
+    "Suzi Zumpe (singer-educator, Creative Director)",
+    "Dr Sarah Elkin (respiratory consultant, Imperial College Healthcare NHS Trust; medical lead)",
+    "Dr Keir Philip and Prof Nicholas Hopkinson (Imperial College London; evaluation leads)"
+  ],
+  "founded_year": 2020,
+  "founded_year_range": "2020 (designed summer 2020; launched/piloted September 2020 per ENO; national rollout early 2021)",
+  "category": "somatic/movement practice (singing-based breathing retraining; creative health)",
+  "delivery": [
+    "online group (live Zoom)",
+    "clinician-referred (NHS long COVID clinics)",
+    "recorded audio/digital resources"
+  ],
+  "business_model": "free",
+  "cost_summary": "Free to participants (GBP 0). Funded philanthropically via ENO: trusts, foundations, donors, a Big Give match campaign (GBP 41,093 raised in March 2025) and a Bloomberg Philanthropies Digital Accelerator. Both trials were funded by Imperial College London. Not NHS-commissioned; whether any NHS money funds delivery is unverified.",
+  "cost_usd_typical": 0,
+  "conditions_claimed": [
+    "long COVID",
+    "PVFS",
+    "anxiety",
+    "COPD/asthma breathlessness (2026-27 pilot)"
+  ],
+  "conditions_primary": [
+    "long COVID"
+  ],
+  "differentiation": "mostly unified with condition-specific emphasis",
+  "mechanisms": [
+    "dysfunctional breathing pattern / breathing retraining",
+    "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")",
+    "attention & interoception / hypervigilance",
+    "general stress/wellbeing (social connection, enjoyment, self-efficacy)"
+  ],
+  "mechanism_summary": "The rationale is modest and symptom-focused. Persistent post-COVID breathlessness with normal scans is treated partly as dysfunctional breathing (upper-chest over-breathing) coupled with anxiety and sympathetic arousal. Slow breathing with longer exhalations, delivered through singing, humming and straw phonation, is said to engage parasympathetic activity, improve breath control and reduce anxiety. Lullabies and group singing add enjoyment, calm, social connection and agency. The programme makes no claim of a brain-generated or unified cause of long COVID and positions itself as complementary to medical care.",
+  "roots": [
+    "classical/operatic singing pedagogy",
+    "respiratory physiotherapy / breathing pattern disorder retraining",
+    "Singing for Lung Health (COPD)",
+    "arts-in-health / social prescribing"
+  ],
+  "techniques": [
+    "breathing retraining with lengthened exhalation",
+    "low abdominal breathing and posture work",
+    "humming",
+    "straw phonation (semi-occluded vocal tract exercises)",
+    "singing a different world lullaby each week",
+    "imagery/visualisation in place of physiological instruction",
+    "gentle stretching and warm-ups",
+    "spell-casting vocal game",
+    "recorded practice tracks and calming playlists",
+    "peer connection time; fortnightly alumni Twilight sessions"
+  ],
+  "mainstream_adoption": "moderate",
+  "mainstream_notes": "A referral option across NHS England long COVID services: 51 clinics in the 2021 trial and 2026 cohort; 89 NHS partners per ENO in 2025 and 85 in May 2026. Co-developed with Imperial College Healthcare NHS Trust and a social prescribing / creative health exemplar (Social Prescribing Academy case study). Part of the Greater Manchester Creative Health Place Partnership for a 2026-27 COPD/asthma pilot. Not in NICE NG188, not NHS-commissioned, UK-only and dependent on philanthropy, so rated moderate rather than substantial.",
+  "insurance": "no",
+  "insurance_notes": "Free to participants, with access through NHS clinic referral, so there is no insurance billing.",
+  "evidence_level": "pilot or single RCT",
+  "key_trials": [
+    {
+      "citation": "Philip KEJ, Owles H, McVey S, Pagnuco T, Bruce K, Brunjes H, Banya W, Mollica J, Lound A, Zumpe S, Abrahams AM, Padmanaban V, Hardy TH, Lewis A, Lalvani A, Elkin S, Hopkinson NS. An online breathing and wellbeing programme (ENO Breathe) for people with persistent symptoms following COVID-19: a parallel-group, single-blind, randomised controlled trial. Lancet Respir Med 2022;10(9):851-862. doi:10.1016/S2213-2600(22)00125-4. PMID 35489367; NCT04830033",
+      "design": "Parallel-group single-blind (assessor) RCT vs usual care (deferred/waitlist); 6 weeks; patients referred from 51 UK long COVID clinics; recruited April-May 2021; 158 randomised, 150 analysed (74 vs 76)",
+      "n": 150,
+      "finding": "RAND-36 mental health composite +2.42 (95% CI 0.03-4.80, p=0.047), below the MCID of about 3. Physical health composite (co-primary) null: +0.60, p=0.54. Breathlessness VAS while running -10.48 (p=0.0026). No other secondary outcomes differed (CAT, Dyspnoea-12, GAD-7, SF-6D). One minor adverse event. Eight co-authors were ENO staff.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35489367/"
+    },
+    {
+      "citation": "Philip KEJ, Owles H, McVey S, Pagnuco T, Bruce K, Warnock B, Chomacki A, Brunjes H, Mollica J, Lound A, Zumpe S, Abrahams AM, Padmanaban V, Hardy TH, Lewis A, Lalvani A, Elkin SL, Hopkinson NS. An online singing-based breathing and wellbeing programme (ENO Breathe) in people with long COVID breathlessness in the UK: a cohort study. Lancet Digit Health 2026;8(5):100988. doi:10.1016/j.landig.2026.100988. PMID 42103518",
+      "design": "Uncontrolled pre-post real-world cohort; referrals from 51 NHS long COVID clinics; 80% female, mean age 49, median symptom duration 415 days",
+      "n": 1413,
+      "finding": "84% (1,188) gave follow-up data. Median MHC +2.98; median PHC +1.69; mean Dyspnoea-12 -4.29; mean CAT -2.50; median GAD-7 -1; median VAS breathlessness walking -5, stairs -10, running -3 (all p<0.0001). Breathlessness at rest unchanged (p=0.24). No clinically significant adverse events. Press release reports 61% reached a clinically important breathlessness improvement and cites 1,438 participants. Nine ENO staff and an ENO trustee were co-authors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42103518/"
+    }
+  ],
+  "controversy": "Little controversy. The caveats are about evidence quality: both evaluations were run by the developers, with ENO staff and an ENO trustee as declared co-authors (though the programme is free and non-commercial). The RCT used a usual-care waitlist control without participant blinding or an active (e.g. breathing physiotherapy) control. Its co-primary physical-health outcome was null, and the mental-health effect was borderline and below the MCID. The cohort study is uncontrolled and cannot separate the programme's effect from natural recovery. There is no independent replication. The only other PubMed item is a commentary by an ENO-affiliated author (Brunjes, JRSM 2021). The programme avoids \"brain-generated illness\" framing, so it has drawn little of the patient-community backlash aimed at brain-retraining programmes.",
+  "popularity": {
+    "indicators": [
+      {
+        "metric": "programme completers (cumulative)",
+        "value": ">4,829",
+        "source": "ENO press release 7 May 2026",
+        "year": 2026
+      },
+      {
+        "metric": "people helped (cumulative)",
+        "value": ">4,000 (Mar 2025); >4,400 (Bloomberg page)",
+        "source": "ENO Match Campaign page; ENO Bloomberg Digital Accelerator page",
+        "year": 2025
+      },
+      {
+        "metric": "participants (cumulative)",
+        "value": "~300 (not independently verified)",
+        "source": "classical-music.com feature",
+        "year": 2021
+      },
+      {
+        "metric": "NHS partner referral services",
+        "value": "89",
+        "source": "ENO Match Campaign page",
+        "year": 2025
+      },
+      {
+        "metric": "NHS partner referral services",
+        "value": "85",
+        "source": "ENO press release 7 May 2026",
+        "year": 2026
+      },
+      {
+        "metric": "award",
+        "value": "Royal Philharmonic Society Impact Award (1 Nov 2021)",
+        "source": "RPS / Imperial NHS",
+        "year": 2021
+      },
+      {
+        "metric": "fundraising",
+        "value": "GBP 41,093 raised (target GBP 30,000)",
+        "source": "ENO Big Give campaign page",
+        "year": 2025
+      },
+      {
+        "metric": "media",
+        "value": "International syndication of 2022 RCT (AFP, Smithsonian, NewsNation); 2026 press spike (Imperial, EMJ, OperaWire)",
+        "source": "web search",
+        "year": 2022
+      }
+    ],
+    "reach_estimate": "About 5,000 completers by 2026 (ENO-reported 4,829 by May 2026), perhaps 6,000-7,000 including those referred who did not complete. That is about 10^3.7-10^3.8.",
+    "reach_log10": 3.75,
+    "trajectory": [
+      {
+        "year": 2020,
+        "relative_activity": 3
+      },
+      {
+        "year": 2021,
+        "relative_activity": 8
+      },
+      {
+        "year": 2022,
+        "relative_activity": 10
+      },
+      {
+        "year": 2023,
+        "relative_activity": 7
+      },
+      {
+        "year": 2024,
+        "relative_activity": 6
+      },
+      {
+        "year": 2025,
+        "relative_activity": 6
+      },
+      {
+        "year": 2026,
+        "relative_activity": 8
+      }
+    ],
+    "method_notes": "The trajectory is based on programme milestones and media events, not search or social data: 2020 launch (September); 2021 national rollout, RCT recruitment, RPS award and Smithsonian coverage; 2022 RCT publication with international syndication (peak); 2023-24 steady referrals amid ENO funding turmoil; 2025 Big Give campaign and Bloomberg accelerator; 2026 Lancet Digital Health cohort paper and COPD/asthma pilot. Reach comes from ENO-reported completer counts. Reach is capped by NHS referral capacity. The Reddit and social-media footprint is negligible, and Google Trends volume is too low to quantify."
+  },
+  "sources": [
+    "https://www.eno.org/eno-breathe/",
+    "https://www.eno.org/wp-content/uploads/2026/05/ENO-Breathe-The-Lancet-Digital-Press-Release-7-May-2026.pdf",
+    "https://www.eno.org/press/eno-breathe-match-campaign-2025/",
+    "https://www.eno.org/news/eno-selected-to-join-bloomberg-philanthropies-digital-accelerator-program-for-eno-breathe/",
+    "https://www.imperial.ac.uk/news/articles/medicine/nhli/2026/online-breathing-programme-shown-to-improve-long-covid-symptoms/",
+    "https://pubmed.ncbi.nlm.nih.gov/35489367/",
+    "https://pubmed.ncbi.nlm.nih.gov/42103518/",
+    "https://pubmed.ncbi.nlm.nih.gov/33849347/",
+    "https://clinicaltrials.gov/study/NCT04830033",
+    "https://www.classical-music.com/features/articles/eno-breathe-how-the-english-national-opera-helped-covid-19-sufferers-find-their-breath",
+    "https://socialprescribingacademy.org.uk/resources/eno-breathe-case-study",
+    "https://www.imperial.nhs.uk/about-us/news/royal-philharmonic-society-award-win-for-eno-breathe",
+    "https://royalphilharmonicsociety.org.uk/awards/rps_music_awards/winners-to-date/impact/2021-impact",
+    "https://www.smithsonianmag.com/innovation/how-opera-singing-is-helping-long-haul-covid-19-patients-recover-180977497/",
+    "https://www.emjreviews.com/respiratory/news/online-singing-programme-eases-long-covid-symptoms/"
+  ]
+}

@@ -1,0 +1,205 @@
+{
+    "slug": "nerva",
+    "name": "Nerva (Mindset Health) gut-directed hypnotherapy app",
+    "url": "https://www.nervahealth.com/",
+    "founders": [
+        "Alex Naoumidis (co-founder/co-CEO, Mindset Health)",
+        "Chris Naoumidis (co-founder/co-CEO, Mindset Health)",
+        "Dr Simone Peters (Monash University; listed on the About page as 'Content founder')"
+    ],
+    "founded_year": 2019,
+    "founded_year_range": "2019 (Mindset Health About page says founded in Melbourne in 2019; Peters et al. 2023 analysed app users from June 2019)",
+    "category": "digital app/platform",
+    "delivery": [
+        "app",
+        "self-guided audio hypnotherapy",
+        "clinician referral / dashboard"
+    ],
+    "business_model": "commercial",
+    "cost_summary": "US$199/year, or US$149.25/year with a practitioner referral (Oct 2026); 7-day free trial; money-back guarantee; HSA/FSA eligible with a Letter of Medical Necessity. No cost for eligible Original Medicare patients via the CMS ACCESS Model (from 5 Jul 2026); company-funded for uncovered US patients aged 65+. Available through the HIF private health fund in Australia (since Mar 2025, company source).",
+    "cost_usd_typical": 199,
+    "conditions_claimed": [
+        "IBS/functional GI",
+        "anxiety",
+        "depression"
+    ],
+    "conditions_primary": [
+        "IBS/functional GI"
+    ],
+    "differentiation": "mostly unified with condition-specific emphasis",
+    "mechanisms": [
+        "attention & interoception / hypervigilance",
+        "central sensitization",
+        "stress / HPA axis",
+        "fear-avoidance / catastrophizing / cognitive appraisal",
+        "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")"
+    ],
+    "mechanism_summary": "IBS is framed as a disorder of gut-brain interaction (Rome IV). A bidirectional gut-brain axis miscommunicates, gut nerves become hypersensitive (visceral hypersensitivity), and normal digestion is read by the brain as pain or urgency. Stress and symptom-focused anxiety, catastrophising and avoidance amplify this loop. Hypnosis (relaxation, focused attention, gut-directed imagery and suggestion) is said to calm gut signalling directly, while CBT-informed lessons target the thoughts and behaviours around symptoms. The model is disorder-specific (IBS/DGBI), not a transdiagnostic one-illness model.",
+    "roots": [
+        "hypnosis (Mesmer, Erickson)",
+        "CBT (Beck/Ellis)",
+        "autogenic training / Relaxation Response",
+        "Whorwell gut-directed hypnotherapy (Manchester)",
+        "Rome Foundation brain-gut behavioural therapy / DGBI framework",
+        "Monash University FODMAP/IBS research"
+    ],
+    "techniques": [
+        "42 daily ~15-min gut-directed hypnotherapy audio sessions over 6 weeks",
+        "gut-focused imagery and post-hypnotic suggestion",
+        "CBT-informed daily psychoeducation lessons (gut-brain axis, stress, diet, microbiota)",
+        "Mahana-derived IBS CBT content (integration after 2025 acquisition)",
+        "diaphragmatic breathing exercises",
+        "flare-up toolkit",
+        "daily 30-second check-in and weekly validated symptom tracking",
+        "clinician-shared progress reports and red-flag screening/escalation",
+        "continued maintenance access after week 6"
+    ],
+    "mainstream_adoption": "moderate",
+    "mainstream_notes": "Guidelines endorse gut-directed hypnotherapy as a technique: ACG 2021, BSG 2021, and the 2025 AGA Institute IBS quality indicators (Hung et al., Gastroenterology 2025). Nerva itself is not named in any guideline. The company claims 20,000+ referring clinicians (8,000+ US), and Monash, Mayo Clinic, Mount Sinai and Baylor researchers have analysed its data. It is not FDA, TGA or MHRA evaluated. It acquired key assets of Mahana Therapeutics (an FDA-authorised IBS-CBT prescription digital therapeutic) in May 2025. Nerva's site quotes a March 2026 PHTI report as saying Nerva had the strongest IBS evidence, but PHTI's public GI assessment page does not mention Nerva.",
+    "insurance": "sometimes/indirect",
+    "insurance_notes": "From 5 Jul 2026, CMS ACCESS Model participation gives eligible Original Medicare beneficiaries no-cost access via outcome-aligned payments, and referring Part B clinicians can bill a co-management payment. Medicare Advantage is not eligible in this phase. The company funds access for uncovered US patients aged 65+. Employer and commercial-plan coverage is described as \"starting,\" with no plans named. HSA/FSA payment works with a Letter of Medical Necessity. In Australia, the HIF private health fund has covered it since Mar 2025 (company source).",
+    "evidence_level": "pilot or single RCT",
+    "key_trials": [
+        {
+            "citation": "Anderson EJ, Peters SL, Gibson PR, Halmos EP. Comparison of Digitally Delivered Gut-Directed Hypnotherapy Program With an Active Control for Irritable Bowel Syndrome. Am J Gastroenterol 2025;120(2):440-448. PMID 38940439",
+            "design": "RCT (Monash/Alfred, run by the content developers): 42-session app with GDH (Nerva) vs the same app without GDH (psychoeducation active control); 6-month follow-up",
+            "n": 244,
+            "finding": "244 randomised, 240 analysed. IBS-SSS reduction of at least 50 points in 81% vs 63% (p=0.002); at least 30% pain reduction in 71% vs 35% (p<0.001); greater IBS-QOL gain (14 vs 7); psychological measures improved equally in both arms. 90% of participants were female.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38940439/"
+        },
+        {
+            "citation": "Peters SL, Gibson PR, Halmos EP. Smartphone app-delivered gut-directed hypnotherapy improves symptoms of self-reported irritable bowel syndrome: a retrospective evaluation. Neurogastroenterol Motil 2023;35(4):e14533. PMID 36661117",
+            "design": "Retrospective uncontrolled analysis of app users, Jun 2019 - Apr 2020",
+            "n": 2843,
+            "finding": "1,428 (50%) purchased and only 253 (9%) completed all 42 sessions. 64% of completers with outcome data (n=190) were pain responders (median VAS 60 to 26 mm). Response was better at age 40 or older.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36661117/"
+        },
+        {
+            "citation": "Simicich L, Muniz V, Scheffrahn K, Elkins G. Nerva, a mobile application of gut-directed hypnotherapy for IBS: user characteristics, patterns of use, and predictors of persistence. Digit Health 2024;10:20552076241263257. PMID 38882251",
+            "design": "Retrospective usage analysis (Jan-Sep 2022); funded by Mindset Health; senior author is a company adviser",
+            "n": 14898,
+            "finding": "77% female, mean age 39. 31% persisted through the program; persistence rose with age.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38882251/"
+        },
+        {
+            "citation": "Peters SL, Yao CK, Philpott H, Yelland GW, Muir JG, Gibson PR. Randomised clinical trial: the efficacy of gut-directed hypnotherapy is similar to that of the low FODMAP diet for the treatment of IBS. Aliment Pharmacol Ther 2016;44(5):447-59. PMID 27397586 (generic face-to-face GDH, not the app)",
+            "design": "RCT: GDH vs low-FODMAP diet vs combination",
+            "n": 74,
+            "finding": "Overall GI symptoms improved similarly in all arms (72%, 71% and 72% improved by at least 20 mm VAS), with no additive effect. GDH was superior on trait anxiety and depression; effects were largely maintained at 6 months.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27397586/"
+        }
+    ],
+    "controversy": "Low controversy: GDH is guideline-endorsed, and Nerva makes no cross-disorder or cure claims. Criticisms are mostly about evidence framing. Only one RCT exists, run by the content developers, with an active control that shares the app shell; the control arm's 63% responder rate shows large non-specific effects. The '17 studies' are mostly uncontrolled, company-linked abstracts with completer bias. Real-world adherence is low (9% completion in 2019-20; 31% persistence in 2022), a point raised in an independent commentary (Hasan, Ballou, Keefer, Vasant, NGM 2023). A PHTI quote on the site does not appear in PHTI's public summary. The app is sold DTC without FDA review, and self-reported IBS may mask organic disease.",
+    "popularity": {
+        "indicators": [
+            {
+                "metric": "cumulative users",
+                "value": "300,000+ (350,000+ across all Mindset Health apps)",
+                "source": "nervahealth.com/about; mindsethealth.com",
+                "year": 2026
+            },
+            {
+                "metric": "referring clinicians",
+                "value": "20,000+ worldwide, 8,000+ US",
+                "source": "nervahealth.com/about",
+                "year": 2026
+            },
+            {
+                "metric": "App Store rating",
+                "value": "4.6 from 32,556 ratings (6 Sep 2026)",
+                "source": "nervahealth.com/about",
+                "year": 2026
+            },
+            {
+                "metric": "users starting app Jun 2019 - Apr 2020",
+                "value": "2,843",
+                "source": "Peters et al. NGM 2023",
+                "year": 2020
+            },
+            {
+                "metric": "users Jan-Sep 2022",
+                "value": "14,898",
+                "source": "Simicich et al. Digital Health 2024",
+                "year": 2022
+            },
+            {
+                "metric": "cumulative real-world dataset 2019-2025",
+                "value": "194,879",
+                "source": "DDW 2026 abstract listed on nervahealth.com/research (not independently verified)",
+                "year": 2025
+            },
+            {
+                "metric": "Mahana Therapeutics asset acquisition",
+                "value": "announced 8 May 2025",
+                "source": "nervahealth.com/article/nerva-mahana-acquisition",
+                "year": 2025
+            },
+            {
+                "metric": "CMS ACCESS Model participation",
+                "value": "from 5 Jul 2026",
+                "source": "nervahealth.com/article/medicare-gut-brain-therapy-no-cost",
+                "year": 2026
+            }
+        ],
+        "reach_estimate": "About 300,000 cumulative users by Sept 2026 (company figure, consistent with ~195k in the 2019-2025 dataset reported in conference abstracts)",
+        "reach_log10": 5.5,
+        "trajectory": [
+            {
+                "year": 2019,
+                "relative_activity": 1
+            },
+            {
+                "year": 2020,
+                "relative_activity": 2
+            },
+            {
+                "year": 2021,
+                "relative_activity": 3
+            },
+            {
+                "year": 2022,
+                "relative_activity": 4
+            },
+            {
+                "year": 2023,
+                "relative_activity": 5
+            },
+            {
+                "year": 2024,
+                "relative_activity": 6.5
+            },
+            {
+                "year": 2025,
+                "relative_activity": 8
+            },
+            {
+                "year": 2026,
+                "relative_activity": 10
+            }
+        ],
+        "method_notes": "The trajectory is anchored on documented user counts: ~2.8k starters in the first ~10 months (2019-20); ~15k in 9 months of 2022; ~195k cumulative by 2025; 300k+ by Sep 2026. Milestones add to it: first peer-reviewed paper 2023, RCT online 2024 and in print 2025, Mahana acquisition and HIF partnership 2025, CMS ACCESS and PHTI 2026. Implied growth is roughly exponential. Reddit, Google Trends and YouTube metrics could not be checked because the web-search budget was exhausted. Values are relative within the program."
+    },
+    "sources": [
+        "https://www.nervahealth.com/",
+        "https://www.nervahealth.com/about",
+        "https://www.nervahealth.com/research",
+        "https://www.nervahealth.com/programs/gut-directed-hypnotherapy",
+        "https://www.nervahealth.com/article/nerva-ibs-rct",
+        "https://www.nervahealth.com/access",
+        "https://www.nervahealth.com/article/medicare-gut-brain-therapy-no-cost",
+        "https://www.nervahealth.com/article/nerva-mahana-acquisition",
+        "https://www.nervahealth.com/article/aga-guidelines-nerva",
+        "https://www.nervahealth.com/au/for-private-health-insurers",
+        "https://www.nervahealth.com/post/cbt-vs-hypnotherapy-for-ibs",
+        "https://www.mindsethealth.com/",
+        "https://pubmed.ncbi.nlm.nih.gov/38940439/",
+        "https://pubmed.ncbi.nlm.nih.gov/36661117/",
+        "https://pubmed.ncbi.nlm.nih.gov/38882251/",
+        "https://pubmed.ncbi.nlm.nih.gov/27397586/",
+        "https://pubmed.ncbi.nlm.nih.gov/39818650/",
+        "https://pubmed.ncbi.nlm.nih.gov/36847206/",
+        "https://pubmed.ncbi.nlm.nih.gov/41077057/",
+        "https://ddw.digitellinc.com/p/s/app-delivered-gut-directed-hypnotherapy-is-superior-to-psychoeducation-in-reducing-symptoms-associated-with-irritable-bowel-syndrome-a-randomised-control-trial-7150",
+        "https://www.phti.org/assessment/virtual-solutions-gi-conditions/"
+    ]
+}

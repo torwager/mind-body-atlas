@@ -1,0 +1,187 @@
+{
+  "slug": "center-for-mind-body-medicine",
+  "name": "The Center for Mind-Body Medicine (CMBM) model / Mind-Body Skills Groups",
+  "url": "https://cmbm.org",
+  "founders": [
+    "James S. Gordon, MD (Harvard MD 1967; psychiatrist, former NIMH research psychiatrist; Georgetown clinical professor; first chair, NIH OAM Program Advisory Council; chair, White House Commission on CAM Policy 2000-02)"
+  ],
+  "founded_year": 1991,
+  "founded_year_range": "1991 (CMBM 'How We Started' and Professional Training Program pages; site claims 35+ years in 2026)",
+  "category": "contemplative/meditation program (group mind-body skills; train-the-trainer nonprofit)",
+  "delivery": ["clinician-delivered", "group", "online course", "book", "train-the-trainer professional training"],
+  "business_model": "mixed",
+  "cost_summary": "Nonprofit 501(c)(3). Professional Training Program (4-day live online, Oct 1-2 & 5-6 2026): USD 1,475 regular, USD 1,275 early-bird; limited scholarships. Advanced training and certification extra (prices not found). Community Mind-Body Skills Groups are usually grant-funded and free to participants. FY2024 revenue USD 5.79M (Form 990).",
+  "cost_usd_typical": 1475,
+  "conditions_claimed": ["PTSD/trauma", "general stress/wellbeing", "anxiety", "depression", "chronic illness (general, incl. cancer)", "burnout", "insomnia"],
+  "conditions_primary": ["PTSD/trauma", "general stress/wellbeing", "depression", "anxiety"],
+  "differentiation": "transdiagnostic / not disorder-focused",
+  "mechanisms": [
+    "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")",
+    "stress / HPA axis",
+    "polyvagal / vagal tone / safety signalling",
+    "unresolved trauma stored in body",
+    "attention & interoception / hypervigilance",
+    "social isolation / lack of group support and self-efficacy"
+  ],
+  "mechanism_summary": "Chronic stress and trauma keep people in a prolonged fight-or-flight state. Gordon frames soft-belly breathing as vagal activation, the \"antidote\" to fight-or-flight. Trauma and depression are described as a \"stuck\" body and imagination. Self-awareness, self-regulation skills, creative self-expression and mutual group support are the change agents. The model is a generic transdiagnostic stress/trauma model with no disorder-specific or neural-circuit mechanisms.",
+  "roots": [
+    "autogenic training / Relaxation Response",
+    "biofeedback (1960s-70s)",
+    "Buddhist vipassana/insight meditation",
+    "Hindu yoga/pranayama",
+    "Selye stress theory",
+    "hypnosis (Mesmer, Erickson)",
+    "Osho/Rajneesh dynamic meditation",
+    "expressive arts / journaling",
+    "family systems (genograms)",
+    "group psychotherapy",
+    "functional/integrative medicine"
+  ],
+  "techniques": [
+    "soft-belly breathing",
+    "shaking and dancing (dynamic meditation)",
+    "concentrative and mindfulness meditation",
+    "mindful eating",
+    "guided imagery (safe place, inner guide)",
+    "autogenic training",
+    "biofeedback (thermal, HRV)",
+    "drawings (self/problem/solution)",
+    "journaling and written dialogue",
+    "genograms",
+    "movement/body awareness",
+    "self-compassion and forgiveness practices",
+    "8-12 week small-group Mind-Body Skills Groups (8-12 people, ~2 h/week)"
+  ],
+  "mainstream_adoption": "moderate",
+  "mainstream_notes": "Mostly CMBM self-report. About 10 years of VHA partnership, including training 200 Whole Health coaches and 150 leaders in VISN 8 (2019). Mind-Body Medicine course in Georgetown's medical school curriculum (NCCAM-funded); CMBM-trained faculty at about 15 US medical schools (Gordon 2014). CMBM calls its model 'one of the pillars' of Kosovo's postwar community mental health system (600+ Kosovar clinicians/educators trained). Gaza program since 2005 (~1,500 local trainees); Broward County schools after Parkland, Puerto Rico, Haiti. CE credits (via Allegany College of Maryland) for psychologists, social workers, counselors. Not named in NICE, VA/DoD or APA PTSD guidelines.",
+  "insurance": "sometimes/indirect",
+  "insurance_notes": "No billing code for the branded model. Licensed trainees can bill groups as group psychotherapy or behavioral health. The VA and schools deliver groups through institutional, grant or donor funding.",
+  "evidence_level": "multiple RCTs",
+  "key_trials": [
+    {
+      "citation": "Gordon JS, Staples JK, Blyta A, Bytyqi M, Wilson AT. J Clin Psychiatry 2008;69(9):1469-76. PMID 18945398",
+      "design": "RCT, 12-session teacher-led mind-body skills groups vs waitlist, Kosovar adolescents with PTSD (HTQ)",
+      "n": 82,
+      "finding": "Greater PTSD symptom reduction vs waitlist (F=29.8, p<.001; means 2.5->2.0 vs 2.5->2.4), maintained at 3 months. Developer-run, self-report, unblinded; CMBM markets as '82% reduction' in PTSD caseness.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18945398/"
+    },
+    {
+      "citation": "Staples JK, Gordon JS, Hamilton M, Uddo M. Psychol Trauma 2022;14(6):1016-25 (epub 2020). PMID 32134288",
+      "design": "RCT, 10-week MBSG vs standard treatment at VA PTSD clinic",
+      "n": 108,
+      "finding": "Greater improvement in total PTSD, hyperarousal and avoidance at 10 weeks; only hyperarousal gain held at 2 months. Anger and sleep improved; no difference in depression, anxiety, posttraumatic growth or QOL.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32134288/"
+    },
+    {
+      "citation": "Gordon JS, Staples JK, Blyta A, Bytyqi M. J Trauma Stress 2004;17(2):143-7. PMID 15141787",
+      "design": "Uncontrolled pilot, 6-week program, Kosovo high-school students",
+      "n": 139,
+      "finding": "Posttraumatic stress scores decreased and stayed lower at follow-up.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15141787/"
+    },
+    {
+      "citation": "Staples JK, Abdel Atti JA, Gordon JS. Int J Stress Manag 2011;18(3):246-62. doi:10.1037/a0024015",
+      "design": "Uncontrolled pre-post, Gaza children/adolescents, 7-month follow-up",
+      "n": null,
+      "finding": "Reductions in PTSD caseness, depression and hopelessness, largely maintained. Developer reports 89% (website) or 91% (2022 summary) reduction in PTSD caseness.",
+      "url": "https://doi.org/10.1037/a0024015"
+    },
+    {
+      "citation": "Gordon JS, Staples JK, He DY, Abdel Atti JA. Traumatology 2016;22(3):155-64. doi:10.1037/trm0000081",
+      "design": "Uncontrolled pre-post, 10-session groups, Gaza adults with PTSD, 10-month follow-up",
+      "n": 92,
+      "finding": "Improvements in PTSD, depression, anxiety and QOL maintained at 10 months (environment QOL domain not maintained).",
+      "url": "https://doi.org/10.1037/trm0000081"
+    },
+    {
+      "citation": "Aalsma MC, Jones LD, Staples JK, Garabrant JM, Gordon JS, Cyr LR et al. J Pediatr Health Care 2020;34(5):462-9. PMID 32861425",
+      "design": "Single-arm pilot, 10-week MBSG in primary care, depressed adolescents",
+      "n": 43,
+      "finding": "Depression, rumination and suicidal ideation improved through 3-month follow-up; high acceptability.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32861425/"
+    },
+    {
+      "citation": "Staples JK, Rice J, Farah KS, N'Diaye S, Gordon JS. Healthcare (Basel) 2026;14(6):746. PMID 41897200",
+      "design": "Uncontrolled, 8-day training for incarcerated people, 6-month follow-up (38 began, 31 completed)",
+      "n": 31,
+      "finding": "Improved resilience, depression, anxiety and stress, maintained at 6 months. Authors salaried/paid by CMBM and the grant.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41897200/"
+    },
+    {
+      "citation": "NCT01595477 and NCT01595490 (CMBM, Gaza children and adolescents, 2012)",
+      "design": "Registered RCTs, MBSG vs no-intervention control",
+      "n": 235,
+      "finding": "Enrollment 114 + 121; no peer-reviewed results located (possible publication gap).",
+      "url": "https://clinicaltrials.gov/study/NCT01595490"
+    }
+  ],
+  "controversy": "Little controversy about the group model itself. Gordon's chairmanship of the White House CAM Commission (2000-02) was attacked in a multi-part Quackwatch/NCAHF series (Barrett, Curry, Sampson and others) as stacked with CAM advocates; one part raised what it called a 12-year (1973-85) involvement with the Rajneesh movement, which Gordon wrote about in The Golden Guru (1987) and reportedly denied being a disciple of. The evidence base is almost entirely developer-run, mostly uncontrolled, self-report, with no active controls; two registered Gaza RCTs (2012) appear unpublished. CMBM's outcome framing is strong (e.g., '82%', '89%'/'91%', '86%' reductions in PTSD caseness). No trials in chronic pain or fatigue syndromes.",
+  "popularity": {
+    "indicators": [
+      {"metric": "Professionals trained (cumulative)", "value": ">8,000 from 50+ countries", "source": "cmbm.org Professional Training Program page", "year": 2026},
+      {"metric": "Professionals trained (cumulative)", "value": ">7,000; 145+ faculty", "source": "cmbm.org How We Started", "year": 2024},
+      {"metric": "Gaza reach", "value": "~1,500 local trainees since 2005; >280,000 children and adults reached", "source": "cmbm.org How We Started / Gaza impact story", "year": 2025},
+      {"metric": "Annual revenue", "value": "USD 5.79M (expenses 4.83M)", "source": "ProPublica Nonprofit Explorer (Form 990)", "year": 2024},
+      {"metric": "Haiti direct services", "value": ">60,000 people since 2010", "source": "cmbm.org How We Started", "year": 2024},
+      {"metric": "Early training cohort", "value": "451 professionals trained 1998-2001", "source": "Staples & Gordon 2005, Altern Ther Health Med", "year": 2001},
+      {"metric": "Medical school adoption", "value": "~15 US medical schools with CMBM-trained faculty", "source": "Gordon 2014, BMC Med Educ", "year": 2014},
+      {"metric": "Clinton Global Initiative commitment", "value": "target >500,000 people in Gaza over 3 years (est. USD 6M)", "source": "clintonfoundation.org", "year": 2024}
+    ],
+    "reach_estimate": "About 8,000 professionals trained directly. Trainees have reached roughly several hundred thousand people by CMBM's own unverified counts (Gaza >280,000; Haiti >60,000; plus US schools, VA and medical schools). Order of 4e5-6e5 cumulative.",
+    "reach_log10": 5.6,
+    "trajectory": [
+      {"year": 1991, "relative_activity": 1.5},
+      {"year": 1994, "relative_activity": 2},
+      {"year": 1996, "relative_activity": 3},
+      {"year": 1998, "relative_activity": 3.5},
+      {"year": 2000, "relative_activity": 5},
+      {"year": 2002, "relative_activity": 5},
+      {"year": 2004, "relative_activity": 5},
+      {"year": 2006, "relative_activity": 5.5},
+      {"year": 2008, "relative_activity": 6},
+      {"year": 2010, "relative_activity": 6},
+      {"year": 2012, "relative_activity": 5.5},
+      {"year": 2014, "relative_activity": 6},
+      {"year": 2016, "relative_activity": 6},
+      {"year": 2018, "relative_activity": 7},
+      {"year": 2019, "relative_activity": 8},
+      {"year": 2020, "relative_activity": 8},
+      {"year": 2022, "relative_activity": 7},
+      {"year": 2023, "relative_activity": 7.5},
+      {"year": 2024, "relative_activity": 8},
+      {"year": 2025, "relative_activity": 7.5},
+      {"year": 2026, "relative_activity": 7}
+    ],
+    "method_notes": "The trajectory is anchored on documented events: founding (1991); Manifesto for a New Medicine (1996); first Kosovo work and annual trainings (1998); Gordon's White House CAM commission chairmanship (2000-02); the Kosovo RCT and start of the Gaza program (2004-08); Katrina and Haiti (2005, 2010); Parkland and Puerto Rico (2018); The Transformation book plus a podcast and media wave (2019); the move to online training during COVID (2020); and Gaza war work plus the CGI commitment (2023-24). Reach comes from CMBM's self-reported trainee and participant counts, which are unverified, plus ProPublica 990 revenue. Social-media signal is modest: no dedicated subreddit and little patient-forum discussion. Values are relative within the program, not comparable in absolute terms across programs."
+  },
+  "sources": [
+    "https://cmbm.org/about/",
+    "https://cmbm.org/what-we-do/how-we-started/",
+    "https://cmbm.org/training-certification/professional-training-program/",
+    "https://cmbm.org/impact/impact-stories/impact-story/building-resilient-communities-in-gaza/",
+    "https://cmbm.org/impact/research/united-states-veterans/",
+    "https://cmbm.org/impact/research/children-and-adults-in-gaza/",
+    "https://cmbm.org/wp-content/uploads/2022/07/2022.3.10-CMBM-Summary-of-Publications-and-Research.pdf",
+    "https://pubmed.ncbi.nlm.nih.gov/18945398/",
+    "https://pubmed.ncbi.nlm.nih.gov/32134288/",
+    "https://pubmed.ncbi.nlm.nih.gov/15141787/",
+    "https://pubmed.ncbi.nlm.nih.gov/32861425/",
+    "https://pubmed.ncbi.nlm.nih.gov/16053120/",
+    "https://pubmed.ncbi.nlm.nih.gov/41897200/",
+    "https://pubmed.ncbi.nlm.nih.gov/25245341/",
+    "https://pubmed.ncbi.nlm.nih.gov/27923091/",
+    "https://pubmed.ncbi.nlm.nih.gov/33282546/",
+    "https://doi.org/10.1037/a0024015",
+    "https://doi.org/10.1037/trm0000081",
+    "https://clinicaltrials.gov/study/NCT01595477",
+    "https://clinicaltrials.gov/study/NCT01595490",
+    "https://clinicaltrials.gov/study/NCT02671487",
+    "https://projects.propublica.org/nonprofits/organizations/521755744",
+    "https://www.clintonfoundation.org/commitment/clinton-global-initiative/hope-healing-addressing-population-wide-trauma-in-gaza/",
+    "https://www.dailygood.org/call/602/james-gordon/",
+    "https://bravewell.org/current_projects/2013_leadership_award/bravewell_finalists/james_gordon/",
+    "https://www.psychotherapynetworker.org/article/video-breathing-antidote-stress-responses/",
+    "https://quackwatch.org/political-activities/whc/wp/",
+    "https://som.georgetown.edu/?p=1816"
+  ]
+}

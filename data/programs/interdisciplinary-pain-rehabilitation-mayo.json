@@ -1,0 +1,269 @@
+{
+  "slug": "interdisciplinary-pain-rehabilitation-mayo",
+  "name": "Interdisciplinary pain rehabilitation / functional restoration (Mayo Clinic Pain Rehabilitation Center and similar)",
+  "url": "https://www.mayoclinic.org/departments-centers/pain-rehabilitation-center/overview/ovc-20481691",
+  "founders": [
+    "Mayo Clinic (institutional; Rochester PRC 1974)",
+    "Barbara K. Bruce (led development of Mayo pediatric PRC, 2008)",
+    "Wesley Gilliam, Jeannie Sperry, Cynthia Townsend, W. Michael Hooten, Jeffrey Rome (Mayo PRC clinicians and investigators)",
+    "Wilbert E. Fordyce (operant pain programs, University of Washington, 1968-76)",
+    "John J. Bonica (multidisciplinary pain clinic)",
+    "Tom Mayer and Robert Gatchel (functional restoration, PRIDE Dallas, 1980s)"
+  ],
+  "founded_year": 1974,
+  "founded_year_range": "1974 for the Mayo Rochester PRC, per Mayo's site (\"one of the first pain rehabilitation programs in the world\"; Mayo-sourced only). Generic model 1960-1987: Bonica clinic; Fordyce operant work 1968, book 1976; Mayer/Gatchel functional restoration JAMA 1987. Mayo expansions: pediatric Oct 2008, Florida 2011, Arizona 2016.",
+  "category": "physio/pain-education approach (mainstream interdisciplinary rehabilitation comparator)",
+  "delivery": [
+    "clinician-delivered",
+    "group",
+    "intensive outpatient day program (3 weeks, ~8 h/day; pediatric 17 days)",
+    "hospital-based",
+    "2-day educational program"
+  ],
+  "business_model": "clinician-delivered (fee-for-service)",
+  "cost_summary": "Price not published. KFF Health News/NPR (2017) reported the Mayo 3-week program 'can cost up to $40,000' for patients with complicated medical problems, mostly billed to insurance; very few pay out of pocket. One forum report of ~USD 52k is unverified. Three weeks of travel and lodging are paid by the patient. Typical-cost figure below is an estimate.",
+  "cost_usd_typical": 30000,
+  "conditions_claimed": [
+    "chronic pain (general)",
+    "chronic back/neck pain",
+    "headache/migraine",
+    "fibromyalgia",
+    "CRPS",
+    "POTS/dysautonomia",
+    "IBS/functional GI",
+    "FND",
+    "ME/CFS"
+  ],
+  "conditions_primary": [
+    "chronic pain (general)",
+    "chronic back/neck pain",
+    "fibromyalgia",
+    "POTS/dysautonomia"
+  ],
+  "differentiation": "mostly unified with condition-specific emphasis",
+  "mechanisms": [
+    "conditioning / classical learning",
+    "fear-avoidance / catastrophizing / cognitive appraisal",
+    "sensorimotor / movement patterns / body schema",
+    "central sensitization",
+    "stress / HPA axis",
+    "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")",
+    "attention & interoception / hypervigilance"
+  ],
+  "mechanism_summary": "Biopsychosocial and agnostic about ultimate etiology. Disability is maintained by operantly reinforced pain behaviours (Fordyce), fear-avoidance and catastrophizing, deconditioning (the Mayer/Gatchel \"deconditioning syndrome\"), and symptom-driven medications (opioids, benzodiazepines; opioid-induced hyperalgesia), with central sensitization and stress/autonomic arousal as modulators. Pediatric POTS disability is framed as partly maintained by deconditioning, symptom focus and family accommodation. The goal is function, not cure.",
+  "roots": [
+    "behaviorism / classical conditioning",
+    "CBT (Beck/Ellis)",
+    "third-wave CBT (ACT, DBT)",
+    "gate control / neuromatrix pain science",
+    "biofeedback (1960s-70s)",
+    "autogenic training / Relaxation Response",
+    "Bonica multidisciplinary pain clinic",
+    "Fordyce operant pain management",
+    "Mayer-Gatchel functional restoration / sports medicine",
+    "fear-avoidance model",
+    "Minnesota model chemical-dependency treatment"
+  ],
+  "techniques": [
+    "3-week intensive outpatient day program (~120 contact hours, estimated)",
+    "group pain education using CBT/ACT (self-regulation, stress management, problem-solving, cognitive restructuring)",
+    "daily physical therapy: aerobic conditioning, strengthening, stretching, body mechanics",
+    "extinction of pain behaviours / reinforcement of well behaviours",
+    "occupational therapy: pacing, activity scheduling, return to valued roles and work",
+    "biofeedback, diaphragmatic breathing, progressive muscle relaxation",
+    "supervised taper of opioids, benzodiazepines, muscle relaxants and other symptom-driven medications",
+    "chemical-health education",
+    "nursing education on sleep, nutrition, smoking",
+    "family programming (reducing reinforcement and accommodation)",
+    "parent participation and school re-entry (pediatric)",
+    "graded upright tolerance and reconditioning for POTS (pediatric)",
+    "individual maintenance plan and aftercare"
+  ],
+  "mainstream_adoption": "substantial",
+  "mainstream_notes": "Archetypal tertiary pain-care model with CARF accreditation standards, Cochrane reviews and NICE NG59 recommendation (combined physical and psychological programme for persistent low back pain with psychosocial obstacles); operationalises CDC/VA nonpharmacological care and opioid tapering. VA CARF programs grew from 2 to 20 (2009-2019; Murphy et al. Pain Med 2021). Widespread in Germany (multimodal pain therapy) and Scandinavia. In US private care, CARF-accredited programs fell from ~205-210 (cited for 1988 or 1998) to 84 (2005) and ~54 (2022), mainly because of reimbursement; some programs dropped accreditation without closing. Pediatric IIPT runs at Mayo, Boston Children's, Cincinnati (FIRST), Stanford and Datteln, among others.",
+  "insurance": "yes",
+  "insurance_notes": "Commonly covered by commercial insurers and (per patient reports) Medicare as outpatient rehabilitation/psychology services or program per diem, usually with prior authorisation. Denials as \"not medically necessary\" are common, and Mayo's insurance team advocates case by case (KFF Health News 2017). A Mayo Florida-Florida Blue pre-post cost study (Sletten 2015, n=53) reported 64-90% lower medical costs after treatment.",
+  "evidence_level": "systematic reviews/meta-analyses",
+  "key_trials": [
+    {
+      "citation": "Kamper SJ et al. Multidisciplinary biopsychosocial rehabilitation for chronic low back pain: Cochrane systematic review and meta-analysis. BMJ 2015;350:h444",
+      "design": "Systematic review/meta-analysis of 41 RCTs (generic model, not Mayo)",
+      "n": 6858,
+      "finding": "Versus usual care: pain SMD 0.21 (~0.5/10 points) and disability SMD 0.23 (moderate quality). Versus physical treatment: pain SMD 0.51 (CI crosses 0) and disability SMD 0.68 (low quality, heterogeneous). Better odds of working at 1 year than physical treatment (OR 1.87) but not than usual care (OR 1.04).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25694111/"
+    },
+    {
+      "citation": "Guzman J et al. Multidisciplinary rehabilitation for chronic low back pain: systematic review. BMJ 2001;322:1511-6",
+      "design": "Systematic review of 10 RCTs (12 comparisons)",
+      "n": 1964,
+      "finding": "Strong evidence that intensive biopsychosocial rehabilitation with functional restoration improves function, and moderate evidence that it reduces pain; contradictory vocational evidence. Less intensive programs were ineffective.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11420271/"
+    },
+    {
+      "citation": "Flor H, Fydrich T, Turk DC. Efficacy of multidisciplinary pain treatment centers: a meta-analytic review. Pain 1992;49:221-30",
+      "design": "Meta-analysis of 65 studies (chronic back pain)",
+      "n": null,
+      "finding": "Superior to no treatment, waitlist and single-discipline care for pain, mood, return to work and healthcare use, with stable effects. Study quality was marginal.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1535122/"
+    },
+    {
+      "citation": "Mayer TG et al. A prospective two-year study of functional restoration in industrial low back injury. JAMA 1987;258:1763-7",
+      "design": "Prospective non-randomized controlled cohort (116 treated vs 72 untreated)",
+      "n": 188,
+      "finding": "At 2 years, 87% of treated patients were working vs 41% of untreated comparisons; comparison group had about twice as much additional spine surgery.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2957520/"
+    },
+    {
+      "citation": "Hechler T et al. Inpatient-based intensive interdisciplinary pain treatment for highly impaired children with severe chronic pain: RCT of efficacy and economic effects. Pain 2014;155:118-28",
+      "design": "RCT vs waitlist (German pediatric IIPT, Datteln)",
+      "n": 104,
+      "finding": "55% vs 14% improved at post-treatment. Disability, school absence, depression and catastrophizing improved immediately; pain intensity and anxiety improved only by short-term follow-up.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24060708/"
+    },
+    {
+      "citation": "Hechler T et al. Systematic review on intensive interdisciplinary pain treatment of children with chronic pain. Pediatrics 2015;136:115-27",
+      "design": "Systematic review/meta-analysis (1 RCT, 9 non-randomized studies)",
+      "n": null,
+      "finding": "Large post-treatment improvement in disability, small-to-moderate in pain and depression, maintained at short-term follow-up; extreme heterogeneity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26101358/"
+    },
+    {
+      "citation": "Claus BB et al. Intensive interdisciplinary pain treatment for children and adolescents with chronic noncancer pain: preregistered systematic review and IPD meta-analysis. Pain 2022;163:2281-2301",
+      "design": "Individual-patient-data meta-analysis, 13 sites (pre-post designs; includes Mayo co-author)",
+      "n": null,
+      "finding": "Large improvements in pain (g=-1.28), disability (g=-1.91) and missed school (g=-0.99, 12-month follow-up); moderate improvements in anxiety (g=-0.77) and depression (g=-0.76). Certainty very low to low.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35297804/"
+    },
+    {
+      "citation": "Townsend CO et al. A longitudinal study of the efficacy of a comprehensive pain rehabilitation program with opioid withdrawal. Pain 2008;140:177-89",
+      "design": "Mayo uncontrolled longitudinal cohort (admission, discharge, 6 months)",
+      "n": 373,
+      "finding": "91% completed; 70% of completers returned 6-month data. All outcomes improved at discharge and 6 months regardless of opioid use at admission (57% on daily opioids), after opioid withdrawal.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18804915/"
+    },
+    {
+      "citation": "Hooten WM et al. Treatment outcomes after multidisciplinary pain rehabilitation with analgesic medication withdrawal for patients with fibromyalgia. Pain Med 2007;8:8-16",
+      "design": "Mayo prospective case series",
+      "n": 159,
+      "finding": "MPI, SF-36, catastrophizing and depression improved, and opioid, NSAID, benzodiazepine and muscle-relaxant use fell at dismissal.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17244099/"
+    },
+    {
+      "citation": "Bruce BK et al. Development of an interdisciplinary pediatric pain rehabilitation program: the first 1000 consecutive patients. Mayo Clin Proc Innov Qual Outcomes 2017;1:141-9",
+      "design": "Mayo uncontrolled pre-post cohort (ages 9-24, 2008-2015)",
+      "n": 1000,
+      "finding": "Functional disability fell from 27 to 9, depression from 27 to 14 and catastrophizing from 26 to 14. Of the 16% on opioids, all but 4 tapered off.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30225410/"
+    },
+    {
+      "citation": "Bruce BK et al. Improvement in functioning and psychological distress in adolescents with POTS following interdisciplinary treatment. Clin Pediatr 2016;55:1300-4",
+      "design": "Mayo uncontrolled pre-post cohort (ages 11-18)",
+      "n": 33,
+      "finding": "Adolescents with POTS improved in functional ability and had lower depression and catastrophizing after the 3-week program.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26983448/"
+    },
+    {
+      "citation": "Sletten CD et al. Economic analysis of a comprehensive pain rehabilitation program: Florida Blue and Mayo Clinic Florida. Pain Med 2015;16:898-904",
+      "design": "Pre-post claims-cost analysis (uncontrolled)",
+      "n": 53,
+      "finding": "Medical costs fell 86%, 68%, 64% and 90% at 3, 6, 12 and 18 months after treatment vs matched pre-treatment periods.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25645237/"
+    }
+  ],
+  "controversy": "Mandatory opioid and benzodiazepine tapering is seen by some as coercive, a concern sharpened by the CDC 2022 warnings against forced/abrupt tapers. Operant \"ignoring\" of pain behaviour can feel invalidating. Rehabilitative framing of pediatric POTS and fatigue, and graded activity, are contested by POTS and ME/CFS communities (NICE NG206 on graded exercise therapy). The program is costly, insurers often deny it, and US access is limited after program closures. Mayo's evidence is in-house uncontrolled cohorts with no RCT of the Mayo program, and effects against usual care in RCTs of the generic model are small.",
+  "popularity": {
+    "indicators": [
+      {
+        "metric": "Mayo Rochester adult PRC annual patients",
+        "value": ">300 per year; >80% completion despite required opioid taper; program described as 40 years old",
+        "source": "KFF Health News/NPR (WGCU) 2017",
+        "year": 2017
+      },
+      {
+        "metric": "Mayo pediatric PRC cumulative patients",
+        "value": "1000 patients Oct 2008 - Mar 2015 (~150/yr)",
+        "source": "Bruce et al. 2017 Mayo Clin Proc Innov Qual Outcomes",
+        "year": 2015
+      },
+      {
+        "metric": "CARF-accredited US interdisciplinary pain programs",
+        "value": "~205-210 (1988 or 1998; sources disagree) -> 84 (2005) -> ~54 (2022)",
+        "source": "CARF/VA presentation (Murphy); IntechOpen chapter 2021; PMC8599775",
+        "year": 2022
+      },
+      {
+        "metric": "VA CARF interdisciplinary pain programs",
+        "value": "2 (2009) -> 20 (2019)",
+        "source": "Murphy et al., Pain Med 2021 (IASP-linked summary)",
+        "year": 2019
+      },
+      {
+        "metric": "Mayo campus expansion",
+        "value": "Rochester 1974; pediatric 2008; Florida 2011; Arizona 2016",
+        "source": "mayoclinic.org expertise page; Bruce 2017",
+        "year": 2016
+      },
+      {
+        "metric": "RCT evidence base",
+        "value": "41 RCTs, 6858 participants (Cochrane chronic LBP)",
+        "source": "Kamper 2015 BMJ",
+        "year": 2015
+      }
+    ],
+    "reach_estimate": "Mayo PRCs alone: ~300+/yr in Rochester for ~50 years, plus Florida, Arizona and pediatric programs, giving roughly 20,000-30,000 cumulative patients (log10 ~4.4). The generic interdisciplinary/multimodal model (US peak era, VA, Germany, Scandinavia, pediatric IIPT) has plausibly reached on the order of 1 million people worldwide (log10 ~6); this broader figure is used here but is a rough, unverified extrapolation.",
+    "reach_log10": 6,
+    "trajectory": [
+      {"year": 1970, "relative_activity": 2},
+      {"year": 1974, "relative_activity": 3},
+      {"year": 1976, "relative_activity": 4},
+      {"year": 1980, "relative_activity": 5},
+      {"year": 1985, "relative_activity": 7},
+      {"year": 1987, "relative_activity": 8},
+      {"year": 1990, "relative_activity": 9},
+      {"year": 1995, "relative_activity": 9},
+      {"year": 1998, "relative_activity": 9},
+      {"year": 2001, "relative_activity": 7},
+      {"year": 2005, "relative_activity": 5},
+      {"year": 2008, "relative_activity": 5},
+      {"year": 2011, "relative_activity": 5},
+      {"year": 2014, "relative_activity": 6},
+      {"year": 2016, "relative_activity": 7},
+      {"year": 2017, "relative_activity": 7},
+      {"year": 2019, "relative_activity": 7},
+      {"year": 2020, "relative_activity": 6},
+      {"year": 2022, "relative_activity": 6},
+      {"year": 2024, "relative_activity": 6},
+      {"year": 2026, "relative_activity": 6}
+    ],
+    "method_notes": "Trajectory reflects the generic interdisciplinary model, anchored on Mayo. Rise from Bonica and Fordyce (1968-76) and Mayo 1974; peak in the 1985-1998 functional-restoration/CARF era; decline as CARF-accredited programs fell from ~205-210 to 84 by 2005 and ~54 by 2022 (the year of the 210 figure is given as 1988 in a CARF slide and 1998 elsewhere; an often-repeated '>1000 US clinics' figure could not be verified); partial revival with Mayo expansions (2008-2016), pediatric IIPT and opioid-crisis attention (CDC 2016, KFF/NPR 2017, VA tenfold growth); steady through the 2020s. Reach is a rough order-of-magnitude estimate from Mayo throughput (300+/yr) extrapolated to many programs internationally; it does not count German multimodal therapy separately (no verified figures). Google Trends and Reddit were not used; this is a clinic-based model with little social-media footprint beyond Mayo Clinic Connect threads."
+  },
+  "sources": [
+    "https://www.mayoclinic.org/departments-centers/pain-rehabilitation-center/overview/ovc-20481691",
+    "https://mayoclinic.org/departments-centers/pain-rehabilitation-center/sections/expertise-ranking/orc-20481742",
+    "https://www.mayoclinic.org/departments-centers/pain-rehabilitation-center/sections/conditions-treated/orc-20481885",
+    "https://www.mayoclinic.org/departments-centers/pain-rehabilitation-center/sections/core-components/gnc-20481695",
+    "https://www.mayoclinic.org/departments-centers/pediatric-pain-rehabilitation-center/sections/overview/ovc-20574250",
+    "https://www.mayoclinic.org/departments-centers/pediatric-pain-rehabilitation-center/sections/conditions-treated/orc-20574255",
+    "https://www.wgcu.org/2017-08-29/holistic-therapy-programs-may-help-pain-sufferers-ditch-opioids",
+    "https://www.beckersasc.com/asc-news/dr-wesley-gilliam-why-mayo-employs-a-holistic-approach-to-pain-management/",
+    "https://connect.mayoclinic.org/discussion/mayo-clinic-prc-whats-your-experience/",
+    "https://www.iasp-pain.org/papers/160722-resurrection-interdisciplinary-pain-rehabilitation-outcomes-across-veterans-affairs",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8599775",
+    "https://www.iasp-pain.org/wp-content/uploads/2023/06/final_fordyce.pdf",
+    "https://www.cincinnatichildrens.org/service/f/functional-independence",
+    "https://pubmed.ncbi.nlm.nih.gov/25694111/",
+    "https://pubmed.ncbi.nlm.nih.gov/11420271/",
+    "https://pubmed.ncbi.nlm.nih.gov/1535122/",
+    "https://pubmed.ncbi.nlm.nih.gov/2957520/",
+    "https://pubmed.ncbi.nlm.nih.gov/24060708/",
+    "https://pubmed.ncbi.nlm.nih.gov/26101358/",
+    "https://pubmed.ncbi.nlm.nih.gov/35297804/",
+    "https://pubmed.ncbi.nlm.nih.gov/18804915/",
+    "https://pubmed.ncbi.nlm.nih.gov/17244099/",
+    "https://pubmed.ncbi.nlm.nih.gov/30225410/",
+    "https://pubmed.ncbi.nlm.nih.gov/26983448/",
+    "https://pubmed.ncbi.nlm.nih.gov/25645237/",
+    "https://pubmed.ncbi.nlm.nih.gov/27584815/",
+    "https://pubmed.ncbi.nlm.nih.gov/34820597/"
+  ]
+}

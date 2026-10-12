@@ -1,0 +1,228 @@
+{
+    "slug": "journalspeak-nicole-sachs",
+    "name": "JournalSpeak / The Cure for Chronic Pain (Nicole Sachs)",
+    "url": "https://www.yourbreakawake.com/",
+    "founders": [
+        "Nicole J. Sachs, LCSW (psychotherapist; former patient, later colleague, of John Sarno)",
+        "Lisa Eisenpresser (Sachs's partner; co-founder of Your BreakAwake, podcast producer)",
+        "Christina Sarno (co-creator of Sarno x Sachs practitioner training)"
+    ],
+    "founded_year": 2018,
+    "founded_year_range": "2013-2018. Clinical TMS practice c.2005 (site says 20+ years). Memoir The Meaning of Truth self-published 2013. YouTube channel and Freedom from Chronic Pain course existed before Oct 2018. Podcast launched 18 Oct 2018 (RSS).",
+    "category": "influencer/author method",
+    "delivery": [
+        "podcast",
+        "online course",
+        "membership/community",
+        "coaching",
+        "retreat",
+        "book",
+        "clinician training",
+        "YouTube"
+    ],
+    "business_model": "freemium/hybrid",
+    "cost_summary": "Free podcast, YouTube and JournalSpeak 3-step guide. Prices verified Oct 2026: BreakAwake membership $9.99/mo or $99/yr; Heal with Nicole membership $99/mo or $999/yr; coaching $160/session or $640 for a 4-pack. The two 14-lesson courses (1-year access) have no public price; estimated at a few hundred USD (unverified). Mind Your Body book (2025) sells at standard retail price. Retreats priced separately.",
+    "cost_usd_typical": 250,
+    "conditions_claimed": [
+        "chronic pain (general)",
+        "chronic back/neck pain",
+        "headache/migraine",
+        "TMD/jaw",
+        "pelvic pain/endometriosis/vulvodynia/IC",
+        "IBS/functional GI",
+        "fibromyalgia",
+        "ME/CFS",
+        "long COVID",
+        "POTS/dysautonomia",
+        "chronic Lyme",
+        "mould/CIRS",
+        "tinnitus",
+        "anxiety",
+        "depression",
+        "PTSD/trauma",
+        "insomnia",
+        "TMS (tension myositis)",
+        "autoimmune disease",
+        "vertigo/vestibular",
+        "skin conditions/allergies"
+    ],
+    "conditions_primary": [
+        "TMS (tension myositis)",
+        "chronic pain (general)",
+        "anxiety"
+    ],
+    "differentiation": "single unified mechanism",
+    "mechanisms": [
+        "repressed emotion / psychodynamic (rage, TMS)",
+        "unresolved trauma stored in body",
+        "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")",
+        "neuroplastic/learned pain (brain-generated danger signal / predictive processing)",
+        "fear-avoidance / catastrophizing / cognitive appraisal"
+    ],
+    "mechanism_summary": "Sarno's TMS model updated with nervous-system language. Real physical symptoms are produced by the brain as a protective distraction from repressed emotions, rage and trauma. These come from childhood, present stressors and personality traits (perfectionism, \"goodism\"). The nervous system is held in chronic fight-or-flight and learned pain pathways; chronic pain is \"an epidemic of fear.\" Symptoms can migrate or switch to anxiety (the \"symptom imperative\"). The same mechanism is applied to all conditions.",
+    "roots": [
+        "Sarno TMS",
+        "Freudian psychoanalysis / psychodynamic theory",
+        "expressive writing (Pennebaker)",
+        "Buddhist vipassana/insight meditation",
+        "Internal Family Systems / inner-child work",
+        "Christian Science / New Thought / mind-cure",
+        "gate control / neuromatrix pain science"
+    ],
+    "techniques": [
+        "JournalSpeak: daily uncensored expressive writing (about 20 min) on past, present and personality stressors, then destroying the pages",
+        "post-writing meditation/self-soothing (about 10 min)",
+        "accepting the TMS/mindbody diagnosis (Believe)",
+        "radical acceptance and self-compassion",
+        "inner-child/IFS reflection",
+        "resuming activity without fear; discontinuing PT/chiropractic",
+        "28-day JournalSpeak challenge",
+        "live 'Real Time Heal' coaching",
+        "group bootcamps, Q&A and retreats",
+        "1:1 coaching with certified coaches"
+    ],
+    "mainstream_adoption": "limited",
+    "mainstream_notes": "No health-system, guideline or insurer adoption. Influence runs through the TMS/mindbody physician network: John Stracks MD wrote the book's foreword and is a long-time referrer; Howard Schubiner MD and David Clarke MD have been podcast guests. There is also a practitioner training ('Sarno x Sachs Solution', 18.75 CE; accrediting body not stated) and cross-promotion with the Curable app. The book is published by Avery (Penguin Random House), 2025.",
+    "insurance": "no",
+    "insurance_notes": "All offerings are self-pay. Coaching is by in-house certified recovered-patient coaches with no stated licensure, so it is not billable psychotherapy. Sachs no longer offers 1:1 sessions.",
+    "evidence_level": "none",
+    "key_trials": [
+        {
+            "citation": "No trials of JournalSpeak or the Sachs program (PubMed and ClinicalTrials.gov: 0 hits, verified Oct 2026)",
+            "design": "n/a",
+            "finding": "Efficacy claims rest on testimonials and podcast recovery stories."
+        },
+        {
+            "citation": "Frattaroli J. Experimental disclosure and its moderators: a meta-analysis. Psychol Bull 2006;132(6):823-865 (generic expressive writing, not JournalSpeak)",
+            "design": "meta-analysis of experimental disclosure studies",
+            "finding": "Small average benefit of written emotional disclosure on health and psychological outcomes. Protocols are brief (3-4 sessions), unlike open-ended daily JournalSpeak.",
+            "n": null
+        },
+        {
+            "citation": "Broderick JE, Junghaenel DU, Schwartz JE. Written emotional expression produces health benefits in fibromyalgia patients. Psychosom Med 2005;67(2):326-34 (generic expressive writing, not JournalSpeak)",
+            "design": "RCT: trauma writing vs control writing vs usual care; 3 x 20-min sessions",
+            "finding": "Pain (ES 0.49) and fatigue (ES 0.62) reduced at 4 months vs controls; benefits not maintained at 10 months.",
+            "n": 92,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15784801/"
+        }
+    ],
+    "controversy": "Claims of cures (\"live entirely free of chronic conditions\") extend to autoimmune disease, long COVID, ME/CFS and tinnitus, with no outcome data. Following Sarno, PT and chiropractic are discouraged. Flares are framed as proof the work is working and non-response is attributed to resistance; this makes the claims unfalsifiable and risks self-blame or missed organic disease. The free podcast funnels listeners to paid tiers and carries sponsor reads (Curable). Coaches are certified in-house, and their licensure is not stated.",
+    "popularity": {
+        "indicators": [
+            {
+                "metric": "podcast episodes",
+                "value": "437 (Oct 2018-Oct 2026), ~51/yr",
+                "source": "Megaphone RSS feed / Apple Podcasts API",
+                "year": 2026
+            },
+            {
+                "metric": "podcast cumulative downloads",
+                "value": "2 million",
+                "source": "episode 'Two Million Downloads' 8 Oct 2021 (RSS)",
+                "year": 2021
+            },
+            {
+                "metric": "podcast cumulative downloads",
+                "value": "5.5 million",
+                "source": "yourbreakawake.com homepage (verified)",
+                "year": 2026
+            },
+            {
+                "metric": "book",
+                "value": "Mind Your Body published 4 Feb 2025 (Avery/Penguin Random House US; Vermilion/Ebury UK; Penguin Audio; Spanish translation)",
+                "source": "podcast RSS; Open Library; library catalogs",
+                "year": 2025
+            },
+            {
+                "metric": "self-reported reach",
+                "value": "'hundreds of thousands' and, elsewhere on the same page, 'thousands' supported (inconsistent)",
+                "source": "yourbreakawake.com/about",
+                "year": 2026
+            },
+            {
+                "metric": "celebrity testimonials",
+                "value": "Ricki Lake, Rachel Platten, Catherine Oxenberg, Michael Porter Jr.",
+                "source": "podcast RSS",
+                "year": 2026
+            }
+        ],
+        "reach_estimate": "~100k-500k people. Basis: 5.5M downloads spread over a few hundred episodes suggests tens of thousands of regular listeners, plus book sales (major-publisher release), YouTube and Facebook groups. Self-reported reach is inconsistent ('thousands' vs 'hundreds of thousands'). Paid course and membership users are likely in the low tens of thousands.",
+        "reach_log10": 5.2,
+        "trajectory": [
+            {
+                "year": 2005,
+                "relative_activity": 0.5
+            },
+            {
+                "year": 2010,
+                "relative_activity": 1
+            },
+            {
+                "year": 2013,
+                "relative_activity": 1.5
+            },
+            {
+                "year": 2016,
+                "relative_activity": 2
+            },
+            {
+                "year": 2017,
+                "relative_activity": 2.5
+            },
+            {
+                "year": 2018,
+                "relative_activity": 3.5
+            },
+            {
+                "year": 2019,
+                "relative_activity": 4.5
+            },
+            {
+                "year": 2020,
+                "relative_activity": 5.5
+            },
+            {
+                "year": 2021,
+                "relative_activity": 6
+            },
+            {
+                "year": 2022,
+                "relative_activity": 6
+            },
+            {
+                "year": 2023,
+                "relative_activity": 6.5
+            },
+            {
+                "year": 2024,
+                "relative_activity": 7.5
+            },
+            {
+                "year": 2025,
+                "relative_activity": 9
+            },
+            {
+                "year": 2026,
+                "relative_activity": 9.5
+            }
+        ],
+        "method_notes": "Anchored on dated indicators: memoir 2013; course and YouTube before 2018; podcast launch Oct 2018; RSS episode counts per year; 2M downloads Oct 2021 and 5.5M by 2026; book Feb 2025; membership, coaching and practitioner-training expansion 2024-26. Google Trends and Reddit counts were not checked, so trajectory values are judgement-based."
+    },
+    "sources": [
+        "https://www.yourbreakawake.com/",
+        "https://www.yourbreakawake.com/about",
+        "https://www.yourbreakawake.com/journalspeak",
+        "https://www.yourbreakawake.com/membership",
+        "https://www.yourbreakawake.com/coaching",
+        "https://www.yourbreakawake.com/education",
+        "https://www.yourbreakawake.com/faqs",
+        "https://www.yourbreakawake.com/book",
+        "https://www.yourbreakawake.com/podcast",
+        "https://feeds.megaphone.fm/ADL5931785564",
+        "https://podcasts.apple.com/us/podcast/id1439580309",
+        "https://openlibrary.org/search.json?author=Nicole+Sachs",
+        "https://pubmed.ncbi.nlm.nih.gov/?term=journalspeak",
+        "https://clinicaltrials.gov/api/v2/studies?query.term=JournalSpeak",
+        "https://pubmed.ncbi.nlm.nih.gov/15784801/"
+    ]
+}

@@ -1,0 +1,313 @@
+{
+  "slug": "yoga-therapy",
+  "name": "Therapeutic yoga / yoga therapy (IAYT)",
+  "url": "https://www.iayt.org/",
+  "founders": [
+    "No single founder (umbrella practice)",
+    "IAYT co-founders Larry Payne and Richard Miller (1989; Miller's role confirmed, Payne's from prior knowledge)",
+    "Lineage: T. Krishnamacharya, B.K.S. Iyengar, T.K.V. Desikachar",
+    "TCTSY variant: David Emerson with Bessel van der Kolk (2002)"
+  ],
+  "founded_year": 1989,
+  "founded_year_range": "1989 for IAYT (secondary sources; iayt.org not reachable). Therapeutic postural yoga dates to the 1920s–40s (Kaivalyadhama 1924; Iyengar remedial yoga from about 1940). C-IAYT credential about 2016 (approx.); TCTSY 2002.",
+  "category": "somatic/movement practice",
+  "delivery": [
+    "clinician-delivered",
+    "group",
+    "online course",
+    "app",
+    "book"
+  ],
+  "business_model": "mixed",
+  "cost_summary": "Approximate US prices, 2024–26, unverified: drop-in classes US$15–30; private yoga therapy US$75–150+/session; free VA, community and YouTube classes. C-IAYT training (800+ hours) about US$8,000–15,000. iayt.org returned HTTP 403, so prices could not be checked.",
+  "cost_usd_typical": 120,
+  "conditions_claimed": [
+    "chronic back/neck pain",
+    "chronic pain (general)",
+    "fibromyalgia",
+    "headache/migraine",
+    "IBS/functional GI",
+    "anxiety",
+    "depression",
+    "PTSD/trauma",
+    "insomnia",
+    "general stress/wellbeing",
+    "pelvic pain/endometriosis/vulvodynia/IC"
+  ],
+  "conditions_primary": [
+    "chronic back/neck pain",
+    "anxiety",
+    "depression",
+    "PTSD/trauma"
+  ],
+  "differentiation": "mostly unified with condition-specific emphasis",
+  "mechanisms": [
+    "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")",
+    "stress / HPA axis",
+    "sensorimotor / movement patterns / body schema",
+    "attention & interoception / hypervigilance",
+    "polyvagal / vagal tone / safety signalling",
+    "unresolved trauma stored in body",
+    "fear-avoidance / catastrophizing / cognitive appraisal",
+    "inflammation / immune"
+  ],
+  "mechanism_summary": "There is no single disease model. Traditional framings are kosha/prana imbalance. Contemporary framings are layered:\n- breath and relaxation shift autonomic balance toward parasympathetic/vagal tone and lower HPA reactivity;\n- postures retrain musculoskeletal and sensorimotor function;\n- mindful movement builds interoception and acceptance and reduces catastrophizing;\n- in TCTSY, trauma is held in the body as dysregulated arousal and loss of agency, and is restored through choice-based embodied practice.\n\nPractice is tailored to each condition, but the model is shared and transdiagnostic.",
+  "roots": [
+    "Hindu yoga/pranayama",
+    "autogenic training / Relaxation Response",
+    "Selye stress theory",
+    "Buddhist vipassana/insight meditation",
+    "polyvagal theory",
+    "Somatic Experiencing / ethology",
+    "Swedish medical gymnastics / physiotherapy"
+  ],
+  "techniques": [
+    "asana (postures; Viniyoga, Iyengar, hatha, Kundalini protocols)",
+    "pranayama (slow/diaphragmatic, extended exhalation, alternate-nostril breathing)",
+    "savasana and yoga nidra/iRest relaxation",
+    "meditation/mindfulness",
+    "individualized home practice 15–30 min/day after 1:1 assessment",
+    "manualized 12-week group programs (weekly classes plus home practice)",
+    "Yoga of Awareness coping instruction (fibromyalgia)",
+    "trauma-sensitive invitational language, choice, no hands-on assists (TCTSY, 10-week classes)",
+    "lifestyle and yogic philosophy (diet, self-study)"
+  ],
+  "mainstream_adoption": "substantial",
+  "mainstream_notes": "The ACP 2017 chronic low back pain guideline (Qaseem, PMID 28192789) lists yoga among first-line nonpharmacologic options. NICE NG59 recommends group exercise, mind-body forms included. EULAR 2016 gives a weak recommendation for meditative movement in fibromyalgia. Yoga is a VHA-approved complementary and integrative health approach (Directive 1137) within VA Whole Health. It is widely offered in integrative medicine and cancer centres and studied by NCCIH. Yoga therapy itself is not a licensed profession.",
+  "insurance": "sometimes/indirect",
+  "insurance_notes": "There is no dedicated CPT code or licensure, so private insurers and Medicare rarely cover \"yoga therapy\". Indirect routes: free VA classes for veterans; HSA/FSA with a letter of medical necessity; Medicare Advantage fitness benefits (e.g. SilverSneakers); employer wellness programs; PT/OT billing yoga-based therapeutic exercise (97110/97112/97530).",
+  "evidence_level": "systematic reviews/meta-analyses",
+  "key_trials": [
+    {
+      "citation": "Sherman KJ et al. A randomized trial comparing yoga, stretching, and a self-care book for chronic low back pain. Arch Intern Med 2011;171:2019-26 (PMID 22025101)",
+      "design": "RCT, 12 wk Viniyoga vs stretching vs self-care book",
+      "n": 228,
+      "finding": "Yoga beat the book at 12 wk on function (RMDQ -2.5) and pain bothersomeness (-1.1), with function still better at 26 wk (-1.8). Yoga was not superior to stretching at any time point.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22025101/"
+    },
+    {
+      "citation": "Tilbrook HE et al. Yoga for chronic low back pain: a randomized trial. Ann Intern Med 2011;155:569-78 (PMID 22041945)",
+      "design": "Multicentre UK RCT, 12-class Yoga for Healthy Lower Backs vs usual care (both got an education booklet)",
+      "n": 313,
+      "finding": "Better back function: RMDQ -2.17 at 3 mo, -1.48 at 6 mo, -1.57 at 12 mo. Back pain and general health were similar between groups. Adverse events: 12 yoga vs 2 usual care.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22041945/"
+    },
+    {
+      "citation": "Saper RB et al. Yoga, Physical Therapy, or Education for Chronic Low Back Pain: A Randomized Noninferiority Trial. Ann Intern Med 2017;167:85-94 (PMID 28631003)",
+      "design": "3-arm noninferiority RCT, 12 wk yoga vs PT vs education, 40-wk maintenance; low-income diverse sample",
+      "n": 320,
+      "finding": "Yoga was noninferior to PT for function and pain, but not superior to education on either primary outcome. Yoga and PT participants were 21 and 22 percentage points less likely to use pain medication than education participants. Gains held at 1 year.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28631003/"
+    },
+    {
+      "citation": "Carson JW et al. A pilot randomized controlled trial of the Yoga of Awareness program in the management of fibromyalgia. Pain 2010;151:530-9 (PMID 20946990)",
+      "design": "Pilot RCT, 8-wk program vs waitlist (women)",
+      "n": 53,
+      "finding": "Greater improvement in FM symptoms, pain, fatigue, mood, catastrophizing and acceptance than waitlist.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20946990/"
+    },
+    {
+      "citation": "van der Kolk BA et al. Yoga as an adjunctive treatment for posttraumatic stress disorder: a randomized controlled trial. J Clin Psychiatry 2014;75:e559-65 (PMID 25004196)",
+      "design": "RCT, 10-wk trauma-sensitive yoga vs women's health education, women with treatment-resistant PTSD",
+      "n": 64,
+      "finding": "52% of the yoga group vs 21% of controls no longer met PTSD criteria. Both groups improved on CAPS. Developers (Emerson, van der Kolk) ran the trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25004196/"
+    },
+    {
+      "citation": "Simon NM et al. Efficacy of Yoga vs Cognitive Behavioral Therapy vs Stress Education for the Treatment of Generalized Anxiety Disorder. JAMA Psychiatry 2021;78:13-20 (PMID 32805013)",
+      "design": "3-arm RCT, 12 x 120-min group Kundalini yoga vs CBT vs stress education",
+      "n": 226,
+      "finding": "Yoga beat stress education on acute response but was not noninferior to CBT. The authors concluded CBT should remain first line.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32805013/"
+    },
+    {
+      "citation": "Cramer H et al. A systematic review and meta-analysis of yoga for low back pain. Clin J Pain 2013;29:450-60 (PMID 23246998)",
+      "design": "Meta-analysis of 10 RCTs",
+      "n": 967,
+      "finding": "Short term: pain SMD -0.48, back disability SMD -0.59. Long term: pain SMD -0.33, disability -0.35.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23246998/"
+    },
+    {
+      "citation": "Wieland LS et al. Yoga for chronic non-specific low back pain. Cochrane Database Syst Rev 2022;CD010671.pub3 (PMID 36398843)",
+      "design": "Cochrane systematic review, 21 RCTs",
+      "n": 2223,
+      "finding": "Small, clinically unimportant gains vs no exercise (RMDQ -1.69; pain -4.53/100) and more adverse events (RR 4.76). Little or no difference vs other back exercise. No sham-controlled trials; all at high risk of bias.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36398843/"
+    },
+    {
+      "citation": "Cramer H et al. Yoga for anxiety: a systematic review and meta-analysis of RCTs. Depress Anxiety 2018;35:830-43 (PMID 29697885)",
+      "design": "Meta-analysis of 8 RCTs",
+      "n": 319,
+      "finding": "Small effect vs no treatment (SMD -0.43); large vs active comparators (SMD -0.86). No effect in DSM-diagnosed anxiety disorders, only in people with elevated anxiety or non-DSM diagnoses.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29697885/"
+    },
+    {
+      "citation": "Kysar-Moon A et al. Trauma-Sensitive Yoga Interventions and Posttraumatic Stress and Depression Outcomes Among Women: A Systematic Review and Analysis of RCTs. Int J Yoga Therap 2021;31:Article_23 (PMID 33543258)",
+      "design": "Systematic review and meta-analysis of RCTs",
+      "n": null,
+      "finding": "Marginally significant to no effects of trauma-sensitive yoga on PTSD and depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33543258/"
+    }
+  ],
+  "controversy": "Effects for chronic LBP are small and nonspecific: Cochrane 2022 judged them clinically unimportant vs no exercise and no different from other exercise. There are no sham-controlled trials. In GAD, yoga was inferior to CBT (Simon 2021). Traditional organ-specific health claims (Iyengar-era marketing, \"detox\") lack evidence. Injuries are small but real, with rare cervical artery dissection; adverse events were more frequent than with no exercise. The profession is unregulated and unlicensed, so competence varies. The trauma-sensitive yoga evidence base is methodologically weak (Nguyen-Feng 2019 review; Kysar-Moon 2021 meta-analysis found marginal or null effects), and its main RCT was run by the developers. There is also debate over cultural appropriation versus religious content in clinical settings.",
+  "popularity": {
+    "indicators": [
+      {
+        "metric": "US adults practicing yoga in past 12 months (NHIS)",
+        "value": "~5.1% (2002, approx.), 9.5% (2012), 14.3% (2017)",
+        "source": "CDC NCHS Data Brief 325 (2012/2017 verified)",
+        "year": 2017
+      },
+      {
+        "metric": "US yoga practitioners",
+        "value": "~36.7 million",
+        "source": "Yoga in America 2016 (Yoga Journal/Yoga Alliance), approx., unverified",
+        "year": 2016
+      },
+      {
+        "metric": "IAYT membership / C-IAYT credential holders",
+        "value": "several thousand (approx.; credential launched about 2016)",
+        "source": "IAYT (site returned 403; not verified)",
+        "year": 2024
+      },
+      {
+        "metric": "Cochrane review size, yoga for chronic LBP",
+        "value": "21 RCTs, 2,223 participants",
+        "source": "Wieland 2022 Cochrane CD010671.pub3",
+        "year": 2022
+      },
+      {
+        "metric": "Popular trauma-yoga book",
+        "value": "The Body Keeps the Score on NYT bestseller list for years (about 2019-2023)",
+        "source": "prior knowledge, unverified",
+        "year": 2021
+      },
+      {
+        "metric": "YouTube yoga channel (Yoga with Adriene)",
+        "value": "12M+ subscribers",
+        "source": "YouTube (approx., unverified)",
+        "year": 2024
+      }
+    ],
+    "reach_estimate": "Order of 10^6-10^7 people have received therapeutic or clinical yoga for a health condition (VA, hospitals, C-IAYT clients, condition-specific classes). Yoga in general reaches more than 10^8 globally (about 35M+ US adults in 2017 alone, from 14.3% NHIS prevalence).",
+    "reach_log10": 6.8,
+    "trajectory": [
+      {
+        "year": 1970,
+        "relative_activity": 1
+      },
+      {
+        "year": 1975,
+        "relative_activity": 1.5
+      },
+      {
+        "year": 1980,
+        "relative_activity": 2
+      },
+      {
+        "year": 1985,
+        "relative_activity": 2
+      },
+      {
+        "year": 1989,
+        "relative_activity": 2.5
+      },
+      {
+        "year": 1995,
+        "relative_activity": 3
+      },
+      {
+        "year": 2000,
+        "relative_activity": 3.5
+      },
+      {
+        "year": 2002,
+        "relative_activity": 4
+      },
+      {
+        "year": 2005,
+        "relative_activity": 4.5
+      },
+      {
+        "year": 2008,
+        "relative_activity": 5
+      },
+      {
+        "year": 2011,
+        "relative_activity": 6
+      },
+      {
+        "year": 2013,
+        "relative_activity": 6.5
+      },
+      {
+        "year": 2015,
+        "relative_activity": 7
+      },
+      {
+        "year": 2016,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2017,
+        "relative_activity": 8.5
+      },
+      {
+        "year": 2018,
+        "relative_activity": 8.5
+      },
+      {
+        "year": 2019,
+        "relative_activity": 9
+      },
+      {
+        "year": 2020,
+        "relative_activity": 9.5
+      },
+      {
+        "year": 2021,
+        "relative_activity": 9.5
+      },
+      {
+        "year": 2022,
+        "relative_activity": 9
+      },
+      {
+        "year": 2023,
+        "relative_activity": 9
+      },
+      {
+        "year": 2024,
+        "relative_activity": 9
+      },
+      {
+        "year": 2025,
+        "relative_activity": 9
+      },
+      {
+        "year": 2026,
+        "relative_activity": 9
+      }
+    ],
+    "method_notes": "Web search was exhausted and iayt.org blocked automated fetches, so most popularity figures come from prior knowledge and are marked approx. NHIS 2012/2017 prevalence was verified against NCHS Data Brief 325 at fact-check. The trajectory tracks clinical/therapeutic yoga specifically and is a judgement-based estimate. It is anchored on IAYT founding (1989), TCTSY (2002), major RCTs (Sherman/Tilbrook 2011, Saper 2017), ACP guideline inclusion (2017), the IAYT credential (about 2016), the COVID-era online surge (2020-21) and an approximate plateau afterward. All trial abstracts were re-verified via PubMed E-utilities on 2026-10-12."
+  },
+  "sources": [
+    "https://www.iayt.org/",
+    "https://www.traumasensitiveyoga.com/",
+    "https://pubmed.ncbi.nlm.nih.gov/22025101/",
+    "https://pubmed.ncbi.nlm.nih.gov/22041945/",
+    "https://pubmed.ncbi.nlm.nih.gov/28631003/",
+    "https://pubmed.ncbi.nlm.nih.gov/20946990/",
+    "https://pubmed.ncbi.nlm.nih.gov/25004196/",
+    "https://pubmed.ncbi.nlm.nih.gov/32805013/",
+    "https://pubmed.ncbi.nlm.nih.gov/23246998/",
+    "https://pubmed.ncbi.nlm.nih.gov/36398843/",
+    "https://pubmed.ncbi.nlm.nih.gov/28076926/",
+    "https://pubmed.ncbi.nlm.nih.gov/29697885/",
+    "https://pubmed.ncbi.nlm.nih.gov/33543258/",
+    "https://pubmed.ncbi.nlm.nih.gov/28192789/",
+    "https://en.wikipedia.org/wiki/Yoga_as_therapy",
+    "https://en.wikipedia.org/wiki/Trauma-sensitive_yoga",
+    "https://www.cdc.gov/nchs/products/databriefs/db325.htm"
+  ]
+}

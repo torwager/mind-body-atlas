@@ -1,0 +1,283 @@
+{
+  "slug": "wearable-neuromodulation-pain-migraine",
+  "name": "Wearable peripheral neuromodulation for migraine and pain (Cefaly, Nerivio, Relivion/Proliv, Quell)",
+  "url": "https://www.nerivio.com/",
+  "founders": [
+    "Pierre Rigaux and Pierre-Yves Muller (Cefaly / STX-Med SPRL, Belgium; not re-verified)",
+    "Alon Ironi, Ronen Jashek, Shimon Eckhouse (Theranica / Nerivio; Slava Barabash listed by one source); trials led by David Yarnitsky",
+    "Neurolief Ltd (Relivion, Proliv Rx; founders not verified)",
+    "Shai Gozani (NeuroMetrix / Quell; NeuroMetrix now an electroCore subsidiary)"
+  ],
+  "founded_year": 2014,
+  "founded_year_range": "2004-2022: STX-Med/Cefaly company c.2004 (unverified); FDA De Novo DEN120019 for Cefaly 11 Mar 2014; Quell cleared as Ascend K140333 3 Jul 2014, Quell K152954 Jan 2016; Theranica founded 2016 (some sources 2015), Nerivio De Novo DEN180059 20 May 2019; Relivion 510(k) K203419 16 Feb 2021; Quell-FM De Novo DEN210046 18 May 2022",
+  "category": "device/neuromodulation",
+  "delivery": [
+    "device",
+    "app"
+  ],
+  "business_model": "commercial",
+  "cost_summary": "Relivion: verified US$200 non-refundable 60-day program fee, then cash purchase 'as low as' $900 (site pricing as of Mar 2026). Nerivio: Rx only via specialty pharmacy or telehealth, 18 x 45-min treatments per unit, no public price, insurance or copay support. Cefaly: OTC and HSA/FSA eligible; about $330-500 plus electrodes (price unverified). Quell: OTC Quell (about $250-300, historical, unverified) appears discontinued; Quell Fibromyalgia is Rx with no public price.",
+  "cost_usd_typical": 400,
+  "conditions_claimed": [
+    "headache/migraine",
+    "fibromyalgia",
+    "chronic back/neck pain",
+    "chronic pain (general)",
+    "depression"
+  ],
+  "conditions_primary": [
+    "headache/migraine",
+    "fibromyalgia"
+  ],
+  "differentiation": "mostly unified with condition-specific emphasis",
+  "mechanisms": [
+    "peripheral nerve / pain gating",
+    "descending pain modulation (conditioned pain modulation)",
+    "central sensitization"
+  ],
+  "mechanism_summary": "Peripheral nerve stimulation is said to engage central pain-modulatory circuits. Nerivio's upper-arm Remote Electrical Neuromodulation is claimed to trigger conditioned pain modulation (brainstem descending inhibition releasing noradrenaline and serotonin). A company review frames deficient CPM as shared by 'certain idiopathic pain disorders', which is partly transdiagnostic. Cefaly stimulates supraorbital/supratrochlear trigeminal branches to desensitize the trigeminal system. Relivion (and Neurolief's Proliv Rx for depression) stimulates occipital and trigeminal branches together, targeting the trigemino-cervical complex and brainstem. Quell uses high-frequency calf TENS, invoking gate control, endogenous opioids and descending inhibition against central sensitization in fibromyalgia. Each device is cleared condition by condition, and none offers a psychological illness model.",
+  "roots": [
+    "gate control / neuromatrix pain science",
+    "diffuse noxious inhibitory controls / conditioned pain modulation",
+    "TENS / electrotherapy",
+    "invasive occipital/supraorbital nerve stimulation",
+    "relaxation / guided imagery (Nerivio GIER)"
+  ],
+  "techniques": [
+    "transcutaneous electrical nerve stimulation (TENS)",
+    "external trigeminal (supraorbital) nerve stimulation, 60 min acute / 20 min daily preventive",
+    "remote electrical neuromodulation of the upper arm, 45 min at attack onset or every other day for prevention",
+    "combined occipital-trigeminal stimulation headset, 20-60 min (max 80 min/day)",
+    "Nerivio GIER guided imagery/education/relaxation module in app",
+    "app-based symptom diaries, sleep/activity tracking"
+  ],
+  "mainstream_adoption": "moderate",
+  "mainstream_notes": "All are FDA-authorized. The Cefaly De Novo (2014) was the first migraine device, followed by 6 Cefaly 510(k)s through 2024. Nerivio has 7 FDA actions (De Novo plus 6 510(k)s, 2019-2025) and is now indicated for ages 8+, acute and preventive. Quell-FM De Novo 2022 for fibromyalgia. Neuromodulation devices are named among options in the 2021 American Headache Society consensus statement. Prescribed in US headache centres. Available to US veterans (VA real-world cohort published 2026); DoD-wide use not verified. Fibromyalgia use is niche.",
+  "insurance": "sometimes/indirect",
+  "insurance_notes": "Nerivio says it is 'eligible for insurance coverage', varying by plan, with a copay/support program; Medicaid coverage claims were not found on the current FAQ. The VA covers Relivion per its site, and Nerivio for veterans. Relivion's commercial coverage is not available. Cefaly is OTC and HSA/FSA eligible, mostly out of pocket.",
+  "evidence_level": "systematic reviews/meta-analyses",
+  "key_trials": [
+    {
+      "citation": "Schoenen J et al. Neurology 2013;80:697 (PREMICE)",
+      "design": "Sham-controlled RCT, Cefaly migraine prevention, 3 months",
+      "n": 67,
+      "finding": "Monthly migraine days 6.94->4.88 with active vs 6.54->6.22 with sham; 50% responders 38.1% vs 12.1%",
+      "url": "https://doi.org/10.1212/WNL.0b013e3182825055"
+    },
+    {
+      "citation": "Chou DE et al. Cephalalgia 2019 (ACME)",
+      "design": "Sham-controlled RCT, Cefaly acute 1-h",
+      "n": 106,
+      "finding": "VAS pain change -3.46 vs -1.78 (-59% vs -30%), p<.0001",
+      "url": "https://doi.org/10.1177/0333102418811573"
+    },
+    {
+      "citation": "Kuruvilla DE et al. Sci Rep 2022;12:5110 (TEAM)",
+      "design": "Phase 3 sham-controlled RCT, Cefaly acute 2-h",
+      "n": 538,
+      "finding": "2-h pain freedom 25.5% vs 18.3% (p=.043); most bothersome symptom resolved 56.4% vs 42.3%",
+      "url": "https://doi.org/10.1038/s41598-022-09071-6"
+    },
+    {
+      "citation": "Yarnitsky D et al. Neurology 2017",
+      "design": "Randomized double-blind sham-controlled crossover pilot, Nerivio REN acute",
+      "n": 71,
+      "finding": "50% pain reduction in 64% vs 26% with sham; earlier treatment more effective",
+      "url": "https://doi.org/10.1212/WNL.0000000000003760"
+    },
+    {
+      "citation": "Yarnitsky D et al. Headache 2019",
+      "design": "Pivotal multicentre sham-controlled RCT, Nerivio REN acute (252 randomized, 202 mITT)",
+      "n": 252,
+      "finding": "2-h pain relief 66.7% vs 38.8%; pain-free 37.4% vs 18.4%; MBS relief 46.3% vs 22.2%",
+      "url": "https://doi.org/10.1111/head.13551"
+    },
+    {
+      "citation": "Tepper SJ et al. Headache 2023",
+      "design": "Sham-controlled RCT, Nerivio REN prevention every other day, 8 weeks (248 randomized, 179 mITT)",
+      "n": 248,
+      "finding": "Monthly migraine days -4.0 vs -1.3 (gain 2.7); significant in both episodic and chronic subgroups",
+      "url": "https://doi.org/10.1111/head.14469"
+    },
+    {
+      "citation": "Tepper SJ et al. Headache 2022",
+      "design": "Sham-controlled RCT, Relivion acute (131 randomized, 109 analysed)",
+      "n": 131,
+      "finding": "2-h pain relief 60% vs 37% (p=.018); pain-free 46% vs 12%",
+      "url": "https://doi.org/10.1111/head.14350"
+    },
+    {
+      "citation": "Daniel O et al. Pain Ther 2022",
+      "design": "Separate smaller sham-controlled RCT, Relivion (eCOT-NS) acute",
+      "n": 55,
+      "finding": "2-h pain-free 41.7% vs 20%; >=50% pain reduction at 2 h 52% vs 17%; sponsor-authored",
+      "url": "https://doi.org/10.1007/s40122-022-00394-w"
+    },
+    {
+      "citation": "Jamison RN et al. J Pain Res 2021 (secondary analysis Neuromodulation 2022)",
+      "design": "Sham-controlled RCT, Quell TENS for fibromyalgia, 3 months",
+      "n": 119,
+      "finding": "Primary PGIC endpoint null in ITT (p=.351); secondary FIQR -7.5 favoured active; benefit in high pain-sensitivity subgroup (n=60); 87.5% of sham participants correctly guessed their arm",
+      "url": "https://doi.org/10.2147/JPR.S316371"
+    },
+    {
+      "citation": "Alnajjar AZ et al. BMC Neurol 2025",
+      "design": "Systematic review/meta-analysis of 12 REN studies (mostly single-arm/real-world)",
+      "n": 9912,
+      "finding": "Pooled 2-h pain relief 64%, pain-free 22%; double-arm OR for 2-h pain-free 2.77 (95% CI 1.63-4.71)",
+      "url": "https://doi.org/10.1186/s12883-025-04291-5"
+    },
+    {
+      "citation": "Canales-Rodriguez J et al. Eur J Neurol 2026",
+      "design": "Independent systematic review of 70 non-invasive neuromodulation trials for migraine/cluster headache",
+      "n": null,
+      "finding": "Acute trials mostly sham-controlled and blinded, but endpoints often departed from IHS guidelines and preventive trials were heterogeneous; more robust sham-controlled studies needed",
+      "url": "https://doi.org/10.1111/ene.70559"
+    }
+  ],
+  "controversy": "Nearly all trials are manufacturer-funded with company co-authors; independent replication is scarce. Sham blinding is hard and sham response rates are high (about 37-55% 2-h relief). Pain-freedom gains are modest (7% absolute in TEAM). There are no head-to-head trials against triptans or gepants, and an independent 2026 systematic review notes heterogeneous, guideline-nonadherent endpoints. Quell-FM was authorized despite a null primary endpoint, with marked unblinding. Marketing language ('normalizes the brain's electrical activity') outruns the mechanistic evidence, and CPM engagement by REN is inferred rather than shown in patients. Rx and specialty-pharmacy channels and disposable units create recurring costs. Neurolief's depression claim for Proliv Rx comes from the company and is unverified.",
+  "popularity": {
+    "indicators": [
+      {
+        "metric": "Patients pooled in REN meta-analysis (mostly real-world device data)",
+        "value": "9,912",
+        "source": "Alnajjar et al. BMC Neurol 2025",
+        "year": 2025
+      },
+      {
+        "metric": "Cefaly users surveyed for safety/satisfaction",
+        "value": "2,313",
+        "source": "Magis et al. J Headache Pain 2013",
+        "year": 2013
+      },
+      {
+        "metric": "FDA authorizations for Nerivio (De Novo + 510k)",
+        "value": "7 (2019-2025)",
+        "source": "openFDA 510(k)/De Novo database",
+        "year": 2025
+      },
+      {
+        "metric": "FDA authorizations for Cefaly (De Novo + 510k)",
+        "value": "7 (2014-2024)",
+        "source": "openFDA 510(k)/De Novo database",
+        "year": 2024
+      },
+      {
+        "metric": "Real-world REN veterans cohort",
+        "value": "US VA users 2020-2025",
+        "source": "Brooks-Horrar et al. Military Medicine 2026",
+        "year": 2026
+      },
+      {
+        "metric": "Corporate status of Quell maker",
+        "value": "NeuroMetrix is a wholly owned subsidiary of electroCore (closed c. May 2025)",
+        "source": "neurometrix.com; SEC EDGAR 8-K filings",
+        "year": 2025
+      }
+    ],
+    "reach_estimate": "Roughly 10^5-10^6 cumulative users across all four brands (highly uncertain). Basis: about 10^4 users in published REN real-world datasets, a 2,313-user Cefaly survey, and sales of Cefaly in Europe and the US since about 2009-2014. Company user and sales totals were not verified.",
+    "reach_log10": 5.5,
+    "trajectory": [
+      {
+        "year": 2009,
+        "relative_activity": 1
+      },
+      {
+        "year": 2011,
+        "relative_activity": 1.5
+      },
+      {
+        "year": 2013,
+        "relative_activity": 3
+      },
+      {
+        "year": 2014,
+        "relative_activity": 4
+      },
+      {
+        "year": 2015,
+        "relative_activity": 4.5
+      },
+      {
+        "year": 2016,
+        "relative_activity": 5
+      },
+      {
+        "year": 2017,
+        "relative_activity": 5
+      },
+      {
+        "year": 2018,
+        "relative_activity": 5
+      },
+      {
+        "year": 2019,
+        "relative_activity": 6
+      },
+      {
+        "year": 2020,
+        "relative_activity": 6.5
+      },
+      {
+        "year": 2021,
+        "relative_activity": 7
+      },
+      {
+        "year": 2022,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2023,
+        "relative_activity": 8
+      },
+      {
+        "year": 2024,
+        "relative_activity": 8
+      },
+      {
+        "year": 2025,
+        "relative_activity": 8
+      },
+      {
+        "year": 2026,
+        "relative_activity": 8
+      }
+    ],
+    "method_notes": "Trajectory is anchored on FDA decision dates verified via openFDA (Cefaly 2014-2024, Quell 2014/2016/2022, Nerivio 2019-2025, Relivion 2021), on REN publication counts in Europe PMC (accelerating from 2019), and on the 2013 PREMICE/2014 FDA media spike for Cefaly. The 2009 Cefaly European launch is an estimate. Web-search budget was exhausted in both the research and fact-check passes, so Reddit, Google Trends and company user counts could not be checked. Reach is an order-of-magnitude estimate."
+  },
+  "sources": [
+    "https://www.nerivio.com/",
+    "https://www.nerivio.com/faq/",
+    "https://theranica.com/about/",
+    "https://lsvp.com/?p=1851",
+    "https://www.cefaly.com/",
+    "https://www.relivion.com/",
+    "https://prolivrx.com/",
+    "https://www.neurometrix.com/",
+    "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=neurometrix&type=8-K",
+    "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm",
+    "https://api.fda.gov/device/510k.json",
+    "https://doi.org/10.1212/WNL.0b013e3182825055",
+    "https://doi.org/10.1177/0333102418811573",
+    "https://doi.org/10.1038/s41598-022-09071-6",
+    "https://doi.org/10.1212/WNL.0000000000003760",
+    "https://doi.org/10.1111/head.13551",
+    "https://doi.org/10.1111/head.14469",
+    "https://doi.org/10.1111/head.14350",
+    "https://doi.org/10.1007/s40122-022-00394-w",
+    "https://doi.org/10.2147/JPR.S316371",
+    "https://doi.org/10.1111/ner.13463",
+    "https://doi.org/10.1186/s12883-025-04291-5",
+    "https://doi.org/10.1111/ene.70559",
+    "https://doi.org/10.1007/s11916-025-01426-8",
+    "https://doi.org/10.1093/milmed/usag341",
+    "https://doi.org/10.1093/pm/pnac021",
+    "https://doi.org/10.1111/head.14042",
+    "https://doi.org/10.1111/head.14838",
+    "https://doi.org/10.1186/1129-2377-14-95",
+    "https://doi.org/10.1080/13696998.2023.2205751",
+    "https://doi.org/10.1111/head.14153",
+    "https://doi.org/10.2147/JPR.S156610",
+    "https://doi.org/10.1111/head.14860"
+  ]
+}
