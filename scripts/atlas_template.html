@@ -208,6 +208,9 @@ input[type="search"] { font: 14px var(--f-body); padding: 7px 10px; border: 1px 
         <p>Most programs name several mechanisms. The ones that cut across disorders cluster in two places: a threat-learning account (neuroplastic pain, limbic impairment, conditioning) and an autonomic account ("stuck in fight-or-flight", vagal tone).</p>
       </div>
     </div>
+    <h3 style="margin-top:4px">Shared mechanisms, many disorders</h3>
+    <div class="fig" id="hubFig"></div>
+    <h3>Mind map: mechanism families → mechanisms → programs</h3>
     <div class="fig" id="mechMap"></div>
     <div class="two" style="margin-top:18px">
       <div><h3 style="margin-top:0">Family → mechanism</h3><div class="fig" id="mechSankey"></div></div>
@@ -237,6 +240,7 @@ input[type="search"] { font: 14px var(--f-body); padding: 7px 10px; border: 1px 
 <script src="https://cdn.jsdelivr.net/npm/d3-sankey@0.12.3/dist/d3-sankey.min.js"></script>
 <script>
 const DATA = /*DATA*/;
+const ICONS = /*ICONS*/;
 const P = DATA.programs, FAMS = DATA.families, BY = Object.fromEntries(P.map(p => [p.slug, p]));
 const css = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
 const famColor = f => css('--s' + (FAMS.indexOf(f) + 1));
@@ -521,10 +525,118 @@ function drawMatrix() {
   d3.select(el).append('p').attr('class', 'note').html('◆ one mechanism for all · ◈ mostly unified, condition-specific emphasis · ◇ differentiated by condition · ○ transdiagnostic / not disorder-focused. Right column: number of condition groups claimed.');
 }
 
+
+// ---------- hub: disorders around a ring of mechanism families
+const HUB_COND = [ // canonical condition → [short label, Lucide icon]
+  ['Long COVID', 'Long COVID', 'Biohazard'], ['ME/CFS & PVFS', 'ME/CFS & PVFS', 'BatteryLow'], ['POTS / dysautonomia', 'POTS / dysautonomia', 'HeartPulse'],
+  ['Fibromyalgia', 'Fibromyalgia', 'Zap'], ['CRPS', 'CRPS', 'Flame'], ['Tension myositis (TMS)', 'Tension myositis (TMS)', 'BicepsFlexed'],
+  ['Back / neck pain', 'Back / neck pain', 'Bone'], ['Headache / migraine', 'Headache / migraine', 'CloudLightning'], ['TMD / jaw', 'TMD / jaw pain', 'ScanFace'],
+  ['Pelvic pain / endometriosis', 'Pelvic pain / endometriosis', 'Flower2'], ['Chronic pain (general)', 'Chronic pain', 'Activity'],
+  ['IBS / functional GI', 'IBS / gut', 'Utensils'], ['MCS / EHS / sensitivities', 'MCS / EHS', 'SprayCan'], ['Chronic Lyme / mould / MCAS / adrenal fatigue', 'Lyme / mould / MCAS', 'Bug'],
+  ['Tinnitus / dizziness', 'Tinnitus / dizziness', 'Ear'], ['FND / dissociation', 'FND', 'Footprints'], ['Somatic symptom disorder', 'Somatic symptom disorder', 'Stethoscope'],
+  ['PTSD / trauma', 'PTSD / trauma', 'ShieldAlert'], ['Anxiety / OCD', 'Anxiety / OCD', 'TriangleAlert'], ['Depression', 'Depression', 'CloudRain'],
+  ['Insomnia', 'Insomnia', 'Moon'], ['Addiction', 'Addiction', 'Pill'], ['Stress / wellbeing', 'Stress', 'Gauge'],
+];
+function drawIcon(g, name, size, color) {
+  const gg = g.append('g').attr('transform', `translate(${-size / 2},${-size / 2}) scale(${size / 24})`).attr('fill', 'none').attr('stroke', color)
+    .attr('stroke-width', 2).attr('stroke-linecap', 'round').attr('stroke-linejoin', 'round');
+  (ICONS[name] || []).forEach(([tag, attrs]) => { const e = gg.append(tag); for (const k in attrs) if (k !== 'key') e.attr(k, attrs[k]); });
+  return gg;
+}
+function drawHub(MM, MF, mfCol) {
+  const el = document.getElementById('hubFig'); el.innerHTML = '';
+  const size = Math.max(Math.min(W(el), 1000), 900), c = size / 2;
+  const RC = 54, RA0 = 70, RA1 = 124, RI = c - 185, cyy = RI + 78;
+  const groupCol = { 'Post-viral / fatigue': '--s2', 'Chronic pain': '--s1', 'Functional / sensitivity': '--s7', 'Mental health': '--s3', 'Other medical': '--axis' };
+  const CG = Object.fromEntries(DATA.meta.conditions.map(x => [x.name, x.group]));
+  const famOfMech = Object.fromEntries(MM.map(m => [m.name, m.family]));
+  const pt = (r, a) => [c + r * Math.sin(a), cyy - r * Math.cos(a)];
+  // family arcs sized by number of programs naming any mechanism in the family
+  const famN = MF.map(f => ({ f, n: P.filter(p => p.mechanisms.some(m => famOfMech[m] === f)).length }));
+  const pad = 0.035, total = d3.sum(famN, d => d.n), avail = 2 * Math.PI - pad * famN.length;
+  let a = -Math.PI / 2 + pad / 2;  // start at 9 o'clock so the big families sit left/top
+  famN.forEach(d => { d.a0 = a; d.a1 = a + avail * d.n / total; a = d.a1 + pad; d.mid = (d.a0 + d.a1) / 2; });
+  // conditions evenly around
+  const conds = HUB_COND.map((x, i) => {
+    const progs = P.filter(p => p.conditions.includes(x[0]));
+    const ang = ((i + 0.5) / HUB_COND.length) * 2 * Math.PI;
+    return { name: x[0], label: x[1], icon: x[2], group: CG[x[0]], progs, ang, shares: famN.map(d => ({ f: d.f, k: progs.filter(p => p.mechanisms.some(m => famOfMech[m] === d.f)).length })).map(o => ({ ...o, s: progs.length ? o.k / progs.length : 0 })) };
+  });
+  const svg = d3.select(el).append('svg').attr('width', size).attr('height', 2 * cyy).attr('role', 'img')
+    .attr('aria-label', 'Hub diagram: conditions arranged in a circle, linked to a central ring of mechanism families around a brain–body icon');
+  // links
+  // each condition = a straight spoke into the hub, split into one strand per mechanism family
+  // named by >= 50% of the programs claiming that condition (strand width ~ share)
+  const links = [];
+  conds.forEach(cd => {
+    const st = cd.shares.filter(sh => sh.s >= 0.5).map(sh => ({ cd, f: sh.f, s: sh.s, k: sh.k, w: 1.2 + sh.s * 4.5 }));
+    const gap = 1.5, tot = d3.sum(st, o => o.w) + gap * (st.length - 1);
+    let off = -tot / 2;
+    const px = Math.cos(cd.ang), py = Math.sin(cd.ang);  // unit vector perpendicular to the spoke
+    st.forEach(o => {
+      const m = off + o.w / 2; off += o.w + gap;
+      const [x0, y0] = pt(RA1 + 6, cd.ang), [x1, y1] = pt(RI - 20, cd.ang);
+      o.d = `M${x0 + px * m},${y0 + py * m} L${x1 + px * m},${y1 + py * m}`;
+      links.push(o);
+    });
+  });
+  const lk = svg.append('g').attr('fill', 'none').selectAll('path').data(links).join('path')
+    .attr('d', d => d.d).attr('stroke', d => mfCol[d.f]).attr('stroke-width', d => d.w).attr('stroke-opacity', .85).attr('stroke-linecap', 'butt');
+  const focus = (pred) => { lk.attr('stroke-opacity', d => pred(d) ? 1 : .08); };
+  const unfocus = () => { lk.attr('stroke-opacity', .85); hideTip(); };
+  // ring arcs
+  const arc = d3.arc().innerRadius(RA0).outerRadius(RA1).cornerRadius(4);
+  const ring = svg.append('g').attr('transform', `translate(${c},${cyy})`);
+  const seg = ring.selectAll('g').data(famN).join('g').style('cursor', 'default');
+  seg.append('path').attr('d', d => arc({ startAngle: d.a0, endAngle: d.a1 })).attr('fill', d => mfCol[d.f]).attr('fill-opacity', .9);
+  seg.on('mousemove', (ev, d) => { focus(l => l.f === d.f); showTip(ev, `<b>${esc(d.f)}</b> · ${d.n} programs<br><span class="m">${esc(MM.filter(m => m.family === d.f).map(m => m.name).join(' · '))}</span>`); }).on('mouseleave', unfocus);
+  // curved labels inside the band (flip on the lower half so text stays upright)
+  const RL = (RA0 + RA1) / 2;
+  famN.forEach((d, i) => {
+    const len = (d.a1 - d.a0) * RL; if (len < 60) return;
+    const lower = Math.cos(d.mid) < 0;
+    const p0 = pt(RL + (lower ? -4 : 4), lower ? d.a1 : d.a0), p1 = pt(RL + (lower ? -4 : 4), lower ? d.a0 : d.a1);
+    const large = d.a1 - d.a0 > Math.PI ? 1 : 0;
+    svg.append('path').attr('id', 'hubArc' + i).attr('d', `M${p0} A${RL + (lower ? -4 : 4)},${RL + (lower ? -4 : 4)} 0 ${large} ${lower ? 0 : 1} ${p1}`).attr('fill', 'none');
+    const words = d.f.replace(' & ', ' & ').split(' ');
+    svg.append('text').attr('font-size', 11.5).attr('font-weight', 600).attr('dy', lower ? '0.9em' : '-0.15em').style('fill', '#fff').style('pointer-events', 'none')
+      .append('textPath').attr('href', '#hubArc' + i).attr('startOffset', '50%').attr('text-anchor', 'middle').text(len > d.f.length * 6.6 ? d.f : words[0]);
+  });
+  // centre: brain ⇅ body
+  const ctr = svg.append('g').attr('transform', `translate(${c},${cyy})`);
+  ctr.append('circle').attr('r', RC).style('fill', 'var(--surface)').style('stroke', 'var(--rule)').attr('stroke-width', 1.5);
+  drawIcon(ctr.append('g').attr('transform', 'translate(0,-23)'), 'Brain', 30, css('--ink'));
+  drawIcon(ctr.append('g'), 'ArrowUpDown', 14, css('--muted'));
+  drawIcon(ctr.append('g').attr('transform', 'translate(0,23)'), 'HeartPulse', 26, css('--ink'));
+  ctr.on('mousemove', ev => showTip(ev, '<b>Brain ⇄ body</b><br><span class="m">The shared premise: symptoms arise from how the brain and body regulate one another.</span>')).on('mouseleave', hideTip);
+  // condition badges
+  const cg = svg.append('g').selectAll('g').data(conds).join('g').attr('transform', d => `translate(${pt(RI, d.ang)})`).style('cursor', 'pointer');
+  cg.append('circle').attr('r', 18).style('fill', 'var(--surface)').attr('stroke', d => css(groupCol[d.group])).attr('stroke-width', 2);
+  cg.each(function (d) { drawIcon(d3.select(this), d.icon, 19, css(groupCol[d.group])); });
+  cg.append('text').attr('font-size', 11.5).call(sel => sel.each(function (d) {
+    const sx = Math.sin(d.ang), cy = -Math.cos(d.ang), t = d3.select(this);
+    if (Math.abs(sx) < 0.2) t.attr('x', 0).attr('y', cy < 0 ? -27 : 33).attr('text-anchor', 'middle');
+    else t.attr('x', sx > 0 ? 25 : -25).attr('y', 4).attr('text-anchor', sx > 0 ? 'start' : 'end');
+  })).text(d => d.label);
+  cg.append('text').attr('font-size', 10).style('fill', 'var(--muted)').attr('font-family', 'var(--f-data)').call(sel => sel.each(function (d) {
+    const sx = Math.sin(d.ang), cy = -Math.cos(d.ang), t = d3.select(this);
+    if (Math.abs(sx) < 0.2) t.attr('x', 0).attr('y', cy < 0 ? -41 : 46).attr('text-anchor', 'middle');
+    else t.attr('x', sx > 0 ? 25 : -25).attr('y', 17).attr('text-anchor', sx > 0 ? 'start' : 'end');
+  })).text(d => `${d.progs.length} programs`);
+  cg.on('mousemove', (ev, d) => { focus(l => l.cd === d); showTip(ev, `<b>${esc(d.label)}</b> · claimed by ${d.progs.length} programs<br>` + d.shares.slice().sort((x, y) => y.s - x.s).map(o => `<span class="m">${Math.round(o.s * 100)}% name ${esc(o.f.toLowerCase())}</span>`).join('<br>')); })
+    .on('mouseleave', unfocus).on('click', () => show('disorders'));
+  // legends
+  d3.select(el).append('div').attr('class', 'legend').style('margin-top', '6px').html(
+    famN.map(d => `<span class="chip" style="cursor:default"><i style="background:${mfCol[d.f]}"></i>${esc(d.f)} <span style="color:var(--muted)">${d.n}</span></span>`).join('') +
+    Object.entries(groupCol).filter(([g]) => g !== 'Other medical').map(([g, v]) => `<span class="chip" style="cursor:default;background:none"><i style="background:none;border:2px solid ${css(v)};border-radius:50%"></i>${esc(g)}</span>`).join(''));
+  d3.select(el).append('p').attr('class', 'note').text('Ring segments: mechanism families, sized by how many programs name at least one mechanism in that family. Spokes: each condition’s spoke is split into one colored strand per mechanism family named by at least half of the programs that claim to treat it; thicker = higher share. Nearly every condition carries the same three strands. Hover a ring segment to see every condition it reaches, or a condition to see all its shares. Icons: Lucide (ISC license).');
+}
+
 // ---------- 4. mechanisms
 function renderMechanisms() {
   const MM = DATA.meta.mechanisms, MF = [...new Set(MM.map(m => m.family))];
   const mfCol = Object.fromEntries(MF.map((f, i) => [f, css('--s' + [7, 8, 1, 2, 3, 5][i])]));
+  drawHub(MM, MF, mfCol);
   // two-sided horizontal mind map: center → mechanism families → mechanisms → programs (all text horizontal)
   const el = document.getElementById('mechMap'); el.innerHTML = '';
   const width = Math.max(W(el), 1240), cx = width / 2, LS = 16;

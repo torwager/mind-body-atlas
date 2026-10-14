@@ -582,6 +582,7 @@
     "POTS / dysautonomia",
     "MCS / EHS / sensitivities",
     "IBS / functional GI",
+    "Somatic symptom disorder",
     "FND / dissociation",
     "CRPS",
     "Chronic Lyme / mould / MCAS / adrenal fatigue"
@@ -693,6 +694,7 @@
     "Insomnia",
     "PTSD / trauma",
     "Tension myositis (TMS)",
+    "Somatic symptom disorder",
     "Other medical (MS, PD, cancer, autoimmune, CVD\u2026)"
    ],
    "conditions_primary": [
@@ -1096,7 +1098,7 @@
     "Long COVID",
     "IBS / functional GI",
     "Fibromyalgia",
-    "FND / dissociation",
+    "Somatic symptom disorder",
     "Chronic pain (general)",
     "Depression",
     "Anxiety / OCD"
@@ -1104,7 +1106,7 @@
    "conditions_primary": [
     "ME/CFS & PVFS",
     "Long COVID",
-    "FND / dissociation"
+    "Somatic symptom disorder"
    ],
    "mechanisms": [
     "Fear-avoidance / catastrophizing / appraisal",
@@ -1709,6 +1711,7 @@
     "Anxiety / OCD",
     "Insomnia",
     "FND / dissociation",
+    "Somatic symptom disorder",
     "Stress / wellbeing"
    ],
    "conditions_primary": [
@@ -1946,7 +1949,7 @@
     "Insomnia",
     "Addiction",
     "Stress / wellbeing",
-    "FND / dissociation"
+    "Somatic symptom disorder"
    ],
    "conditions_primary": [
     "Anxiety / OCD",
@@ -2056,6 +2059,7 @@
     "IBS / functional GI",
     "FND / dissociation",
     "Tinnitus / dizziness",
+    "Somatic symptom disorder",
     "Pelvic pain / endometriosis",
     "Insomnia",
     "Other medical (MS, PD, cancer, autoimmune, CVD\u2026)"
@@ -2166,7 +2170,7 @@
     "IBS / functional GI",
     "Pelvic pain / endometriosis",
     "Headache / migraine",
-    "FND / dissociation",
+    "Somatic symptom disorder",
     "PTSD / trauma",
     "Anxiety / OCD",
     "Depression",
@@ -2177,7 +2181,7 @@
     "Fibromyalgia",
     "Chronic pain (general)",
     "IBS / functional GI",
-    "FND / dissociation"
+    "Somatic symptom disorder"
    ],
    "mechanisms": [
     "Repressed emotion / psychodynamic",
@@ -3561,11 +3565,12 @@
    "evidence_level": "systematic reviews/meta-analyses",
    "n_trials": 13,
    "conditions": [
-    "FND / dissociation",
+    "Somatic symptom disorder",
     "Chronic pain (general)",
     "Back / neck pain",
     "Headache / migraine",
     "IBS / functional GI",
+    "FND / dissociation",
     "Pelvic pain / endometriosis",
     "TMD / jaw",
     "Fibromyalgia",
@@ -3576,8 +3581,9 @@
     "Other medical (MS, PD, cancer, autoimmune, CVD\u2026)"
    ],
    "conditions_primary": [
-    "FND / dissociation",
+    "Somatic symptom disorder",
     "Chronic pain (general)",
+    "FND / dissociation",
     "Depression"
    ],
    "mechanisms": [
@@ -4074,7 +4080,7 @@
    "conditions": [
     "Depression",
     "Anxiety / OCD",
-    "FND / dissociation",
+    "Somatic symptom disorder",
     "Chronic pain (general)",
     "Headache / migraine",
     "Back / neck pain",
@@ -4837,6 +4843,7 @@
     "ME/CFS & PVFS",
     "Anxiety / OCD",
     "Depression",
+    "Somatic symptom disorder",
     "Insomnia",
     "Other medical (MS, PD, cancer, autoimmune, CVD\u2026)"
    ],
@@ -5134,7 +5141,8 @@
     "Depression",
     "PTSD / trauma",
     "Insomnia",
-    "Addiction"
+    "Addiction",
+    "Somatic symptom disorder"
    ],
    "conditions_primary": [
     "Back / neck pain",
@@ -5652,7 +5660,7 @@
     "CRPS",
     "Chronic pain (general)",
     "Tension myositis (TMS)",
-    "FND / dissociation"
+    "Somatic symptom disorder"
    ],
    "conditions_primary": [
     "Back / neck pain",
@@ -5903,7 +5911,7 @@
     "ME/CFS & PVFS",
     "IBS / functional GI",
     "Other medical (MS, PD, cancer, autoimmune, CVD\u2026)",
-    "FND / dissociation"
+    "Somatic symptom disorder"
    ],
    "conditions_primary": [
     "Stress / wellbeing",
@@ -6184,7 +6192,7 @@
     "Tinnitus / dizziness",
     "Anxiety / OCD",
     "Depression",
-    "FND / dissociation"
+    "Somatic symptom disorder"
    ],
    "conditions_primary": [
     "Tension myositis (TMS)",
@@ -6389,7 +6397,7 @@
     "Headache / migraine",
     "Fibromyalgia",
     "ME/CFS & PVFS",
-    "FND / dissociation",
+    "Somatic symptom disorder",
     "Addiction"
    ],
    "conditions_primary": [
@@ -6515,7 +6523,7 @@
     "IBS / functional GI",
     "Chronic pain (general)",
     "Back / neck pain",
-    "FND / dissociation",
+    "Somatic symptom disorder",
     "MCS / EHS / sensitivities",
     "Tinnitus / dizziness",
     "Other medical (MS, PD, cancer, autoimmune, CVD\u2026)"
@@ -6524,7 +6532,7 @@
     "Fibromyalgia",
     "ME/CFS & PVFS",
     "IBS / functional GI",
-    "FND / dissociation"
+    "Somatic symptom disorder"
    ],
    "mechanisms": [
     "Central sensitization",
@@ -7011,7 +7019,7 @@
     "CRPS",
     "IBS / functional GI",
     "Tension myositis (TMS)",
-    "FND / dissociation",
+    "Somatic symptom disorder",
     "POTS / dysautonomia",
     "ME/CFS & PVFS",
     "Anxiety / OCD",
@@ -7023,7 +7031,7 @@
     "Chronic pain (general)",
     "Fibromyalgia",
     "Tension myositis (TMS)",
-    "FND / dissociation"
+    "Somatic symptom disorder"
    ],
    "mechanisms": [
     "Neuroplastic / learned pain (predictive brain)",

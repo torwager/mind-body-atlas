@@ -60,7 +60,8 @@ METHODS = f"""
 """
 
 tpl = open(os.path.join(ROOT, "scripts/atlas_template.html")).read()
-out = tpl.replace("/*DATA*/", json.dumps(data, separators=(",", ":"))).replace("/*METHODS*/''", json.dumps(METHODS))
+icons = json.load(open(os.path.join(ROOT, "scripts/icons_lucide.json")))
+out = tpl.replace("/*DATA*/", json.dumps(data, separators=(",", ":"))).replace("/*ICONS*/", json.dumps(icons, separators=(",", ":"))).replace("/*METHODS*/''", json.dumps(METHODS))
 os.makedirs(os.path.join(ROOT, "summary"), exist_ok=True)
 open(os.path.join(ROOT, "summary/mind_body_atlas.html"), "w").write(out)
 print("wrote summary/mind_body_atlas.html", len(out) // 1024, "KB")

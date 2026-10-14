@@ -25,7 +25,7 @@ COND = [  # (canonical, group, regex)
     ("MCS / EHS / sensitivities", "Functional / sensitivity", r"mcs|iei|ehs|electromag|chemical|sensitiv|misophon|hypersensitiv|visual snow"),
     ("Chronic Lyme / mould / MCAS / adrenal fatigue", "Functional / sensitivity", r"lyme|mould|mold|cirs|mcas|adrenal"),
     ("Tinnitus / dizziness", "Functional / sensitivity", r"tinnitus|dizz|vertigo|pppd|vestib"),
-    ("FND / dissociation", "Functional / sensitivity", r"fnd|functional neuro|dissociat|tic|stutter|dystonia|depersonal"),
+    ("FND / dissociation", "Functional / sensitivity", r"fnd|functional neuro|dissociat|\btics?\b|stutter|dystonia|depersonal"),
     ("Somatic symptom disorder", "Functional / sensitivity", r"somatic symptom|bodily distress|somatoform"),
     ("PTSD / trauma", "Mental health", r"ptsd|trauma"),
     ("Anxiety / OCD", "Mental health", r"anxiety|panic|ocd|agoraphob|intrusive|phobia"),
