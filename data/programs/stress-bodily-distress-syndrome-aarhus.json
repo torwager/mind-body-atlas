@@ -8,18 +8,54 @@
     "Emma Rehfeld (manual co-author)"
   ],
   "founded_year": 2005,
-  "founded_year_range": "Clinic 1999; STreSS RCT started 2005 (NCT00132197); BDS construct published 2007-2010; manual dated 2009; RCT published 2012",
+  "founded_year_range": "Clinic spring 1999 (Aarhus County + AUH; patients treated since 2005); STreSS RCT started 2005 (NCT00132197); BDS construct published 2007-2010; manual dated 2009; RCT published 2012",
   "category": "psychological/neuroplastic-pain therapy (transdiagnostic hospital group CBT for functional somatic syndromes)",
-  "delivery": ["clinician-delivered", "group", "hospital outpatient", "online course (successor internet CBT trial, ongoing)"],
+  "delivery": [
+    "clinician-delivered",
+    "group",
+    "hospital outpatient",
+    "online course (successor internet CBT trial, ongoing)"
+  ],
   "business_model": "clinician-delivered (fee-for-service)",
   "cost_summary": "Free at the point of use for Danish patients in the tax-funded public health system, with referral by a GP or specialist. The manual is a free PDF for non-commercial use. No private price is published.",
   "cost_usd_typical": 0,
-  "conditions_claimed": ["fibromyalgia", "ME/CFS", "IBS/functional GI", "chronic pain (general)", "chronic back/neck pain", "somatic symptom disorder", "MCS/IEI", "tinnitus", "whiplash-associated disorder", "non-cardiac chest pain", "hyperventilation syndrome"],
-  "conditions_primary": ["fibromyalgia", "ME/CFS", "IBS/functional GI", "somatic symptom disorder"],
+  "conditions_claimed": [
+    "fibromyalgia",
+    "ME/CFS",
+    "IBS/functional GI",
+    "chronic pain (general)",
+    "chronic back/neck pain",
+    "somatic symptom disorder",
+    "MCS/IEI",
+    "tinnitus",
+    "whiplash-associated disorder",
+    "non-cardiac chest pain",
+    "hyperventilation syndrome"
+  ],
+  "conditions_primary": [
+    "fibromyalgia",
+    "ME/CFS",
+    "IBS/functional GI",
+    "somatic symptom disorder"
+  ],
   "differentiation": "mostly unified with condition-specific emphasis",
-  "mechanisms": ["central sensitization", "fear-avoidance / catastrophizing / cognitive appraisal", "stress / HPA axis", "attention & interoception / hypervigilance", "neuroplastic/learned pain (brain-generated danger signal / predictive processing)"],
+  "mechanisms": [
+    "central sensitization",
+    "fear-avoidance / catastrophizing / cognitive appraisal",
+    "stress / HPA axis",
+    "attention & interoception / hypervigilance",
+    "neuroplastic/learned pain (brain-generated danger signal / predictive processing)"
+  ],
   "mechanism_summary": "Bodily distress syndrome (BDS) is framed as one aetiology-neutral disorder underlying specialty-defined syndromes such as fibromyalgia, CFS, IBS, whiplash and non-cardiac chest pain. Its proposed drivers are impaired central filtering or amplification of bodily signals, stress responses, and vicious circles of illness perceptions, symptom worry and avoidance or boom-bust behaviour, plus iatrogenic over-investigation. Variation is limited to 4 organ clusters and 2 severity tiers (single-organ and multi-organ); STreSS targets the multi-organ tier. Collaborators later reframed the model in predictive-processing terms.",
-  "roots": ["CBT (Beck/Ellis)", "third-wave CBT (ACT, DBT)", "Selye stress theory", "gate control / neuromatrix pain science", "behaviorism / classical conditioning", "consultation-liaison psychiatry / somatisation research (Wessely, Sharpe, Goldberg reattribution)", "Buddhist vipassana/insight meditation"],
+  "roots": [
+    "CBT (Beck/Ellis)",
+    "third-wave CBT (ACT, DBT)",
+    "Selye stress theory",
+    "gate control / neuromatrix pain science",
+    "behaviorism / classical conditioning",
+    "consultation-liaison psychiatry / somatisation research (Wessely, Sharpe, Goldberg reattribution)",
+    "Buddhist vipassana/insight meditation"
+  ],
   "techniques": [
     "9-module group CBT, 3.5 h sessions over ~16 weeks, two therapists",
     "psychoeducation on BDS, stress response and vicious circles",
@@ -35,7 +71,7 @@
     "GP-level TERM reattribution model"
   ],
   "mainstream_adoption": "moderate",
-  "mainstream_notes": "Substantial within Denmark. The Aarhus clinic grew from a 1999 research clinic into a specialist department. From about November 2021 the Danish Health Authority's specialist plan created regional functions for moderate-to-severe functional disorders, including CFS, with Aarhus University Hospital as one provider. These deliver generic multidisciplinary functional-disorder care, not necessarily the STreSS manual; the full site list and staff numbers are unverified. The BDS construct influenced ICD-11's bodily distress disorder and the EURONET-SOMA 'functional somatic disorder' proposal. There is little routine use in the UK or US.",
+  "mainstream_notes": "Substantial within Denmark. The Aarhus clinic grew from a 1999 research clinic into a specialist department. From about November 2021 the Danish Health Authority's specialist plan created regional functions for moderate-to-severe functional disorders, including CFS, with Aarhus University Hospital as one provider. These deliver generic multidisciplinary functional-disorder care, not necessarily the STreSS manual; sites listed in 2021 planning minutes include AUH, Bispebjerg-Frederiksberg, Vejle and Hammel Neurocenter; the full current site list could not be retrieved and staff numbers are not published. The BDS construct influenced ICD-11's bodily distress disorder and the EURONET-SOMA 'functional somatic disorder' proposal. There is little routine use in the UK or US.",
   "insurance": "sometimes/indirect",
   "insurance_notes": "Covered at no charge within the Danish public tax-funded health system. There is no private or US insurance pathway for the branded program; analogous group CBT would be billed as generic psychotherapy.",
   "evidence_level": "multiple RCTs",
@@ -79,33 +115,118 @@
   "controversy": "ME/CFS advocates strongly oppose classifying ME/CFS under BDS/functional disorders and the CBT and graded-activity recommendations that follow from it. On 14 March 2019 the Danish parliament unanimously adopted resolution V 82, asking health authorities to separate ME/CFS (G93.3) from 'functional disorders'. Advocates say implementation lagged, and the 2021 regional functional-disorder units still include CFS. The 2013-2016 Karina Hansen forced-admission case, linked by advocates to Aarhus functional-disorder psychiatrists, became an international flashpoint. Critics also argue that the BDS construct lumps heterogeneous conditions together. All trials come from the developers' own group, effects are modest, the ACT trial's secondary outcomes were largely null, and STreSS has no independent replication.",
   "popularity": {
     "indicators": [
-      {"metric": "Clinic founding", "value": "Research Clinic for Functional Disorders established; Per Fink head physician", "source": "Lex.dk (Per Fink); AUH", "year": 1999},
-      {"metric": "Treatment manual released (English, free)", "value": "STreSS manual", "source": "en.auh.dk PDF", "year": 2009},
-      {"metric": "Flagship RCT publication", "value": "Br J Psychiatry, n=120", "source": "Cambridge Core / PubMed 22539780", "year": 2012},
-      {"metric": "Advocacy controversy", "value": "Karina Hansen case drives international ME-forum attention", "source": "dxrevisionwatch, s4me", "year": 2013},
-      {"metric": "Parliamentary action", "value": "Folketing unanimously adopts V 82 to separate ME/CFS from functional disorders", "source": "ft.dk; meaction; IiME", "year": 2019},
-      {"metric": "National health-system rollout", "value": "Regional functions for functional disorders implemented from ~Nov 2021 (Aarhus among providers; full site list unverified)", "source": "Sundhedsstyrelsen specialist guidance 2021/2022", "year": 2021},
-      {"metric": "Ongoing trials", "value": "Internet CBT (target n=166) and patient education/duloxetine (target n=424)", "source": "ClinicalTrials.gov NCT05525598, NCT06232473", "year": 2024},
-      {"metric": "Consumer/social-media footprint", "value": "Essentially none (no app, subreddit or influencer); discussion mostly critical on ME forums", "source": "web search", "year": 2026}
+      {
+        "metric": "Clinic founding",
+        "value": "Founded spring 1999 by Aarhus County and AUH; patients treated since 2005; Per Fink head physician",
+        "source": "funktionellelidelser.dk/om-afdelingen; Lex.dk (Per Fink)",
+        "year": 1999
+      },
+      {
+        "metric": "Treatment manual released (English, free)",
+        "value": "STreSS manual",
+        "source": "en.auh.dk PDF",
+        "year": 2009
+      },
+      {
+        "metric": "Flagship RCT publication",
+        "value": "Br J Psychiatry, n=120",
+        "source": "Cambridge Core / PubMed 22539780",
+        "year": 2012
+      },
+      {
+        "metric": "Advocacy controversy",
+        "value": "Karina Hansen case drives international ME-forum attention",
+        "source": "dxrevisionwatch, s4me",
+        "year": 2013
+      },
+      {
+        "metric": "Parliamentary action",
+        "value": "Folketing unanimously adopts V 82 to separate ME/CFS from functional disorders",
+        "source": "ft.dk; meaction; IiME",
+        "year": 2019
+      },
+      {
+        "metric": "National health-system rollout",
+        "value": "Regional functions for functional disorders implemented from ~Nov 2021 (AUH from 1 Nov 2021; also Bispebjerg-Frederiksberg, Vejle, Hammel Neurocenter listed)",
+        "source": "Sundhedsstyrelsen Rådgivende Udvalg minutes (meeting 66, 2021); specialist guidance 2022",
+        "year": 2021
+      },
+      {
+        "metric": "Ongoing trials",
+        "value": "Internet CBT (target n=166) and patient education/duloxetine (target n=424)",
+        "source": "ClinicalTrials.gov NCT05525598, NCT06232473",
+        "year": 2024
+      },
+      {
+        "metric": "Consumer/social-media footprint",
+        "value": "Essentially none (no app, subreddit or influencer); discussion mostly critical on ME forums",
+        "source": "web search",
+        "year": 2026
+      }
     ],
     "reach_estimate": "~5,000-10,000 patients cumulatively, an unverified order-of-magnitude estimate. About 650 patients were in the published trials. Clinical throughput at Aarhus is assumed to be a few hundred a year since about 2010, with wider reach through the Danish regional units since 2021. Indirect influence through ICD-11 and GP training is larger but not counted.",
     "reach_log10": 3.8,
     "trajectory": [
-      {"year": 1999, "relative_activity": 1},
-      {"year": 2005, "relative_activity": 2},
-      {"year": 2007, "relative_activity": 3},
-      {"year": 2009, "relative_activity": 4},
-      {"year": 2010, "relative_activity": 5},
-      {"year": 2012, "relative_activity": 7},
-      {"year": 2013, "relative_activity": 7},
-      {"year": 2015, "relative_activity": 6},
-      {"year": 2017, "relative_activity": 7},
-      {"year": 2019, "relative_activity": 7},
-      {"year": 2020, "relative_activity": 6},
-      {"year": 2021, "relative_activity": 8},
-      {"year": 2022, "relative_activity": 7},
-      {"year": 2024, "relative_activity": 7},
-      {"year": 2026, "relative_activity": 6}
+      {
+        "year": 1999,
+        "relative_activity": 1
+      },
+      {
+        "year": 2005,
+        "relative_activity": 2
+      },
+      {
+        "year": 2007,
+        "relative_activity": 3
+      },
+      {
+        "year": 2009,
+        "relative_activity": 4
+      },
+      {
+        "year": 2010,
+        "relative_activity": 5
+      },
+      {
+        "year": 2012,
+        "relative_activity": 7
+      },
+      {
+        "year": 2013,
+        "relative_activity": 7
+      },
+      {
+        "year": 2015,
+        "relative_activity": 6
+      },
+      {
+        "year": 2017,
+        "relative_activity": 7
+      },
+      {
+        "year": 2019,
+        "relative_activity": 7
+      },
+      {
+        "year": 2020,
+        "relative_activity": 6
+      },
+      {
+        "year": 2021,
+        "relative_activity": 8
+      },
+      {
+        "year": 2022,
+        "relative_activity": 7
+      },
+      {
+        "year": 2024,
+        "relative_activity": 7
+      },
+      {
+        "year": 2026,
+        "relative_activity": 6
+      }
     ],
     "method_notes": "The trajectory is built from documented milestones: clinic founding in 1999, trial start in 2005, BDS papers in 2007/2010, the manual in 2009, the BJP RCT in 2012, the Hansen controversy in 2013, STreSS-3 in 2017, STreSS-4 and the parliamentary resolution in 2019, the regional units in 2021, and new trials in 2022/2024. Social-media metrics were not used because they are negligible for this academic program. The reach estimate is order-of-magnitude, derived from trial Ns and assumed clinic throughput; no published patient counts were found."
   },
@@ -130,6 +251,8 @@
     "https://meaction.net/2019/03/13/denmark-mps-will-vote-whether-to-recognise-me-as-who-defined-disease",
     "https://dxrevisionwatch.com/2013/06/19/update-2-human-rights-denied-something-rotten-in-the-state-of-denmark-karina-hansens-story/",
     "https://www.s4me.info/threads/me-debate-in-danish-parliament-march-12-2019.7988/page-3",
+    "https://funktionellelidelser.dk/om-afdelingen",
+    "https://www.sundhedsstyrelsen.dk/-/media/Viden/Sundhedsvæsen/Sygehusplanlægning/Specialeplanlægning/Rådgivende-udvalg/Referat-fra-66-moede-i-Det-Raadgivende-Udvalg-for-Specialeplanlaegning.ashx",
     "/Users/f003vz1/Dartmouth College Dropbox/Tor Wager/A10_Mini-Reviews/Mind_Brain_Body_treatments_review/programs/stress-bodily-distress-syndrome-aarhus.md"
   ]
 }

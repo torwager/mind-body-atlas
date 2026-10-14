@@ -4,12 +4,12 @@
   "url": "https://www.iayt.org/",
   "founders": [
     "No single founder (umbrella practice)",
-    "IAYT co-founders Larry Payne and Richard Miller (1989; Miller's role confirmed, Payne's from prior knowledge)",
+    "IAYT co-founders Larry Payne (founding president) and Richard Miller (founding journal editor), 1989",
     "Lineage: T. Krishnamacharya, B.K.S. Iyengar, T.K.V. Desikachar",
     "TCTSY variant: David Emerson with Bessel van der Kolk (2002)"
   ],
   "founded_year": 1989,
-  "founded_year_range": "1989 for IAYT (secondary sources; iayt.org not reachable). Therapeutic postural yoga dates to the 1920s–40s (Kaivalyadhama 1924; Iyengar remedial yoga from about 1940). C-IAYT credential about 2016 (approx.); TCTSY 2002.",
+  "founded_year_range": "1989 for IAYT (IAYT History page). Therapeutic postural yoga dates to the 1920s–40s (Kaivalyadhama 1924; Iyengar remedial yoga from about 1940). IAYT journal 1990; training standards 2012; first accredited programs 2014; C-IAYT credential 2016; TCTSY 2002.",
   "category": "somatic/movement practice",
   "delivery": [
     "clinician-delivered",
@@ -19,7 +19,7 @@
     "book"
   ],
   "business_model": "mixed",
-  "cost_summary": "Approximate US prices, 2024–26, unverified: drop-in classes US$15–30; private yoga therapy US$75–150+/session; free VA, community and YouTube classes. C-IAYT training (800+ hours) about US$8,000–15,000. iayt.org returned HTTP 403, so prices could not be checked.",
+  "cost_summary": "US 2025–26: private yoga therapy about US$75–150/hour (C-IAYT listings, e.g. $75/hr NC, $150/90 min NJ); drop-in classes about US$15–30; free VA, community and YouTube classes. IAYT membership US$85/yr. Full 800-hour C-IAYT training totals are not published by most accredited schools (estimate about US$8,000–15,000; e.g. LMU 120-hr module US$3,000).",
   "cost_usd_typical": 120,
   "conditions_claimed": [
     "chronic back/neck pain",
@@ -73,9 +73,9 @@
     "lifestyle and yogic philosophy (diet, self-study)"
   ],
   "mainstream_adoption": "substantial",
-  "mainstream_notes": "The ACP 2017 chronic low back pain guideline (Qaseem, PMID 28192789) lists yoga among first-line nonpharmacologic options. NICE NG59 recommends group exercise, mind-body forms included. EULAR 2016 gives a weak recommendation for meditative movement in fibromyalgia. Yoga is a VHA-approved complementary and integrative health approach (Directive 1137) within VA Whole Health. It is widely offered in integrative medicine and cancer centres and studied by NCCIH. Yoga therapy itself is not a licensed profession.",
+  "mainstream_notes": "The ACP 2017 chronic low back pain guideline (Qaseem, PMID 28192789) lists yoga among first-line nonpharmacologic options. NICE NG59 recommends group exercise, mind-body forms included. EULAR 2016 (PMID 27377815) gives a weak recommendation for meditative movement in fibromyalgia. Yoga is a VHA-approved complementary and integrative health approach (Directive 1137) within VA Whole Health. It is widely offered in integrative medicine and cancer centres and studied by NCCIH. Yoga therapy itself is not a licensed profession.",
   "insurance": "sometimes/indirect",
-  "insurance_notes": "There is no dedicated CPT code or licensure, so private insurers and Medicare rarely cover \"yoga therapy\". Indirect routes: free VA classes for veterans; HSA/FSA with a letter of medical necessity; Medicare Advantage fitness benefits (e.g. SilverSneakers); employer wellness programs; PT/OT billing yoga-based therapeutic exercise (97110/97112/97530).",
+  "insurance_notes": "There is no dedicated CPT code or licensure, so private insurers and Medicare rarely cover \"yoga therapy\". Indirect routes: free VA classes for veterans; HSA/FSA with a letter of medical necessity; Medicare Advantage fitness benefits (e.g. SilverSneakers); employer wellness programs; PT/OT billing yoga-based therapeutic exercise (97110/97112/97530). A UK economic evaluation alongside Tilbrook (Chuang 2012, PMID 22433499) found £13,606/QALY (NHS perspective) and yoga dominant from a societal perspective.",
   "evidence_level": "systematic reviews/meta-analyses",
   "key_trials": [
     {
@@ -117,7 +117,7 @@
       "citation": "Simon NM et al. Efficacy of Yoga vs Cognitive Behavioral Therapy vs Stress Education for the Treatment of Generalized Anxiety Disorder. JAMA Psychiatry 2021;78:13-20 (PMID 32805013)",
       "design": "3-arm RCT, 12 x 120-min group Kundalini yoga vs CBT vs stress education",
       "n": 226,
-      "finding": "Yoga beat stress education on acute response but was not noninferior to CBT. The authors concluded CBT should remain first line.",
+      "finding": "Yoga beat stress education on acute response (54.2% vs 33.0%) but was not noninferior to CBT (70.8%). The authors concluded CBT should remain first line.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/32805013/"
     },
     {
@@ -154,21 +154,21 @@
     "indicators": [
       {
         "metric": "US adults practicing yoga in past 12 months (NHIS)",
-        "value": "~5.1% (2002, approx.), 9.5% (2012), 14.3% (2017)",
-        "source": "CDC NCHS Data Brief 325 (2012/2017 verified)",
+        "value": "5.1% (2002), 6.1% (2007), 9.5% (2012), 14.3% (2017)",
+        "source": "CDC NCHS National Health Statistics Report 79 (2002–2012) and Data Brief 325 (2017)",
         "year": 2017
       },
       {
         "metric": "US yoga practitioners",
-        "value": "~36.7 million",
-        "source": "Yoga in America 2016 (Yoga Journal/Yoga Alliance), approx., unverified",
+        "value": "36.7 million (up from 20.4 million in 2012)",
+        "source": "Yoga in America 2016 (Ipsos for Yoga Journal/Yoga Alliance)",
         "year": 2016
       },
       {
-        "metric": "IAYT membership / C-IAYT credential holders",
-        "value": "several thousand (approx.; credential launched about 2016)",
-        "source": "IAYT (site returned 403; not verified)",
-        "year": 2024
+        "metric": "IAYT individual members",
+        "value": "more than 5,000 in 50+ countries; 150+ member schools; nearly 70 accredited programs (C-IAYT count not published)",
+        "source": "IAYT Learn About page (via web search; site blocks automated fetches)",
+        "year": 2026
       },
       {
         "metric": "Cochrane review size, yoga for chronic LBP",
@@ -178,15 +178,21 @@
       },
       {
         "metric": "Popular trauma-yoga book",
-        "value": "The Body Keeps the Score on NYT bestseller list for years (about 2019-2023)",
-        "source": "prior knowledge, unverified",
-        "year": 2021
+        "value": "The Body Keeps the Score: 248 weeks on NYT paperback nonfiction list by 2023; #1 continuously from Feb 2021 for 34+ weeks",
+        "source": "New York Magazine 2023 (via Bioethics.com); Book Riot 2021",
+        "year": 2023
       },
       {
         "metric": "YouTube yoga channel (Yoga with Adriene)",
-        "value": "12M+ subscribers",
-        "source": "YouTube (approx., unverified)",
-        "year": 2024
+        "value": "about 13 million subscribers",
+        "source": "Wikipedia (Adriene Mishler), Jan 2025",
+        "year": 2025
+      },
+      {
+        "metric": "PubMed records with 'yoga' in title/abstract per year",
+        "value": "8 (1995), 61 (2005), 445 (2015), 637 (2020), 847 (2024), 949 (2025)",
+        "source": "NCBI E-utilities count, 2026-10-13",
+        "year": 2025
       }
     ],
     "reach_estimate": "Order of 10^6-10^7 people have received therapeutic or clinical yoga for a health condition (VA, hospitals, C-IAYT clients, condition-specific classes). Yoga in general reaches more than 10^8 globally (about 35M+ US adults in 2017 alone, from 14.3% NHIS prevalence).",
@@ -289,7 +295,7 @@
         "relative_activity": 9
       }
     ],
-    "method_notes": "Web search was exhausted and iayt.org blocked automated fetches, so most popularity figures come from prior knowledge and are marked approx. NHIS 2012/2017 prevalence was verified against NCHS Data Brief 325 at fact-check. The trajectory tracks clinical/therapeutic yoga specifically and is a judgement-based estimate. It is anchored on IAYT founding (1989), TCTSY (2002), major RCTs (Sherman/Tilbrook 2011, Saper 2017), ACP guideline inclusion (2017), the IAYT credential (about 2016), the COVID-era online surge (2020-21) and an approximate plateau afterward. All trial abstracts were re-verified via PubMed E-utilities on 2026-10-12."
+    "method_notes": "iayt.org blocks automated fetches (HTTP 403, no Wayback captures), so IAYT history, membership and dues were confirmed on 2026-10-13 from iayt.org page text surfaced by web search plus independent reports. NHIS prevalence verified against NCHS NHSR 79 and Data Brief 325; PubMed volume counted via E-utilities. The trajectory tracks clinical/therapeutic yoga specifically and is a judgement-based estimate (Google Trends not retrievable by automated query). It is anchored on IAYT founding (1989), TCTSY (2002), IAYT standards (2012), accreditation (2014), major RCTs (Sherman/Tilbrook 2011, Saper 2017), the C-IAYT credential (2016), ACP guideline inclusion (2017), the COVID-era online surge (2020-21) and an approximate plateau afterward. All trial abstracts were re-verified via PubMed E-utilities on 2026-10-12."
   },
   "sources": [
     "https://www.iayt.org/",
@@ -308,6 +314,25 @@
     "https://pubmed.ncbi.nlm.nih.gov/28192789/",
     "https://en.wikipedia.org/wiki/Yoga_as_therapy",
     "https://en.wikipedia.org/wiki/Trauma-sensitive_yoga",
-    "https://www.cdc.gov/nchs/products/databriefs/db325.htm"
+    "https://www.cdc.gov/nchs/products/databriefs/db325.htm",
+    "https://www.iayt.org/page/History",
+    "https://www.iayt.org/page/LearnAbout",
+    "https://www.iayt.org/page/Types_Dues",
+    "https://www.iayt.org/page/cert_background",
+    "https://www.iayt.org/page/AboutIJYT",
+    "https://yogainternational.com/article/view/the-iayt-announces-its-first-accreditation-decisions-for-yoga-schools/",
+    "https://dornsife.usc.edu/phed/profile/dr-larry-payne/",
+    "https://www.acefitness.org/certifiednewsarticle/2946/yoga-therapy-a-new-fitness-niche/",
+    "https://triadyoga.com/yoga-therapy-sessions-with-terry-brown-certified-yoga-therapist/",
+    "https://amrityoga.org/800-iayt/",
+    "https://bellarmine.lmu.edu/yoga/academics/about",
+    "https://traumasensitiveyoga.com/trainings",
+    "https://pubmed.ncbi.nlm.nih.gov/22433499/",
+    "https://pubmed.ncbi.nlm.nih.gov/27377815/",
+    "https://pubmed.ncbi.nlm.nih.gov/27112106/",
+    "https://www.cdc.gov/nchs/data/nhsr/nhsr079.pdf",
+    "https://yogaalliance.org/highlights-from-the-2016-yoga-in-america-study/",
+    "https://www.va.gov/WHOLEHEALTH/cih/yoga.asp",
+    "https://en.wikipedia.org/wiki/Adriene_Mishler"
   ]
 }

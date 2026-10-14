@@ -89,7 +89,7 @@
     "insurance_notes": "Direct-pay subscription for lay coaching by a coach who is not a licensed clinician. Not reimbursable.",
     "evidence_level": "none",
     "key_trials": [],
-    "controversy": "A lay coach with no clinical credentials who classifies symptoms as mind-body from a permissive checklist. The site states that answering 'yes' to even one clue 'means your brain is creating pain or symptoms based on perceived danger', and that pain can be ended regardless of imaging. The condition list is extremely broad: RA, autoimmune disease, hEDS, MCAS, asthma, SIBO, ME/CFS PEM, long COVID. That breadth risks missed diagnoses and is contested by ME/CFS advocates, although the site advises a medical check first. Results rest only on testimonials, and the subscription is open-ended. No public scandals were found, but an independent search for criticism was limited by the search budget.",
+    "controversy": "A lay coach with no clinical credentials who classifies symptoms as mind-body from a permissive checklist. The site states that answering 'yes' to even one clue 'means your brain is creating pain or symptoms based on perceived danger', and that pain can be ended regardless of imaging. The condition list is extremely broad: RA, autoimmune disease, hEDS, MCAS, asthma, SIBO, ME/CFS PEM, long COVID. That breadth risks missed diagnoses and is contested by ME/CFS advocates, although the site advises a medical check first. Results rest only on testimonials, and the subscription is open-ended. No public scandals were found. TMS Wiki forum mentions are positive, Trustpilot has no listing, and Reddit could not be accessed.",
     "popularity": {
         "indicators": [
             {
@@ -124,8 +124,8 @@
             },
             {
                 "metric": "Facebook page followers",
-                "value": "~22.6K",
-                "source": "facebook.com/PainFreeYouNow (not re-verified)",
+                "value": "22,644",
+                "source": "facebook.com/PainFreeYouNow (verified 2026-10-13)",
                 "year": 2026
             },
             {
@@ -138,6 +138,12 @@
                 "metric": "Members served",
                 "value": "'thousands of members' (self-reported); book copy claims 2,000+ coached",
                 "source": "painfreeyou.com/join; book retailer copy",
+                "year": 2026
+            },
+            {
+                "metric": "TMS Wiki forum mentions",
+                "value": "~200 search hits for 'Buglio' (10 pages, search cap), overwhelmingly positive",
+                "source": "tmswiki.org/forum search (2026-10-13)",
                 "year": 2026
             }
         ],
@@ -177,7 +183,7 @@
                 "relative_activity": 10
             }
         ],
-        "method_notes": "Founding date comes from the YouTube join date and the ATNS bio. Growth anchors: ~1,200 videos by ~2022, 2,500+ by 2026, the Jan 2025 book and audiobook plus podcast tour, and ATNS speaker status in 2026. YouTube counts were re-verified 2026-10-12. The trajectory assumes steady audience growth with a step up at the book launch. Reddit and Google Trends were not checked because the web-search budget was exhausted. Reach was estimated from cumulative views divided by a rough views-per-person figure, plus follower counts."
+        "method_notes": "Founding date comes from the YouTube join date and the ATNS bio. Growth anchors: ~1,200 videos by ~2022, 2,500+ by 2026, the Jan 2025 book and audiobook plus podcast tour, and ATNS speaker status in 2026. YouTube counts were re-verified 2026-10-12. The trajectory assumes steady audience growth with a step up at the book launch. Reddit (HTTP 403 on direct, JSON and fetch requests) and Google Trends (HTTP 429) could not be queried on 2026-10-13; the TMS Wiki forum was used as a substitute community signal. Reach was estimated from cumulative views divided by a rough views-per-person figure, plus follower counts."
     },
     "sources": [
         "https://www.painfreeyou.com/",
@@ -193,6 +199,7 @@
         "https://www.findinggeniuspodcast.com/podcasts/rewiring-the-brain-for-a-pain-free-life-the-mind-body-approach-to-healing-with-dan-buglio/",
         "https://dontsweat.com/a-pain-free-you-with-dan-buglio/",
         "https://www.walmart.com/ip/Pain-Free-You-Teach-Your-Brain-to-End-Your-Pain-Paperback-9798990763104/15161552821",
-        "https://www.audiobooksnow.com/audiobook/pain-free-you/10362970/"
+        "https://www.audiobooksnow.com/audiobook/pain-free-you/10362970/",
+        "https://www.tmswiki.org/forum/search/1/?q=Buglio"
     ]
 }

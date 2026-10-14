@@ -1,6 +1,6 @@
 # Mass-market meditation apps (Headspace, Calm, Insight Timer, Healthy Minds Program)
 
-*Compiled 2026-10-12 from headspace.com (About, pain-meditation page), calm.com/about, insighttimer.com, humin.org, Wikipedia company pages, PubMed (E-utilities) and ClinicalTrials.gov. Content paraphrased. Note: the session's web-search budget ran out early, so prices and some corporate events are taken from widely reported figures and are flagged as such. Every trial listed below was checked on PubMed or ClinicalTrials.gov.*
+*Compiled 2026-10-12 from headspace.com (About, pain-meditation page), calm.com/about, insighttimer.com, humin.org, Wikipedia company pages, PubMed (E-utilities) and ClinicalTrials.gov. Content paraphrased. Prices, founding dates and the Sword deal were completed on 2026-10-13 from the US App Store lookup API, price trackers citing official pricing pages, and trade press. Every trial listed below was checked on PubMed or ClinicalTrials.gov.*
 
 This is an **umbrella entry** for general-purpose consumer meditation apps. None of them is built around a theory of chronic illness. They are included for two reasons: their reach is very large, and they serve as a **contrast case** to the condition-specific "brain-retraining" programs. All four offer pain, sleep and anxiety content inside a general mindfulness or wellbeing framework.
 
@@ -9,12 +9,12 @@ This is an **umbrella entry** for general-purpose consumer meditation apps. None
 |---|---|
 | Website | headspace.com; calm.com (+ calmhealth.com); insighttimer.com; humin.org (Healthy Minds Program app) |
 | Founder(s) | **Headspace:** Andy Puddicombe (former Tibetan-Buddhist-trained monk, meditation teacher) and Rich Pierson (advertising/marketing). **Calm:** Michael Acton Smith (games entrepreneur, Mind Candy/Moshi Monsters) and Alex Tew (internet entrepreneur; "Do Nothing for 2 Minutes", 2011). **Insight Timer:** Christopher Plowman (co-founder & CEO). **Healthy Minds Program (HMP):** Richard J. Davidson (affective neuroscientist, UW–Madison Center for Healthy Minds) via the nonprofit Healthy Minds Innovations, renamed **Humin** |
-| Founded | Headspace: events company May 2010, app 2012. Calm: May 2012. Insight Timer: about 2009 as a meditation timer app (year not verified on the official site, which names Christopher Plowman as "Cofounder & CEO"); grew into a content platform about 2015–2017 (estimate). HMP app: about 2019 (its first RCT ran Oct 2019–Apr 2020) |
+| Founded | Headspace: events company May 2010, app 2012. Headspace iOS app released 2 Feb 2012 (App Store). Calm: company May 2012; iOS app released 22 Feb 2013. Insight Timer: iOS app (originally "Zen Timer" by Spotlight Six) released 5 Nov 2009 (App Store lookup; Wayback 2013 capture); Christopher Plowman says he and his brother bought it in 2014, when it was a timer with about 10 guided meditations, and grew it into a teacher platform. HMP app: about 2019 (its first RCT ran Oct 2019–Apr 2020) |
 | Format / delivery | Smartphone and web apps with guided audio and video meditations, courses, sleep stories, breathwork and music. Headspace adds therapy, psychiatry and coaching (Headspace Care, after the 2021 Ginger merger). Calm Health is a B2B clinical version for health plans and employers |
 | Business model | Headspace and Calm: **commercial** subscriptions plus B2B (employers, health plans). Insight Timer: **freemium** (very large free library, paid MemberPlus). HMP: **free**, run by a nonprofit |
-| Direct cost | Headspace: 14-day free trial; widely reported US list price about USD 12.99/month or 69.99/year (2024–25; the site did not render prices when fetched). Calm: 14-day free trial; widely reported about USD 14.99/month, 69.99/year, 399.99 lifetime. Insight Timer: free core; MemberPlus about USD 60/year (reported). HMP: free ("up to 600 days of guided practices") |
+| Direct cost | Headspace: 14-day free trial (headspace.com/subscriptions); USD 12.99/month or 69.99/year (US, per RecurDash tracking of headspace.com/subscriptions, Oct 2026; the official page did not render prices when fetched). Calm: free limited tier; Premium USD 16.99/month, 79.99/year on the web (69.99/year via iOS), 99.99/year family, 499.99 lifetime (RecurDash citing Calm's support pricing article, Apr 2026; older guides cite 14.99/month and 399.99 lifetime; Calm says prices vary by country). Insight Timer: free core; MemberPlus USD 59.99/year or 9.99/month, 7-day trial (Headway review, Oct 2026; insighttimer.com/about lists no price). HMP: free ("up to 600 days of guided practices") |
 | Conditions claimed | General stress, anxiety, sleep and wellbeing. Mood and depression support, including Headspace clinical services and Calm Health for anxiety/depression. Pain coping (Headspace 30-day "Pain Management" course; pain meditations on Calm and Insight Timer). No claims about ME/CFS, FND or similar conditions |
-| Mainstream adoption | Substantial as wellness or employer benefits: EAP and employer plans, health-plan member perks, and NHS-staff offers during COVID-19. headspace.com/about-us states Headspace is "now part of Sword" (sword.com); the date and terms were not verified. Not part of clinical pain guidelines |
+| Mainstream adoption | Substantial as wellness or employer benefits: EAP and employer plans, health-plan member perks, and NHS-staff offers during COVID-19. headspace.com/about-us states Headspace is "now part of Sword"; Sword signed a definitive agreement (announced Sept 2026) to buy Headspace and its parent OrangeDot in an all-cash deal worth up to USD 300M, with closing expected at the start of Q4 2026. Not part of clinical pain guidelines |
 | Insurance reimbursable | Not as a medical treatment for consumers. Access is often free or subsidised through employers, health plans and EAPs. Headspace's therapy and psychiatry services can be billed to insurance |
 | Evidence (peer-reviewed trials) | Many RCTs of the apps for stress, distress and depressive symptoms, with small to moderate effects, mostly in non-clinical samples. **Essentially no positive branded RCT in chronic pain.** Company-linked conflicts of interest are common |
 | Popularity signals | Headspace: 105M+ downloads, "100M+ lives", 200 countries. Calm: 180M+ downloads, about 4M paid subscribers (Nov 2022), Apple App of the Year 2017. Insight Timer: about 30M users, "over 300,000 titles", about 20k teachers (insighttimer.com/about). HMP: Humin cites more than 1M people reached in 140 countries |
@@ -36,7 +36,7 @@ This is an **umbrella entry** for general-purpose consumer meditation apps. None
 - Basics course (3 parts, then longer), plus single sessions of 3–20 min.
 - Themed courses, including a **30-day "Pain Management" course** for subscribers that uses noting, curious investigation of sensation and "stepping back" from pain. Also courses on anxiety, sleep, stress and depression.
 - Sleepcasts, focus music, movement, short "SOS" sessions.
-- Ebb, an AI companion (launched about 2024).
+- Ebb, an AI companion (US launch Oct 2024; UK Apr 2025).
 - Headspace Care: text-based coaching, video therapy and psychiatry (from Ginger).
 - Netflix series *Headspace Guide to Meditation/Sleep* (2021).
 
@@ -70,9 +70,9 @@ This is an **umbrella entry** for general-purpose consumer meditation apps. None
 - **Employer and health-plan channel.** This is where the money is.
   - Headspace for Work/EAP has thousands of enterprise clients.
   - Calm Business and Calm Health (launched Oct 2022 after the Ripple Health Group acquisition) are sold to health plans and employers.
-  - Kaiser Permanente lists Calm and Headspace among member self-care apps; its page states these apps are *not* covered health-plan benefits, and Headspace access includes 90 days/year of text coaching (KP site, fetched Oct 2026; start date not verified).
+  - Kaiser Permanente lists Calm and Headspace among member self-care apps; its page states these apps are *not* covered health-plan benefits, and Headspace access includes 90 days/year of text coaching (KP site, fetched Oct 2026). Free Calm access for KP members began in May 2020 (CNBC); no start date for Headspace access was found.
 - **NHS.** During COVID-19 (2020), Headspace was offered free to NHS staff; this cohort became the 2,182-person RCT by Taylor et al. 2022.
-- **Clinical integration.** Headspace merged with Ginger (announced Aug 2021, closed Oct 2021; valuation about USD 3B), which added insurance-billable therapy and psychiatry. Headspace created a Headspace Health subsidiary in 2018 to pursue prescription digital therapeutics; no FDA-cleared Headspace product was confirmed this session. Headspace now describes itself as "part of Sword" (Sword Health, a digital musculoskeletal and pelvic-pain company); the timing and terms were not verified.
+- **Clinical integration.** Headspace merged with Ginger (announced Aug 2021, closed Oct 2021; valuation about USD 3B), which added insurance-billable therapy and psychiatry. Headspace created a Headspace Health subsidiary in 2018 to pursue prescription digital therapeutics; it targeted FDA clearance by about 2020 (substance use, anxiety, depression, insomnia), but no Headspace or Calm device appears in the FDA 510(k) database (openFDA search, Oct 2026). In Sept 2026 Sword Health (a digital musculoskeletal and pelvic-pain company) announced a definitive all-cash agreement to acquire Headspace for up to USD 300M (about a tenth of the 2021 valuation), closing expected early Q4 2026; Headspace's site already says it is "part of Sword".
 - **Guidelines.** No pain or fatigue guideline names these apps. Guidelines endorse *mindfulness-based interventions* generically (e.g., MBSR for low back pain), not app delivery.
 - **Insurance.** No consumer reimbursement as a medical device or therapy for the subscriptions; coverage comes through employer and health-plan benefits.
 
@@ -131,17 +131,17 @@ This is an **umbrella entry** for general-purpose consumer meditation apps. None
 **Related generic evidence.** Trials of in-person MBSR for chronic low back pain (Cherkin 2016) and laboratory work on pain modulation (e.g., Wielgosz et al. 2022, *Am J Psychiatry*, PMID 35899379: MBSR reduced NPS response to thermal pain) support *mindfulness* for pain. They do **not** test these apps, and they should not be counted as evidence for the branded products.
 
 ## 7. Popularity and trajectory
-- **2009–2011:** Insight Timer begins as a meditation timer app. Headspace runs events and CDs in London from 2010. Tew's "Do Nothing for 2 Minutes" goes viral in 2011.
+- **2009–2011:** Insight Timer begins as an iPhone meditation timer (Nov 2009). Headspace runs events and CDs in London from 2010. Tew's "Do Nothing for 2 Minutes" goes viral in 2011.
 - **2012:** The Headspace app and Calm launch.
 - **2014–2017:** Rapid growth driven by app-store featuring and celebrity and media attention. Calm launches Sleep Stories (Dec 2016), is Apple App of the Year (2017) and reports USD 22M revenue (2017).
 - **2019:** Calm valued at USD 1B (Feb 2019; USD 116M raised in total). The HMP app launches. App research expands.
-- **2020:** COVID-19 surge. Free offers go to health workers, the unemployed and public-sector bodies, and downloads peak. This is the peak year for Google-Trends-type interest in "meditation app" (description only; not quantified this session).
+- **2020:** COVID-19 surge. Free offers go to health workers, the unemployed and public-sector bodies, and downloads peak. Media reports describe 2020 as the peak for interest in meditation apps; Google Trends has no public API and was not quantified.
 - **2021:** Headspace's Netflix series. The Headspace–Ginger merger (about USD 3B; closed Oct 2021). The founders step back from day-to-day leadership (Jan 2021) and leave the board in May 2022.
 - **2022–2024:**
   - Calm has about 4M paid subscribers (Nov 2022) and launches Calm Health.
   - Layoffs at both companies (Calm about 20% in 2022; Headspace in 2023).
   - The Headspace Health name is dropped (Oct 2023), and Tom Pickett becomes CEO (Aug 2024).
-- **2025–2026:** Cumulative downloads reach Headspace 105M+ and Calm 180M+. Insight Timer reports about 30M users. Headspace is absorbed into Sword. The consumer market is mature and flat, and the strategy is shifting to B2B and clinical channels.
+- **2025–2026:** Cumulative downloads reach Headspace 105M+ and Calm 180M+. Insight Timer reports about 30M users. US App Store ratings (Oct 2026): Calm about 1.99M (4.8), Headspace about 0.97M (4.8), Insight Timer about 0.45M (4.9). r/Meditation has about 3.5M members (GummySearch, June 2026; Reddit's API blocked direct checks). Sword agrees to buy Headspace for up to USD 300M (Sept 2026). The consumer market is mature and flat, and the strategy is shifting to B2B and clinical channels.
 
 ## 8. Controversies / criticisms
 - **Conflicts of interest.**
@@ -180,5 +180,15 @@ This is an **umbrella entry** for general-purpose consumer meditation apps. None
 - https://pubmed.ncbi.nlm.nih.gov/35899379/ (Wielgosz 2022)
 - https://clinicaltrials.gov/study/NCT03495726
 - https://clinicaltrials.gov/study/NCT03936088
+- https://apps.apple.com/us/app/id337472899 ; https://apps.apple.com/us/app/id493145008 ; https://apps.apple.com/us/app/id571800810 (App Store lookup API: release dates, ratings)
+- https://web.archive.org/web/20130219163357/https://insighttimer.com/
+- https://empoweringchatswithsusanburrell.podbean.com/e/02-20-26-christopher-plowman (Plowman interview, 2014 purchase)
+- https://recurdash.com/subscription-pricing/headspace ; https://recurdash.com/subscription-pricing/calm ; https://support.calm.com/hc/en-us/articles/360008240934
+- https://makeheadway.com/blog/insight-timer-app/ (MemberPlus price)
+- https://hlth.com/insights/news/sword-to-acquire-headspace-in-deal-worth-up-to-300m ; https://www.statnews.com/2026/08/25/sword-health-to-acquire-headspace-per-regulatory-filing/
+- https://www.businesswire.com/news/home/20241010397470/en/Mental-Health-Company-Headspace-Launches-Empathetic-AI-Companion (Ebb)
+- https://www.cnbc.com/2020/05/19/calm-meditation-app-free-for-kaiser-permanente-members.html
+- https://www.mobihealthnews.com/news/headspace-launches-subsidiary-focus-prescription-meditation-apps-digital-health ; https://api.fda.gov/device/510k.json?search=applicant:headspace
+- https://gummysearch.com/r/Meditation
 
-*Fact-checked 2026-10-12; corrections: Radin 2025 Headspace co-funding added; Hirshberg 2025 control = wait-list and 2-h Zoom sessions; Huberty COI timing clarified; O'Daffer COI/preregistration figures for Calm added; Gál 2021 anxiety and null distress effects added; Kaiser claim corrected (apps listed but not health-plan benefits); Sword relationship confirmed on headspace.com (date unverified); Ginger merger and founder-exit dates, CEO name, Calm valuation wording and AI-voice details made specific; Insight Timer track count updated and founding year flagged; NCT trial descriptions corrected; unverifiable UTSA pilot removed. Prices still unverified (search budget exhausted).*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: Headspace, Calm and Insight Timer prices; Insight Timer founding (Nov 2009 iOS release; 2014 Plowman purchase); Headspace/Calm app release dates; Sword–Headspace deal (Sept 2026, up to USD 300M); Ebb launch (Oct 2024); Kaiser Calm start (May 2020); no FDA clearance found; App Store ratings and r/Meditation size added. Still unknown: Headspace start date at Kaiser; Google Trends curve; brand-subreddit sizes (Reddit API blocked).*

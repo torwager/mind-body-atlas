@@ -1,6 +1,6 @@
 # Relaxation Response / SMART-3RP (Benson-Henry Institute for Mind Body Medicine, MGH)
 
-*Compiled 2026-10-12 from bensonhenryinstitute.org (home, mission/history, Dr. Herbert Benson, Services, SMART program, certification, CME, published-research list), learn.hms.harvard.edu/mindbody, Wikipedia (Herbert Benson; The Relaxation Response), PLOS ONE full texts (Kuo 2015; Stahl 2015; Bhasin 2013), and ClinicalTrials.gov NCT02136745. Content is paraphrased. Web search quota ran out during this pass, so some secondary facts are recalled and flagged as such.*
+*Compiled 2026-10-12 from bensonhenryinstitute.org (home, mission/history, Dr. Herbert Benson, Services, SMART program, certification, CME, published-research list), learn.hms.harvard.edu/mindbody, Wikipedia (Herbert Benson; The Relaxation Response), PLOS ONE full texts (Kuo 2015; Stahl 2015; Bhasin 2013), and ClinicalTrials.gov NCT02136745. Content is paraphrased. Citations recalled in the first pass (Lazar 2000; Hoffman 1982; Keefer & Blanchard 2002) were confirmed on PubMed on 2026-10-13, and popularity was quantified from PubMed counts and Wikipedia pageviews.*
 
 ## At a glance
 | Field | |
@@ -23,7 +23,7 @@
   - lower oxygen consumption and metabolic rate, heart rate, respiratory rate and blood pressure
   - more parasympathetic activity
   - reduced end-organ responsiveness to norepinephrine
-  - in later framing, altered brain activity (fMRI work by Lazar, Benson et al. 2000, recalled)
+  - in later framing, altered brain activity (fMRI: Lazar, Bush, Gollub, Fricchione, Khalsa & Benson, *NeuroReport* 2000;11(7):1581–1585)
 - **Molecular extension (2008–2015).** Gene-expression studies in peripheral blood (Dusek 2008; Bhasin 2013) claim that RR practice upregulates energy-metabolism, mitochondrial ATP-synthase and insulin pathways and downregulates NF-κB inflammatory and stress pathways. This "genomic counter-stress" is presented as a mechanism shared across diseases.
 - **Belief / "remembered wellness".** In *Timeless Healing* (1996) Benson reframed placebo effects as a self-care resource: expectation and belief amplify the RR. Faith-based focus words were encouraged.
 - **3RP resiliency model** (Park et al. 2013). Resilience depends on lowering physiological arousal (RR), building stress awareness and adaptive appraisal (cognitive restructuring), adding positive psychology and social connection, and keeping healthy lifestyle behaviours. Together these buffer allostatic load.
@@ -63,7 +63,7 @@
 - **Transcendental Meditation (Hindu mantra meditation).** TM practitioners asked Harvard to study their blood pressure. Benson's lab, with R. Keith Wallace (UCLA TM research), documented a "wakeful hypometabolic state" (1970–72). Benson then "secularised" it: any repetitive focus works, with no guru or fee. He described it as a scientific validation of age-old wisdom and catalogued parallels in Christian, Jewish, Buddhist, Daoist and Sufi contemplative practices.
 - Walter Cannon's fight-or-flight physiology; Hans Selye's stress theory.
 - Psychophysiology, biofeedback and autogenic training (Schultz), and Jacobson's progressive relaxation. These are its older relatives; the RR was framed as their common physiological denominator.
-- Tibetan g-Tum-mo yoga: Benson studied it in monks (*Nature* 1982).
+- Tibetan g-Tum-mo yoga: Benson studied it in monks (*Nature* 1982;295:234–236).
 - In the 3RP: CBT (Beck), positive psychology (Seligman), mindfulness (Kabat-Zinn), and yoga and tai chi.
 
 ## 5. Mainstream adoption and insurance
@@ -94,12 +94,13 @@
 - **Somatic symptoms.** Mind/body clinic papers from 2001 (*Behav Med*; *Psychother Psychosom*) reported symptom reduction in somatising patients (uncontrolled).
 
 **Generic RR / relaxation-meditation trials:**
-- **Keefer L & Blanchard EB 2001**, *Behav Res Ther* 39(7):801–811 (a one-year follow-up, *Behav Res Ther* 2002;40(5), is recalled, not re-verified):
+- **Keefer L & Blanchard EB 2001**, *Behav Res Ther* 39(7):801–811, with a one-year follow-up (*Behav Res Ther* 2002;40(5):541–546, PMID 12038646):
   - Design: 16 adults with IBS, matched in pairs and randomized to 6 weeks of Benson's RR meditation (15 min twice daily) vs symptom-monitoring waitlist; 13 completed. Independent (Albany) group.
   - Results: meditation beat the control on composite symptom score (p=0.04). Flatulence and belching improved post-treatment; flatulence, belching, bloating and diarrhoea improved at 3-month follow-up.
+  - One-year follow-up: 10 of the 13 completers were re-assessed. Pain, diarrhoea, flatulence and bloating were lower than pre-treatment, with further reductions in pain and bloating after 3 months (uncontrolled at that point).
   - Very small sample.
 - **Headache:** Benson et al. 1974, *Headache* 14(1), uncontrolled.
-- **Mechanistic studies:** Wallace, Benson & Wilson 1971 (*Am J Physiol*); Hoffman et al. 1982 (*Science*), reduced NE responsivity (recalled); Dusek 2008 and Bhasin 2013 (*PLoS One*). Bhasin 2013 tested 26 healthy novices before and after 8 weeks of RR training (vs their own health-education baseline) and 26 long-term practitioners cross-sectionally; the authors call the findings preliminary.
+- **Mechanistic studies:** Wallace, Benson & Wilson 1971 (*Am J Physiol*); Hoffman et al. 1982 (*Science* 215:190–192, PMID 7031901), reduced sympathetic (NE) responsivity; Dusek 2008 and Bhasin 2013 (*PLoS One*). Bhasin 2013 tested 26 healthy novices before and after 8 weeks of RR training (vs their own health-education baseline) and 26 long-term practitioners cross-sectionally; the authors call the findings preliminary.
 - The wider literature on relaxation training and meditation in IBS, pain, anxiety and hypertension (many RCTs and meta-analyses) supports modest effects of the generic technique. It is not specific to the BHI brand.
 
 **Gaps:**
@@ -120,7 +121,9 @@
 - **Current scale:**
   - BHI cites "thousands of patients" a year and "hundreds" of clinicians at the annual CME course.
   - About 155 certified practitioners.
-  - No dedicated subreddit. The term is common in r/Anxiety and r/Meditation and in nursing and psychology coursework. "Relaxation response" search interest is low and has been slowly declining since 2004 (qualitative impression; not quantified here).
+  - Research output: PubMed records with "relaxation response" in title/abstract rose from 4 (1975) to a plateau of 45–57 a year in 2000–2015, then fell to 44 (2020) and 37 (2025).
+  - Wikipedia (English) pageviews fell by about a third over ten years: *The Relaxation Response* from about 16,800 (2016) to 9,000–11,300 a year (2023–2025); *Herbert Benson* from about 16,000–18,000 (2016–2019) to about 10,000 (2025).
+  - Reddit: no dedicated subreddit was found, but Reddit could not be checked directly (reddit.com blocks automated fetches, the Wayback Machine has no capture of r/RelaxationResponse, and web search turned up no Reddit hits). Google Trends was also not retrievable (rate-limited). The term appears in r/Anxiety and r/Meditation discussions and in nursing and psychology coursework.
 
 ## 8. Controversies / criticisms
 - **TM appropriation dispute.** The TM movement objected that Benson repackaged TM without its specific mantra. Benson's position was that any repetitive focus produces the same response, and later comparative literature broadly supports nonspecific relaxation effects.
@@ -144,6 +147,15 @@
 - https://learn.hms.harvard.edu/mindbody
 - https://bensonhenryinstitute.org/research-published-research/
 - https://bensonhenryinstitute.org/services-cardiac-icr-program/
+- https://www.cms.gov/medicare/medicare-general-information/medicareapprovedfacilitie/icr
+- https://pubmed.ncbi.nlm.nih.gov/27449066/ (Vranceanu 2016)
+- https://pubmed.ncbi.nlm.nih.gov/11419611/ (Keefer & Blanchard 2001)
+- https://pubmed.ncbi.nlm.nih.gov/12038646/ (Keefer & Blanchard 2002, 1-year follow-up)
+- https://pubmed.ncbi.nlm.nih.gov/10841380/ (Lazar 2000)
+- https://pubmed.ncbi.nlm.nih.gov/7031901/ (Hoffman 1982)
+- https://pubmed.ncbi.nlm.nih.gov/7035966/ (Benson 1982, g Tum-mo)
+- https://pubmed.ncbi.nlm.nih.gov/?term=%22relaxation+response%22%5Btiab%5D (yearly counts)
+- https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/The_Relaxation_Response/monthly/2016010100/2026093000
 - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0123861 (Kuo 2015)
 - https://clinicaltrials.gov/study/NCT02136745
 - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140212 (Stahl 2015)
@@ -152,4 +164,4 @@
 - https://en.wikipedia.org/wiki/Herbert_Benson
 - https://en.wikipedia.org/wiki/The_Relaxation_Response
 
-*Fact-checked 2026-10-12; corrections: removed R. Keith Wallace as a founder (he was a TM researcher and collaborator, not a founder of the program); verified the CMS ICR approval (effective 6 May 2014); clarified that $700 is a certification line item, not a posted patient fee; added Keefer & Blanchard N=16 (13 completers) and 3-month follow-up; added Caudill N=109 and 36% visit reduction; added the Vranceanu 2016 Neurology NF RCT (n=63) as a key trial; removed an unverifiable 'NIH funding: not a prayer' attribution; specified the Kuo 2017 correction.*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: confirmed Lazar 2000 (NeuroReport), Hoffman 1982 (Science) and the Keefer & Blanchard 2002 one-year follow-up (n=10) on PubMed; added PubMed-count and Wikipedia-pageview popularity data; Reddit and Google Trends could not be retrieved (blocked/rate-limited).*

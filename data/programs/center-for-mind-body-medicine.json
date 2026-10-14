@@ -8,12 +8,31 @@
   "founded_year": 1991,
   "founded_year_range": "1991 (CMBM 'How We Started' and Professional Training Program pages; site claims 35+ years in 2026)",
   "category": "contemplative/meditation program (group mind-body skills; train-the-trainer nonprofit)",
-  "delivery": ["clinician-delivered", "group", "online course", "book", "train-the-trainer professional training"],
+  "delivery": [
+    "clinician-delivered",
+    "group",
+    "online course",
+    "book",
+    "train-the-trainer professional training"
+  ],
   "business_model": "mixed",
-  "cost_summary": "Nonprofit 501(c)(3). Professional Training Program (4-day live online, Oct 1-2 & 5-6 2026): USD 1,475 regular, USD 1,275 early-bird; limited scholarships. Advanced training and certification extra (prices not found). Community Mind-Body Skills Groups are usually grant-funded and free to participants. FY2024 revenue USD 5.79M (Form 990).",
+  "cost_summary": "Nonprofit 501(c)(3). Professional Training Program (4-day live online, Oct 1-2 & 5-6 2026): USD 1,475 regular, USD 1,275 early-bird; limited scholarships. Advanced Training (Dec 2026, online) USD 1,475 (USD 1,275 early-bird); Certification USD 5,575 (Signature track) or USD 2,950 (Essential track); full pathway about USD 5,900-8,500. Community Mind-Body Skills Groups are usually grant-funded and free to participants. FY2024 revenue USD 5.79M (Form 990).",
   "cost_usd_typical": 1475,
-  "conditions_claimed": ["PTSD/trauma", "general stress/wellbeing", "anxiety", "depression", "chronic illness (general, incl. cancer)", "burnout", "insomnia"],
-  "conditions_primary": ["PTSD/trauma", "general stress/wellbeing", "depression", "anxiety"],
+  "conditions_claimed": [
+    "PTSD/trauma",
+    "general stress/wellbeing",
+    "anxiety",
+    "depression",
+    "chronic illness (general, incl. cancer)",
+    "burnout",
+    "insomnia"
+  ],
+  "conditions_primary": [
+    "PTSD/trauma",
+    "general stress/wellbeing",
+    "depression",
+    "anxiety"
+  ],
   "differentiation": "transdiagnostic / not disorder-focused",
   "mechanisms": [
     "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")",
@@ -83,7 +102,7 @@
       "citation": "Staples JK, Abdel Atti JA, Gordon JS. Int J Stress Manag 2011;18(3):246-62. doi:10.1037/a0024015",
       "design": "Uncontrolled pre-post, Gaza children/adolescents, 7-month follow-up",
       "n": null,
-      "finding": "Reductions in PTSD caseness, depression and hopelessness, largely maintained. Developer reports 89% (website) or 91% (2022 summary) reduction in PTSD caseness.",
+      "finding": "Reductions in PTSD caseness, depression and hopelessness, largely maintained. Developer reports 89% (website) or 91% (2022 summary) reduction in PTSD caseness. N not reported by CMBM; article closed-access, abstract unavailable in PubMed/Europe PMC/CrossRef/Semantic Scholar.",
       "url": "https://doi.org/10.1037/a0024015"
     },
     {
@@ -108,51 +127,154 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/41897200/"
     },
     {
-      "citation": "NCT01595477 and NCT01595490 (CMBM, Gaza children and adolescents, 2012)",
+      "citation": "NCT01595477, NCT01595490, NCT01595464 (CMBM, Gaza children, adolescents and adults, 2012)",
       "design": "Registered RCTs, MBSG vs no-intervention control",
-      "n": 235,
-      "finding": "Enrollment 114 + 121; no peer-reviewed results located (possible publication gap).",
+      "n": 383,
+      "finding": "Enrollment 114 + 121 + 148; no results posted on ClinicalTrials.gov and no randomized results in PubMed as of Oct 2026 (possible publication gap). NCT02671487 (Gaza boys, n=115, completed 2017) also unpublished; NCT07302984 (Gaza adolescents, n=120) recruiting since Dec 2025.",
       "url": "https://clinicaltrials.gov/study/NCT01595490"
     }
   ],
-  "controversy": "Little controversy about the group model itself. Gordon's chairmanship of the White House CAM Commission (2000-02) was attacked in a multi-part Quackwatch/NCAHF series (Barrett, Curry, Sampson and others) as stacked with CAM advocates; one part raised what it called a 12-year (1973-85) involvement with the Rajneesh movement, which Gordon wrote about in The Golden Guru (1987) and reportedly denied being a disciple of. The evidence base is almost entirely developer-run, mostly uncontrolled, self-report, with no active controls; two registered Gaza RCTs (2012) appear unpublished. CMBM's outcome framing is strong (e.g., '82%', '89%'/'91%', '86%' reductions in PTSD caseness). No trials in chronic pain or fatigue syndromes.",
+  "controversy": "Little controversy about the group model itself. Gordon's chairmanship of the White House CAM Commission (2000-02) was attacked in a multi-part Quackwatch/NCAHF series (Barrett, Curry, Sampson and others) as stacked with CAM advocates; one part raised what it called a 12-year (1973-85) involvement with the Rajneesh movement, which Gordon wrote about in The Golden Guru (1987) and reportedly denied being a disciple of. The evidence base is almost entirely developer-run, mostly uncontrolled, self-report, with no active controls; three registered 2012 Gaza RCTs and a 2016 Gaza RCT appear unpublished. CMBM's outcome framing is strong (e.g., '82%', '89%'/'91%', '86%' reductions in PTSD caseness). No trials in chronic pain or fatigue syndromes.",
   "popularity": {
     "indicators": [
-      {"metric": "Professionals trained (cumulative)", "value": ">8,000 from 50+ countries", "source": "cmbm.org Professional Training Program page", "year": 2026},
-      {"metric": "Professionals trained (cumulative)", "value": ">7,000; 145+ faculty", "source": "cmbm.org How We Started", "year": 2024},
-      {"metric": "Gaza reach", "value": "~1,500 local trainees since 2005; >280,000 children and adults reached", "source": "cmbm.org How We Started / Gaza impact story", "year": 2025},
-      {"metric": "Annual revenue", "value": "USD 5.79M (expenses 4.83M)", "source": "ProPublica Nonprofit Explorer (Form 990)", "year": 2024},
-      {"metric": "Haiti direct services", "value": ">60,000 people since 2010", "source": "cmbm.org How We Started", "year": 2024},
-      {"metric": "Early training cohort", "value": "451 professionals trained 1998-2001", "source": "Staples & Gordon 2005, Altern Ther Health Med", "year": 2001},
-      {"metric": "Medical school adoption", "value": "~15 US medical schools with CMBM-trained faculty", "source": "Gordon 2014, BMC Med Educ", "year": 2014},
-      {"metric": "Clinton Global Initiative commitment", "value": "target >500,000 people in Gaza over 3 years (est. USD 6M)", "source": "clintonfoundation.org", "year": 2024}
+      {
+        "metric": "Professionals trained (cumulative)",
+        "value": ">8,000 from 50+ countries",
+        "source": "cmbm.org Professional Training Program page",
+        "year": 2026
+      },
+      {
+        "metric": "Professionals trained (cumulative)",
+        "value": ">7,000; 145+ faculty",
+        "source": "cmbm.org How We Started",
+        "year": 2024
+      },
+      {
+        "metric": "Gaza reach",
+        "value": "~1,500 local trainees since 2005; >280,000 children and adults reached",
+        "source": "cmbm.org How We Started / Gaza impact story",
+        "year": 2025
+      },
+      {
+        "metric": "Annual revenue",
+        "value": "USD 5.79M (expenses 4.83M)",
+        "source": "ProPublica Nonprofit Explorer (Form 990)",
+        "year": 2024
+      },
+      {
+        "metric": "Haiti direct services",
+        "value": ">60,000 people since 2010",
+        "source": "cmbm.org How We Started",
+        "year": 2024
+      },
+      {
+        "metric": "Early training cohort",
+        "value": "451 professionals trained 1998-2001",
+        "source": "Staples & Gordon 2005, Altern Ther Health Med",
+        "year": 2001
+      },
+      {
+        "metric": "Medical school adoption",
+        "value": "~15 US medical schools with CMBM-trained faculty",
+        "source": "Gordon 2014, BMC Med Educ",
+        "year": 2014
+      },
+      {
+        "metric": "Clinton Global Initiative commitment",
+        "value": "target >500,000 people in Gaza over 3 years (est. USD 6M)",
+        "source": "clintonfoundation.org",
+        "year": 2024
+      }
     ],
     "reach_estimate": "About 8,000 professionals trained directly. Trainees have reached roughly several hundred thousand people by CMBM's own unverified counts (Gaza >280,000; Haiti >60,000; plus US schools, VA and medical schools). Order of 4e5-6e5 cumulative.",
     "reach_log10": 5.6,
     "trajectory": [
-      {"year": 1991, "relative_activity": 1.5},
-      {"year": 1994, "relative_activity": 2},
-      {"year": 1996, "relative_activity": 3},
-      {"year": 1998, "relative_activity": 3.5},
-      {"year": 2000, "relative_activity": 5},
-      {"year": 2002, "relative_activity": 5},
-      {"year": 2004, "relative_activity": 5},
-      {"year": 2006, "relative_activity": 5.5},
-      {"year": 2008, "relative_activity": 6},
-      {"year": 2010, "relative_activity": 6},
-      {"year": 2012, "relative_activity": 5.5},
-      {"year": 2014, "relative_activity": 6},
-      {"year": 2016, "relative_activity": 6},
-      {"year": 2018, "relative_activity": 7},
-      {"year": 2019, "relative_activity": 8},
-      {"year": 2020, "relative_activity": 8},
-      {"year": 2022, "relative_activity": 7},
-      {"year": 2023, "relative_activity": 7.5},
-      {"year": 2024, "relative_activity": 8},
-      {"year": 2025, "relative_activity": 7.5},
-      {"year": 2026, "relative_activity": 7}
+      {
+        "year": 1991,
+        "relative_activity": 1.5
+      },
+      {
+        "year": 1994,
+        "relative_activity": 2
+      },
+      {
+        "year": 1996,
+        "relative_activity": 3
+      },
+      {
+        "year": 1998,
+        "relative_activity": 3.5
+      },
+      {
+        "year": 2000,
+        "relative_activity": 5
+      },
+      {
+        "year": 2002,
+        "relative_activity": 5
+      },
+      {
+        "year": 2004,
+        "relative_activity": 5
+      },
+      {
+        "year": 2006,
+        "relative_activity": 5.5
+      },
+      {
+        "year": 2008,
+        "relative_activity": 6
+      },
+      {
+        "year": 2010,
+        "relative_activity": 6
+      },
+      {
+        "year": 2012,
+        "relative_activity": 5.5
+      },
+      {
+        "year": 2014,
+        "relative_activity": 6
+      },
+      {
+        "year": 2016,
+        "relative_activity": 6
+      },
+      {
+        "year": 2018,
+        "relative_activity": 7
+      },
+      {
+        "year": 2019,
+        "relative_activity": 8
+      },
+      {
+        "year": 2020,
+        "relative_activity": 8
+      },
+      {
+        "year": 2022,
+        "relative_activity": 7
+      },
+      {
+        "year": 2023,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2024,
+        "relative_activity": 8
+      },
+      {
+        "year": 2025,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2026,
+        "relative_activity": 7
+      }
     ],
-    "method_notes": "The trajectory is anchored on documented events: founding (1991); Manifesto for a New Medicine (1996); first Kosovo work and annual trainings (1998); Gordon's White House CAM commission chairmanship (2000-02); the Kosovo RCT and start of the Gaza program (2004-08); Katrina and Haiti (2005, 2010); Parkland and Puerto Rico (2018); The Transformation book plus a podcast and media wave (2019); the move to online training during COVID (2020); and Gaza war work plus the CGI commitment (2023-24). Reach comes from CMBM's self-reported trainee and participant counts, which are unverified, plus ProPublica 990 revenue. Social-media signal is modest: no dedicated subreddit and little patient-forum discussion. Values are relative within the program, not comparable in absolute terms across programs."
+    "method_notes": "The trajectory is anchored on documented events: founding (1991); Manifesto for a New Medicine (1996); first Kosovo work and annual trainings (1998); Gordon's White House CAM commission chairmanship (2000-02); the Kosovo RCT and start of the Gaza program (2004-08); Katrina and Haiti (2005, 2010); Parkland and Puerto Rico (2018); The Transformation book plus a podcast and media wave (2019); the move to online training during COVID (2020); and Gaza war work plus the CGI commitment (2023-24). Reach comes from CMBM's self-reported trainee and participant counts, which are unverified, plus ProPublica 990 revenue. Social-media signal is modest: no known dedicated subreddit (Reddit blocked automated checks in Oct 2026) and little patient-forum discussion. Values are relative within the program, not comparable in absolute terms across programs."
   },
   "sources": [
     "https://cmbm.org/about/",
@@ -182,6 +304,13 @@
     "https://bravewell.org/current_projects/2013_leadership_award/bravewell_finalists/james_gordon/",
     "https://www.psychotherapynetworker.org/article/video-breathing-antidote-stress-responses/",
     "https://quackwatch.org/political-activities/whc/wp/",
-    "https://som.georgetown.edu/?p=1816"
+    "https://som.georgetown.edu/?p=1816",
+    "https://clinicaltrials.gov/study/NCT01093053",
+    "https://clinicaltrials.gov/study/NCT01595464",
+    "https://clinicaltrials.gov/study/NCT00136357",
+    "https://clinicaltrials.gov/study/NCT05948917",
+    "https://clinicaltrials.gov/study/NCT07302984",
+    "https://cmbm.org/calendar/events/online-advanced-training-program-in-mind-body-medicine/",
+    "https://cmbm.org/certification-frequently-asked-questions/"
   ]
 }

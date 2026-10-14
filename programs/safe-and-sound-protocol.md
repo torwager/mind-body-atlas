@@ -1,6 +1,6 @@
 # Safe and Sound Protocol (SSP)
 
-*Compiled 2026-10-12 from integratedlistening.com (SSP product, music/pathways, how-it-works, pricing, Porges letter, real-world-evidence and Rest & Restore pages), PubMed/Europe PMC, ClinicalTrials.gov and the Wayback Machine CDX index. Content paraphrased. The web-search budget ran out partway through, so Reddit, Google Trends and news coverage were not systematically checked (see §7).*
+*Compiled 2026-10-12 from integratedlistening.com (SSP product, music/pathways, how-it-works, pricing, Porges letter, real-world-evidence and Rest & Restore pages), PubMed/Europe PMC, ClinicalTrials.gov, the Wayback Machine CDX index, the PullPush Reddit archive, Wikimedia pageview statistics and Unyte's YouTube channel. Content paraphrased. Google Trends and news coverage were not measured (see §7).*
 
 ## At a glance
 | Field | |
@@ -14,8 +14,8 @@
 | Conditions claimed | Trauma/PTSD, anxiety, depression, auditory/sensory processing differences, autism/neurodivergence, "autonomic dysfunction," sleep, social-emotional difficulties. Case studies on long COVID and FND. Promoted by third parties for MCS, chronic pain/fibromyalgia, ME/CFS and POTS (e.g., limbic/nervous-system retraining communities such as Primal Trust). |
 | Mainstream adoption | Limited. Widely used by OTs, psychotherapists and trauma clinicians (Unyte reports 10,000+ certified providers in 50+ countries). Some hospital use, e.g. the Children's Hospital at Westmead FND case. Not in NICE or other clinical guidelines. Unyte states it is **not a medical device** and is not FDA-evaluated. |
 | Insurance reimbursable | No direct coverage or billing code. Indirect only: may be folded into billable psychotherapy or OT sessions. |
-| Evidence (peer-reviewed trials) | Weak. The only randomized evidence is the precursor LPP in children with autism (2014; parent-report outcomes; developer-run). Published SSP studies are small uncontrolled pilots and case reports. No published RCT in any chronic pain, fatigue or functional syndrome; a Porges-led chronic-pain study was terminated at n=8. |
-| Popularity signals | 10,000+ certified providers; Unyte says it serves "hundreds of thousands" of people. Heavily promoted within the polyvagal / trauma-informed therapy movement (PESI trainings, Psychotherapy Networker bundles). Polyvagal Theory itself is the subject of a high-profile scientific dispute (39-author critique, 2026). |
+| Evidence (peer-reviewed trials) | Weak. The only randomized evidence is the precursor LPP in children with autism (2014; parent-report outcomes; developer-run). Published SSP studies are small uncontrolled pilots and case reports. No published RCT in any chronic pain, fatigue or functional syndrome; a Porges-led chronic-pain study was terminated at n=8. One masked RCT of SSP-style filtered music in hEDS/POTS with GI symptoms is ongoing (NCT05212129). |
+| Popularity signals | 10,000+ certified providers; Unyte says it serves "hundreds of thousands" of people. Heavily promoted within the polyvagal / trauma-informed therapy movement (PESI trainings, Psychotherapy Networker bundles). About 310 archived Reddit posts mention SSP (2019–2026), rising from about 15–20 a year in 2019–2022 to 97 in 2025. Unyte's YouTube channel has about 5.7K subscribers. Polyvagal Theory itself is the subject of a high-profile scientific dispute (39-author critique, 2026). |
 
 ## 1. Proposed mechanism(s)
 - **Polyvagal Theory.** The autonomic nervous system is said to have three hierarchical states:
@@ -110,6 +110,7 @@ The provider tunes these to the client's "autonomic response," and trauma and se
   - NCT06701578: HealthPartners; depression/anxiety; filtered vs unfiltered music; quadruple-masked; n = 120 planned; listed as *not yet recruiting* (Oct 2026).
   - NCT06925867: Ohio State; SSP-filtered vs unfiltered music added to Cognitive Processing Therapy for PTSD; triple-masked; n = 100; recruiting.
   - NCT07219056: Caron; trauma plus substance use disorder; sham-controlled, quadruple-masked; n = 100; recruiting.
+  - NCT05212129: Medical College of Wisconsin; hypermobile Ehlers-Danlos syndrome with POTS and functional GI symptoms. One arm randomizes 60 participants to 4 weeks of filtered vocal music that "mirror[s]" SSP vs unfiltered music (double-blind), delivered remotely with coaches. Primary outcome: GI symptoms (PAGI-SYM). Started April 2021; recruiting; estimated primary completion December 2026. No results or PubMed paper yet. This is the only controlled study of the SSP stimulus in a chronic functional/autonomic syndrome. It is not labelled "Safe and Sound Protocol" in its title.
 
 ### Grey literature
 - **Cook et al. (2021)**, *Proceedings of IMPRS* (Indiana University student research abstract; doi:10.18060/25904). Non-randomized, n = 17 children in three groups (4/4/9). Reported a smaller SSP response in children on non-stimulant neurotransmitter-altering medication. Not peer-reviewed.
@@ -119,7 +120,7 @@ The provider tunes these to the client's "autonomic response," and trauma and se
 Unyte reports clinical-to-non-clinical shifts of 61% for anxiety, 54% for depression and 63% for trauma symptoms, plus survey figures such as "85% reported anxiety reduction." No denominator, control group or peer review is given.
 
 ### Gaps
-- No controlled trial in chronic pain, fibromyalgia, ME/CFS, long COVID, POTS, IBS or MCS.
+- No published controlled trial in chronic pain, fibromyalgia, ME/CFS, long COVID, POTS, IBS or MCS. Only one is registered (NCT05212129, hEDS/POTS/functional GI; ongoing).
 - The key unfiltered-music control has been tested only in the 2014 ASD paper.
 - Little independent replication.
 - Autonomic mechanism (RSA change) not demonstrated in adequately controlled designs.
@@ -136,7 +137,11 @@ Unyte reports clinical-to-non-clinical shifts of 61% for anxiety, 54% for depres
   - Porges's newer "Sonic Augmentation Technology" was evaluated in a feasibility study (Dale et al., 2026, *Front Psychiatry*).
   - SSP is frequently recommended in chronic-illness and limbic-retraining communities (Primal Trust, MCS/long-COVID forums) as an adjunct.
 - **2023–2026 headwinds:** Scholarly critiques of Polyvagal Theory: Grossman 2023 (*Biol Psychol*), and Grossman + 38 co-authors 2026 (*Clin Neuropsychiatry*), "Why the Polyvagal Theory is untenable." Porges published a rebuttal (2026).
-- **Not quantified:** Google Trends, subreddit sizes and YouTube metrics were not measured, because the search budget was exhausted.
+- **Online metrics (checked 2026-10-13):**
+  - **Reddit:** the PullPush archive holds about 310 posts mentioning "Safe and Sound Protocol": 19 (2019), 13 (2020), 16 (2021), 20 (2022), 57 (2023), 54 (2024), 97 (2025), 34 (2026 to date; the archive may lag). The most common subreddits are r/CPTSD (42), r/SomaticExperiencing (21), r/TraumaTherapy (15), r/EMDR, r/TalkTherapy and r/covidlonghaulers (10 each). A small dedicated forum, r/Exploring_SSP_RRP, exists. Subscriber counts could not be read because reddit.com blocks automated requests (HTTP 403).
+  - **YouTube:** Unyte's channel (@Unyte) has about 5.7K subscribers, 124 videos and about 0.8 million total views.
+  - **Wikipedia (proxy for interest in the theory):** there is no article on SSP. Views of the "Polyvagal theory" article rose from about 24K (2017) to a peak of about 219K (2021), then fell to about 133K in 2025 (and about 75K in January–September 2026). Views of the "Stephen Porges" article were flat at about 20–24K a year.
+  - **Not measured:** Google Trends (no accessible data route) and news coverage (no systematic news search was possible in this pass).
 
 ## 8. Controversies / criticisms
 - **Contested theory.** The mechanism rests on Polyvagal Theory. Its core physiological premises are disputed by many autonomic physiologists: the claimed uniqueness of mammalian myelinated vagal pathways from the nucleus ambiguus; the dorsal-vagal "shutdown" in humans; RSA as an index of vagal "tone" and of a safety state. The 2026 39-author critique calls the theory untenable.
@@ -176,6 +181,11 @@ Unyte reports clinical-to-non-clinical shifts of 61% for anxiety, 54% for depres
 - https://clinicaltrials.gov/study/NCT03101826
 - https://clinicaltrials.gov/study/NCT03871751
 - https://clinicaltrials.gov/study/NCT05249270
+- https://clinicaltrials.gov/study/NCT05212129
+- https://api.pullpush.io/reddit/search/submission/?q=%22safe%20and%20sound%20protocol%22 (Reddit post archive)
+- https://www.youtube.com/@Unyte
+- https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Polyvagal_theory/monthly/2016010100/2026093000
+- https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Safe%20and%20Sound%20Protocol%22 (19 records, rechecked 2026-10-13)
 - Wayback Machine CDX index for integratedlistening.com (captures from 2007; SSP pages from 2018)
 
-*Fact-checked 2026-10-12; corrections: training price range corrected ($249–399; Unyte pages inconsistent); NCT04999852 differential attrition added (19/32 vs 12/13 completers); NCT06701578 status corrected to not yet recruiting, NCT06925867 masking added; ClinicalTrials.gov count corrected (8 SSP records, not 9); Cook 2021 grey-literature abstract and Gitler 2025 review added. All PubMed citations, NCT records, provider counts and core prices otherwise verified.*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: Reddit post counts by year and subreddit (PullPush archive), Unyte YouTube metrics, Wikipedia pageviews for Polyvagal theory; ClinicalTrials.gov and Europe PMC rechecked, adding the ongoing hEDS/POTS RCT NCT05212129 (9 SSP-related records); Google Trends, subreddit subscriber counts and news coverage remain unmeasured.*

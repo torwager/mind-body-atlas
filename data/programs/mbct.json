@@ -8,7 +8,7 @@
     "John D. Teasdale"
   ],
   "founded_year": 2000,
-  "founded_year_range": "1992-2002 (developed 1992-99; first RCT 2000; Guilford manual 2002)",
+  "founded_year_range": "1992-2002 (developed 1992-99; first RCT 2000; Guilford manual 2002; 2nd ed. Oct 2012, ©2013)",
   "category": "contemplative/meditation program",
   "delivery": [
     "group",
@@ -17,8 +17,8 @@
     "online course"
   ],
   "business_model": "mixed",
-  "cost_summary": "No prices are posted on mbct.com, mindfulmood.org or the Oxford course list (checked 2026-10-12). Unverified estimate: about USD 300-700 for a private 8-week group in the US and about GBP 200-400 in the UK; free on the NHS. Workbook about USD 20-30. The protocol is not proprietary.",
-  "cost_usd_typical": 450,
+  "cost_summary": "mbct.com and mindfulmood.org post no prices. Posted 2026 fees for 8-week online courses: UC San Diego MBCT USD 595 (USD 545 if paid early); UMass Memorial MBSR or MBCT USD 650; Oxford Mindfulness Foundation MBCT-L GBP 300. Free on the UK NHS. Self-help book (The Mindful Way Through Depression, 2nd ed.) USD 23.95. The protocol is not proprietary.",
+  "cost_usd_typical": 600,
   "conditions_claimed": [
     "depression",
     "anxiety",
@@ -65,7 +65,7 @@
     "digital Mindful Mood Balance (8 online sessions over 3 months with minimal coaching)"
   ],
   "mainstream_adoption": "substantial",
-  "mainstream_notes": "NICE recommended MBCT for recurrent depression (3+ episodes) in CG23 (2004) and CG90 (2009). NG222 (2022) retains group MBCT for relapse prevention in people at higher risk; the exact NG222 wording could not be re-fetched (403) and is unverified. MBCT is delivered in NHS Talking Therapies and secondary care, and the Oxford 'MBCT for Depression' course is for UK residents with a GP. The UK APPG report Mindful Nation UK (2015) recommended it. Kaiser Permanente Colorado hosted the 460-person digital trial. Teacher training runs at Oxford, Bangor, UCSD and Toronto.",
+  "mainstream_notes": "NICE recommended MBCT for recurrent depression (3+ episodes) in CG23 (2004) and CG90 (2009). NG222 (2022), recs 1.8.5-1.8.6: for remitted people at higher risk of relapse, consider group CBT or MBCT (usually 8 sessions over 2-3 months) instead of or alongside continued antidepressants. NG222 Table 1 lists group mindfulness and meditation (e.g., MBCT) as an option for less severe depression, 7th of 11 options (verified 2026-10-13). MBCT is delivered in NHS Talking Therapies and secondary care, and the Oxford 'MBCT for Depression' course is for UK residents with a GP. Mindful Nation UK (APPG, 2015) recommended commissioning MBCT for 15% of the 580,000 adults a year at risk of recurrence (87,000 a year, about GBP 10M a year) and training 100 NHS MBCT teachers a year, noting that access was 'still extremely limited'. Kaiser Permanente Colorado hosted the 460-person digital trial. Teacher training runs at Oxford, Bangor, UCSD and Toronto.",
   "insurance": "sometimes/indirect",
   "insurance_notes": "Free through the UK NHS. In the US it can be billed as group psychotherapy (e.g., CPT 90853) when a licensed clinician delivers it; there is no MBCT-specific code. Community or lay-teacher courses are self-pay.",
   "evidence_level": "systematic reviews/meta-analyses",
@@ -167,9 +167,16 @@
       "n": 69,
       "finding": "All arms improved with no between-group differences post-treatment; at follow-up MBCT beat meditation on some outcomes",
       "url": "https://pubmed.ncbi.nlm.nih.gov/30605517/"
+    },
+    {
+      "citation": "Bindicsova I et al. J Pain 2025;32:105429 (PMID 40379069)",
+      "design": "Pilot RCT, 4-week self-directed internet MBCT vs delayed treatment, chronic pain",
+      "n": 48,
+      "finding": "Feasible (88% retention); within-group pain interference improved (d=0.48), pain intensity changed little (d=0.20); no between-group efficacy test reported",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40379069/"
     }
   ],
-  "controversy": "Most pivotal trials were run by the developers. They earn Guilford royalties and training income, and Segal and Dimidjian disclose cofounding Mindful Noggin, Inc. The dismantling trial (Williams 2014) found no overall benefit over an active control. Farb 2018 found no difference from cognitive therapy. PREVENT was a non-superiority result that the media spun as \"as good as pills\". MOMENT found that stopping antidepressants after MBCT raised relapse. Benefit is concentrated in people with 3+ episodes. Meditation can have adverse effects: Britton et al. 2021 (PMID 35174010) found negative impacts on functioning in 37% of 96 MBCT participants and lasting bad effects in 6-14%. Evidence for pain is limited to small MBCT pilots (Day et al.), and there are no trials of MBCT in ME/CFS, POTS, MCS, long COVID or FND.",
+  "controversy": "Most pivotal trials were run by the developers. They earn Guilford royalties and training income, and Segal and Dimidjian disclose cofounding Mindful Noggin, Inc. The dismantling trial (Williams 2014) found no overall benefit over an active control. Farb 2018 found no difference from cognitive therapy. PREVENT was a non-superiority result that the media spun as \"as good as pills\". MOMENT found that stopping antidepressants after MBCT raised relapse. Benefit is concentrated in people with 3+ episodes. Meditation can have adverse effects: Britton et al. 2021 (PMID 35174010) found negative impacts on functioning in 37% of 96 MBCT participants and lasting bad effects in 6-14%. Evidence for pain is limited to small MBCT pilots (Day et al.; Bindicsova 2025, an internet MBCT pilot with N=48), and there are no trials of MBCT in ME/CFS, POTS, MCS, long COVID or FND.",
   "popularity": {
     "indicators": [
       {
@@ -180,20 +187,26 @@
       },
       {
         "metric": "Treatment manual",
-        "value": "Guilford manual; 2nd edition 2013",
-        "source": "background (unverified)",
+        "value": "Guilford manual (1st ed. 2002; 2nd ed. 2012/13); more than 70,000 in print",
+        "source": "guilford.com",
         "year": 2002
       },
       {
+        "metric": "Self-help book sales",
+        "value": "The Mindful Way Through Depression: more than 475,000 in print (2nd ed. 2024)",
+        "source": "guilford.com",
+        "year": 2007
+      },
+      {
         "metric": "NICE guideline recommendation",
-        "value": "Recommended for recurrent depression (CG23), retained in CG90; NG222 2022 (wording unverified)",
-        "source": "NICE (background)",
+        "value": "Recommended for recurrent depression (CG23), retained in CG90; NG222 2022 recs 1.8.5-1.8.6 (relapse prevention)",
+        "source": "NICE NG222; Mindful Nation UK 2015",
         "year": 2004
       },
       {
         "metric": "Mass-market self-help book",
-        "value": "Finding Peace in a Frantic World (Williams & Penman), reported UK bestseller",
-        "source": "background (unverified)",
+        "value": "Mindfulness: Finding Peace in a Frantic World (Williams & Penman), more than 2 million copies sold (publisher claim)",
+        "source": "littlebrown.co.uk",
         "year": 2011
       },
       {
@@ -213,10 +226,22 @@
         "value": "Mindful Mood Balance, N=460 at Kaiser",
         "source": "PubMed 31995132",
         "year": 2020
+      },
+      {
+        "metric": "PubMed records naming MBCT (title/abstract, cumulative)",
+        "value": "~1,117; about 77 (2015), 108 (2020), 121 (2022), 116 (2025)",
+        "source": "NCBI E-utilities query",
+        "year": 2026
+      },
+      {
+        "metric": "ClinicalTrials.gov studies with MBCT intervention",
+        "value": "263 (exact phrase); 286 including 'MBCT'",
+        "source": "ClinicalTrials.gov API v2",
+        "year": 2026
       }
     ],
-    "reach_estimate": "Unverified order-of-magnitude guess: hundreds of thousands of course completers worldwide (NHS, academic centres, private groups) plus self-help book readers, giving about 10^6. No published enrolment or sales figures were found.",
-    "reach_log10": 6,
+    "reach_estimate": "Publisher figures give more than 2.5 million book copies (Finding Peace over 2M, Mindful Way over 475k, manual over 70k). Course completers are probably in the hundreds of thousands worldwide, but no enrolment totals are published. Cumulative exposure is roughly 10^6-10^7.",
+    "reach_log10": 6.5,
     "trajectory": [
       {
         "year": 1992,
@@ -283,7 +308,7 @@
         "relative_activity": 7
       }
     ],
-    "method_notes": "Trajectory is anchored on documented milestones: first RCT 2000, manual 2002, NICE 2004, self-help books 2007/2011, manual 2nd edition 2013, PREVENT and Mindful Nation UK 2015, IPD meta-analysis 2016, digital trial 2020, NICE NG222 2022. The peak around 2015-2016 matches the general mindfulness media and Google Trends peak (background, not re-verified). The web-search quota ran out in both the original and fact-check sessions, so Reddit, Trends and book-sales figures could not be checked. Reach is a rough order-of-magnitude estimate."
+    "method_notes": "Trajectory is anchored on documented milestones: first RCT 2000, manual 2002, NICE 2004, self-help books 2007/2011, manual 2nd edition 2012/13, PREVENT and Mindful Nation UK 2015, IPD meta-analysis 2016, digital trial 2020, NICE NG222 2022. PubMed output rose to about 100-120 records a year by 2020 and has plateaued. The general mindfulness media peak around 2015-2016 comes from standard accounts; Google Trends and Reddit could not be checked because automated access is blocked. Reach combines publisher sales claims (checked 2026-10-13) with an unpublished, estimated course-completer count."
   },
   "sources": [
     "https://www.mbct.com/",
@@ -306,6 +331,18 @@
     "https://pubmed.ncbi.nlm.nih.gov/23446085/",
     "https://pubmed.ncbi.nlm.nih.gov/30605517/",
     "https://pubmed.ncbi.nlm.nih.gov/35174010/",
-    "https://www.nice.org.uk/guidance/ng222"
+    "https://www.nice.org.uk/guidance/ng222",
+    "https://pubmed.ncbi.nlm.nih.gov/40379069/",
+    "https://pubmed.ncbi.nlm.nih.gov/30638824/",
+    "https://www.nice.org.uk/guidance/ng222/chapter/Recommendations",
+    "https://www.guilford.com/books/Mindfulness-Based-Cognitive-Therapy-for-Depression/Segal-Williams-Teasdale/9781462537037",
+    "https://www.guilford.com/books/The-Mindful-Way-Through-Depression/Williams-Teasdale-Segal-Kabat-Zinn/9781593851286",
+    "https://www.littlebrown.co.uk/titles/professor-mark-williams/mindfulness/9780749953089/",
+    "https://www.themindfulnessinitiative.org/Handlers/Download.ashx?IDMF=1af56392-4cf1-4550-bdd1-72e809fa627a",
+    "https://cih.ucsd.edu/mindfulness/programs/8-week-mindfulness-based-cognitive-therapy",
+    "https://www.ummhealth.org/umass-memorial-medical-center/services-treatments/center-mindfulness/mindfulness-programs/mbsr-or-mbct-tuition-and-payment",
+    "https://oxfordmindfulness.org/course/mindfulness-for-life-28",
+    "https://doi.org/10.1002/9781119257875",
+    "https://clinicaltrials.gov/api/v2/studies?query.intr=%22mindfulness-based%20cognitive%20therapy%22"
   ]
 }

@@ -4,12 +4,15 @@
   "url": "https://www.pathways.health/",
   "founders": [
     "Sandip Singh Sekhon (founder/CEO; ex-finance, internet entrepreneur, former chronic RSI patient)",
-    "Harvir Ubhi, MSc (chartered physiotherapist, co-founder; likely joined after launch)"
+    "Harvir Ubhi, MSc (chartered physiotherapist; listed as co-founder on the About page only from late 2025; never a Companies House officer)"
   ],
   "founded_year": 2018,
-  "founded_year_range": "2018 (iOS app ©2018, Pathways Health Ltd incorporated 15 Oct 2018; website first archived Jul 2019; major video-program relaunch May 2020)",
+  "founded_year_range": "2018 (iOS app first released 21 Jun 2018; Pathways Health Ltd incorporated 15 Oct 2018; website first archived Jul 2019; major video-program relaunch May 2020)",
   "category": "digital app/platform",
-  "delivery": ["app", "online course"],
+  "delivery": [
+    "app",
+    "online course"
+  ],
   "business_model": "freemium/hybrid",
   "cost_summary": "First milestone free. Premium is US$79 one-time lifetime on the website (Oct 2026), with a 14-day money-back guarantee. iOS in-app purchases range from $12.99-14.99/mo and $59.99-69.99/yr to $249.99-299.99 lifetime list price ($79.99-89.99 offer). Healthify NZ listed the full version at US$149 (2023).",
   "cost_usd_typical": 79,
@@ -23,7 +26,12 @@
     "sciatica/nerve pain",
     "joint/knee pain"
   ],
-  "conditions_primary": ["chronic pain (general)", "chronic back/neck pain", "fibromyalgia", "headache/migraine"],
+  "conditions_primary": [
+    "chronic pain (general)",
+    "chronic back/neck pain",
+    "fibromyalgia",
+    "headache/migraine"
+  ],
   "differentiation": "mostly unified with condition-specific emphasis",
   "mechanisms": [
     "central sensitization",
@@ -77,27 +85,90 @@
   "controversy": "No specific controversies. General critiques: 'evidence-based' and 'research-backed' marketing without any product-level outcome trial, unverified testimonials and claims (helped '1000s'; 'hundreds' of clinicians recommend it), app glitches and cost complaints in reviews. The iOS app has not been updated since May 2022. Healthify NZ's 'clinically validated with evidence of effectiveness' label rests only on a content appraisal, so it overstates the evidence. The App Store seller is Vortex Media Ltd, a separate entity from Pathways Health Ltd.",
   "popularity": {
     "indicators": [
-      {"metric": "US App Store ratings", "value": "4.1 stars from 39 ratings", "source": "apps.apple.com/us/app/id1388251688", "year": 2026},
-      {"metric": "Monthly revenue (founder-reported)", "value": "~US$5k/month (headline figure), not yet break-even", "source": "Failory interview, 17 Sep 2020", "year": 2020},
-      {"metric": "Site claim", "value": "helped '1000s' of people; recommended by 'hundreds' of clinicians", "source": "pathways.health", "year": 2026},
-      {"metric": "Academic app-quality ranking", "value": "Among the 3 highest-scoring of 12 psychological pain apps (508 screened)", "source": "MacPherson et al. 2022 Can J Pain", "year": 2022},
-      {"metric": "Media/directory listing", "value": "#3 in US Pain Foundation '10 best apps for people with chronic pain'", "source": "uspainfoundation.org", "year": 2021},
-      {"metric": "Last iOS update", "value": "v2.20.4, 31 May 2022", "source": "App Store version history", "year": 2022}
+      {
+        "metric": "US App Store ratings",
+        "value": "4.1 stars from 39 ratings",
+        "source": "apps.apple.com/us/app/id1388251688",
+        "year": 2026
+      },
+      {
+        "metric": "UK App Store ratings",
+        "value": "4.3 stars from 29 ratings",
+        "source": "itunes.apple.com/lookup?id=1388251688&country=gb",
+        "year": 2026
+      },
+      {
+        "metric": "Monthly revenue (founder-reported)",
+        "value": "~US$5k/month (headline figure), not yet break-even",
+        "source": "Failory interview, 17 Sep 2020",
+        "year": 2020
+      },
+      {
+        "metric": "Site claim",
+        "value": "helped '1000s' of people; recommended by 'hundreds' of clinicians",
+        "source": "pathways.health",
+        "year": 2026
+      },
+      {
+        "metric": "Academic app-quality ranking",
+        "value": "Among the 3 highest-scoring of 12 psychological pain apps (508 screened)",
+        "source": "MacPherson et al. 2022 Can J Pain",
+        "year": 2022
+      },
+      {
+        "metric": "Media/directory listing",
+        "value": "#3 in US Pain Foundation '10 best apps for people with chronic pain'",
+        "source": "uspainfoundation.org",
+        "year": 2021
+      },
+      {
+        "metric": "Last iOS update",
+        "value": "v2.20.4, 31 May 2022",
+        "source": "App Store version history",
+        "year": 2022
+      }
     ],
     "reach_estimate": "~10^4 cumulative users (low tens of thousands of downloads; likely low thousands of paying members), based on 39 US App Store ratings, ~$5k/mo revenue in 2020 at ~$15-90 price points, and absence of large social following",
     "reach_log10": 4.2,
     "trajectory": [
-      {"year": 2018, "relative_activity": 2},
-      {"year": 2019, "relative_activity": 4},
-      {"year": 2020, "relative_activity": 7},
-      {"year": 2021, "relative_activity": 8},
-      {"year": 2022, "relative_activity": 8},
-      {"year": 2023, "relative_activity": 6},
-      {"year": 2024, "relative_activity": 5},
-      {"year": 2025, "relative_activity": 4},
-      {"year": 2026, "relative_activity": 4}
+      {
+        "year": 2018,
+        "relative_activity": 2
+      },
+      {
+        "year": 2019,
+        "relative_activity": 4
+      },
+      {
+        "year": 2020,
+        "relative_activity": 7
+      },
+      {
+        "year": 2021,
+        "relative_activity": 8
+      },
+      {
+        "year": 2022,
+        "relative_activity": 8
+      },
+      {
+        "year": 2023,
+        "relative_activity": 6
+      },
+      {
+        "year": 2024,
+        "relative_activity": 5
+      },
+      {
+        "year": 2025,
+        "relative_activity": 4
+      },
+      {
+        "year": 2026,
+        "relative_activity": 4
+      }
     ],
-    "method_notes": "Trajectory is inferred from dated events: 2018 launch and incorporation, 2019 first web archive, the May 2020 video relaunch with Facebook-ad and blog growth, the 2021 US Pain Foundation listing, the 2022 academic ranking and web-platform launch, the last iOS update in May 2022, and the 2023 Healthify note that there is no Android version. Reach comes from app-rating counts and founder-reported revenue. Forum and Google Trends data were not collected, so the estimates are coarse. Fact-check (2026-10-12) re-verified the App Store, Companies House, Failory, USPF and Healthify figures."
+    "method_notes": "Trajectory is inferred from dated events: 2018 launch and incorporation, 2019 first web archive, the May 2020 video relaunch with Facebook-ad and blog growth, the 2021 US Pain Foundation listing, the 2022 academic ranking and web-platform launch, the last iOS update in May 2022, and the 2023 Healthify note that there is no Android version. Reach comes from app-rating counts and founder-reported revenue. Reddit could not be measured (reddit.com search JSON blocked and archive APIs timed out, Oct 2026) and Google Trends data were not collected, so the estimates are coarse. Fact-check (2026-10-12) re-verified the App Store, Companies House, Failory, USPF and Healthify figures. Open items (2026-10-13): iTunes lookup API confirmed the 21 Jun 2018 release, v2.20.4 as the last update and 39 US / 29 UK ratings; Google Play still has no Pathways Pain Relief app."
   },
   "sources": [
     "https://www.pathways.health/",
@@ -108,6 +179,8 @@
     "https://healthify.nz/apps/p/pathways-pain-relief-app",
     "https://uspainfoundation.org/blog/10-best-apps-for-people-with-chronic-pain/",
     "https://pubmed.ncbi.nlm.nih.gov/35694141/",
-    "http://web.archive.org/cdx/search/cdx?url=pathways.health"
+    "http://web.archive.org/cdx/search/cdx?url=pathways.health",
+    "https://itunes.apple.com/lookup?id=1388251688&country=us",
+    "https://web.archive.org/web/20251029001453/https://www.pathways.health/about-us/"
   ]
 }

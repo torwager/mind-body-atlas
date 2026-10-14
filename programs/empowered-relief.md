@@ -1,6 +1,6 @@
 # Empowered Relief (Stanford)
 
-*Compiled 2026-10-12. Sources: empoweredrelief.stanford.edu (home, Clinician Certification, Healthcare Executives, News, Darnall faculty bio), PubMed records and abstracts (NCBI E-utilities), JAMA Netw Open 2021 and Front Pain Res 2022 full texts (Europe PMC). Content paraphrased. Web search quota ran out during compilation, so Reddit, Google Trends and media metrics were not searched directly; popularity is based on program-reported numbers, news listings and publication counts.*
+*Compiled 2026-10-12. Sources: empoweredrelief.stanford.edu (home, Clinician Certification, Healthcare Executives, News, Darnall faculty bio), PubMed records and abstracts (NCBI E-utilities), JAMA Netw Open 2021 and Front Pain Res 2022 full texts (Europe PMC). Content paraphrased. Popularity is based on program-reported numbers, verified media articles and publication counts; Reddit and Google Trends blocked automated access (see §7).*
 
 ## At a glance
 
@@ -13,10 +13,10 @@
 | Business model | **Clinician-delivered**, with licensing through Stanford CME certification. Stanford owns the copyright and trademark and earns revenue from certification workshops; Darnall says she receives no revenue from it (2026 disclosure). Health systems run classes and bill them or offer them free. |
 | Direct cost | Patients: set by provider, often billed to insurance or free (AHN has offered it free since 2022 through a donor). Clinicians: certification is a 2-day online CME workshop, ~US$550 (site image caption, 2026), with 50% need-based scholarships. The site says there are no further fees after certification, which includes an implementation kit. |
 | Conditions claimed | Acute, chronic and post-surgical pain of any cause. Trials cover chronic low back pain, mixed chronic pain, patients on long-term opioids or methadone/buprenorphine, orthopedic trauma and breast-cancer surgery, Marfan syndrome, lupus (ongoing) and youth chronic pain. It makes no claims for ME/CFS, POTS, MCS and similar conditions. |
-| Mainstream adoption | **Substantial and growing for a brief intervention.** Named adopters: Stanford Health Care, Cleveland Clinic, Kaiser Permanente, VA clinics, NHS (UK), Brigham and Women's, Cedars-Sinai, Intermountain, Allegheny Health Network, Lehigh Valley Health Network, Humana. Program materials and the Cleveland Clinic implementation paper invoke the 2019 HHS Pain Management Best Practices report, which recommends behavioral pain treatment in general (a specific citation of Empowered Relief there was not verified). Being tested in the Military Health System (TRICARE). |
+| Mainstream adoption | **Substantial and growing for a brief intervention.** Named adopters: Stanford Health Care, Cleveland Clinic, Kaiser Permanente, VA clinics, NHS (UK), Brigham and Women's, Cedars-Sinai, Intermountain, Allegheny Health Network, Lehigh Valley Health Network, Humana. The 2019 HHS Pain Management Best Practices report does not name Empowered Relief, but it twice cites the 2014 pilot of its precursor class, for perioperative behavioral interventions and for low-cost, scalable pain-psychology care. Being tested in the Military Health System (TRICARE). |
 | Insurance reimbursable | **Sometimes/indirect.** There is no dedicated code. Cleveland Clinic bills it under CPT Health & Behavior Assessment/Intervention codes when a licensed clinician delivers it to patients with a diagnosed physical condition. |
 | Evidence (peer-reviewed trials) | **Multiple RCTs by the developer's group.** It was non-inferior to 8-session CBT and superior to health education in chronic low back pain (N=263) at 3 and 6 months, and beat waitlist in two online RCTs (N=104; N=150 nurse-delivered). It did **not** reduce opioid dose in long-term opioid users (N=213). No independent replication or meta-analysis yet. |
-| Popularity signals | Site reports 10,000+ patients, 1,000–1,500+ certified instructors (one caption says 8,000+ clinicians), and 25–30 countries. PubMed has ~33 "Empowered Relief" records, mostly 2021–2026. Media: NYT 2021, WSJ 2023, Harvard Health 2021, PBS 2021, NIH/NCCIH press releases. Little patient-forum presence. |
+| Popularity signals | Site reports 10,000+ patients, 1,000–1,500+ certified instructors (one caption says 8,000+ clinicians), and 25–30 countries. PubMed has ~33 "Empowered Relief" records, mostly 2021–2026. Media: NYT 2021, WSJ 2022, Harvard Health 2021, PBS 2021, NIH/NCCIH press releases. Little patient-forum presence. |
 
 ## 1. Proposed mechanism(s)
 
@@ -73,7 +73,7 @@ Delivery variants:
   - NHS sites
   - Intermountain, Cedars-Sinai, Brigham and Women's
   - Humana, as a research partner in PROGRESS
-- **Federal and policy.** Adopters invoke the 2019 HHS Pain Management Best Practices Inter-Agency Task Force report's recommendations for behavioral pain care; whether the report names Empowered Relief specifically was not verified. Funded by NIH (NCCIH, NIDA) and PCORI. The PCORI-funded trials include PROGRESS (1- vs 8-session online treatment, national) and EMPOWER (opioid tapering with behavioral treatments, N≈1,365). The Department of Defense is funding the PROs trial (608 TRICARE beneficiaries).
+- **Federal and policy.** The 2019 HHS Pain Management Best Practices Inter-Agency Task Force report recommends behavioral pain care. It does not name Empowered Relief but cites the 2014 "From Catastrophizing to Recovery" pilot (ref. 73) twice: once on pre- and perioperative behavioral interventions, and once on low-cost, scalable telehealth options. Funded by NIH (NCCIH, NIDA) and PCORI. The PCORI-funded trials include PROGRESS (1- vs 8-session online treatment, national) and EMPOWER (opioid tapering with behavioral treatments, N≈1,365). The Department of Defense is funding the PROs trial (608 TRICARE beneficiaries).
 - **Professional bodies.** CME/CE credits are accredited for physicians, nurses, pharmacists, psychologists (APA co-sponsored), social workers, PAs and PT/OT. The American Society for Pain Management Nursing has run its own national RCT of nurse-delivered ER.
 - **Insurance.** No ER-specific coverage policy. US systems bill it as a group **Health & Behavior Assessment and Intervention** service (CPT 9615x–9616x family) for patients with a medical diagnosis (Davin et al. 2022). Reimbursement therefore depends on the clinician's licence and the payer. Some systems offer it free or bundled into perioperative care.
 
@@ -109,11 +109,11 @@ All trials below are of the **branded intervention** and come from Darnall's Sta
 ## 7. Popularity and trajectory
 
 - **2013–2016.** A free clinic class at Stanford, with the pilot published in 2014. Darnall's consumer book *Less Pain, Fewer Pills* also came out in 2014.
-- **2017–2019.** NIH-funded RCT (2017–2020). Brand created. Certification launched, with the empoweredrelief.com site live by mid-2019. Darnall reportedly spoke at Davos in 2018 (not verified).
-- **2020–2021.** COVID drove the shift to Zoom delivery and the Stanford site launched (2020). The **Aug 2021 JAMA Netw Open** paper was the main media spike: NIH press release, NYT, Harvard Health, HealthDay, MedPage, and a PBS documentary.
-- **2022–2024.** Health-system rollouts (Cleveland Clinic, AHN, LVHN). WSJ (2023), Men's Health (2023) and Stanford Medicine Magazine (2023) coverage. 6-month results in 2024, with an NCCIH research spotlight.
+- **2017–2019.** NIH-funded RCT (2017–2020). Brand created. Certification launched, with the empoweredrelief.com site live by mid-2019. Darnall spoke on the psychology of pain relief at the World Economic Forum in Davos in 2018 (her Stanford profile).
+- **2020–2021.** COVID drove the shift to Zoom delivery and the Stanford site launched (2020). The **Aug 2021 JAMA Netw Open** paper was the main media spike: NIH press release (16 Aug), HealthDay, MedPage, a NYT Well article (9 Nov 2021, which put the program at about 300 instructors), Harvard Health (1 Dec 2021) and a PBS documentary (*Pain Secrets*, Nov 2021).
+- **2022–2024.** Health-system rollouts (Cleveland Clinic, AHN, LVHN). Coverage in the WSJ (1 Oct 2022, on brief therapies; the program's news page misdates it 2023), Men's Health (11 Apr 2022, which mentions Darnall's class but not by name) and Stanford Medicine Magazine. 6-month results in 2024, with an NCCIH research spotlight.
 - **2025–2026.** Publication rate peaked at ~15+ PubMed records in 2025–26, with large PCORI and DoD trials and expansion to nurses, PTs, youth and rare disease. Site reports 10,000+ patients, 1,000–1,500+ instructors and 25–30 countries.
-- **Consumer visibility is low.** It is reached through referral, not marketed directly to patients, and there is little Reddit or forum discussion compared with Curable or DNRS.
+- **Consumer visibility is low.** It is reached through referral, not marketed directly to patients. There is no dedicated subreddit or Wikipedia article. Reddit's search and JSON endpoints and Google Trends returned 403/429 to automated requests (checked 2026-10-13), so forum mention counts and search-interest trends were not measured.
 
 ## 8. Controversies / criticisms
 
@@ -125,7 +125,7 @@ All trials below are of the **branded intervention** and come from Darnall's Sta
   - Pain catastrophizing as primary outcome is "less directly important for most patients and clinicians" (the authors' own limitation).
   - It was inferior to CBT on physical function.
   - The opioid-reduction trial was null.
-- A 2024 *Pain Reports* commentary (Aaron & Ravyts, PMID 38586594) discussed what the 6-month findings mean for designing and accessing pain-psychology treatment. It is cited here from its title only; the text was not reviewed.
+- A 2024 *Pain Reports* commentary (Aaron & Ravyts, Johns Hopkins, PMID 38586594) was largely favourable, calling ER a scalable option suited to stepped care. It noted that cost-effectiveness has not been measured, that fixed group content may not suit patients with complex pain or comorbid depression, and that cultural and socioeconomic inclusivity needs work.
 - Some clinicians worry that offering a single session could become a cheap substitute for fuller multidisciplinary care. The program frames itself as a first step in stepped care.
 
 ## Sources (URLs)
@@ -158,5 +158,13 @@ All trials below are of the **branded intervention** and come from Darnall's Sta
 - https://pubmed.ncbi.nlm.nih.gov/39122392/
 - https://pubmed.ncbi.nlm.nih.gov/38586594/
 - https://clinicaltrials.gov/study/NCT03167086
+- https://profiles.stanford.edu/beth-darnall (Davos 2018)
+- https://web.archive.org/web/2020/https://www.hhs.gov/sites/default/files/pmtf-final-report-2019-05-23.pdf (HHS 2019 report; ref. 73)
+- https://www.nytimes.com/2021/11/09/well/mind/psychologists-chronic-pain-therapy.html
+- https://www.health.harvard.edu/pain/a-single-session-class-offers-chronic-low-back-pain-relief
+- https://www.wsj.com/articles/the-power-of-brief-mental-health-therapies-11664596862 (published 2022-10-01)
+- https://www.menshealth.com/health/a39690849/chronic-pain-management-lin-health-mind/ (published 2022-04-11)
+- https://www.nccih.nih.gov/news/press-releases/nih-funded-study-suggests-a-single-skills-based-session-on-pain-management-packs-a-punch
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC10994470/ (Aaron & Ravyts 2024 full text)
 
-*Fact-checked 2026-10-12; corrections: added null opioid-cessation and PCS results to the orthopedic My Surgical Success trial and enrolment numbers to the pilots; clarified the health-education comparison in the JAMA trial; HHS 2019 report citation of ER marked unverified; Cleveland Clinic start date corrected to c. 2020; 'independent of Stanford' gap restated (some studies are led elsewhere but all include Darnall). All 21 cited PMIDs were verified on PubMed.*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: HHS 2019 report checked (cites 2014 pilot, not ER by name); Davos 2018 confirmed; NYT, Harvard Health, WSJ (redated to 2022) and Men's Health (redated to 2022) verified; Aaron & Ravyts commentary read; Reddit/Google Trends blocked to automated access, so not measured.*

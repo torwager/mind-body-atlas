@@ -19,7 +19,7 @@
     "teacher training/certification"
   ],
   "business_model": "freemium/hybrid",
-  "cost_summary": "Nonprofit (501c3). Free intro course and free 5–20 min audios. Paid audio sets cost $29.95–49.99, the Daily Meditation Companion $34.95, and online courses $120–399. Teacher pathway: Level 1 $1,395–2,190 (list $1,695), Level 2 ~$1,795 (not re-verified), Certification $1,900 plus retreats. Prices as of Oct 2026. Free to patients in VA/DoD classes.",
+  "cost_summary": "Nonprofit (501c3). Free intro course and free 5–20 min audios. Paid audio sets cost $29.95–49.99, the Daily Meditation Companion $34.95, and online courses $120–399. The institute's 8-class online class series costs $169 ($128 early-bird); independent teachers set their own class fees. Teacher pathway: Level 1 $1,395–2,190 (list $1,695), Level 2 $1,795 standard ($1,495 early-bird), Certification $1,900 plus retreats. Prices as of Oct 2026. Free to patients in VA/DoD classes.",
   "cost_usd_typical": 50,
   "conditions_claimed": [
     "PTSD/trauma",
@@ -71,7 +71,7 @@
     "pranayama"
   ],
   "mainstream_adoption": "moderate",
-  "mainstream_notes": "Grew out of a Walter Reed Army Medical Center/Samueli Institute PTSD feasibility study that began in Dec 2005. The institute's site says the US Army Surgeon General and the Defense Centers of Excellence recognized iRest as a 'complementary program' for pain and PTSD, but it cites no documentation and this was not verified. iRest is offered in many VA facilities, including Whole Health, Vet Centers and the DC VA Integrative Health & Wellness Program, where it was the third most-used service (Hull 2015). It is also used in Australian, Canadian and UK settings, hospital pain units (Barwon Health, Australia), hospices and prisons. NICE and VA/DoD PTSD guidelines do not name it as a recommended treatment.",
+  "mainstream_notes": "Grew out of a Walter Reed Army Medical Center/Samueli Institute PTSD feasibility study that began in Dec 2005. The Army Surgeon General's Pain Management Task Force Final Report (May 2010) lists 'Yoga / Yoga Nidra' as a Tier I integrative pain modality. It names the practice generically, not iRest by brand. The site's claim of Defense Centers of Excellence recognition remains undocumented. iRest is offered in many VA facilities, including Whole Health, Vet Centers and the DC VA Integrative Health & Wellness Program, where it was the third most-used service (Hull 2015). It is also used in Australian, Canadian and UK settings, hospital pain units (Barwon Health, Australia), hospices and prisons. NICE and VA/DoD PTSD guidelines do not name it as a recommended treatment.",
   "insurance": "sometimes/indirect",
   "insurance_notes": "No dedicated billing code. Free to veterans and service members in VA/DoD settings, where meditation is a VHA-approved CIH modality under Directive 1137. Licensed clinicians may build it into psychotherapy billed under standard codes. Otherwise self-pay.",
   "evidence_level": "multiple RCTs",
@@ -154,7 +154,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/41327816/"
     }
   ],
-  "controversy": "No major public controversy; the criticism concerns evidence quality. The site says effectiveness has been 'shown in scientific trials' and cites 35+ studies, but the peer-reviewed literature on the branded protocol is small and mostly uncontrolled, and the developers co-authored part of it (one such paper declared no competing interests). The only long-term RCT follow-up found no advantage over a vacation control. The military endorsement claims on the site are unsourced. Its nondual/spiritual 'awakening' framing sits alongside its clinical claims.",
+  "controversy": "No major public controversy; the criticism concerns evidence quality. The site says effectiveness has been 'shown in scientific trials' and cites 35+ studies, but the peer-reviewed literature on the branded protocol is small and mostly uncontrolled, and the developers co-authored part of it (one such paper declared no competing interests). The only long-term RCT follow-up found no advantage over a vacation control. The site's 'endorsed by the U.S. Army Surgeon General' wording overstates a 2010 task-force listing of generic yoga nidra, and its DCoE claim is undocumented. Its nondual/spiritual 'awakening' framing sits alongside its clinical claims.",
   "popularity": {
     "indicators": [
       {
@@ -204,6 +204,18 @@
         "value": "4 (incl. Sounds True 2005/2010, New Harbinger 2015)",
         "source": "irest.org Miller bio",
         "year": 2015
+      },
+      {
+        "metric": "r/YogaNidra subreddit members (generic yoga nidra, not iRest-specific)",
+        "value": "~3,500",
+        "source": "Wayback capture of reddit.com/r/YogaNidra, 2025-07-10",
+        "year": 2025
+      },
+      {
+        "metric": "r/NSDR subreddit members",
+        "value": "~380",
+        "source": "Wayback capture of reddit.com/r/NSDR, 2025-07-29",
+        "year": 2025
       }
     ],
     "reach_estimate": "About 10^5 to 10^6 people cumulatively. Basis: 500+ certified teachers and probably several thousand Level 1 trainees, each teaching groups over years; many VA facility classes; free audios and books; Australian/Canadian use. Audiences for generic 'yoga nidra'/NSDR (millions) are excluded because that material is not iRest-branded.",
@@ -290,7 +302,7 @@
         "relative_activity": 6
       }
     ],
-    "method_notes": "The trajectory is anchored mainly on the Integrative Restoration Institute's IRS 990 revenue, verified on ProPublica. No data exist for 2006–2010. Revenue was $0.49M (2011), $0.73–0.89M (2012–2015), $1.08–1.21M (2016–2018) and $1.49–1.54M (2019–2020, the peak), then $1.24M, $1.40M, $0.99M and $0.78M (2021–2024). Milestones: Walter Reed study 2005–07, website 2009, Sounds True book 2010, first peer-reviewed papers 2011–2015, PTSD book 2015, VHA Directive 1137 in 2017, move online in 2020. Google Trends, Reddit and YouTube metrics were not quantified. The post-2021 NSDR boom in generic 'yoga nidra' probably helped iRest only partly, since its revenue declined through 2024. Pre-2011 values are interpolated."
+    "method_notes": "The trajectory is anchored mainly on the Integrative Restoration Institute's IRS 990 revenue, verified on ProPublica. No data exist for 2006–2010. Revenue was $0.49M (2011), $0.73–0.89M (2012–2015), $1.08–1.21M (2016–2018) and $1.49–1.54M (2019–2020, the peak), then $1.24M, $1.40M, $0.99M and $0.78M (2021–2024). Milestones: Walter Reed study 2005–07, website 2009, Sounds True book 2010, first peer-reviewed papers 2011–2015, PTSD book 2015, VHA Directive 1137 in 2017, move online in 2020. Reddit has no iRest subreddit. Generic r/YogaNidra had about 3,500 members and r/NSDR about 380 (Wayback, Jul 2025). Google Trends and YouTube metrics could not be retrieved. The post-2021 NSDR boom in generic 'yoga nidra' probably helped iRest only partly, since its revenue declined through 2024. Pre-2011 values are interpolated."
   },
   "sources": [
     "https://shop.irest.org/",
@@ -321,6 +333,12 @@
     "https://doi.org/10.1080/21635781.2015.1119772",
     "https://pubmed.ncbi.nlm.nih.gov/41327816/",
     "https://pubmed.ncbi.nlm.nih.gov/41187098/",
-    "https://pubmed.ncbi.nlm.nih.gov/36731199/"
+    "https://pubmed.ncbi.nlm.nih.gov/36731199/",
+    "https://shop.irest.org/pages/about-level-2",
+    "https://web.archive.org/web/20190412130612/https://apps.dtic.mil/dtic/tr/fulltext/u2/a523510.pdf",
+    "https://web.archive.org/web/20110719024228/http://airforcemedicine.afms.mil/idc/groups/public/documents/afms/ctb_128487.pdf",
+    "https://en.wikipedia.org/wiki/Richard_Miller_(psychologist)",
+    "https://web.archive.org/web/20250710012802/https://www.reddit.com/r/YogaNidra/",
+    "https://web.archive.org/web/20250729051434/https://www.reddit.com/r/NSDR/"
   ]
 }

@@ -1,13 +1,13 @@
 # Pathways Pain Relief (app)
 
-*Compiled 2026-10-12 from pathways.health (Home, About Us), Apple App Store listing (id1388251688), UK Companies House, Failory founder interview (2020), Healthify NZ app review (2023), US Pain Foundation app roundup (2021), and MacPherson et al. 2022 (Can J Pain). Content paraphrased. Web search budget ran out partway through; Reddit was not reachable, so forum signals are thin.*
+*Compiled 2026-10-12 from pathways.health (Home, About Us), Apple App Store listing (id1388251688), UK Companies House, Failory founder interview (2020), Healthify NZ app review (2023), US Pain Foundation app roundup (2021), and MacPherson et al. 2022 (Can J Pain). Content paraphrased. Open items completed 2026-10-13 via the iTunes lookup API, Google Play, Companies House, Wayback captures of the About page, PubMed and ClinicalTrials.gov. Reddit could not be checked (see §7).*
 
 ## At a glance
 | Field | |
 |---|---|
-| Website | https://www.pathways.health/ (iOS app "Pathways Pain Relief"; web app; Android version listed in 2021 but absent from Google Play by 2023) |
-| Founder(s) | **Sandip Singh Sekhon** (founder/CEO, sole director of Pathways Health Ltd). He has a finance/banking background, was an internet entrepreneur (GoGetFunding.com), and is a former chronic RSI patient. **Harvir Ubhi**, MSc, HCPC/CSP chartered physiotherapist, is listed as co-founder on the current About page (described there as having over 10 years of clinical experience). He was not mentioned in the 2020 Failory interview, so he probably joined the company after launch. The earlier attribution to "Mark Brennan" is **not supported** by any source found. |
-| Founded | **2018.** iOS app registered ~mid-2018 (©2018; earliest listed version 2.0.6, Feb 2019). Pathways Health Ltd was incorporated 15 Oct 2018 (Companies House 11623974). The website was first archived Jul 2019. A major video-program update followed in May 2020. |
+| Website | https://www.pathways.health/ (iOS app "Pathways Pain Relief"; web app; Android version listed in 2021 but absent from Google Play by 2023 and still absent Oct 2026) |
+| Founder(s) | **Sandip Singh Sekhon** (founder/CEO, sole director of Pathways Health Ltd). He has a finance/banking background, was an internet entrepreneur (GoGetFunding.com), and is a former chronic RSI patient. **Harvir Ubhi**, MSc, HCPC/CSP chartered physiotherapist, is listed as co-founder on the current About page (described there as having over 10 years of clinical experience). He was not mentioned in the 2020 Failory interview. The About page named no founders in any Wayback capture from Aug 2020 to Jul 2025; the "Meet the Founders" section naming him first appears in the Oct 2025 capture. He has never been a Companies House officer (Sekhon is the sole officer). So he probably joined after launch, and his co-founder title dates from 2025. The earlier attribution to "Mark Brennan" is **not supported** by any source found. |
+| Founded | **2018.** iOS app first released 21 Jun 2018 (iTunes lookup API; earliest version in the listed history is 2.0.6, Feb 2019). Pathways Health Ltd was incorporated 15 Oct 2018 (Companies House 11623974). The website was first archived Jul 2019. A major video-program update followed in May 2020. |
 | Format / delivery | Self-guided app and web program: ~60–70 short video/audio sessions (10–20 min) in 4 "milestones," plus libraries of meditations and physio/yoga exercises, masterclasses, "SOS" breathing experiences, and a pain/wellbeing tracker |
 | Business model | Freemium (first milestone free; premium unlock) |
 | Direct cost | Current site: **US$79 one-time "lifetime" premium** with a 14-day money-back guarantee (Oct 2026). App Store IAPs: $12.99–14.99/mo, $59.99–69.99/yr, $249.99–299.99 lifetime list price, $79.99–89.99 lifetime offer. Healthify NZ listed the full version at US$149 (2023). |
@@ -15,7 +15,7 @@
 | Mainstream adoption | Limited. Listed in health-directory app libraries (Healthify NZ, 5-star physio review) and US Pain Foundation roundups. Rated among the top 3 pain apps in an academic content-quality review. No NHS/ORCHA, health-system, or payer deployment found. |
 | Insurance reimbursable | No |
 | Evidence (peer-reviewed trials) | **None.** No RCT or outcome study of Pathways itself. Its only peer-reviewed appearance is a content/quality rating (MacPherson 2022). |
-| Popularity signals | Small: iOS 4.1★ from only 39 US ratings. Revenue ≈ US$5k/mo in 2020 (founder). The site claims to have helped "1000s." It is frequently listed alongside Curable in "best pain apps" articles. |
+| Popularity signals | Small: iOS 4.1★ from only 39 US ratings (4.3★ from 29 UK ratings). Revenue ≈ US$5k/mo in 2020 (founder). The site claims to have helped "1000s." It is frequently listed alongside Curable in "best pain apps" articles. |
 
 ## 1. Proposed mechanism(s)
 - **Central sensitisation / neuroplastic pain.** Chronic pain is attributed to a nervous system "stuck" in a heightened-sensitivity state. The brain keeps generating protective pain after tissues have healed. The founder's own recovery story is framed explicitly around learning about "central pain sensitization" from a pain-science-literate physiotherapist.
@@ -65,13 +65,13 @@
 - **Indirect evidence** for the component techniques is substantial, but none of it is evidence for this product's packaging, dose or adherence: pain neuroscience education, graded exposure, CBT/ACT for chronic pain, and MBSR for chronic low back pain.
 
 ## 7. Popularity and trajectory
-- **2018:** iOS app launched; company incorporated (Oct 2018).
+- **2018:** iOS app launched (21 Jun 2018); company incorporated (Oct 2018).
 - **2019:** v2.x iterations; website first archived (Jul 2019); growth via Facebook ads and a pain-science blog.
 - **2020:** May 2020 rebuild added the video program, Body/Mind areas and Challenges. Founder interview (Sep 2020) reports ~US$5k/month revenue, not yet breaking even, aiming to triple users, with a YouTube channel planned.
 - **2021:** Featured in US Pain Foundation roundup (Jan 2021); available on iOS and Android.
 - **2022:** Rated top-3 in MacPherson et al. Last iOS update was v2.20.4 (May 2022). WordPress web platform launched (About page dated Nov 2022).
-- **2023–2026:** Healthify NZ listing (Oct 2023) notes there is no Google Play version. The site keeps web-based lifetime pricing ($79) and a blog with SEO-style posts.
-- **Overall:** a small, niche product with low and possibly declining visibility. US App Store has 39 ratings (4.1★). There is no large social-media following or book, and it draws far less discussion than Curable. Plausible cumulative users are in the low tens of thousands (downloads), with paying members likely in the low thousands.
+- **2023–2026:** Healthify NZ listing (Oct 2023) notes there is no Google Play version, and a Google Play search in Oct 2026 still finds none (the similarly named `com.pathways.health` is an unrelated US provider app). The site keeps web-based lifetime pricing ($79) and a blog with SEO-style posts. A "Meet the Founders" section naming Ubhi was added in late 2025.
+- **Overall:** a small, niche product with low and possibly declining visibility. US App Store has 39 ratings (4.1★) and UK has 29 (4.3★). The homepage links to no social-media accounts. Reddit discussion could not be measured: reddit.com search JSON returned a block page and the archive APIs timed out (Oct 2026), and no Google Trends data were collected. There is no large social-media following or book, and it draws far less discussion than Curable. Plausible cumulative users are in the low tens of thousands (downloads), with paying members likely in the low thousands.
 
 ## 8. Controversies / criticisms
 - No specific controversies were found.
@@ -92,6 +92,8 @@
 - https://healthify.nz/apps/p/pathways-pain-relief-app
 - https://uspainfoundation.org/blog/10-best-apps-for-people-with-chronic-pain/
 - https://pubmed.ncbi.nlm.nih.gov/35694141/ (MacPherson et al. 2022, Can J Pain)
+- https://itunes.apple.com/lookup?id=1388251688&country=us (release date, version, rating counts; also country=gb)
+- https://web.archive.org/web/20251029001453/https://www.pathways.health/about-us/ (first capture with "Meet the Founders"; the 20250715083524 capture has none)
 - Wayback Machine CDX index for pathways.health (earliest capture 2019-07-22)
 
-*Fact-checked 2026-10-12; corrections: all core claims verified (founders, incorporation date, pricing, App Store data, MacPherson 2022, Failory, USPF, Healthify). Added Ubhi's tenure caveat and a criticism of Healthify's overstated "clinically validated" label. No new trials found on PubMed or ClinicalTrials.gov.*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: iOS release date (21 Jun 2018); Ubhi's co-founder listing dated to late 2025 via Wayback and Companies House; Android absence reconfirmed; UK App Store ratings added; PubMed and ClinicalTrials.gov re-checked (no Pathways trials). Reddit and Google Trends remain unmeasured.*

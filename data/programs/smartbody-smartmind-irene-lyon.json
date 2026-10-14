@@ -7,7 +7,7 @@
     "Seth Lyon (co-leads Q&A; Scientuitive Education)"
   ],
   "founded_year": 2016,
-  "founded_year_range": "2013-2016. Company founding year unverified (possibly ~2005); YouTube channel joined 23 Jan 2010; irenelyon.com first archived 2013; first online course ~2014-16. SBSM full curriculum ran 2016-2026 (19 live rounds, per official site). 21-Day Tune-Up c. 2015/16-2026 (standalone domain archived 2020). Restructured into Foundations/L1/L2 in 2026 (Level 2 due Jan 2027).",
+  "founded_year_range": "2013-2016. Company (Scientuitive - Fitness & Wellness Education Inc.) is an active BC company, registry no. BC0720463; incorporation date not public, ~2005 inferred from registry number; YouTube channel joined 23 Jan 2010; irenelyon.com first archived 2013; first online course ~2014-16. SBSM full curriculum ran 2016-2026 (19 live rounds, per official site). 21-Day Tune-Up c. 2015/16-2026 (standalone domain archived 2020). Restructured into Foundations/L1/L2 in 2026 (Level 2 due Jan 2027).",
   "category": "somatic/movement practice",
   "delivery": [
     "online course",
@@ -136,6 +136,18 @@
         "value": "March 2013",
         "source": "Wayback CDX",
         "year": 2013
+      },
+      {
+        "metric": "Reddit posts mentioning \"Irene Lyon\"",
+        "value": "~228 posts 2016-Oct 2026 (2016:1, 2017:4, 2018:11, 2019:9, 2020:27, 2021:17, 2022:32, 2023:55, 2024:28, 2025:33, 2026:11); mostly r/SomaticExperiencing and r/CPTSD",
+        "source": "https://api.pullpush.io/reddit/search/submission/?q=%22irene%20lyon%22",
+        "year": 2026
+      },
+      {
+        "metric": "Reddit comments mentioning \"Irene Lyon\"",
+        "value": "200+ in 2025-Oct 2026 (r/SomaticExperiencing, r/CPTSD, r/EstrangedAdultKids, r/cfsrecovery, r/MCAS, r/Parenting)",
+        "source": "https://api.pullpush.io/reddit/search/comment/?q=%22irene%20lyon%22",
+        "year": 2026
       }
     ],
     "reach_estimate": "~2.7 x 10^4 paid participants (company claim); the free YouTube audience is larger, on the order of 10^5-10^6 unique viewers (189K subscribers, 14M views). Cumulative people meaningfully reached is estimated at ~3 x 10^4 to 10^5.",
@@ -206,7 +218,7 @@
         "relative_activity": 7
       }
     ],
-    "method_notes": "Anchors: YouTube join date (2010); first archive capture of irenelyon.com (2013); SBSM cohorts 2016-2026 (19 rounds); Tune-Up standalone site by 2020; participant claims rising from 9.5K to 25K (2024) to 27K (2026), implying most enrollment came after ~2019; 189K subscribers and 14M views (re-verified Oct 2026). The 2020-22 peak assumes a pandemic-era surge in nervous-system/trauma content. The 2025-26 decline reflects the 2026 restructure and closure of the Tune-Up. The web-search budget ran out in both the review and the fact-check, so Reddit, Google Trends and news metrics were NOT checked; the trajectory is a coarse estimate from first-party and YouTube data only. reach_log10 = 4.6 uses paid participants; counting free YouTube viewers would put it nearer 5.5."
+    "method_notes": "Anchors: YouTube join date (2010); first archive capture of irenelyon.com (2013); SBSM cohorts 2016-2026 (19 rounds); Tune-Up standalone site by 2020; participant claims rising from 9.5K to 25K (2024) to 27K (2026), implying most enrollment came after ~2019; 189K subscribers and 14M views (re-verified Oct 2026). The 2020-22 peak assumes a pandemic-era surge in nervous-system/trauma content. The 2025-26 decline reflects the 2026 restructure and closure of the Tune-Up. Reddit post counts (PullPush, Oct 2026) rise from 2016 to a 2023 peak (55) and fall to ~30/year in 2024-25, broadly consistent with the trajectory (the archive may undercount after 2023). Google Trends could not be retrieved (HTTP 429); no mainstream news coverage was found, only podcasts and online summits. reach_log10 = 4.6 uses paid participants; counting free YouTube viewers would put it nearer 5.5."
   },
   "sources": [
     "https://irenelyon.com/",
@@ -223,6 +235,10 @@
     "https://ro.uow.edu.au/articles/thesis/The_effects_of_red_meat_consumption_and_high-intensity_resistance_training_of_skeletal_muscle_strength_muscle_mass_and_functional_status_in_healthy_older_adults/27827136",
     "https://www.mitacs.ca/project-partner/scientuitive-fitness-wellness-education-inc",
     "https://pubmed.ncbi.nlm.nih.gov/",
-    "https://irenelyon.com/2021/09/06/healing-from-toxins-detoxing-with-zeolite-interview-with-eddie-stone/"
+    "https://irenelyon.com/2021/09/06/healing-from-toxins-detoxing-with-zeolite-interview-with-eddie-stone/",
+    "https://opencorporates.com/companies/ca_bc/BC0720463",
+    "https://trademarks.justia.com/owners/scientuitive-fitness-wellness-education-inc-3929309",
+    "https://api.pullpush.io/reddit/search/submission/?q=%22irene%20lyon%22",
+    "https://clinicaltrials.gov/api/v2/studies?query.term=%22SmartBody+SmartMind%22+OR+%22Irene+Lyon%22+OR+Scientuitive"
   ]
 }

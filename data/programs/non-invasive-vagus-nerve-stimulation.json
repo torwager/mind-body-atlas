@@ -4,13 +4,13 @@
   "url": "https://www.gammacore.com/",
   "founders": [
     "electroCore Inc. (co-founded 2005 by JP Errico, Thomas J. Errico MD, Charles Theofilos MD, Peter Staats MD)",
-    "Pulsetto UAB (founders listed as 'Povilas and Vitalijus'; surnames Sabaliauskas/Majorovas unverified)",
-    "Parasym Ltd (Nurosym; founders not verified)",
-    "Apollo Neuro (David Rabin MD PhD, Kathryn Fantauzzi) - margin",
-    "Sensate - margin"
+    "Pulsetto UAB (Povilas Sabaliauskas, Vitalijus Majorovas; 2021)",
+    "Parasym Ltd (Nurosym; Nathan and Sophie Dundovic; incorporated 2017)",
+    "Apollo Neuro (David Rabin MD PhD, Kathryn Fantauzzi; 2018) - margin",
+    "Sensate (BioSelf Technology Ltd; Stefan Chmelik, Anna Gudmundson; 2020) - margin"
   ],
   "founded_year": 2005,
-  "founded_year_range": "2005 (electroCore founded); gammaCore FDA De Novo 2017; consumer wave 2021-2023 (Pulsetto 2021 per company, Truvaga ~2023); implanted VNS lineage from 1988",
+  "founded_year_range": "2005 (electroCore founded); gammaCore FDA De Novo 2017; consumer wave 2017-2022 (Parasym Ltd 2017, Apollo 2018, Sensate 2020, Pulsetto 2021, Truvaga Dec 2022); implanted VNS lineage from 1988",
   "category": "device/neuromodulation/biofeedback",
   "delivery": [
     "device",
@@ -18,7 +18,7 @@
     "clinician-prescribed device"
   ],
   "business_model": "commercial",
-  "cost_summary": "gammaCore: Rx-only with no public list price; HSA/FSA eligible; supplied to veterans via VA. Truvaga Plus: list price not shown, $75-off promo (Oct 2026). Pulsetto Lite $269 / FIT $296 on sale (list ~$469/$546), app Premium $15. Nurosym: EUR pricing, not sold in US. Apollo $448 bundle with 1-yr membership (HSA/FSA eligible per site). Sensate GBP 299-348.",
+  "cost_summary": "gammaCore: Rx-only with no public list price; HSA/FSA eligible; supplied to veterans via VA. Truvaga Plus $499, Truvaga 350 $325 (Oct 2026). Pulsetto Lite $269 / FIT $296 on sale (list ~$469/$546), app Premium $15. Nurosym EUR 700 (EUR 588.95 with VAT relief), not sold in US. Apollo $448 bundle with 1-yr membership (HSA/FSA eligible per site). Sensate GBP 299-348.",
   "cost_usd_typical": 300,
   "conditions_claimed": [
     "headache/migraine",
@@ -71,9 +71,9 @@
     "vibration wearables (wrist/chest) for 'safety signals'"
   ],
   "mainstream_adoption": "moderate",
-  "mainstream_notes": "gammaCore is FDA-cleared for migraine (acute/preventive, 12+), cluster headache, hemicrania continua and paroxysmal hemicrania, and had a COVID EUA in July 2020. It has been purchased by 195 VA facilities (Q3 2025, up from 166). The IHS 2025 guideline gives a weak recommendation for gammaCore Sapphire in migraine prevention and none for acute use. The Ontario HTA 2025 found it likely cost-effective for cluster prevention only. NICE MTG46 and NHS funding for cluster headache are from prior knowledge and unverified. No mainstream adoption for long COVID, POTS, ME/CFS or fibromyalgia; use is in research clinics. Consumer devices are general-wellness products. electroCore also sells Quell (TENS, FDA fibromyalgia indication) to the VA.",
+  "mainstream_notes": "gammaCore is FDA-cleared for migraine (acute/preventive, 12+), cluster headache, hemicrania continua and paroxysmal hemicrania, and had a COVID EUA in July 2020. It has been purchased by 195 VA facilities (Q3 2025, up from 166). The IHS 2025 guideline gives a weak recommendation for gammaCore Sapphire in migraine prevention and none for acute use. The Ontario HTA 2025 found it likely cost-effective for cluster prevention only. NHS England has funded gammaCore for refractory cluster headache since April 2019 (ITP), NICE MTG46 (Dec 2019) supports it, and it was rolled out nationally under the MedTech Funding Mandate from April 2021. No mainstream adoption for long COVID, POTS, ME/CFS or fibromyalgia; use is in research clinics. Consumer devices are general-wellness products. electroCore also sells Quell (TENS, FDA fibromyalgia indication) to the VA.",
   "insurance": "sometimes/indirect",
-  "insurance_notes": "VA/DoD supply gammaCore, its main US revenue channel ($4.7M in Q1 2025 vs $0.29M US commercial). US commercial coverage is sparse; civilian users mostly pay cash or use HSA/FSA. NHS funding for cluster headache unverified. Consumer devices are not reimbursed, though some are marketed as HSA/FSA-eligible.",
+  "insurance_notes": "VA/DoD supply gammaCore, its main US revenue channel ($4.7M in Q1 2025 vs $0.29M US commercial). US commercial coverage is sparse; civilian users mostly pay cash or use HSA/FSA. NHS England funds it for refractory cluster headache (ITP 2019; MedTech Funding Mandate 2021); some NHS Scotland boards also fund it. Consumer devices are not reimbursed, though some are marketed as HSA/FSA-eligible.",
   "evidence_level": "systematic reviews/meta-analyses",
   "key_trials": [
     {
@@ -200,6 +200,12 @@
   "popularity": {
     "indicators": [
       {
+        "metric": "electroCore FY2025 revenue",
+        "value": "US$32.0M (+27%); general-wellness (Truvaga) $5.5M (+97%); 2026 guidance ~+30%",
+        "source": "electroCore FY2025 results (Mar 2026)",
+        "year": 2025
+      },
+      {
         "metric": "electroCore FY2025 revenue guidance",
         "value": "US$31.5-32.5M (Q3 2025 revenue $8.7M, +33% y/y)",
         "source": "electroCore Q3 2025 results",
@@ -240,6 +246,18 @@
         "value": "US$78M",
         "source": "Wikipedia",
         "year": 2018
+      },
+      {
+        "metric": "TikTok #vagusnerve views",
+        "value": ">64 million",
+        "source": "New York Times (June 2022), via Inverse",
+        "year": 2022
+      },
+      {
+        "metric": "Device subreddits",
+        "value": "r/tVNS ~960 members; r/Nurosym ~880 (r/VagusNerve not retrievable)",
+        "source": "GummySearch",
+        "year": 2025
       }
     ],
     "reach_estimate": "~0.5-1 million cumulative users across brands: Pulsetto >300k, Apollo >150k (company claims), plus tens of thousands each for gammaCore (VA and cash pay) and Truvaga, and Nurosym/Sensate/generic taVNS users",
@@ -306,7 +324,7 @@
         "relative_activity": 9.5
       }
     ],
-    "method_notes": "Trajectory anchored on documented events: electroCore founding (2005); headache RCTs (2016-2019); FDA clearances (2017-2021); IPO (2018); COVID EUA (2020); Pulsetto founding (2021); Truvaga launch (~2023); company-reported revenue and customer counts (2024-2026); growth in PubMed taVNS long COVID/POTS publications (mostly 2023+). Google Trends, Reddit and TikTok counts were not retrieved (search budget exhausted); the 2021-2025 social-media 'vagus nerve' surge is from general knowledge and unquantified. Reach sums unaudited company-reported customer counts plus rough estimates for Rx and other brands."
+    "method_notes": "Trajectory anchored on documented events: electroCore founding (2005); headache RCTs (2016-2019); FDA clearances (2017-2021); IPO (2018); COVID EUA (2020); Pulsetto founding (2021); Truvaga launch (Dec 2022); company-reported revenue and customer counts (2024-2026); growth in PubMed taVNS long COVID/POTS publications (mostly 2023+). TikTok #vagusnerve passed 64M views by 2022 (NYT). Reddit subscriber counts for r/VagusNerve could not be retrieved (Reddit 403; no Wayback captures); GummySearch figures used for small device subreddits. Google Trends not retrieved. Reach sums unaudited company-reported customer counts plus rough estimates for Rx and other brands."
   },
   "sources": [
     "https://www.gammacore.com/",
@@ -341,6 +359,20 @@
     "https://pubmed.ncbi.nlm.nih.gov/32029547/",
     "https://pubmed.ncbi.nlm.nih.gov/34045464/",
     "https://pubmed.ncbi.nlm.nih.gov/37251233/",
-    "https://pubmed.ncbi.nlm.nih.gov/42578005/"
+    "https://pubmed.ncbi.nlm.nih.gov/42578005/",
+    "https://investor.electrocore.com/news-releases/news-release-details/electrocore-announces-full-year-2025-financial-results-and",
+    "https://investor.electrocore.com/news-releases/news-release-details/electrocore-inc-launches-new-wellness-product-offering-stress",
+    "https://www.truvaga.com/shop/",
+    "https://nurosym.com/products.json",
+    "https://www.nice.org.uk/guidance/mtg46",
+    "https://ouchuk.org/gammacore",
+    "https://www.mobihealthnews.com/news/emea/nhs-roll-out-gadget-cluster-headaches",
+    "https://en.wikipedia.org/wiki/Pulsetto",
+    "https://investlithuania.com/success-stories/pulsetto/",
+    "https://find-and-update.company-information.service.gov.uk/company/10923314/officers",
+    "https://technical.ly/startups/apollo-neuro-series-a/",
+    "https://hbl.co.uk/?p=2117",
+    "https://www.inverse.com/mind-body/vagus-nerve-stimulation",
+    "https://gummysearch.com/r/tVNS/"
   ]
 }

@@ -29,7 +29,9 @@ body { background: var(--bg); color: var(--ink); font-family: var(--f-body); fon
 header.mast { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 24px; align-items: end; border-bottom: 1px solid var(--rule); padding-bottom: 20px; }
 .eyebrow { font-family: var(--f-data); font-size: 11.5px; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); }
 h1 { font-family: var(--f-display); font-weight: 600; font-size: clamp(30px, 4.4vw, 48px); line-height: 1.05; margin: 6px 0 10px; text-wrap: balance; }
-.lede { max-width: 68ch; color: var(--ink-2); margin: 0; }
+.lede { max-width: 72ch; color: var(--ink-2); margin: 0; display: grid; gap: 10px; }
+.lede p { margin: 0; }
+.lede-sub { font-size: 13.5px; color: var(--muted); border-top: 1px solid var(--rule); padding-top: 10px; }
 .stats { display: flex; gap: 22px; flex-wrap: wrap; }
 .stat { display: grid; }
 .stat b { font-family: var(--f-display); font-size: 30px; font-weight: 600; line-height: 1; }
@@ -99,7 +101,13 @@ input[type="search"] { font: 14px var(--f-body); padding: 7px 10px; border: 1px 
     <div>
       <div class="eyebrow">Survey · compiled 12 Oct 2026</div>
       <h1>Mind–Body Program Atlas</h1>
-      <p class="lede">Popular programs that treat chronic pain, ME/CFS, long COVID, fibromyalgia, IBS, MCS, POTS, FND and related conditions as problems of brain–body regulation. Each program was researched and then fact-checked by a separate agent. Click any program to open its profile.</p>
+      <div class="lede">
+        <p>Many people suffer from a complex set of overlapping health conditions that can be difficult to understand from a mainstream medical perspective. They appear to involve interactions between pain, fatigue, stress, sleep dysregulation, brain–body communication (autonomic, endocrine, and immune systems), emotion, physical activity — and the brain systems that coordinate and govern them.</p>
+        <p>A colleague told me recently that he was really helped by a program for long COVID called <a href="https://ansrewire.com/" target="_blank" rel="noopener">ansrewire.com</a>. I got curious. How many programs like this are out there? What are their underlying theories of disease? What disorders do they claim to treat, and how? Who started them, and who is using them? Evidence on these questions is scarce or absent in the peer-reviewed scientific literature: There are too many programs, few scientific studies (which take years to conduct and publish!), and too much new growth to keep up and keep track. Enter this Claude Code–generated survey (with some ideas and adjustments from me). Authoritative information here does not exist: There is a lot of guesswork from social media, subscriptions, etc., so take it with a grain of salt.</p>
+        <p>Integrating information available on these approaches to chronic disease and restoring wellness is revealing. A number of programs claim to help with a wide variety of disorders: Chronic pain, ME/CFS, POTS, TMS, multiple sensitivities, FNDs, mold illness, anxiety, depression, and more. Many were founded by people suffering from these chronic diseases that found relief. Many are commercial. Many have roots in older ideas, some going back millennia. And they converge on a few broad, common theories of disease: A persistent, hypervigilant threat state expressed in brain and body, with different triggers and manifestations for different individuals. A common premise is that this threat state can be ‘unlearned’ over time, harnessing cognitive reappraisal, neuroplasticity, and calibrated exposure to challenges to retrain the brain and body.</p>
+        <p>I have enjoyed building and exploring this site, and I hope you enjoy it too.</p>
+        <p class="lede-sub">74 programs, each researched and then fact-checked by a separate AI agent. Click any program in the charts or table to open its profile.</p>
+      </div>
     </div>
     <div class="stats" id="stats"></div>
   </header>
@@ -333,7 +341,7 @@ function drawStream() {
   svg.append('g').selectAll('rect').data(labels).join('rect').attr('x', width - m.r + 1).attr('y', d => d.y - 4).attr('width', 5).attr('height', 8).attr('rx', 2).attr('fill', d => famColor(d.f));
   // annotations
   const ann = [[1975, 'Sarno: TMS'], [1979, 'MBSR'], [2008, 'DNRS'], [2015, 'Curable'], [2020, 'COVID-19 → long COVID']];
-  if (streamMode !== 'share') svg.append('g').selectAll('text').data(ann).join('text').attr('x', d => x(d[0])).attr('y', (d, i) => i === ann.length - 1 ? m.t - 4 : m.t - 18).attr('font-size', 10.5).attr('text-anchor', 'middle').style('fill', 'var(--muted)').text(d => '▾ ' + d[1]);
+  if (streamMode !== 'share') svg.append('g').selectAll('text').data(ann).join('text').attr('x', d => x(d[0])).attr('y', (d, i) => i % 2 ? m.t - 4 : m.t - 18).attr('font-size', 10.5).attr('text-anchor', 'middle').style('fill', 'var(--muted)').text(d => '▾ ' + d[1]);
   const note = { log: 'Band thickness = log10(1 + people engaged that year). Bands are not additive in this mode; it is for seeing small programs.', abs: 'Band thickness = estimated new people engaged per year (linear). Total height = sum across programs.', share: 'Each year normalized to 100% across the programs shown.' }[streamMode];
   d3.select(el).append('p').attr('class', 'note').text(note + ' Programs founded before 1960 enter at 1960.');
 }
@@ -372,12 +380,12 @@ function drawFounding() {
 }
 
 // ---------- generic sankey
-function sankeyChart(el, { nodes, links, width, height, nodeColor, linkColor, onNode, nodeLabel, nodeTip, sortNodes, align = 'justify', labelRight }) {
-  const sk = d3.sankey().nodeId(d => d.id).nodeWidth(10).nodePadding(Math.max(2, Math.min(10, height / nodes.length / 2))).extent([[1, 6], [width - 1, height - 6]])
+function sankeyChart(el, { nodes, links, width, height, nodeColor, linkColor, onNode, nodeLabel, nodeTip, sortNodes, align = 'justify', labelRight, nodePadding }) {
+  const sk = d3.sankey().nodeId(d => d.id).nodeWidth(10).nodePadding(nodePadding ?? Math.max(2, Math.min(10, height / nodes.length / 2))).extent([[1, 10], [width - 1, height - 12]])
     .nodeAlign(d3['sankey' + align[0].toUpperCase() + align.slice(1)]);
   if (sortNodes) sk.nodeSort(sortNodes);
   const g = sk({ nodes: nodes.map(d => ({ ...d })), links: links.map(d => ({ ...d })) });
-  const svg = d3.select(el).append('svg').attr('width', width).attr('height', height);
+  const svg = d3.select(el).append('svg').attr('width', width).attr('height', height + 10);
   const link = svg.append('g').attr('fill', 'none').selectAll('path').data(g.links).join('path')
     .attr('d', d3.sankeyLinkHorizontal()).attr('stroke', linkColor).attr('stroke-opacity', .35).attr('stroke-width', d => Math.max(1, d.width));
   link.on('mousemove', (ev, d) => showTip(ev, `<b>${esc(d.source.label)}</b> → <b>${esc(d.target.label)}</b><br><span class="m">${d.tip || d.value.toFixed(1)}</span>`)).on('mouseleave', hideTip);
@@ -423,7 +431,7 @@ function renderRoots() {
   const muted = css('--axis');
   const rootFamCol = { 'Ancient contemplative & movement': '--s3', 'Suggestion & mind-cure': '--s5', 'Psychodynamic & emotion': '--s8', 'Behavioral & cognitive': '--s1', 'Body & movement': '--s6', 'Stress physiology': '--s4', 'Pain science': '--s2', 'Neurotechnology': '--s7', 'Integrative medicine': '--s5' };
   sankeyChart(el, {
-    nodes, links, width, height,
+    nodes, links, width, height, nodePadding: 9,
     sortNodes: (a, b) => order[a.kind](a) - order[b.kind](b),
     nodeColor: d => d.kind === 'root' ? css(rootFamCol[d.rfam] || '--s1') : famColor(d.fam),
     linkColor: l => l.source.kind === 'root' ? famColor(l.target.fam) : famColor(l.source.fam),
@@ -469,7 +477,7 @@ function drawMatrix() {
   const el = document.getElementById('condMatrix'); el.innerHTML = '';
   const CM = DATA.meta.conditions.filter(c => P.some(p => p.conditions.includes(c.name)));
   const progs = P.slice().sort((a, b) => FAMS.indexOf(a.family) - FAMS.indexOf(b.family) || b.conditions.length - a.conditions.length);
-  const cell = 15, m = { t: 215, l: 210, r: 60, b: 10 };
+  const cell = 15, m = { t: 215, l: 210, r: 140, b: 10 };
   const width = m.l + CM.length * cell + m.r, height = m.t + progs.length * cell + FAMS.length * 6 + m.b;
   const svg = d3.select(el).append('svg').attr('width', width).attr('height', height).attr('role', 'img').attr('aria-label', 'Matrix of programs by claimed conditions');
   let yy = m.t, prevF = null; const rowY = {};
@@ -496,30 +504,42 @@ function drawMatrix() {
 function renderMechanisms() {
   const MM = DATA.meta.mechanisms, MF = [...new Set(MM.map(m => m.family))];
   const mfCol = Object.fromEntries(MF.map((f, i) => [f, css('--s' + [7, 8, 1, 2, 3, 5][i])]));
-  // radial mind map
+  // two-sided horizontal mind map: center → mechanism families → mechanisms → programs (all text horizontal)
   const el = document.getElementById('mechMap'); el.innerHTML = '';
-  const size = Math.max(Math.min(W(el), 1100), 760), R = size / 2 - 170;
-  const tree = { name: 'Proposed mechanisms', children: MF.map(f => ({ name: f, fam: f, children: MM.filter(m => m.family === f).map(m => ({ name: m.name, fam: f, children: P.filter(p => p.mechanisms_primary === m.name).map(p => ({ name: p.short, slug: p.slug, fam: f })) })).filter(m => m.children.length) })).filter(f => f.children.length) };
-  const root = d3.hierarchy(tree);
-  d3.cluster().size([2 * Math.PI, R]).separation((a, b) => (a.parent === b.parent ? 1 : 1.6) / Math.max(1, a.depth))(root);
-  root.each(d => { if (d.depth === 1) d.y = R * .28; if (d.depth === 2) d.y = R * .62; });
-  const svg = d3.select(el).append('svg').attr('width', size).attr('height', size).attr('viewBox', [-size / 2, -size / 2, size, size]).attr('role', 'img').attr('aria-label', 'Radial mind map of proposed mechanisms with programs as leaves');
-  svg.append('g').attr('fill', 'none').selectAll('path').data(root.links()).join('path')
-    .attr('d', d3.linkRadial().angle(d => d.x).radius(d => d.y)).attr('stroke', d => d.target.data.fam ? mfCol[d.target.data.fam] : css('--axis')).attr('stroke-opacity', .5).attr('stroke-width', d => d.target.depth === 1 ? 3 : d.target.depth === 2 ? 1.8 : 1);
-  const n = svg.append('g').selectAll('g').data(root.descendants()).join('g').attr('transform', d => `rotate(${d.x * 180 / Math.PI - 90}) translate(${d.y},0)`);
-  n.append('circle').attr('r', d => d.depth === 0 ? 0 : d.depth === 1 ? 6 : d.depth === 2 ? 4 : 3).attr('fill', d => d.depth === 3 ? famColor(BY[d.data.slug].family) : mfCol[d.data.fam] || css('--ink'));
-  n.filter(d => d.depth === 3).style('cursor', 'pointer').on('click', (ev, d) => openProgram(d.data.slug))
-    .on('mousemove', (ev, d) => showTip(ev, `<b>${esc(BY[d.data.slug].name)}</b><br><span class="m">all mechanisms: ${esc(BY[d.data.slug].mechanisms.join(' · '))}</span>`)).on('mouseleave', hideTip);
-  n.filter(d => d.depth === 3).append('text').attr('dy', '.32em').attr('x', d => d.x < Math.PI ? 7 : -7).attr('text-anchor', d => d.x < Math.PI ? 'start' : 'end')
-    .attr('transform', d => d.x >= Math.PI ? 'rotate(180)' : null).attr('font-size', 10.5).text(d => d.data.name);
-  // mechanism + family labels: horizontal, with halo
-  const lab = svg.append('g').selectAll('text').data(root.descendants().filter(d => d.depth === 1 || d.depth === 2)).join('text')
-    .attr('x', d => Math.cos(d.x - Math.PI / 2) * d.y).attr('y', d => Math.sin(d.x - Math.PI / 2) * d.y)
-    .attr('dy', d => d.depth === 1 ? -10 : -7).attr('text-anchor', 'middle').attr('font-size', d => d.depth === 1 ? 12.5 : 10.5).attr('font-weight', d => d.depth === 1 ? 600 : 400)
-    .attr('paint-order', 'stroke').attr('stroke', css('--surface')).attr('stroke-width', 4).attr('stroke-linejoin', 'round')
-    .text(d => d.depth === 2 ? `${d.data.name} (${P.filter(p => p.mechanisms.includes(d.data.name)).length})` : d.data.name);
-  svg.append('text').attr('text-anchor', 'middle').attr('dy', '.35em').attr('font-family', 'var(--f-display)').attr('font-size', 14).attr('font-weight', 600).text('Mechanisms');
-  d3.select(el).append('p').attr('class', 'note').text('Numbers after each mechanism count every program that names it at all. Leaves show only programs whose primary (first-named) mechanism it is. Leaf color = program family.');
+  const width = Math.max(W(el), 1240), cx = width / 2, LS = 16;
+  const k = (cx - 170) / 470, COL = [0, 105 * k, 310 * k, 470 * k];
+  const famTree = MF.map(f => ({ name: f, fam: f, children: MM.filter(m => m.family === f).map(m => ({ name: m.name, fam: f, children: P.filter(p => p.mechanisms_primary === m.name).map(p => ({ name: p.short, slug: p.slug, fam: f })) })).filter(m => m.children.length) })).filter(f => f.children.length);
+  const leafN = f => d3.sum(f.children, m => m.children.length);
+  const sides = [[], []], tot = [0, 0];
+  famTree.slice().sort((a, b) => leafN(b) - leafN(a)).forEach(f => { const i = tot[1] <= tot[0] ? 1 : 0; sides[i].push(f); tot[i] += leafN(f); });
+  sides.forEach(sd => sd.sort((a, b) => MF.indexOf(a.fam) - MF.indexOf(b.fam)));
+  const lay = sides.map((sd, si) => {
+    const r = d3.hierarchy({ name: 'root', children: sd });
+    d3.cluster().nodeSize([LS, 1]).separation((a, b) => a.parent === b.parent ? 1 : a.parent.parent === b.parent.parent ? 2.3 : 3.4)(r);
+    const ext = d3.extent(r.leaves(), d => d.x);
+    r.each(d => { d.px = cx + (si ? 1 : -1) * COL[d.depth]; d.py = d.x - (ext[0] + ext[1]) / 2; d.side = si; });
+    return { r, span: ext[1] - ext[0] };
+  });
+  const height = d3.max(lay, l => l.span) + 70, cy = height / 2 + 4;
+  const svg = d3.select(el).append('svg').attr('width', width).attr('height', height).attr('role', 'img').attr('aria-label', 'Mind map of proposed mechanisms, with mechanism families, mechanisms, and programs as leaves');
+  const all = lay.flatMap(l => l.r.descendants()), links = lay.flatMap(l => l.r.links());
+  all.forEach(d => { if (d.depth === 0) { d.px = cx; d.py = 0; } d.py += cy; });
+  svg.append('g').attr('fill', 'none').selectAll('path').data(links).join('path')
+    .attr('d', d3.linkHorizontal().x(d => d.px).y(d => d.py)).attr('stroke', d => mfCol[d.target.data.fam]).attr('stroke-opacity', .55)
+    .attr('stroke-width', d => d.target.depth === 1 ? 3.5 : d.target.depth === 2 ? 2 : 1);
+  const n = svg.append('g').selectAll('g').data(all.filter(d => d.depth > 0)).join('g').attr('transform', d => `translate(${d.px},${d.py})`);
+  n.append('circle').attr('r', d => d.depth === 1 ? 6 : d.depth === 2 ? 4 : 3.2).attr('fill', d => d.depth === 3 ? famColor(BY[d.data.slug].family) : mfCol[d.data.fam])
+    .attr('stroke', css('--surface')).attr('stroke-width', 1.5);
+  const leaf = n.filter(d => d.depth === 3).style('cursor', 'pointer').on('click', (ev, d) => openProgram(d.data.slug))
+    .on('mousemove', (ev, d) => showTip(ev, `<b>${esc(BY[d.data.slug].name)}</b><br><span class="m">${esc(BY[d.data.slug].family)}</span><br><span class="m">all mechanisms: ${esc(BY[d.data.slug].mechanisms.join(' · '))}</span>`)).on('mouseleave', hideTip);
+  leaf.append('rect').attr('x', d => d.side ? -6 : -150).attr('y', -LS / 2).attr('width', 156).attr('height', LS).attr('fill', 'transparent');
+  leaf.append('text').attr('dy', '.34em').attr('x', d => d.side ? 7 : -7).attr('text-anchor', d => d.side ? 'start' : 'end').attr('font-size', 11).text(d => d.data.name);
+  const halo = sel => sel.attr('paint-order', 'stroke').attr('stroke', css('--surface')).attr('stroke-width', 4).attr('stroke-linejoin', 'round');
+  n.filter(d => d.depth === 2).append('text').attr('y', -8).attr('text-anchor', 'middle').attr('font-size', 10.5).call(halo)
+    .text(d => `${d.data.name} (${P.filter(p => p.mechanisms.includes(d.data.name)).length})`);
+  n.filter(d => d.depth === 1).append('text').attr('y', -11).attr('text-anchor', 'middle').attr('font-size', 12.5).attr('font-weight', 600).call(halo).text(d => d.data.name);
+  svg.append('text').attr('x', cx).attr('y', cy).attr('text-anchor', 'middle').attr('dy', '.35em').attr('font-family', 'var(--f-display)').attr('font-size', 15).attr('font-weight', 600).call(halo).text('Mechanisms');
+  d3.select(el).append('p').attr('class', 'note').text('Numbers after each mechanism count every program that names it at all. Programs appear under their primary (first-named) mechanism only; mechanisms that are no program’s primary one appear in the river plot below. Program dot color = program family.');
 
   // sankey family -> mechanism
   const el2 = document.getElementById('mechSankey'); el2.innerHTML = '';
@@ -557,7 +577,7 @@ function renderMechanisms() {
     });
   });
   svg3.append('g').attr('class', 'axis').attr('transform', `translate(0,${h3 - m3.b + 4})`).call(d3.axisBottom(x).ticks(6).tickFormat(d3.format('d')));
-  const lg = svg3.append('g').attr('transform', `translate(${m3.l},${h3 - m3.b + 34})`);
+  const lg = svg3.append('g').attr('transform', `translate(${Math.min(m3.l, w3 - 300)},${h3 - m3.b + 34})`);
   const lgLabels = ['One mechanism', 'Mostly unified', 'Differentiated', 'Not disorder-focused'];
   let lx = 0; lgLabels.forEach((t, j) => { lg.append('rect').attr('x', lx).attr('y', -5).attr('width', 10).attr('height', 10).attr('rx', 2).attr('fill', css(catCol[j])); lg.append('text').attr('x', lx + 14).attr('y', 0).attr('dy', '.35em').attr('font-size', 11).text(t); lx += 22 + t.length * 6.2; if (j === 1) { lx = 0; lg.attr('data-wrap', 1); } });
   // second row

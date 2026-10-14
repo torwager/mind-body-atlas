@@ -7,7 +7,7 @@
     "Nickolai Titov (Macquarie University; MindSpot co-founder/Executive Director)"
   ],
   "founded_year": 2012,
-  "founded_year_range": "2011-2013 (course developed ~2011-12; first RCT published in Pain 2013; MindSpot launched 2012-13)",
+  "founded_year_range": "2011-2013 (course developed ~2011-12; first RCT published in Pain 2013; MindSpot launched 2012; Pain Course offered in MindSpot routine care since April 2017)",
   "category": "digital app/platform",
   "delivery": [
     "online course",
@@ -54,7 +54,7 @@
     "routine outcome monitoring (PDI, PHQ-9, GAD-7)"
   ],
   "mainstream_adoption": "substantial",
-  "mainstream_notes": "Part of MindSpot, Australia's national government-funded digital mental-health service. Patients can self-refer, and GPs can also refer. A MindSpot routine-care cohort reached N=1,567 (Dear 2025). The course was adapted for routine care in Saskatchewan, Canada, by the University of Regina Online Therapy Unit (N=293 over 5 years). Guidelines such as NICE NG193 endorse CBT-type psychological therapy for chronic pain in general, not this branded program. Adoption is essentially limited to Australia and Saskatchewan.",
+  "mainstream_notes": "Part of MindSpot, Australia's national government-funded digital mental-health service. Patients can self-refer, and GPs can also refer. Offered in MindSpot routine care since April 2017; routine-care cohorts reached N=1,367 (Dear 2023) and N=1,567 (Dear 2025). The course was adapted for routine care in Saskatchewan, Canada, by the University of Regina Online Therapy Unit (N=293 over 5 years). Guidelines such as NICE NG193 endorse CBT-type psychological therapy for chronic pain in general, not this branded program. Adoption is essentially limited to Australia and Saskatchewan.",
   "insurance": "no",
   "insurance_notes": "Not applicable: free and publicly funded, with no billing to patients or insurers.",
   "evidence_level": "multiple RCTs",
@@ -116,8 +116,15 @@
       "url": "https://doi.org/10.1002/ejp.1866"
     },
     {
+      "citation": "Dear BF, Walker J, Karin E, et al. Pain Med 2023;24(12):1372-1385. doi:10.1093/pm/pnad102",
+      "design": "Prospective uncontrolled routine-care cohort at MindSpot (5 years)",
+      "n": 1367,
+      "finding": "Pain interference -18.9% (g=0.55), depression -26.1%, anxiety -23.9%, pain intensity -12.8% (g=0.41), catastrophizing -26.3%. 63% completed the full course; 82% satisfied.",
+      "url": "https://doi.org/10.1093/pm/pnad102"
+    },
+    {
       "citation": "Dear BF, Staples L, Nielssen O, Titov N. Aust J Rural Health 2025;33(1):e70008. doi:10.1111/ajr.70008",
-      "design": "Uncontrolled routine-care cohort at MindSpot",
+      "design": "Uncontrolled routine-care cohort at MindSpot (April 2017-December 2023)",
       "n": 1567,
       "finding": "Pre-post: disability -32%, depression -44%, anxiety -43%, pain -23%. Maintained at 3 months and similar across rural and urban patients.",
       "url": "https://doi.org/10.1111/ajr.70008"
@@ -134,14 +141,20 @@
       },
       {
         "metric": "Annual patients treated by eCentreClinic plus MindSpot (all courses)",
-        "value": ">20,000 adults/year (not re-verified)",
+        "value": ">20,000 adults/year (verified on profile 2026-10-13)",
         "source": "Macquarie researcher profile of B. Dear",
         "year": 2026
       },
       {
+        "metric": "Annual MindSpot patients (all courses)",
+        "value": "~30,000 Australians/year",
+        "source": "Dear et al. Aust J Rural Health 2025 (PMC11831721)",
+        "year": 2025
+      },
+      {
         "metric": "Pain Course routine-care patients at MindSpot (published cohort)",
-        "value": "1,567",
-        "source": "Dear et al. Aust J Rural Health 2025",
+        "value": "1,367 (2023 report); 1,567 (April 2017-Dec 2023)",
+        "source": "Dear et al. Pain Med 2023; Dear et al. Aust J Rural Health 2025",
         "year": 2025
       },
       {
@@ -158,8 +171,8 @@
       },
       {
         "metric": "Social media presence",
-        "value": "Minimal; no subreddit or influencer following",
-        "source": "Qualitative assessment",
+        "value": "Minimal; no subreddit or influencer following; web search found no Reddit threads about the course",
+        "source": "Web search 2026-10-13 (Reddit JSON API blocked)",
         "year": 2026
       }
     ],
@@ -231,7 +244,7 @@
         "relative_activity": 5
       }
     ],
-    "method_notes": "Trajectory is based on trial and cohort publication years (2013, 2015, 2017, 2018, 2022, 2025), MindSpot's 2012-13 launch, the Canadian adoption (2016-2021), and the eCentreClinic's shift to the Chronic Conditions Course. Reach is estimated from trial Ns and published routine-care cohorts; the Pain Course share of total MindSpot traffic is not published. Web search budget was exhausted, so Google Trends and Reddit were not checked directly."
+    "method_notes": "Trajectory is based on trial and cohort publication years (2013, 2015, 2017, 2018, 2022, 2023, 2025), MindSpot's 2012 launch, the Pain Course joining MindSpot routine care in April 2017, the Canadian adoption (2016-2021), and the eCentreClinic's shift to the Chronic Conditions Course. Reach is estimated from trial Ns and published routine-care cohorts; the Pain Course share of total MindSpot traffic is not published. Google Trends not checked (low search volume expected); Reddit checked by web search on 2026-10-13 with no threads found."
   },
   "sources": [
     "https://mindspot.org.au/treatments/pain-course",
@@ -249,6 +262,9 @@
     "https://doi.org/10.1002/ejp.1866",
     "https://doi.org/10.1111/ajr.70008",
     "https://doi.org/10.1002/14651858.CD013863.pub2",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8730571"
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8730571",
+    "https://doi.org/10.1093/pm/pnad102",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11831721/",
+    "https://search.pedro.org.au/search-results/record-detail/39423"
   ]
 }

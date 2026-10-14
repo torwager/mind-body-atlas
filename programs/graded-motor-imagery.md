@@ -1,21 +1,21 @@
 # Graded Motor Imagery (GMI)
 
-*Compiled 2026-10-12 from noigroup.com (GMI pack, Handbook and Recognise app pages), PubMed abstracts of the GMI trials and reviews, the Burning Nights CRPS patient charity, and Cochrane reviews. Content paraphrased. Note: this session's web-search budget ran out partway through. Prices and guideline wording come from the pages listed under Sources. Every trial listed was checked against its PubMed record.*
+*Compiled 2026-10-12 from noigroup.com (GMI pack, Handbook and Recognise app pages), PubMed abstracts of the GMI trials and reviews, the Burning Nights CRPS patient charity, and Cochrane reviews. Content paraphrased. Prices, app-store data and guideline wording come from the pages listed under Sources (open items completed 2026-10-13). Every trial listed was checked against its PubMed record.*
 
 ## At a glance
 | Field | |
 |---|---|
 | Website | https://www.noigroup.com/ (also gradedmotorimagery.com; Recognise apps on the App Store and Google Play) |
-| Founder(s) | **G. Lorimer Moseley**: physiotherapist and pain neuroscientist; PhD from the University of Queensland; postdoctoral work at Oxford; long at the University of South Australia (Professor of Clinical Neurosciences, Chair in Physiotherapy); now Bradley Distinguished Professor at Adelaide University, formed in 2026 when UniSA merged with the University of Adelaide. He developed the protocol (2004). **NOI Group** (Neuro Orthopaedic Institute, Adelaide; led by physiotherapist **David Butler**, with Timothy Beames) commercialised the materials. The Handbook is credited to Butler, Moseley and Beames. Moseley's royalty interest is stated in his disclosures, but this file did not verify it against a specific disclosure. |
-| Founded | Protocol 2004: first RCT (Moseley, *Pain* 2004), with pilot work before that (2002–03 is an estimate, not verified). *The Graded Motor Imagery Handbook* came out in 2012 and was updated in 2019. Recognise apps were rebuilt for iOS/Android in 2016; an earlier web version may have existed before then (unverified). |
+| Founder(s) | **G. Lorimer Moseley**: physiotherapist and pain neuroscientist; PhD from the University of Sydney (2002); postdoctoral work at the University of Queensland and Oxford; long at the University of South Australia (Professor of Clinical Neurosciences, Chair in Physiotherapy); now Bradley Distinguished Professor at Adelaide University, formed in 2026 when UniSA merged with the University of Adelaide. He developed the protocol (2004). **NOI Group** (Neuro Orthopaedic Institute, Adelaide; led by physiotherapist **David Butler**, with Timothy Beames) commercialised the materials. The Handbook is credited to Butler, Moseley and Beames. Moseley discloses that he "receives royalties for books on pain and on graded motor imagery" (competing-interests statement, Strauss et al. 2021, *Brain Commun*). |
+| Founded | Protocol 2004: first RCT (Moseley, *Pain* 2004), No earlier published pilot was found: PubMed lists no Moseley GMI/CRPS paper before 2004, and his two other 2004 *Neurology* papers (hand-laterality delay; imagined movement causing pain) are contemporaneous. *The Graded Motor Imagery Handbook* came out in 2012 and was updated in 2019. Before the apps there was a Flash-based web program, *Recognise Online* (recogniseonline.com, © 2008 NOI Group; Wayback capture Feb 2011). The iOS/Android Recognise apps followed in Feb 2016 (App Store release dates). |
 | Format / delivery | Clinician-guided (physio/OT) home programme, about 6 weeks: 2 weeks each of left/right judgement, explicit motor imagery and mirror therapy. Self-directed use is possible with the app, flash cards and a mirror box. |
 | Business model | Clinician-delivered method, with commercial tools sold by NOI (app, cards, mirror box, handbook, courses). The protocol is published, and therapists often run it with free or home-made materials. |
-| Direct cost | Recognise app: GBP 5.99 / AUD 9.99 per body-part app via NOI (per Burning Nights); the USD App Store price was not verified. Handbook: AUD 50 + GST from NOI, USD 62.95 from OPTP (checked Oct 2026). GMI pack (2019 Handbook, NOI mirror box, Recognise flash-card set): AUD 139.50 + GST. Physiotherapy sessions are billed separately at the usual physio rates. Prices as of 2026. |
+| Direct cost | Recognise app: USD 5.99 per body-part app on the US App Store and USD 6.49 on Google Play (checked Oct 2026); GBP 5.99 / AUD 9.99 per Burning Nights. Handbook: AUD 50 + GST from NOI, USD 62.95 from OPTP (checked Oct 2026). GMI pack (2019 Handbook, NOI mirror box, Recognise flash-card set): AUD 139.50 + GST. Physiotherapy sessions are billed separately at the usual physio rates. Prices as of 2026. |
 | Conditions claimed | CRPS type 1 (primary); phantom limb pain; brachial plexus avulsion pain. Being extended in trials to other persistent limb and body pain: back, neck, shoulder, knee, post-fracture, pelvic pain. One fibromyalgia RCT combined GMI with pain neuroscience education. |
-| Mainstream adoption | Moderate. Widely used in CRPS and phantom-limb physiotherapy, especially in the UK and Australia; no usage surveys were found. The Burning Nights CRPS charity reports that GMI is among the management options in the Royal College of Physicians (UK) CRPS guidelines, 2nd ed. 2018; the guideline text itself was not checked. |
+| Mainstream adoption | Moderate. Widely used in CRPS and phantom-limb physiotherapy, especially in the UK and Australia; no usage surveys were found. The Royal College of Physicians (UK) *CRPS in adults* guidelines, 2nd ed. 2018, list GMI in Box 4, "Examples of CRPS-specific rehabilitation techniques" (citing Moseley 2004, 2006), and again among pain-management-programme and rehabilitation techniques (checked in the guideline PDF). |
 | Insurance reimbursable | Indirectly. It is delivered within covered physio/OT visits (e.g., US neuromuscular re-education or therapeutic-exercise codes; NHS pain services; Australian private/Medicare chronic-disease physio). There is no GMI-specific code, and the app and materials are out of pocket. |
 | Evidence (peer-reviewed trials) | Several small RCTs: 3 early ones by the founder (CRPS, phantom limb) plus independent RCTs in phantom limb, CRPS and pelvic pain. Meta-analyses show moderate-to-large pooled effects but low or very-low certainty. A real-world UK audit failed to replicate the pain benefit. |
-| Popularity signals | Niche, clinician-facing. Six Recognise body-part apps. Handbook in print 2012–2026. PubMed (Oct 2026): 161 records for the exact phrase "graded motor imagery" and 23 tagged as RCTs. The earlier figure of 107 came from an unquoted search that also picks up generic motor-imagery papers. Widely discussed in CRPS patient charities and forums. No mass-consumer following. |
+| Popularity signals | Niche, clinician-facing. Six Recognise body-part apps. Handbook in print 2012–2026. PubMed (Oct 2026): 161 records for the exact phrase "graded motor imagery" and 23 tagged as RCTs. The earlier figure of 107 came from an unquoted search that also picks up generic motor-imagery papers. Widely discussed in CRPS patient charities and forums. Google Play installs (Oct 2026): Hand 5K+, Foot/Back/Knee 1K+ each, Neck/Shoulder 500+ each; US App Store ratings total 72 across the six apps. Reddit: 37 archived posts mention the exact phrase (12 in r/CRPS; Pullpush archive); live subscriber counts could not be retrieved (Reddit blocked automated access). No mass-consumer following. |
 
 ## 1. Proposed mechanism(s)
 - **Cortical ("virtual body") dysfunction.** CRPS and phantom limb pain are framed as being maintained by changes in brain sensorimotor representations of the affected body part:
@@ -97,7 +97,7 @@ Branded tools (the Recognise app) have not been trialled as products. The trials
 - **Strauss et al. 2021**, *Brain Commun*. Randomised wait-list crossover; chronic upper-limb CRPS; n=21; Moseley was a co-author. Movement pain fell during GMI but not during waiting; S1 map size, S1 activation and SICI normalised in parallel.
 - **Lopez-Brull et al. 2025**, *Phys Ther*. RCT of online GMI vs wait-list; genito-pelvic pain/penetration disorder; n=87. Less pain and better sexual function. This was an adapted protocol, with graded exposure as the third stage instead of mirror therapy.
 - **Rierola-Fochs et al. 2026**, *Eur J Pain*. Assessor-blinded RCT of a home-based GMI protocol ("GraMI") vs usual care; phantom limb pain; n=36. Pain was lower than in controls after treatment (p=0.02) and at 12 weeks (p=0.05); no differences on other outcomes.
-- **Fibromyalgia.** An RCT in Chile (n=65 women) tested GMI plus therapeutic neuroscience education against standard care. Only a secondary moderator analysis (Araya-Quintanilla et al. 2026, *Arch Phys Med Rehabil*) was checked here, and the primary-outcome paper was not verified.
+- **Fibromyalgia.** Araya-Quintanilla et al. 2024, *Br J Pain*. Single-blind RCT in Chile; n=65 women; a multicomponent programme including GMI and therapeutic neuroscience education vs standard care (drugs plus physician education). At 12 weeks pain fell more (NPRS −1.18) and FIQ, catastrophizing, kinesiophobia and sleep all improved, with large effects. GMI was one part of a package, so its own contribution cannot be isolated. A 2026 secondary analysis (*Arch Phys Med Rehabil*) found the FIQ benefit was moderated by falls in catastrophizing and kinesiophobia.
 - **Other small RCTs** in non-classic targets: post-traumatic elbow stiffness (Birinci 2022), distal radius fracture (Dilek 2018), knee OA (Kızkın 2025; Gurudut 2022), frozen shoulder (Yasaci 2025), rotator cuff pain (Sırlan 2025), peripheral nerve injury (Nalbantoğlu 2026) and stroke (Ji 2021; Jia 2024). These are mostly single-centre, and most come from Turkey.
 
 **Systematic reviews:**
@@ -122,7 +122,7 @@ Branded tools (the Recognise app) have not been trialled as products. The trials
 - **2012.** The *GMI Handbook* was published. The Johnson et al. audit dampened enthusiasm somewhat.
 - **2013.** The Bowering meta-analysis.
 - **2016.** NOI announced six Recognise apps for iOS and Android (blog post of 4 March 2016). The app page carries user comments through 2023.
-- **2016–2023.** Cochrane reviews included GMI. CRPS charities (Burning Nights and others) and Reddit groups such as r/CRPS and r/ChronicPain recommend Recognise and mirror boxes, judging by forum discussion. Research extended GMI to orthopaedic and pelvic pain.
+- **2016–2023.** Cochrane reviews included GMI. CRPS charities (Burning Nights and others) recommend Recognise and mirror boxes; on Reddit the exact phrase appears mainly in r/CRPS, with a few posts in r/ChronicPain and r/physicaltherapy (37 archived posts). Research extended GMI to orthopaedic and pelvic pain.
 - **2019.** The Handbook was updated.
 - **2023–2026.** Publication rate is steady to rising: 161 PubMed records for the exact phrase, many from 2020–2026. New meta-analyses appeared in 2023 and 2024, an online RCT in 2025, and in 2026 a scoping review and a home-based phantom-limb RCT.
 - **Overall pattern.** Consumer-facing popularity is modest. GMI is a clinician tool, not an influencer-led programme.
@@ -160,17 +160,25 @@ Branded tools (the Recognise app) have not been trialled as products. The trials
 - https://pubmed.ncbi.nlm.nih.gov/41462294/ (MEMOIR protocol)
 - https://pubmed.ncbi.nlm.nih.gov/41255083/ (Rierola-Fochs 2026)
 - https://pubmed.ncbi.nlm.nih.gov/40759252/ (Araya-Quintanilla 2026, fibromyalgia)
+- https://pubmed.ncbi.nlm.nih.gov/39544412/ (Araya-Quintanilla 2024, fibromyalgia primary RCT)
+- https://pubmed.ncbi.nlm.nih.gov/15210879/ and https://pubmed.ncbi.nlm.nih.gov/15136704/ (Moseley 2004 Neurology papers)
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC8514858/ (Strauss 2021 competing-interests statement)
+- https://www.rcp.ac.uk/media/4uijppdz/complex-regional-pain-syndrome-in-adults-second-edition_0.pdf (RCP CRPS guidelines 2018)
+- https://web.archive.org/web/20110202122652/http://recogniseonline.com/ (Recognise Online, 2011 capture)
+- https://apps.apple.com/us/search?term=recognise (Recognise apps, US App Store; via iTunes Search API)
+- https://play.google.com/store/apps/details?id=com.recognise.paidapphand (and the other five com.recognise.paidapp* listings)
+- https://api.pullpush.io/reddit/search/submission/?q=%22graded%20motor%20imagery%22 (Reddit post archive)
+- https://psychwire.com/profiles/1s33wle (Moseley PhD, University of Sydney 2002)
 - https://adelaide.edu.au/people/lorimer.moseley
 
-*Fact-checked 2026-10-12. Corrections:
-- OPTP Handbook price is USD 62.95, not 58.95; USD app price unverified.
+*Fact-checked 2026-10-12; open items completed 2026-10-13: Moseley PhD (Sydney, not Queensland); royalty disclosure confirmed; no pre-2004 pilot found; Recognise Online web version (2008–2011) confirmed; US app prices; RCP 2018 guideline text verified; fibromyalgia primary RCT added; app installs and Reddit mentions added (Reddit subscriber counts and Google Trends not retrievable). Corrections made on 2026-10-12:
+- OPTP Handbook price is USD 62.95, not 58.95.
 - Strauss 2021 was a randomised wait-list crossover, not an uncontrolled one.
 - Moseley 2008 studied chronic arm pain, not only CRPS.
 - Moseley's affiliation is now Adelaide University.
 - PubMed count corrected (161 exact-phrase records, 23 tagged RCTs).
-- The RCP guideline listing is sourced via a charity only.
 - "Standard in 4 regions" softened; royalty claim softened.
 - Moseley co-authorship flagged on Johnson, Strauss, Bowering and Williams.
 - Lopez-Brull protocol adaptation noted.
 - Added the Rierola-Fochs 2026 RCT, the fibromyalgia GMI+TNE trial and MEMOIR design details.
-- Web-search budget was exhausted during the check, so founding pilot dates and Moseley's PhD institution remain unverified.*
+- RCP guideline listing now checked against the guideline text.*

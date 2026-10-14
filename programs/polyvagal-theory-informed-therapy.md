@@ -1,16 +1,16 @@
 # Polyvagal Theory-informed therapy (Polyvagal Institute; Deb Dana's Rhythm of Regulation; Rosenberg "Basic Exercise")
 
-*Compiled 2026-10-12 from polyvagalinstitute.org (home, "What is Polyvagal Theory", Certificate Course page), rhythmofregulation.com (About, Events/Training, Glimmers), PubMed (E-utilities searches), Wikipedia and Wikimedia pageview API, Internet Archive CDX. Content paraphrased. Note: the shared web-search budget ran out during this compilation, so some details (exact institute incorporation date, Deb Dana course prices, Reddit and Google Trends metrics) could not be checked and are marked as such.*
+*Compiled 2026-10-12 from polyvagalinstitute.org (home, "What is Polyvagal Theory", Certificate Course page), rhythmofregulation.com (About, Events/Training, Glimmers), PubMed (E-utilities searches), Wikipedia and Wikimedia pageview API, Internet Archive CDX. Open items completed 2026-10-13 from Colorado business-entity records, ProPublica Nonprofit Explorer, Dana's course pages (rhythmofregulation.com, ror.thinkific.com) and archived Reddit pages. Content paraphrased.*
 
 ## At a glance
 | Field | |
 |---|---|
 | Website | https://www.polyvagalinstitute.org/ (PVI, non-profit 501(c)(3)); https://www.rhythmofregulation.com/ (Deb Dana) |
 | Founder(s) | **Stephen W. Porges, PhD.** Psychophysiologist who created the theory (University of Illinois at Chicago; later Distinguished University Scientist at the Kinsey Institute, Indiana University, and professor of psychiatry at UNC Chapel Hill). PVI's site names him as co-founder; it is a registered 501(c)(3) with EIN 84-5084757. **Deb Dana, LCSW.** Clinical social worker and "founding member" of PVI; trained in IFS, Sensorimotor Psychotherapy and TAT; adviser to Unyte-iLs (which sells the Safe and Sound Protocol) and Khiron Clinics. **Stanley Rosenberg.** American body therapist based in Denmark (craniosacral therapy and Rolfing background); his 2017 self-help book has a foreword by Porges. |
-| Founded | Theory: 1994 (Porges's Society for Psychophysiological Research presidential address), published in *Psychophysiology* in 1995. Porges's book: 2011. Dana's clinical "Rhythm of Regulation" model: 2018 book. PVI: about 2020 (earliest Wayback snapshot of polyvagalinstitute.org is 5 Dec 2020; no founding year stated on the site). |
+| Founded | Theory: 1994 (Porges's Society for Psychophysiological Research presidential address), published in *Psychophysiology* in 1995. Porges's book: 2011. Dana's clinical "Rhythm of Regulation" model: 2018 book. PVI: 2020. It was registered as a Colorado non-profit corporation (Steamboat Springs) on 11 March 2020, with IRS 501(c)(3) ruling dated October 2020; the earliest Wayback snapshot of the site is 5 Dec 2020. |
 | Format / delivery | A framework rather than a single protocol. It is delivered through clinician training (PVI certificate, Dana's trainings, PESI/Norton/Embody Lab courses), and clinicians use it in psychotherapy, bodywork, yoga, OT, education and coaching. Self-help routes are books, workbooks, card decks, audio programs and free online content. Devices (Safe and Sound Protocol) are covered in a separate entry. |
-| Business model | Mixed. PVI is a non-profit that sells paid courses and offers a free "Learner Login" library; Dana sells trainings and books; therapists bill for the sessions they deliver. |
-| Direct cost | PVI Polyvagal Certificate Course: **US$2,100** (or 3 x $700 / 7 x $300; checked 2026-10). PVI self-paced course "PVT for Somatic Experiencing Practitioners" (Porges and Dana): reported as $299 for 180 days, but this could not be re-verified (the page returned 404 on 2026-10-12). The Embody Lab "Polyvagal Trauma Therapy Certificate" (60 h; faculty include Porges, Arielle Schwartz and Janina Fisher, but **not** Dana): $977 for members, $1,227 for non-members (list price $1,493). Books cost about $15–35. Prices for Dana's own trainings are not posted publicly. Therapy is billed at the clinician's usual session rate. |
+| Business model | Mixed. PVI is a non-profit that sells paid courses and offers a free "Learner Login" library; Dana sells trainings and books; therapists bill for the sessions they deliver. PVI's IRS-reported revenue: about $0.9M (2021), $0.8M (2022), $1.0M (2023) and $1.9M in the latest filing (ProPublica). |
+| Direct cost | PVI Polyvagal Certificate Course: **US$2,100** (or 3 x $700 / 7 x $300; checked 2026-10). PVI self-paced course "PVT for Somatic Experiencing Practitioners" (Porges and Dana; 6 h): $299 for 180 days' access per the Dec 2022 Wayback capture; the page has since been removed (404 on 2026-10-13). The Embody Lab "Polyvagal Trauma Therapy Certificate" (60 h; faculty include Porges, Arielle Schwartz and Janina Fisher, but **not** Dana): $977 for members, $1,227 for non-members (list price $1,493). Books cost about $15–35. Dana's own trainings (checked 2026-10-13): Foundations of Polyvagal Informed Practice series (40+ h, no CE), **$2,000** or 4 x $500; on-demand book-study course "Engaging the Rhythm of Regulation" (22 h video), $450; Learning Labs Series I, $250. Therapy is billed at the clinician's usual session rate. |
 | Conditions claimed | Mainly trauma/PTSD, anxiety, depression, dissociation and general stress or "dysregulation". The theory is also extended to chronic diffuse pain, fibromyalgia, functional GI disorders/IBS, autism-related social and auditory problems, addiction, and other stress- and inflammation-related illness. |
 | Mainstream adoption | Pervasive in trauma-informed psychotherapy, social work, education and yoga/somatic training. No clinical guideline (NICE, APA, VA/DoD) recommends polyvagal-informed therapy as a treatment. The physiological theory is contested in academic autonomic physiology. |
 | Insurance reimbursable | Not as a named treatment. It is reimbursed only indirectly, when a licensed clinician bills standard psychotherapy codes. |
@@ -117,7 +117,8 @@ Polyvagal theory is a lens rather than a manualised therapy. The common componen
 - **2020–2021: peak.** Pandemic-era online trainings; PVI launches (website live by December 2020). Dana publishes *Polyvagal Exercises for Safety and Connection* (2020) and *Anchored* (Sounds True, 2021); Porges publishes *Polyvagal Safety* (2021). Wikipedia views peak at 190k (2020) and 219k (2021).
 - **2022–2024: plateau.** "Glimmers" goes viral on TikTok and Instagram (about 2022), and "nervous system regulation" becomes a wellness-influencer genre. Dana publishes *Polyvagal Practices* (2023), then card decks, flip chart and workbooks. PubMed mentions run at about 23–27 per year. Wikipedia views are about 185–203k per year.
 - **2025–2026: still active but slipping.** PubMed mentions are at their highest (31 in 2025; 28 by Oct 2026), driven partly by the critique and debate literature. Wikipedia views fell to 133k (2025) and 75k for January–September 2026, which suggests attention is declining or plateauing.
-- **Not checked.** Reddit subscriber counts and Google Trends could not be retrieved, because the API was blocked and the search budget was exhausted.
+- **Reddit is small.** Dedicated subreddits are tiny: r/polyvagal had about 664 members (June 2023 capture) and r/PolyvagalTheory 939 (March 2025 capture). Discussion happens mostly in general trauma and chronic-illness communities. Live Reddit counts were blocked, so these come from Wayback captures.
+- **Google Trends not available.** The Trends API refused automated requests (HTTP 429) on 2026-10-13, so no search-interest series is reported; Wikipedia pageviews serve as the proxy.
 
 ## 8. Controversies / criticisms
 
@@ -135,10 +136,17 @@ Polyvagal theory is a lens rather than a manualised therapy. The common componen
 - https://www.polyvagalinstitute.org/
 - https://www.polyvagalinstitute.org/whatispolyvagaltheory
 - https://www.polyvagalinstitute.org/pvi-certificate-course
-- https://polyvagalinstitute.org/partner-courses/polyvagal-theory-for-somatic-experiencing-practitioners
+- https://web.archive.org/web/20221202063710/https://www.polyvagalinstitute.org/partner-courses/polyvagal-theory-for-somatic-experiencing-practitioners (SE course price, Dec 2022)
+- https://data.colorado.gov/resource/4ykn-tg5h.json?$where=upper(entityname)%20like%20'%25POLYVAGAL%25' (Colorado entity record, formed 2020-03-11)
+- https://projects.propublica.org/nonprofits/organizations/845084757 (PVI 990 filings)
 - https://theembodylab.com/products/polyvagal-trauma-therapy-certificate
 - https://www.rhythmofregulation.com/about
 - https://www.rhythmofregulation.com/events-training
+- https://www.rhythmofregulation.com/foundations
+- https://ror.thinkific.com/courses/polyvagal-theory-in-therapy-online-book-study-group
+- https://ror.thinkific.com/courses/polyvagal-learning-labs
+- https://web.archive.org/web/20230615193240/https://www.reddit.com/r/polyvagal/comments/giv9sl/after_20_years_of_polyvagal_hypotheses_is_there/ (r/polyvagal member count)
+- https://web.archive.org/web/20250321114101/https://old.reddit.com/r/PolyvagalTheory/ (r/PolyvagalTheory subscriber count)
 - https://www.rhythmofregulation.com/glimmers
 - https://web.archive.org/web/20201205220627/https://www.polyvagalinstitute.org/ (earliest snapshot)
 - https://en.wikipedia.org/wiki/Polyvagal_theory
@@ -161,4 +169,4 @@ Polyvagal theory is a lens rather than a manualised therapy. The common componen
 - https://pubmed.ncbi.nlm.nih.gov/29535617/ (Sullivan et al. 2018, yoga and PVT)
 - https://pubmed.ncbi.nlm.nih.gov/34831534/ (Poli et al. 2021 systematic review)
 
-*Fact-checked 2026-10-12; corrections: Embody Lab certificate faculty does not include Dana (Porges is listed); Dale 2025 co-author "Dana AN" is not Deb Dana, and full authors and trial registrations were added; Wünnenberg 2025 is a non-randomised pilot with a control group (N=49), not uncontrolled or feasibility-only; Damis 2020 has n=3 (single-subject design) and Hamilton as co-author; the PVI SE-course $299 price could not be re-verified (page 404); added PVI 501(c)(3) EIN. All PMIDs, PVI certificate price/format, Kowalski 2024 statement and Wikipedia pageviews verified.*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: PVI incorporation date (Colorado, 11 Mar 2020) and IRS revenue; PVI SE-course $299/6 h/180 days confirmed via Wayback; Deb Dana training prices ($2,000 Foundations, $450 book-study, $250 Learning Labs I); Reddit subscriber counts (Wayback); Google Trends unavailable (API returned 429).*

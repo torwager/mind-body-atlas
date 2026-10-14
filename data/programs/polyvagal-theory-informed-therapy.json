@@ -8,7 +8,7 @@
     "Stanley Rosenberg (self-help 'Basic Exercise', 2017)"
   ],
   "founded_year": 1994,
-  "founded_year_range": "1994 (theory: Porges SPR presidential address; Psychophysiology 1995); clinical translation 2018 (Dana book); Polyvagal Institute ~2020 (501(c)(3), EIN 84-5084757; earliest Wayback snapshot Dec 2020)",
+  "founded_year_range": "1994 (theory: Porges SPR presidential address; Psychophysiology 1995); clinical translation 2018 (Dana book); Polyvagal Institute 2020 (Colorado non-profit corporation formed 11 Mar 2020; 501(c)(3) ruling Oct 2020, EIN 84-5084757)",
   "category": "somatic/movement practice",
   "delivery": [
     "clinician-delivered",
@@ -19,7 +19,7 @@
     "self-help exercises"
   ],
   "business_model": "mixed",
-  "cost_summary": "PVI Polyvagal Certificate Course: US$2,100, or 3x$700 or 7x$300 (verified 2026-10; about 20 h live plus Practice Pods; no CEs). PVI self-paced course 'PVT for SE Practitioners': reported as $299, but this could not be re-verified because the page returned 404. Embody Lab Polyvagal Trauma Therapy Certificate (60 h; Porges among faculty, Dana not): $977 for members, $1,227 for non-members. Books cost about $15-35. PVI offers a free Learner Login library. Therapy is billed at clinician session rates. Prices for Deb Dana's own trainings are not posted publicly.",
+  "cost_summary": "PVI Polyvagal Certificate Course: US$2,100, or 3x$700 or 7x$300 (verified 2026-10; about 20 h live plus Practice Pods; no CEs). PVI self-paced course 'PVT for SE Practitioners' (6 h): $299 for 180 days (Dec 2022 Wayback capture; page since removed). Deb Dana's Foundations of Polyvagal Informed Practice series (40+ h, no CE): $2,000 or 4x$500; her on-demand book-study course: $450; Learning Labs I: $250. Embody Lab Polyvagal Trauma Therapy Certificate (60 h; Porges among faculty, Dana not): $977 for members, $1,227 for non-members. Books cost about $15-35. PVI offers a free Learner Login library. Therapy is billed at clinician session rates.",
   "cost_usd_typical": 2100,
   "conditions_claimed": [
     "PTSD/trauma",
@@ -125,10 +125,22 @@
         "year": 2026
       },
       {
+        "metric": "Reddit dedicated subreddits (members)",
+        "value": "r/polyvagal ~664 (Jun 2023); r/PolyvagalTheory 939 (Mar 2025); small relative to the framework's reach",
+        "source": "Wayback captures of reddit.com (live Reddit API blocked)",
+        "year": 2025
+      },
+      {
         "metric": "Popular books",
         "value": "Porges 2011, 2017 Pocket Guide, 2021 Polyvagal Safety; Dana 2018, 2020, 2021 (Anchored), 2023 plus card decks, flip chart, Glimmers Journal and Nervous System Workbook; Rosenberg 2017; van der Kolk 2014 bestseller popularised PVT",
         "source": "rhythmofregulation.com/about; Wikipedia",
         "year": 2023
+      },
+      {
+        "metric": "Polyvagal Institute annual revenue (IRS Form 990)",
+        "value": "$902k (2021), $807k (2022), $962k (2023), ~$1.91M (latest filing)",
+        "source": "ProPublica Nonprofit Explorer, EIN 84-5084757",
+        "year": 2025
       },
       {
         "metric": "PVI certificate course and international partners",
@@ -215,7 +227,7 @@
         "relative_activity": 6.5
       }
     ],
-    "method_notes": "Trajectory anchored on Wikimedia annual pageviews for 'Polyvagal theory' (2017-2026; peak 2021 = 10, scaled linearly), PubMed title/abstract counts per year (E-utilities), and dated milestones: 1994/95 theory, 2011 Porges book, 2014 van der Kolk bestseller, 2017-18 Pocket Guide, Rosenberg and Dana books, PVI website live by Dec 2020, 'glimmers' virality around 2022. Pre-2017 values are estimated from publication milestones only. The 2026 value reflects the Jan-Sep pageview decline. Reddit and Google Trends could not be retrieved: the Reddit API was blocked and the shared web-search budget was exhausted. The reach estimate is a rough triangulation from training cohorts, book catalogue size and pageviews, not audited sales data."
+    "method_notes": "Trajectory anchored on Wikimedia annual pageviews for 'Polyvagal theory' (2017-2026; peak 2021 = 10, scaled linearly), PubMed title/abstract counts per year (E-utilities), and dated milestones: 1994/95 theory, 2011 Porges book, 2014 van der Kolk bestseller, 2017-18 Pocket Guide, Rosenberg and Dana books, PVI website live by Dec 2020, 'glimmers' virality around 2022. Pre-2017 values are estimated from publication milestones only. The 2026 value reflects the Jan-Sep pageview decline. Reddit counts come from Wayback captures because the live Reddit API was blocked; Google Trends was not available (API returned HTTP 429 on 2026-10-13). The reach estimate is a rough triangulation from training cohorts, book catalogue size and pageviews, not audited sales data."
   },
   "sources": [
     "https://www.polyvagalinstitute.org/",
@@ -238,6 +250,13 @@
     "https://pubmed.ncbi.nlm.nih.gov/41768026/",
     "https://pubmed.ncbi.nlm.nih.gov/36100134/",
     "https://pubmed.ncbi.nlm.nih.gov/17081672/",
-    "https://pubmed.ncbi.nlm.nih.gov/37074864/"
+    "https://pubmed.ncbi.nlm.nih.gov/37074864/",
+    "https://www.rhythmofregulation.com/foundations",
+    "https://ror.thinkific.com/courses/polyvagal-theory-in-therapy-online-book-study-group",
+    "https://ror.thinkific.com/courses/polyvagal-learning-labs",
+    "https://web.archive.org/web/20221202063710/https://www.polyvagalinstitute.org/partner-courses/polyvagal-theory-for-somatic-experiencing-practitioners",
+    "https://projects.propublica.org/nonprofits/organizations/845084757",
+    "https://web.archive.org/web/20250321114101/https://old.reddit.com/r/PolyvagalTheory/",
+    "https://web.archive.org/web/20230615193240/https://www.reddit.com/r/polyvagal/comments/giv9sl/after_20_years_of_polyvagal_hypotheses_is_there/"
   ]
 }

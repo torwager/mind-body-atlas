@@ -1,21 +1,21 @@
 # Primal Trust Academy (Regulate / Integrate / Liberate)
 
-*Compiled 2026-10-12 from primaltrust.org (Home, About, Membership, FAQ), the Wayback Machine availability API, PubMed and ClinicalTrials.gov searches. Content paraphrased. Note: the web-search quota ran out during research, so independent press coverage, Reddit metrics and Google Trends could not be checked directly. Popularity figures below come mostly from the company's own claims.*
+*Compiled 2026-10-12 from primaltrust.org (Home, About, Membership, FAQ, Daily Regulate, Press, newsletter/book pages), the Wayback Machine CDX API, PubMed and ClinicalTrials.gov, the company YouTube channel and limited Reddit search results. Content paraphrased. Reddit's JSON API was blocked and Google Trends wasn't accessible, so popularity figures still come mostly from the company's own claims plus YouTube.*
 
 ## At a glance
 | Field | |
 |---|---|
 | Website | https://primaltrust.org/ |
-| Founder(s) | Cathleen King, DPT ("Dr. Cat"). Physical therapist (DPT 2003) who did manual/orthopaedic chronic-pain PT in Portland, OR. Self-described long-term patient (2003–2017) with CFS, "Lyme", CPTSD, mould/parasite-exposure illness. Additional training reported by the researcher (Feldenkrais, Hanna Somatics, Sarno approach, PSYCH-K facilitator, breathwork, memory-reconsolidation courses) was not re-confirmed on the About page at fact-check. Stopped working as a PT in 2008 because of illness. CEO and founder. |
-| Founded | 2018–2021. Brain-retraining technique developed 2017; 1:1 coaching and the *Creating Calm* course 2018 (1,000+ users claimed 2018–2020); Level 2 mentorship pilot 2020; Primal Trust Academy & Community membership launched 2021; Level 1 *Regulate* 2022 (company timeline). Earliest Wayback snapshot of primaltrust.org: May 2022. |
-| Format / delivery | Online membership academy: 3 tiered video curricula with workbooks, near-daily live Zoom classes, guide-led study pods, community forum, optional paid 1:1 mentors. Also a 40-day email/video *Daily Regulate* program (recent; launch date not stated on site), a book (*How Healing Happens*, 2024; described as 100+ / 127 pages and apparently the same item offered as the free e-book), retreats (Omega Institute 2024), in-person training (Germany), and a Spanish-language program. |
+| Founder(s) | Cathleen King, DPT ("Dr. Cat"). Physical therapist (DPT 2003) who did manual/orthopaedic chronic-pain PT in Portland, OR. Self-described long-term patient (2003–2017) with CFS, "Lyme", CPTSD, mould/parasite-exposure illness. Additional training listed on the About page: Feldenkrais, Hanna Somatics, Sarno's methods and the Ola Grimsby Institute (during PT career), then PSYCH-K facilitator, memory-reconsolidation courses, breathwork and self-directed neuroplasticity programs (during illness). Stopped working as a PT in 2008 because of illness. CEO and founder. |
+| Founded | 2018–2021. Brain-retraining technique developed 2017; 1:1 coaching and the *Creating Calm* course 2018 (1,000+ users claimed 2018–2020); Level 2 mentorship pilot 2020; Primal Trust Academy & Community membership launched 2021; Level 1 *Regulate* 2022 (company timeline). Earliest Wayback capture of primaltrust.org: 19 Dec 2021, a redirect to Dr. King's Wix site (drcathleenking.wixsite.com); first capture of the standalone site May 2022. |
+| Format / delivery | Online membership academy: 3 tiered video curricula with workbooks, near-daily live Zoom classes, guide-led study pods, community forum, optional paid 1:1 mentors. Also a 40-day email/video *Daily Regulate* program (first live round began 2 Feb 2026), a book (*How Healing Happens*, 2024; 127 pages, and the same item given free on newsletter sign-up as the "100+ page" e-book), retreats (Omega Institute 2024), in-person training (Germany), and a Spanish-language program. |
 | Business model | Commercial subscription. Freemium funnel: free 100+ page e-book, newsletter, webinars, summit talks. |
-| Direct cost | USD 96/month, 510 per 6 months, or 960 per year (Oct 2026; extra cart discounts of 20–40% are advertised). Level 1 can be completed for < USD 192 in about 2 months. 1:1 mentors cost extra (price not listed). Limited financial assistance is available (FAQ) to members after at least 1 month in the community. |
+| Direct cost | USD 96/month, 510 per 6 months, or 960 per year (Oct 2026; extra cart discounts of 20–40% are advertised). Level 1 can be completed for < USD 192 in about 2 months. 1:1 mentors cost extra (price not published; checked membership, FAQ, About and Discovery Call pages). Limited financial assistance is available (FAQ) to members after at least 1 month in the community. |
 | Conditions claimed | ME/CFS, long COVID, POTS, fibromyalgia, migraine, interstitial cystitis, chronic pain, burnout, MCS, mould/CIRS, EHS, food/environmental sensitivities, chronic Lyme and other infections, autoimmune disease, digestive and hormonal problems, PTSD/CPTSD, anxiety, panic, depression, insomnia |
-| Mainstream adoption | None found. Some integrative/functional-medicine and Lyme-community clinicians endorse it (e.g., summit appearances), but no hospital, guideline or health-system uptake. |
+| Mainstream adoption | None found. Some integrative/functional-medicine and Lyme/mould clinicians endorse it, e.g., Neil Nathan MD and Will Cole (site testimonials), and summit appearances, but no hospital, guideline or health-system uptake. |
 | Insurance reimbursable | No. Self-pay subscription. FAQ and membership pages don't mention insurance or HSA. |
 | Evidence (peer-reviewed trials) | None. No PubMed record for "Primal Trust" and 0 ClinicalTrials.gov registrations (searched Oct 2026). Only uncontrolled, self-reported internal outcome figures. |
-| Popularity signals | Company counts are inconsistent: 13,000+ guided through *Regulate* (home page, Oct 2026), "13,500+" (membership page), "over 10,000 members" (About page), "almost 7,000" (FAQ), and "8,000 served since 2021" (end of 2023). *Creating Calm* claimed 1,000+ users (2018–2020). In ME/CFS, long-COVID and MCS patient forums it is often named alongside DNRS and the Gupta Program (unverified this session). |
+| Popularity signals | Company counts are inconsistent: "20,000+ lives changed", "2,000+ practitioners recommend" and "60+ countries" (home-page counters, Oct 2026), 13,000+ guided through *Regulate* (home page text), "13,500+" (membership page), "over 10,000 members" (About page), "almost 7,000" (FAQ), and "8,000 served since 2021" (end of 2023). *Creating Calm* claimed 1,000+ users (2018–2020). Independent: YouTube channel @primaltrustofficial 21.2K subscribers, 408 videos (Oct 2026); site review widget 4.8/5 from 190 reviews. Reddit mentions found are sparse (e.g., an r/LongHaulersRecovery recovery post naming it); subreddit-level counts could not be retrieved (Reddit API blocked). |
 
 ## 1. Proposed mechanism(s)
 - **Core claim.** Chronic symptoms come from a *dysregulated nervous system* stuck in a protective stress or survival state. "Triggers" of four kinds keep it in that state: chemical, pathogenic, physical and emotional.
@@ -30,7 +30,7 @@
 
 ## 3. Treatments and self-care strategies
 **Structure (all included in membership):**
-- **Daily Regulate (2026).** 40 days of 5–7 minute videos with daily emails. Entry-level.
+- **Daily Regulate (first run Feb 2026).** 40 days of 5–7 minute videos with daily emails. Entry-level.
 - **Level 1 – Regulate.** 7 modules of 1–3 hours each with workbooks, released weekly. Recommended pace is 2–3 months, or 4–6 months with cognitive impairment. Content covers:
   - *ABC Dimensional Shift*. King's limbic-retraining routine (developed 2017) for interrupting a symptom or fear response and rehearsing a calm or healthy state. It is structurally similar to DNRS/Gupta "stop–reframe–elevate" routines.
   - Polyvagal state mapping and self-awareness.
@@ -56,7 +56,7 @@
 - **Breathwork, HeartMath-style coherence, sound healing** (yoga/pranayama-adjacent wellness practices).
 
 ## 5. Mainstream adoption and insurance
-- No adoption by guidelines (NICE, CDC, specialty societies), hospital systems or payers was identified. Its visibility comes from integrative and Lyme-world venues, such as the Tick-Borne Illness Global Summit (listed speaker, "Lyme Disease & Nervous System Regulation," Sunday Oct 11; year not stated on page, consistent with 2026), retreats (Omega Institute) and podcasts.
+- No adoption by guidelines (NICE, CDC, specialty societies), hospital systems or payers was identified. Its visibility comes from integrative and Lyme-world venues, such as the Tick-Borne Illness Global Summit (listed speaker, "Lyme Disease & Nervous System Regulation," Sunday 11 Oct 2026; summit ran 8–11 Oct 2026), other online summits (2022 Block Therapy Trauma Relief, 2023 Mastering Mast Cell Activation, 2024 Hormonal Havoc), retreats (Omega Institute) and many podcasts. The site's Press page lists podcasts and summits only, with no mainstream news coverage.
 - Not reimbursable. It is a self-pay subscription with no CPT-coded clinician delivery. Some members' practitioners may refer patients informally.
 
 ## 6. Evidence base
@@ -74,11 +74,11 @@
 ## 7. Popularity and trajectory
 - **2017–2019:** Technique developed (2017). 1:1 coaching and the *Creating Calm* course (2018; 1,000+ users claimed through 2020).
 - **2020–2021:** Long COVID drove a surge in interest in brain retraining. Mentorship pilot (2020), then the full Primal Trust Academy membership (2021).
-- **2022:** Level 1 Regulate launched. First Wayback snapshot (May 2022).
+- **2022:** Level 1 Regulate launched. Standalone site first archived May 2022 (domain redirected to a Wix site in Dec 2021).
 - **2023:** About 8,000 people served since 2021 (company claim). Near-daily live classes added. Simplified Level 2 released.
 - **2024:** Book *How Healing Happens*, Omega retreat, German in-person training, Spanish-language program. Visible Google reviews cluster in 2024.
-- **2025–2026:** 13,000–13,500+ through Regulate claimed. *Daily Regulate* 40-day program launched (date not verified). Summit appearances continue.
-- Patient-forum prominence (r/cfs, r/covidlonghaulers, r/limbicretraining, Phoenix Rising) is reported in the scope note as being on par with DNRS and Gupta. It could not be quantified this session because search was unavailable.
+- **2025–2026:** 13,000–13,500+ through Regulate claimed. *Daily Regulate* 40-day program launched (first live round 2 Feb 2026). Home page claims 20,000+ lives changed; YouTube 21.2K subscribers. Summit appearances continue.
+- Patient-forum prominence was not quantifiable: Reddit's API blocked automated access, and web search surfaced only scattered posts (e.g., one r/LongHaulersRecovery recovery story naming Primal Trust; no r/cfs hits). The scope note's claim that it is on par with DNRS and Gupta in forums remains unconfirmed.
 
 ## 8. Controversies / criticisms
 - **Shared with limbic-retraining programs in general.** ME/CFS patient advocates object to framing post-exertional illness as nervous-system conditioning, citing:
@@ -96,7 +96,13 @@
 - https://primaltrust.org/membership/ (pricing, components, live classes, outcome claims, dates)
 - https://primaltrust.org/faq/ (time commitment, cost of Level 1, outcome figures, disclaimers)
 - http://archive.org/wayback/available?url=primaltrust.org (earliest snapshot 2022-05-22)
+- http://web.archive.org/cdx/search/cdx?url=primaltrust.org (first capture 2021-12-19, redirect to drcathleenking.wixsite.com)
+- https://www.primaltrust.org/daily-regulate/ (first live round 2 Feb 2026)
+- https://www.primaltrust.org/newsletter-how-healing-happens-2025/ (free book = How Healing Happens; counters; clinician testimonials)
+- https://www.primaltrust.org/press/ (podcasts and summits)
+- https://web.archive.org/web/20261007193246/https://tick-borne-illness-global-summit.thetickchicks.com/ (summit 8–11 Oct 2026)
+- https://www.youtube.com/channel/UCCnLWMcEqPI6I9jizRvhS8w (21.2K subscribers, 408 videos)
 - https://pubmed.ncbi.nlm.nih.gov/?term=%22primal+trust%22 (no matching records)
 - https://clinicaltrials.gov/search?term=%22primal%20trust%22 (0 studies)
 
-*Fact-checked 2026-10-12; corrections: Creating Calm dated 2018 (not 2018–19/2019); people-served counts reconciled (7,000 / 8,000 / 10,000 / 13,000 / 13,500 across pages); Daily Regulate Feb-2026 date removed (unverified); summit year flagged; book noted as likely the free e-book; founder's extra training list flagged as not re-verified; PubMed note clarified; NLP removed from roots. Independent Reddit/press search unavailable (search quota). No trials exist.*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: founder training confirmed on About page; Daily Regulate dated (2 Feb 2026); summit year confirmed (Oct 2026); free e-book confirmed as How Healing Happens; earliest Wayback capture Dec 2021; YouTube and home-page reach counters added; PubMed (26 unrelated hits) and ClinicalTrials.gov (0) re-run; mentor price confirmed unpublished; Reddit metrics still unavailable (API blocked).*

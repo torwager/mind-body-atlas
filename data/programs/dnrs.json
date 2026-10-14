@@ -2,23 +2,79 @@
   "slug": "dnrs",
   "name": "Dynamic Neural Retraining System (DNRS)",
   "url": "https://www.retrainingthebrain.com/",
-  "founders": ["Annie Hopper"],
+  "founders": [
+    "Annie Hopper"
+  ],
   "founded_year": 2008,
-  "founded_year_range": "2008 (founder bio page on the site); book Wired for Healing 2014; DNRS 2.0 relaunch ~2022",
+  "founded_year_range": "2008 (founder page, current and 2016 Wayback captures); founder ill from 2004; book Wired for Healing 2014; DVD set by 2016; DNRS 2.0 relaunch ~2022",
   "category": "limbic/brain retraining course",
-  "delivery": ["online course", "coaching", "group", "book", "in-person seminars (historical)", "DVD (historical)"],
+  "delivery": [
+    "online course",
+    "coaching",
+    "group",
+    "book",
+    "in-person seminars (historical)",
+    "DVD (historical)"
+  ],
   "business_model": "commercial",
-  "cost_summary": "USD (site, Oct 2026): DNRS 2.0 video program $349.95 with 1 year of streaming access, then $20/mo. Jump Start bundle (adds a 60-min coaching session) $439.95. Support bundle (adds 12-wk group coaching, 6 mo of Share-A-Laugh classes and premium forum access) $569.95. Printed package $105.95. Wired for Healing book $24.95. 21-day free trial. Refund only after 6 months of daily practice, less a 15% fee, and within 365 days of purchase.",
+  "cost_summary": "USD (site, Oct 2026): DNRS 2.0 video program $349.95 with 1 year of streaming access, then $20/mo. Jump Start bundle (adds a 60-min coaching session) $439.95. Support bundle (adds 12-wk group coaching, 6 mo of Share-A-Laugh classes and premium forum access) $569.95. Printed package $105.95. Wired for Healing book $24.95. 21-day free trial. Refund only after 6 months of daily practice, less a 15% fee, and within 365 days of purchase. Historical (2016): 8-disc DVD set $249.95-$315.95; 5-day residential seminar CAD 2,995-3,295 incl. lodging.",
   "cost_usd_typical": 349.95,
-  "conditions_claimed": ["ME/CFS", "fibromyalgia", "MCS/IEI", "EHS", "MCAS", "mould/CIRS", "chronic Lyme", "long COVID", "POTS/dysautonomia", "anxiety", "depression", "PTSD/trauma", "food sensitivities"],
-  "conditions_primary": ["MCS/IEI", "ME/CFS", "fibromyalgia", "long COVID"],
+  "conditions_claimed": [
+    "ME/CFS",
+    "fibromyalgia",
+    "MCS/IEI",
+    "EHS",
+    "MCAS",
+    "mould/CIRS",
+    "chronic Lyme",
+    "long COVID",
+    "POTS/dysautonomia",
+    "anxiety",
+    "depression",
+    "PTSD/trauma",
+    "food sensitivities"
+  ],
+  "conditions_primary": [
+    "MCS/IEI",
+    "ME/CFS",
+    "fibromyalgia",
+    "long COVID"
+  ],
   "differentiation": "single unified mechanism",
-  "mechanisms": ["limbic system impairment / amygdala threat conditioning", "conditioning / classical learning", "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")", "central sensitization", "stress / HPA axis", "attention & interoception / hypervigilance"],
+  "mechanisms": [
+    "limbic system impairment / amygdala threat conditioning",
+    "conditioning / classical learning",
+    "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")",
+    "central sensitization",
+    "stress / HPA axis",
+    "attention & interoception / hypervigilance"
+  ],
   "mechanism_summary": "The program proposes 'limbic system impairment'. A trauma (chemical or toxic exposure, infection, injury, psychological trauma or cumulative stress) 'cross-wires' the brain's threat circuitry and leaves it stuck in a conditioned fight/flight/freeze state through maladaptive neuroplasticity. Benign stimuli (odours, foods, EMFs, exertion, body sensations) are then misread as dangers, producing real symptoms via central sensitisation and a chronic stress response, sustained by hypervigilance and avoidance. Recovery is framed as rewiring this circuitry through daily practice that interrupts threat patterns and rehearses elevated positive states. The same mechanism applies to every condition; only the personal triggers differ.",
-  "roots": ["NLP", "CBT (Beck/Ellis)", "behaviorism / classical conditioning", "mindfulness", "life coaching / positive psychology", "New Thought-style visualisation/elevated emotion (interpretive)", "Selye stress theory", "popular neuroplasticity writing (Doidge era)", "Gupta Program / Lightning Process (sibling programs)"],
-  "techniques": ["~13 h of streamed video psychoeducation on neuroplasticity and the limbic system ('Five Pillars of Recovery')", "daily retraining practice for >=6 months (historically ~1 h/day of 'rounds', per secondary accounts)", "pattern interruption of trigger-, symptom- or threat-driven thoughts", "visualisation of positive memories and future wellness with elevated emotion", "incremental training (graded exposure to avoided triggers such as scents, foods, environments, activity)", "emotional and cognitive restructuring; limiting symptom talk and monitoring", "mindfulness-based cognitive restructuring", "behaviour modification and practice tracking", "1:1 and 12-week group coaching by DNRS-certified coaches", "Share-a-Laugh classes and peer forum"],
+  "roots": [
+    "NLP",
+    "CBT (Beck/Ellis)",
+    "behaviorism / classical conditioning",
+    "mindfulness",
+    "life coaching / positive psychology",
+    "New Thought-style visualisation/elevated emotion (interpretive)",
+    "Selye stress theory",
+    "popular neuroplasticity writing (Doidge era)",
+    "Gupta Program / Lightning Process (sibling programs)"
+  ],
+  "techniques": [
+    "~13 h of streamed video psychoeducation on neuroplasticity and the limbic system ('Five Pillars of Recovery')",
+    "daily retraining practice for >=6 months (~1 h/day of exercises plus in-the-moment use, per Hopper in podcast show notes)",
+    "pattern interruption of trigger-, symptom- or threat-driven thoughts",
+    "visualisation of positive memories and future wellness with elevated emotion",
+    "incremental training (graded exposure to avoided triggers such as scents, foods, environments, activity)",
+    "emotional and cognitive restructuring; limiting symptom talk and monitoring",
+    "mindfulness-based cognitive restructuring",
+    "behaviour modification and practice tracking",
+    "1:1 and 12-week group coaching by DNRS-certified coaches",
+    "Share-a-Laugh classes and peer forum"
+  ],
   "mainstream_adoption": "limited",
-  "mainstream_notes": "No guideline endorsement (NICE, CDC). Referrals come mainly from individual environmental, integrative, functional and mould/CIRS-oriented physicians; Neil Nathan claims to have used it with 'well over a thousand patients' over 15 years. The site claims '>1,000 doctors refer' (unverified). A University of Alberta-sponsored RCT (MILES, NCT06933173) began in July 2025. The program is mentioned in passing in MCS (Jacques 2024) and ME/CFS/long-COVID (Tate 2023) reviews.",
+  "mainstream_notes": "No guideline endorsement (NICE, CDC). Referrals come mainly from individual environmental, integrative, functional and mould/CIRS-oriented physicians; Neil Nathan claims to have used it with 'well over a thousand patients' over 15 years. The site claims '>1,000 doctors refer' (company claim; no published list). A University of Alberta-sponsored RCT (MILES, NCT06933173) began in July 2025. The program is mentioned in passing in MCS (Jacques 2024) and ME/CFS/long-COVID (Tate 2023) reviews.",
   "insurance": "no",
   "insurance_notes": "Sold direct to consumers. The site does not mention insurance or HSA/FSA, and coaches are DNRS-certified rather than licensed clinicians, so no reimbursement pathway exists.",
   "evidence_level": "case reports/observational only",
@@ -52,35 +108,127 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/22385563/"
     }
   ],
-  "controversy": "Criticised by ME/CFS advocates (alongside Gupta and the Lightning Process) for psychologising biomedical illness, discouraging symptom talk, risking post-exertional malaise through incremental exertion, and implying that non-recovery reflects insufficient practice; the refund requires 6 months of daily practice. Marketing relies on testimonials, physician endorsements, a self-selected survey and an unpublished uncontrolled cohort, and uses the non-established construct 'limbic system impairment'. The founder lists no clinical degrees or licence. Some ex-participants describe enforced positivity. Others, especially with MCS or mould-related sensitivity, report major recovery. The MILES PIs also co-authored a 2021 mind-body ME/CFS review, and co-PI Stein is reported to favour brain-retraining approaches (not re-verified).",
+  "controversy": "Criticised by ME/CFS advocates (alongside Gupta and the Lightning Process) for psychologising biomedical illness, discouraging symptom talk, risking post-exertional malaise through incremental exertion, and implying that non-recovery reflects insufficient practice; the refund requires 6 months of daily practice. Marketing relies on testimonials, physician endorsements, a self-selected survey and an unpublished uncontrolled cohort, and uses the non-established construct 'limbic system impairment'. The founder lists no clinical degrees or licence. Some ex-participants describe enforced positivity. Others, especially with MCS or mould-related sensitivity, report major recovery. The MILES PIs also co-authored a 2021 mind-body ME/CFS review, and co-PI Stein runs her own neuroplasticity courses and hosted a 2026 clinician session with Ashok Gupta on brain-retraining approaches.",
   "popularity": {
     "indicators": [
-      {"metric": "Wired for Healing copies sold (company claim)", "value": ">65,000", "source": "retrainingthebrain.com/annie-hopper", "year": 2026},
-      {"metric": "Referring doctors claimed", "value": ">1,000", "source": "retrainingthebrain.com/physician-endorsement", "year": 2026},
-      {"metric": "Patients referred by a single endorsing physician (Neil Nathan)", "value": ">1,000 over ~15 years", "source": "retrainingthebrain.com/physician-endorsement", "year": 2026},
-      {"metric": "Client outcomes survey respondents (forum members)", "value": "430", "source": "retrainingthebrain.com/real-world-client-outcomes", "year": 2025},
-      {"metric": "McMaster seminar cohort", "value": "102 participants", "source": "retrainingthebrain.com research page; Jacques 2024", "year": 2016},
-      {"metric": "RCT enrollment target", "value": "200", "source": "ClinicalTrials.gov NCT06933173", "year": 2025},
-      {"metric": "Subtitle languages", "value": "9 incl. English", "source": "retrainingthebrain.com/the-program", "year": 2026}
+      {
+        "metric": "Wired for Healing copies sold (company claim)",
+        "value": ">65,000",
+        "source": "retrainingthebrain.com/annie-hopper",
+        "year": 2026
+      },
+      {
+        "metric": "Referring doctors claimed",
+        "value": ">1,000",
+        "source": "retrainingthebrain.com/physician-endorsement",
+        "year": 2026
+      },
+      {
+        "metric": "Patients referred by a single endorsing physician (Neil Nathan)",
+        "value": ">1,000 over ~15 years",
+        "source": "retrainingthebrain.com/physician-endorsement",
+        "year": 2026
+      },
+      {
+        "metric": "Client outcomes survey respondents (forum members)",
+        "value": "430",
+        "source": "retrainingthebrain.com/real-world-client-outcomes",
+        "year": 2025
+      },
+      {
+        "metric": "McMaster seminar cohort",
+        "value": "102 participants",
+        "source": "retrainingthebrain.com research page; Jacques 2024",
+        "year": 2016
+      },
+      {
+        "metric": "RCT enrollment target",
+        "value": "200",
+        "source": "ClinicalTrials.gov NCT06933173",
+        "year": 2025
+      },
+      {
+        "metric": "Subtitle languages",
+        "value": "9 incl. English",
+        "source": "retrainingthebrain.com/the-program",
+        "year": 2026
+      },
+      {
+        "metric": "Wired for Healing copies sold (company claim, earlier)",
+        "value": ">25,000",
+        "source": "retrainingthebrain.com/annie-hopper (Wayback 2021-11-06)",
+        "year": 2021
+      },
+      {
+        "metric": "YouTube subscribers (@Dnrsystem)",
+        "value": "13.6K (147 videos)",
+        "source": "youtube.com/@Dnrsystem",
+        "year": 2026
+      },
+      {
+        "metric": "Goodreads ratings, Wired for Healing",
+        "value": "327 (avg 3.85)",
+        "source": "goodreads.com/book/show/25501198",
+        "year": 2026
+      }
     ],
     "reach_estimate": "~30k-100k cumulative participants (tens of thousands of course purchasers, plus 65k+ book buyers, some overlapping). The site claims it has 'helped thousands'.",
     "reach_log10": 4.7,
     "trajectory": [
-      {"year": 2008, "relative_activity": 1},
-      {"year": 2010, "relative_activity": 2},
-      {"year": 2012, "relative_activity": 3},
-      {"year": 2014, "relative_activity": 5},
-      {"year": 2016, "relative_activity": 6},
-      {"year": 2018, "relative_activity": 6},
-      {"year": 2020, "relative_activity": 7},
-      {"year": 2021, "relative_activity": 8},
-      {"year": 2022, "relative_activity": 8},
-      {"year": 2023, "relative_activity": 7},
-      {"year": 2024, "relative_activity": 7},
-      {"year": 2025, "relative_activity": 7.5},
-      {"year": 2026, "relative_activity": 7}
+      {
+        "year": 2008,
+        "relative_activity": 1
+      },
+      {
+        "year": 2010,
+        "relative_activity": 2
+      },
+      {
+        "year": 2012,
+        "relative_activity": 3
+      },
+      {
+        "year": 2014,
+        "relative_activity": 5
+      },
+      {
+        "year": 2016,
+        "relative_activity": 6
+      },
+      {
+        "year": 2018,
+        "relative_activity": 6
+      },
+      {
+        "year": 2020,
+        "relative_activity": 7
+      },
+      {
+        "year": 2021,
+        "relative_activity": 8
+      },
+      {
+        "year": 2022,
+        "relative_activity": 8
+      },
+      {
+        "year": 2023,
+        "relative_activity": 7
+      },
+      {
+        "year": 2024,
+        "relative_activity": 7
+      },
+      {
+        "year": 2025,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2026,
+        "relative_activity": 7
+      }
     ],
-    "method_notes": "Web-search quota was exhausted in both the research and fact-check runs, so Google Trends, Reddit subscriber counts and YouTube metrics could not be retrieved. The trajectory is anchored on documented milestones: 2008 launch (founder page), 2014 book with a claimed 65k+ sales, 2016 McMaster seminar cohort, functional-medicine/mould-community uptake ~2016-2019 (Nathan endorsement), the 2020-22 shift online and long-COVID surge with the DNRS 2.0 relaunch (~2022), and the 2025 client survey and MILES RCT start. Levels are judgement-based within-program relative scores. The reach estimate is triangulated from company claims (book sales, 'thousands helped') and single-physician referral counts, all unaudited."
+    "method_notes": "Checked 2026-10-13: YouTube channel metrics and Goodreads retrieved; Reddit member counts not retrievable (reddit.com returns 403/block page to about.json, api.reddit.com and HTML); Google Trends not checked (web-search quota exhausted). The trajectory is anchored on documented milestones: 2008 launch (founder page), 2014 book with claimed sales of >25k (Nov 2021) and >65k (2026), 2016 DVD set plus 5-day seminars in Canada (Wayback), 2016 McMaster seminar cohort, functional-medicine/mould-community uptake ~2016-2019 (Nathan endorsement), the 2020-22 shift online and long-COVID surge with the DNRS 2.0 relaunch (~2022), and the 2025 client survey and MILES RCT start. Levels are judgement-based within-program relative scores. The reach estimate is triangulated from company claims (book sales, 'thousands helped') and single-physician referral counts, all unaudited."
   },
   "sources": [
     "https://www.retrainingthebrain.com/",
@@ -98,6 +246,14 @@
     "https://pubmed.ncbi.nlm.nih.gov/39766460/",
     "https://pubmed.ncbi.nlm.nih.gov/36982194/",
     "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Dynamic%20Neural%20Retraining%22",
-    "https://openlibrary.org/search?q=wired+for+healing+hopper"
+    "https://openlibrary.org/search?q=wired+for+healing+hopper",
+    "https://web.archive.org/web/20160807230429/https://retrainingthebrain.com/history/",
+    "https://web.archive.org/web/2016/https://retrainingthebrain.com/instructional-dvd-series/",
+    "https://web.archive.org/web/2016/https://retrainingthebrain.com/interactive-training-seminars/",
+    "https://web.archive.org/web/20211106200511/https://retrainingthebrain.com/annie-hopper/",
+    "https://www.phoenixhelix.com/episode-104-dnrs-with-annie-hopper/",
+    "https://www.eleanorsteinmd.ca/live",
+    "https://www.youtube.com/@Dnrsystem",
+    "https://www.goodreads.com/book/show/25501198"
   ]
 }

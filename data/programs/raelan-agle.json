@@ -2,23 +2,76 @@
   "slug": "raelan-agle",
   "name": "Raelan Agle: Brain Retraining 101 and recovery-story channel",
   "url": "https://www.raelanagle.com/",
-  "founders": ["Raelan Agle (MSW, former clinical social worker in medical settings; reports 10 years of ME/CFS then full recovery; Austin, TX)"],
+  "founders": [
+    "Raelan Agle (MSW, former clinical social worker in medical settings; reports 10 years of ME/CFS then full recovery; Austin, TX)"
+  ],
   "founded_year": 2019,
-  "founded_year_range": "2019-2024. The YouTube channel opened on 4 Sep 2019 and the book Finding Freedom came out about Dec 2019. Guest interviews began around 2021 and the podcast on 21 Aug 2024. The paid course arrived around 2023-24 (estimate).",
+  "founded_year_range": "2019-2024. The YouTube channel opened on 4 Sep 2019 and the book Finding Freedom came out about Dec 2019. Guest interviews began around 2021. Brain Retraining 101 launched in early 2024 (absent from the site in Dec 2023, on Teachable by Jun 2024), and the podcast followed on 21 Aug 2024.",
   "category": "influencer/author method",
-  "delivery": ["YouTube interview archive", "podcast", "online course", "group coaching", "1:1 coaching", "email course", "book"],
+  "delivery": [
+    "YouTube interview archive",
+    "podcast",
+    "online course",
+    "group coaching",
+    "1:1 coaching",
+    "email course",
+    "book"
+  ],
   "business_model": "freemium/hybrid",
-  "cost_summary": "The YouTube channel, podcast, 5-day starter email course and weekly cheat sheets are free. YouTube channel membership is optional at $4/month. Brain Retraining 101 costs US$197/month (may vary with local tax/currency), can be cancelled anytime and has a 14-day full refund window (Oct 2026). The book is a low-cost Kindle/print title.",
+  "cost_summary": "The YouTube channel, podcast, 5-day starter email course and weekly cheat sheets are free. YouTube channel membership is optional at $4/month. Brain Retraining 101 costs US$197/month (may vary with local tax/currency), can be cancelled anytime and has a 14-day full refund window (Oct 2026). A $50-off code (BJORNFIFTY) appears in 2026 podcast show notes. The book is a low-cost Kindle/print title.",
   "cost_usd_typical": 591,
-  "conditions_claimed": ["ME/CFS", "long COVID", "PVFS", "POTS/dysautonomia", "MCAS", "fibromyalgia", "chronic pain (general)"],
-  "conditions_primary": ["ME/CFS", "long COVID"],
+  "conditions_claimed": [
+    "ME/CFS",
+    "long COVID",
+    "PVFS",
+    "POTS/dysautonomia",
+    "MCAS",
+    "fibromyalgia",
+    "chronic pain (general)"
+  ],
+  "conditions_primary": [
+    "ME/CFS",
+    "long COVID"
+  ],
   "differentiation": "single unified mechanism",
-  "mechanisms": ["neuroplastic/learned pain (brain-generated danger signal / predictive processing)", "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")", "attention & interoception / hypervigilance", "fear-avoidance / catastrophizing / cognitive appraisal", "repressed emotion / psychodynamic (rage, TMS)"],
+  "mechanisms": [
+    "neuroplastic/learned pain (brain-generated danger signal / predictive processing)",
+    "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")",
+    "attention & interoception / hypervigilance",
+    "fear-avoidance / catastrophizing / cognitive appraisal",
+    "repressed emotion / psychodynamic (rage, TMS)"
+  ],
   "mechanism_summary": "The programme holds that a protective nervous system gets stuck in protection mode and keeps generating real physical symptoms (fatigue, pain, POTS, MCAS) after the trigger has resolved. This learned, over-sensitive response is called a neuroplastic symptom. Fear, hypervigilance and suppressed emotion or pressures keep it going, and it can be unlearned by building safety. The same mechanism is applied to every diagnosis, and no biomedical secondary-dysfunction model is offered.",
-  "roots": ["Sarno TMS", "Pain Reprocessing Therapy / Schubiner mind-body syndrome", "gate control / neuromatrix pain science", "Internal Family Systems", "Buddhist vipassana/insight meditation", "third-wave CBT (ACT, DBT)", "CBT (Beck/Ellis)", "Hindu yoga/pranayama", "life coaching / positive psychology"],
-  "techniques": ["somatic tracking", "symptom 'interviewing'", "daily safety practice", "evidence lists of symptom change", "changing symptom vocabulary/self-talk", "graded activity expansion ('The Ladder')", "handling dips/relapse protocol", "emotional processing, anger work, journaling", "IFS-style parts work", "self-compassion guided meditations", "breathwork, yoga nidra, tapping (in interviews)", "reducing symptom monitoring", "joy/meaning", "recovery-story exposure (hope/expectancy)", "group coaching calls and 1:1 coach"],
+  "roots": [
+    "Sarno TMS",
+    "Pain Reprocessing Therapy / Schubiner mind-body syndrome",
+    "gate control / neuromatrix pain science",
+    "Internal Family Systems",
+    "Buddhist vipassana/insight meditation",
+    "third-wave CBT (ACT, DBT)",
+    "CBT (Beck/Ellis)",
+    "Hindu yoga/pranayama",
+    "life coaching / positive psychology"
+  ],
+  "techniques": [
+    "somatic tracking",
+    "symptom 'interviewing'",
+    "daily safety practice",
+    "evidence lists of symptom change",
+    "changing symptom vocabulary/self-talk",
+    "graded activity expansion ('The Ladder')",
+    "handling dips/relapse protocol",
+    "emotional processing, anger work, journaling",
+    "IFS-style parts work",
+    "self-compassion guided meditations",
+    "breathwork, yoga nidra, tapping (in interviews)",
+    "reducing symptom monitoring",
+    "joy/meaning",
+    "recovery-story exposure (hope/expectancy)",
+    "group coaching calls and 1:1 coach"
+  ],
   "mainstream_adoption": "none",
-  "mainstream_notes": "This is a direct-to-consumer LLC with lay and peer coaches. Clinicians such as Schubiner, Gordon, Garner and Mickel reportedly appear as interview guests (not individually re-verified), but no health system uses the programme. Its graded-activity and retraining framing sits outside the NICE 2021 ME/CFS guideline, which advises against GET and Lightning-Process-type therapies.",
+  "mainstream_notes": "This is a direct-to-consumer LLC with lay and peer coaches. Clinicians including Schubiner, Gordon, Garner and Mickel have appeared as podcast guests (confirmed in the RSS feed), but no health system uses the programme. Its graded-activity and retraining framing sits outside the NICE 2021 ME/CFS guideline, which advises against GET and Lightning-Process-type therapies.",
   "insurance": "no",
   "insurance_notes": "The programme is a self-pay subscription with no reimbursement pathway.",
   "evidence_level": "case reports/observational only",
@@ -34,26 +87,95 @@
   "controversy": "The programme frames ME/CFS and long COVID as neuroplastic, retrainable conditions, which many ME/CFS patients and advocates reject as psychogenic and as carrying a risk of post-exertional malaise relapse from graded activity. The recovery-story format has strong survivorship bias, and the only 'research' analyses the founder's own selected interviews. The open-ended $197/month subscription with lay coaches comes with no outcome data, and the founder's training is in social work, not medicine. On the other side, the programme requires medical evaluation first and says it is not intended for people with mental-health conditions.",
   "popularity": {
     "indicators": [
-      {"metric": "YouTube subscribers", "value": "81.2K", "source": "YouTube channel page", "year": 2026},
-      {"metric": "YouTube total views", "value": "10,971,251", "source": "YouTube about page", "year": 2026},
-      {"metric": "YouTube uploads", "value": "~1.1K incl. shorts; ~300 recovery interviews (researcher figure, not re-verified)", "source": "YouTube; raelanagle.com", "year": 2026},
-      {"metric": "YouTube channel joined", "value": "4 Sep 2019", "source": "YouTube about page", "year": 2019},
-      {"metric": "Podcast episodes", "value": "235 (first 21 Aug 2024)", "source": "Buzzsprout RSS", "year": 2026},
-      {"metric": "Self-reported reach", "value": "'millions of viewers each year'; 70K+ subs / 8M+ views on site", "source": "raelanagle.com", "year": 2026}
+      {
+        "metric": "YouTube subscribers",
+        "value": "81.2K",
+        "source": "YouTube channel page",
+        "year": 2026
+      },
+      {
+        "metric": "YouTube total views",
+        "value": "10,971,251",
+        "source": "YouTube about page",
+        "year": 2026
+      },
+      {
+        "metric": "YouTube uploads",
+        "value": "~1.1K incl. shorts; nearly 300 recovery interviews (per raelanagle.com)",
+        "source": "YouTube; raelanagle.com",
+        "year": 2026
+      },
+      {
+        "metric": "YouTube channel joined",
+        "value": "4 Sep 2019",
+        "source": "YouTube about page",
+        "year": 2019
+      },
+      {
+        "metric": "Podcast episodes",
+        "value": "235 (first 21 Aug 2024)",
+        "source": "Buzzsprout RSS",
+        "year": 2026
+      },
+      {
+        "metric": "Self-reported reach",
+        "value": "'millions of viewers each year'; 70K+ subs / 8M+ views on site",
+        "source": "raelanagle.com",
+        "year": 2026
+      }
     ],
     "reach_estimate": "Roughly 1M distinct people have been exposed to the free content (11M views, 81K subscribers). Paid enrolment is undisclosed and is probably in the low thousands.",
     "reach_log10": 6,
     "trajectory": [
-      {"year": 2019, "relative_activity": 0.5},
-      {"year": 2020, "relative_activity": 1.5},
-      {"year": 2021, "relative_activity": 3},
-      {"year": 2022, "relative_activity": 4.5},
-      {"year": 2023, "relative_activity": 6},
-      {"year": 2024, "relative_activity": 7.5},
-      {"year": 2025, "relative_activity": 8.5},
-      {"year": 2026, "relative_activity": 9}
+      {
+        "year": 2019,
+        "relative_activity": 0.5
+      },
+      {
+        "year": 2020,
+        "relative_activity": 1.5
+      },
+      {
+        "year": 2021,
+        "relative_activity": 3
+      },
+      {
+        "year": 2022,
+        "relative_activity": 4.5
+      },
+      {
+        "year": 2023,
+        "relative_activity": 6
+      },
+      {
+        "year": 2024,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2025,
+        "relative_activity": 8.5
+      },
+      {
+        "year": 2026,
+        "relative_activity": 9
+      }
     ],
-    "method_notes": "The trajectory is anchored on the YouTube join date (Sep 2019), the book (Dec 2019), the ages of key videos, the podcast launch (Aug 2024; 235 episodes by Oct 2026) and the July 2026 Goldsmiths report. Site counts that lag the live ones (70K/8M against 81K/11M) suggest continued growth. The web search quota was exhausted, so Reddit, Google Trends and news were not sampled and the trajectory is coarse. cost_usd_typical assumes 3 months of subscription."
+    "method_notes": "The trajectory is anchored on the YouTube join date (Sep 2019), the book (Dec 2019), the ages of key videos, the podcast launch (Aug 2024; 235 episodes by Oct 2026) and the July 2026 Goldsmiths report. Site counts that lag the live ones (70K/8M against 81K/11M) suggest continued growth. Reddit could not be sampled because it blocks automated access, and Google Trends and news were not checked, so the trajectory is coarse. cost_usd_typical assumes 3 months of subscription."
   },
-  "sources": ["https://www.raelanagle.com/", "https://www.raelanagle.com/about-me", "https://www.raelanagle.com/brain-retraining-101", "https://raelan-agle-s-school1.teachable.com/courses/2401871", "https://www.raelanagle.com/free-starter-brain-retraining-course", "https://www.raelanagle.com/recovery-interview-cheat-sheets", "https://www.raelanagle.com/research", "https://recoveryispossible.info/", "https://www.youtube.com/channel/UCy4EjD4exCbtuGQkSa71ozA", "https://rss.buzzsprout.com/2393184.rss", "https://www.amazon.com/dp/B0818DGN2D", "https://www.nice.org.uk/guidance/ng206"]
+  "sources": [
+    "https://www.raelanagle.com/",
+    "https://www.raelanagle.com/about-me",
+    "https://www.raelanagle.com/brain-retraining-101",
+    "https://raelan-agle-s-school1.teachable.com/courses/2401871",
+    "https://www.raelanagle.com/free-starter-brain-retraining-course",
+    "https://www.raelanagle.com/recovery-interview-cheat-sheets",
+    "https://www.raelanagle.com/research",
+    "https://recoveryispossible.info/",
+    "https://www.youtube.com/channel/UCy4EjD4exCbtuGQkSa71ozA",
+    "https://rss.buzzsprout.com/2393184.rss",
+    "https://www.amazon.com/dp/B0818DGN2D",
+    "https://www.nice.org.uk/guidance/ng206",
+    "https://web.archive.org/web/20231216235219/https://raelanagle.com/about/",
+    "https://web.archive.org/web/20240606210436/https://raelan-agle-s-school1.teachable.com/"
+  ]
 }

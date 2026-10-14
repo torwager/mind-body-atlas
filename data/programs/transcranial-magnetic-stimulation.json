@@ -2,56 +2,303 @@
   "slug": "transcranial-magnetic-stimulation",
   "name": "Repetitive transcranial magnetic stimulation (NeuroStar, BrainsWay Deep TMS, SAINT/SNT)",
   "url": "https://neurostar.com/",
-  "founders": ["Anthony Barker (TMS device, Sheffield 1985)", "Mark George / Alvaro Pascual-Leone (rTMS for depression, 1990s)", "Neuronetics Inc. (NeuroStar; incorporated 2003)", "Abraham Zangen & Yiftach Roth (BrainsWay H-coil)", "Nolan Williams (SAINT/SNT, Stanford; Magnus Medical)"],
+  "founders": [
+    "Anthony Barker (TMS device, Sheffield 1985)",
+    "Mark George / Alvaro Pascual-Leone (rTMS for depression, 1990s)",
+    "Neuronetics Inc. (NeuroStar; incorporated 2003)",
+    "Abraham Zangen & Yiftach Roth (BrainsWay H-coil)",
+    "Nolan Williams (SAINT/SNT, Stanford; Magnus Medical)"
+  ],
   "founded_year": 2008,
-  "founded_year_range": "TMS 1985; depression rTMS trials 1993-96; NeuroStar FDA clearance Oct 2008; BrainsWay MDD 2013; SAINT 510(k) K220177 cleared 1 Sep 2022",
+  "founded_year_range": "TMS 1985; depression rTMS trials 1993-96; Health Canada approval 2002; NeuroStar FDA clearance Oct 2008; BrainsWay MDD 2013; SAINT 510(k) K220177 cleared 1 Sep 2022",
   "category": "device/neuromodulation/biofeedback",
-  "delivery": ["device", "clinician-delivered"],
+  "delivery": [
+    "device",
+    "clinician-delivered"
+  ],
   "business_model": "clinician-delivered (fee-for-service)",
-  "cost_summary": "US cash approx. $6,000-15,000 per ~36-session acute course (~$200-500/session; approx., not verified); SAINT reportedly >$20-30k cash (unverified); usually insurance-covered for TRD with copays. Company sites list no prices.",
+  "cost_summary": "US cash typically $6,000-15,000 per ~36-session acute course (~$300-500/session; clinic price guides 2025-26); SAINT cash ~$30-36k per clinic reports, Medicare hospital outpatient payment ~$19,703 per protocol (2025 OPPS); usually insurance-covered for TRD with copays. Company sites list no prices.",
   "cost_usd_typical": 9000,
-  "conditions_claimed": ["depression", "anxiety", "OCD", "addiction/substance use", "chronic pain (general)", "fibromyalgia", "CRPS", "headache/migraine", "PTSD/trauma", "tinnitus", "IBS/functional GI", "FND", "long COVID"],
-  "conditions_primary": ["depression", "chronic pain (general)", "fibromyalgia"],
+  "conditions_claimed": [
+    "depression",
+    "anxiety",
+    "OCD",
+    "addiction/substance use",
+    "chronic pain (general)",
+    "fibromyalgia",
+    "CRPS",
+    "headache/migraine",
+    "PTSD/trauma",
+    "tinnitus",
+    "IBS/functional GI",
+    "FND",
+    "long COVID"
+  ],
+  "conditions_primary": [
+    "depression",
+    "chronic pain (general)",
+    "fibromyalgia"
+  ],
   "differentiation": "differentiated by condition",
-  "mechanisms": ["brain network / oscillation dysregulation", "central sensitization", "limbic system impairment / amygdala threat conditioning"],
+  "mechanisms": [
+    "brain network / oscillation dysregulation",
+    "central sensitization",
+    "limbic system impairment / amygdala threat conditioning"
+  ],
   "mechanism_summary": "Magnetic induction of cortical currents; repeated trains produce LTP/LTD-like plasticity that propagates through networks. Depression: restore hypoactive left DLPFC and its top-down control over the sgACC/limbic circuit (SAINT targets the DLPFC site most anticorrelated with sgACC on fMRI, using accelerated iTBS). Pain/fibromyalgia: high-frequency M1 stimulation engages descending inhibitory/opioid pathways and restores intracortical inhibition, countering central sensitisation. Each indication has its own target and parameters.",
-  "roots": ["ECT / electroconvulsive therapy", "Faraday electromagnetism", "LTP/LTD synaptic plasticity research", "functional neuroimaging of depression circuits", "gate control / neuromatrix pain science", "invasive motor cortex stimulation"],
-  "techniques": ["10 Hz left DLPFC rTMS, ~36 sessions over 6 weeks", "intermittent theta-burst stimulation (3-min sessions)", "deep TMS H-coil (BrainsWay) with symptom/cue provocation for OCD/smoking", "SAINT: fMRI-guided accelerated iTBS, 10 sessions/day x 5 days", "high-frequency M1 rTMS for neuropathic pain/fibromyalgia with maintenance sessions", "low-frequency right DLPFC rTMS", "maintenance/booster sessions"],
+  "roots": [
+    "ECT / electroconvulsive therapy",
+    "Faraday electromagnetism",
+    "LTP/LTD synaptic plasticity research",
+    "functional neuroimaging of depression circuits",
+    "gate control / neuromatrix pain science",
+    "invasive motor cortex stimulation"
+  ],
+  "techniques": [
+    "10 Hz left DLPFC rTMS, ~36 sessions over 6 weeks",
+    "intermittent theta-burst stimulation (3-min sessions)",
+    "deep TMS H-coil (BrainsWay) with symptom/cue provocation for OCD/smoking",
+    "SAINT: fMRI-guided accelerated iTBS, 10 sessions/day x 5 days",
+    "high-frequency M1 rTMS for neuropathic pain/fibromyalgia with maintenance sessions",
+    "low-frequency right DLPFC rTMS",
+    "maintenance/booster sessions"
+  ],
   "mainstream_adoption": "substantial",
   "mainstream_notes": "Depression: APA (2010) and CANMAT (2016) guidelines, NICE IPG542 (2015), VA and academic centres; FDA-cleared for TRD, anxious depression, adolescent MDD (NeuroStar, 15-21), late-life depression (BrainsWay), OCD and smoking cessation. Pain: IFCN guideline (Lefaucheur 2020) Level A for M1 rTMS in neuropathic pain and Level B for fibromyalgia; weak third-line recommendation (Soliman 2025, Lancet Neurol); Cochrane 2018 rates evidence low/very low quality. Pain use mostly in European specialist centres.",
   "insurance": "yes",
-  "insurance_notes": "US commercial insurers, Medicare (LCDs) and Tricare cover treatment-resistant MDD (CPT 90867-90869) after failed antidepressant trials and prior authorisation; OCD coverage is growing; pain and fibromyalgia are generally not covered in the US. SAINT-specific reimbursement not verified.",
+  "insurance_notes": "US commercial insurers, Medicare (LCDs, e.g. L34998), many Medicaid programs (Vermont since 2012) and Tricare cover treatment-resistant MDD (CPT 90867-90869) after failed antidepressant trials and prior authorisation; coverage spread ~2012-2013; OCD coverage is growing; pain and fibromyalgia generally not covered in the US. SAINT: Category III CPT codes (Jul 2024), inpatient NTAP up to $12,675, Medicare outpatient New Technology APC ~$19,703/protocol from 2025, maintained 2026.",
   "evidence_level": "systematic reviews/meta-analyses",
   "key_trials": [
-    {"citation": "O'Reardon JP et al. Biol Psychiatry 2007;62:1208-16 (PMID 17573044)", "design": "Multisite double-blind sham-controlled RCT, NeuroStar pivotal (industry)", "n": 301, "finding": "Active TMS superior to sham on MADRS at week 4 (with post hoc baseline-severity correction) and on HAMD at weeks 4 and 6; remission ~2x sham", "url": "https://pubmed.ncbi.nlm.nih.gov/17573044/"},
-    {"citation": "George MS et al. Arch Gen Psychiatry 2010;67:507-16 (PMID 20439832)", "design": "NIH-funded multisite sham-controlled RCT", "n": 199, "finding": "Remission 14.1% vs 5.1% sham (OR 4.2, NNT 12)", "url": "https://pubmed.ncbi.nlm.nih.gov/20439832/"},
-    {"citation": "Levkovitz Y et al. World Psychiatry 2015;14:64-73 (PMID 25655160)", "design": "Multicenter sham-controlled RCT of deep TMS (BrainsWay H-coil)", "n": 212, "finding": "Response 38.4% vs 21.4%; remission 32.6% vs 14.6% at week 5; sustained through the 12-week maintenance phase", "url": "https://pubmed.ncbi.nlm.nih.gov/25655160/"},
-    {"citation": "Blumberger DM et al. Lancet 2018;391:1683-92 (THREE-D) (PMID 29726344)", "design": "Randomised non-inferiority trial, iTBS vs 10 Hz rTMS", "n": 414, "finding": "3-min iTBS non-inferior to 37-min 10 Hz rTMS for TRD", "url": "https://pubmed.ncbi.nlm.nih.gov/29726344/"},
-    {"citation": "Yesavage JA et al. JAMA Psychiatry 2018;75:884-893 (PMID 29955803)", "design": "VA Cooperative Studies double-blind sham-controlled RCT, 9 VA centres", "n": 164, "finding": "No significant difference in remission between active 10 Hz left DLPFC rTMS and sham (~41% vs ~37%); important independent null result", "url": "https://pubmed.ncbi.nlm.nih.gov/29955803/"},
-    {"citation": "Cole EJ et al. Am J Psychiatry 2020;177:716-726 (PMID 32252538)", "design": "Open-label single-arm SAINT study", "n": 22, "finding": "Remission in 19/21 with outcome data (90.5%) after 5 days; 86.4% of 22 by ITT", "url": "https://pubmed.ncbi.nlm.nih.gov/32252538/"},
-    {"citation": "Cole EJ et al. Am J Psychiatry 2022;179:132-141 (PMID 34711062)", "design": "Double-blind sham RCT of SNT/SAINT, planned interim analysis (32 enrolled; 14 active, 15 sham)", "n": 29, "finding": "MADRS reduction 52.5% active vs 11.1% sham at 4 weeks post-treatment", "url": "https://pubmed.ncbi.nlm.nih.gov/34711062/"},
-    {"citation": "Passard A et al. Brain 2007;130:2661-70 (PMID 17872930)", "design": "Sham-controlled RCT, M1 rTMS in fibromyalgia", "n": 30, "finding": "Reduced widespread pain from the 5th session, lasting ~2 weeks after treatment", "url": "https://pubmed.ncbi.nlm.nih.gov/17872930/"},
-    {"citation": "Mhalla A et al. Pain 2011;152:1478-85 (PMID 21397400)", "design": "Sham-controlled RCT with maintenance, fibromyalgia (30 completers)", "n": 40, "finding": "Pain reduction maintained to week 25; correlated with intracortical inhibition changes", "url": "https://pubmed.ncbi.nlm.nih.gov/21397400/"},
-    {"citation": "Attal N et al. Brain 2021;144:3328-39 (PMID 34196698)", "design": "Multicentre sham-controlled RCT, neuronavigated M1 vs DLPFC rTMS, peripheral neuropathic pain", "n": 152, "finding": "M1 rTMS reduced pain vs sham over 25 weeks; DLPFC did not", "url": "https://pubmed.ncbi.nlm.nih.gov/34196698/"},
-    {"citation": "Silva VA et al. Br J Anaesth 2025;134:1756-64 (PMID 40087077)", "design": "Multicentre sham-controlled RCT, add-on M1 rTMS in fibromyalgia (women; Brazil, France, Japan)", "n": 101, "finding": "Week-8 50% responder OR 3.04, NNT ~4.5; relative pain reduction 40.4% vs 18.4%; analgesia waned by week 16, FIQ gains persisted", "url": "https://pubmed.ncbi.nlm.nih.gov/40087077/"},
-    {"citation": "Toh EYJ et al. Psychosom Med 2022;84:400-409 (PMID 35100184)", "design": "Meta-analysis of 11 RCTs in fibromyalgia", "n": 303, "finding": "Pain SMD -0.35, QoL SMD -0.51 vs sham; no effect on depression/anxiety; M1 drove pain benefit (SMD -0.57)", "url": "https://pubmed.ncbi.nlm.nih.gov/35100184/"},
-    {"citation": "O'Connell NE et al. Cochrane Database Syst Rev 2018;CD008208 (PMID 29547226)", "design": "Cochrane systematic review of non-invasive brain stimulation for chronic pain (rTMS: 27 studies in short-term pain meta-analysis)", "n": 655, "finding": "rTMS vs sham small short-term effect (SMD -0.22, ~7% pain reduction), low-quality evidence; no evidence for low-frequency or DLPFC rTMS", "url": "https://pubmed.ncbi.nlm.nih.gov/29547226/"},
-    {"citation": "Soliman N et al. Lancet Neurol 2025;24:413-428 (PMID 40252663)", "design": "NeuPSIG systematic review/meta-analysis of neuropathic pain treatments (313 RCTs, 29 neuromodulation)", "n": 48789, "finding": "rTMS NNT 4.2 (95% CI 2.3-28.3; low certainty); weak third-line recommendation", "url": "https://pubmed.ncbi.nlm.nih.gov/40252663/"}
+    {
+      "citation": "O'Reardon JP et al. Biol Psychiatry 2007;62:1208-16 (PMID 17573044)",
+      "design": "Multisite double-blind sham-controlled RCT, NeuroStar pivotal (industry)",
+      "n": 301,
+      "finding": "Active TMS superior to sham on MADRS at week 4 (with post hoc baseline-severity correction) and on HAMD at weeks 4 and 6; remission ~2x sham",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17573044/"
+    },
+    {
+      "citation": "George MS et al. Arch Gen Psychiatry 2010;67:507-16 (PMID 20439832)",
+      "design": "NIH-funded multisite sham-controlled RCT",
+      "n": 199,
+      "finding": "Remission 14.1% vs 5.1% sham (OR 4.2, NNT 12)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20439832/"
+    },
+    {
+      "citation": "Levkovitz Y et al. World Psychiatry 2015;14:64-73 (PMID 25655160)",
+      "design": "Multicenter sham-controlled RCT of deep TMS (BrainsWay H-coil)",
+      "n": 212,
+      "finding": "Response 38.4% vs 21.4%; remission 32.6% vs 14.6% at week 5; sustained through the 12-week maintenance phase",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25655160/"
+    },
+    {
+      "citation": "Blumberger DM et al. Lancet 2018;391:1683-92 (THREE-D) (PMID 29726344)",
+      "design": "Randomised non-inferiority trial, iTBS vs 10 Hz rTMS",
+      "n": 414,
+      "finding": "3-min iTBS non-inferior to 37-min 10 Hz rTMS for TRD",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29726344/"
+    },
+    {
+      "citation": "Yesavage JA et al. JAMA Psychiatry 2018;75:884-893 (PMID 29955803)",
+      "design": "VA Cooperative Studies double-blind sham-controlled RCT, 9 VA centres",
+      "n": 164,
+      "finding": "No significant difference in remission between active 10 Hz left DLPFC rTMS and sham (~41% vs ~37%); important independent null result",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29955803/"
+    },
+    {
+      "citation": "Cole EJ et al. Am J Psychiatry 2020;177:716-726 (PMID 32252538)",
+      "design": "Open-label single-arm SAINT study",
+      "n": 22,
+      "finding": "Remission in 19/21 with outcome data (90.5%) after 5 days; 86.4% of 22 by ITT",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32252538/"
+    },
+    {
+      "citation": "Cole EJ et al. Am J Psychiatry 2022;179:132-141 (PMID 34711062)",
+      "design": "Double-blind sham RCT of SNT/SAINT, planned interim analysis (32 enrolled; 14 active, 15 sham)",
+      "n": 29,
+      "finding": "MADRS reduction 52.5% active vs 11.1% sham at 4 weeks post-treatment",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34711062/"
+    },
+    {
+      "citation": "Passard A et al. Brain 2007;130:2661-70 (PMID 17872930)",
+      "design": "Sham-controlled RCT, M1 rTMS in fibromyalgia",
+      "n": 30,
+      "finding": "Reduced widespread pain from the 5th session, lasting ~2 weeks after treatment",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17872930/"
+    },
+    {
+      "citation": "Mhalla A et al. Pain 2011;152:1478-85 (PMID 21397400)",
+      "design": "Sham-controlled RCT with maintenance, fibromyalgia (30 completers)",
+      "n": 40,
+      "finding": "Pain reduction maintained to week 25; correlated with intracortical inhibition changes",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21397400/"
+    },
+    {
+      "citation": "Attal N et al. Brain 2021;144:3328-39 (PMID 34196698)",
+      "design": "Multicentre sham-controlled RCT, neuronavigated M1 vs DLPFC rTMS, peripheral neuropathic pain",
+      "n": 152,
+      "finding": "M1 rTMS reduced pain vs sham over 25 weeks; DLPFC did not",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34196698/"
+    },
+    {
+      "citation": "Silva VA et al. Br J Anaesth 2025;134:1756-64 (PMID 40087077)",
+      "design": "Multicentre sham-controlled RCT, add-on M1 rTMS in fibromyalgia (women; Brazil, France, Japan)",
+      "n": 101,
+      "finding": "Week-8 50% responder OR 3.04, NNT ~4.5; relative pain reduction 40.4% vs 18.4%; analgesia waned by week 16, FIQ gains persisted",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40087077/"
+    },
+    {
+      "citation": "Toh EYJ et al. Psychosom Med 2022;84:400-409 (PMID 35100184)",
+      "design": "Meta-analysis of 11 RCTs in fibromyalgia",
+      "n": 303,
+      "finding": "Pain SMD -0.35, QoL SMD -0.51 vs sham; no effect on depression/anxiety; M1 drove pain benefit (SMD -0.57)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35100184/"
+    },
+    {
+      "citation": "O'Connell NE et al. Cochrane Database Syst Rev 2018;CD008208 (PMID 29547226)",
+      "design": "Cochrane systematic review of non-invasive brain stimulation for chronic pain (rTMS: 27 studies in short-term pain meta-analysis)",
+      "n": 655,
+      "finding": "rTMS vs sham small short-term effect (SMD -0.22, ~7% pain reduction), low-quality evidence; no evidence for low-frequency or DLPFC rTMS",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29547226/"
+    },
+    {
+      "citation": "Soliman N et al. Lancet Neurol 2025;24:413-428 (PMID 40252663)",
+      "design": "NeuPSIG systematic review/meta-analysis of neuropathic pain treatments (313 RCTs, 29 neuromodulation)",
+      "n": 48789,
+      "finding": "rTMS NNT 4.2 (95% CI 2.3-28.3; low certainty); weak third-line recommendation",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40252663/"
+    }
   ],
   "controversy": "Moderate effect sizes against sham; imperfect sham blinding and industry-sponsored pivotal trials (NeuroStar week-4 MADRS result needed post hoc baseline correction); a large independent VA RCT (Yesavage 2018, N=164) found no active-sham difference. Expectancy effects from intensive daily clinic contact. SAINT's ~90% remission figure is open-label; its RCT was small and reported at interim. NeuroStar's '62% remission' is uncontrolled registry CGI-S data. Cochrane rates chronic-pain evidence low/very low quality. High cost and limited access. Off-label clinic marketing (anxiety, autism, long COVID). Pain benefits fade without maintenance. Rare seizures.",
   "popularity": {
     "indicators": [
-      {"metric": "NeuroStar cumulative treatments / patients", "value": ">9 million treatments in >250,000 patients", "source": "neurostar.com (verified 2026-10-12)", "year": 2026},
-      {"metric": "BrainsWay providers", "value": ">800 providers", "source": "brainsway.com (verified 2026-10-12)", "year": 2026},
-      {"metric": "FDA clearances", "value": "NeuroStar 2008; BrainsWay MDD 2013, OCD 2018, smoking 2020; SAINT K220177 cleared 1 Sep 2022", "source": "FDA 510(k) database / company sites", "year": 2022},
-      {"metric": "Insurance coverage spread", "value": "Major US insurers began covering TRD ~2011-2013; now most plans incl. Medicare", "source": "Wikipedia; neurostar.com (not independently re-verified)", "year": 2013}
+      {
+        "metric": "NeuroStar cumulative treatments / patients",
+        "value": ">9 million treatments in >250,000 patients",
+        "source": "neurostar.com (verified 2026-10-12)",
+        "year": 2026
+      },
+      {
+        "metric": "BrainsWay providers",
+        "value": ">800 providers",
+        "source": "brainsway.com (verified 2026-10-12)",
+        "year": 2026
+      },
+      {
+        "metric": "FDA clearances",
+        "value": "NeuroStar 2008; BrainsWay MDD 2013, OCD 2018, smoking 2020; SAINT K220177 cleared 1 Sep 2022",
+        "source": "FDA 510(k) database / company sites",
+        "year": 2022
+      },
+      {
+        "metric": "Insurance coverage spread",
+        "value": "US payers began covering TRD ~2012-2013 (Vermont Medicaid 2012; Medicare LCD proposals 2012; BCBS 2013); now most plans incl. Medicare",
+        "source": "National Health Law Program TMS fact sheet 2024; Clinical TMS Society 2025; CMS LCD L32220 comments",
+        "year": 2013
+      },
+      {
+        "metric": "Neuronetics clinic network after Greenbrook acquisition",
+        "value": "~95 TMS/Spravato clinics; acquisition closed Dec 2024",
+        "source": "SEC 8-K (Greenbrook, Dec 2024); press coverage",
+        "year": 2024
+      }
     ],
     "reach_estimate": "~1-2 million people worldwide cumulatively (estimate; NeuroStar alone >250k verified; plus BrainsWay, Magstim/MagVenture and other systems, and Canadian/European/Asian use)",
     "reach_log10": 6.1,
     "trajectory": [
-      {"year": 1985, "relative_activity": 0.5}, {"year": 1995, "relative_activity": 1}, {"year": 2000, "relative_activity": 1.5}, {"year": 2005, "relative_activity": 2}, {"year": 2008, "relative_activity": 2.5}, {"year": 2010, "relative_activity": 3}, {"year": 2012, "relative_activity": 3.5}, {"year": 2014, "relative_activity": 4.5}, {"year": 2016, "relative_activity": 5.5}, {"year": 2018, "relative_activity": 6.5}, {"year": 2020, "relative_activity": 7.5}, {"year": 2022, "relative_activity": 8.5}, {"year": 2024, "relative_activity": 9}, {"year": 2026, "relative_activity": 9.5}
+      {
+        "year": 1985,
+        "relative_activity": 0.5
+      },
+      {
+        "year": 1995,
+        "relative_activity": 1
+      },
+      {
+        "year": 2000,
+        "relative_activity": 1.5
+      },
+      {
+        "year": 2005,
+        "relative_activity": 2
+      },
+      {
+        "year": 2008,
+        "relative_activity": 2.5
+      },
+      {
+        "year": 2010,
+        "relative_activity": 3
+      },
+      {
+        "year": 2012,
+        "relative_activity": 3.5
+      },
+      {
+        "year": 2014,
+        "relative_activity": 4.5
+      },
+      {
+        "year": 2016,
+        "relative_activity": 5.5
+      },
+      {
+        "year": 2018,
+        "relative_activity": 6.5
+      },
+      {
+        "year": 2020,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2022,
+        "relative_activity": 8.5
+      },
+      {
+        "year": 2024,
+        "relative_activity": 9
+      },
+      {
+        "year": 2026,
+        "relative_activity": 9.5
+      }
     ],
-    "method_notes": "The trajectory is anchored to regulatory milestones (FDA 2008/2013/2018/2020/2022), the spread of insurance coverage (2011-2013), publication growth, the 2020-22 SAINT media spike, and company-reported cumulative patients (NeuroStar >250k, verified on site). Reach and trajectory are partly estimated from background knowledge. Google Trends and Reddit member counts were not verified numerically. An unverified '~19 fibromyalgia RCTs' indicator was removed during fact-checking."
+    "method_notes": "The trajectory is anchored to regulatory milestones (FDA 2008/2013/2018/2020/2022), the spread of insurance coverage (2011-2013), publication growth, the 2020-22 SAINT media spike, and company-reported cumulative patients (NeuroStar >250k, verified on site). Reach and trajectory are partly estimated from background knowledge. Google Trends could not be quantified (no machine-readable export) and the r/TMS member count could not be retrieved (Reddit API blocked automated requests, 2026-10-13). An unverified '~19 fibromyalgia RCTs' indicator was removed during fact-checking."
   },
-  "sources": ["https://neurostar.com/", "https://www.brainsway.com/", "https://www.magnusmedical.com/", "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K220177", "https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation", "https://pubmed.ncbi.nlm.nih.gov/17573044/", "https://pubmed.ncbi.nlm.nih.gov/20439832/", "https://pubmed.ncbi.nlm.nih.gov/25655160/", "https://pubmed.ncbi.nlm.nih.gov/29726344/", "https://pubmed.ncbi.nlm.nih.gov/29955803/", "https://pubmed.ncbi.nlm.nih.gov/32252538/", "https://pubmed.ncbi.nlm.nih.gov/34711062/", "https://pubmed.ncbi.nlm.nih.gov/17872930/", "https://pubmed.ncbi.nlm.nih.gov/21397400/", "https://pubmed.ncbi.nlm.nih.gov/34196698/", "https://pubmed.ncbi.nlm.nih.gov/40087077/", "https://pubmed.ncbi.nlm.nih.gov/35100184/", "https://pubmed.ncbi.nlm.nih.gov/29547226/", "https://pubmed.ncbi.nlm.nih.gov/40252663/", "https://pubmed.ncbi.nlm.nih.gov/31901449/", "https://pubmed.ncbi.nlm.nih.gov/24119239/", "https://pubmed.ncbi.nlm.nih.gov/25708187/", "https://pubmed.ncbi.nlm.nih.gov/37267198/"]
+  "sources": [
+    "https://neurostar.com/",
+    "https://www.brainsway.com/",
+    "https://www.magnusmedical.com/",
+    "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K220177",
+    "https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation",
+    "https://pubmed.ncbi.nlm.nih.gov/17573044/",
+    "https://pubmed.ncbi.nlm.nih.gov/20439832/",
+    "https://pubmed.ncbi.nlm.nih.gov/25655160/",
+    "https://pubmed.ncbi.nlm.nih.gov/29726344/",
+    "https://pubmed.ncbi.nlm.nih.gov/29955803/",
+    "https://pubmed.ncbi.nlm.nih.gov/32252538/",
+    "https://pubmed.ncbi.nlm.nih.gov/34711062/",
+    "https://pubmed.ncbi.nlm.nih.gov/17872930/",
+    "https://pubmed.ncbi.nlm.nih.gov/21397400/",
+    "https://pubmed.ncbi.nlm.nih.gov/34196698/",
+    "https://pubmed.ncbi.nlm.nih.gov/40087077/",
+    "https://pubmed.ncbi.nlm.nih.gov/35100184/",
+    "https://pubmed.ncbi.nlm.nih.gov/29547226/",
+    "https://pubmed.ncbi.nlm.nih.gov/40252663/",
+    "https://pubmed.ncbi.nlm.nih.gov/31901449/",
+    "https://pubmed.ncbi.nlm.nih.gov/24119239/",
+    "https://pubmed.ncbi.nlm.nih.gov/25708187/",
+    "https://pubmed.ncbi.nlm.nih.gov/37267198/",
+    "https://ontariohealth.ca/clinical/mental-health-addictions/neurostimulation-program",
+    "https://www.sec.gov/Archives/edgar/data/1735948/000114036124048931/ef20039750_ex99-1.htm",
+    "https://www.businesswire.com/news/home/20240430113478/en/Magnus-Medical-Announces-Commercial-Launch-of-Groundbreaking-SAINT-Neuromodulation-System",
+    "https://www.businesswire.com/news/home/20241112016592/en/Magnus-Medical-Announces-CMS-Approval-of-New-Payment-Rate-for-SAINT-Treatment-in-2025-Hospital-Outpatient-Rule",
+    "https://www.businesswire.com/news/home/20251124582323/en",
+    "https://healingmaps.com/tms-therapy-complete-guide/",
+    "https://www.cognitivefxusa.com/blog/tms-depression-treatment-costs",
+    "https://www.cognitivefxusa.com/blog/saint-tms-los-angeles",
+    "https://healthlaw.org/wp-content/uploads/2024/10/TMS-Fact-Sheet-2024.pdf",
+    "https://clinicaltmssociety.org/wp-content/uploads/2025/03/Lessons-Learned-From-U.S.-Insurance-1.pdf",
+    "https://pubmed.ncbi.nlm.nih.gov/31104898/",
+    "https://pubmed.ncbi.nlm.nih.gov/34133991/"
+  ]
 }

@@ -1,6 +1,6 @@
 # Repetitive Transcranial Magnetic Stimulation (rTMS): NeuroStar, BrainsWay Deep TMS, SAINT/SNT
 
-*Compiled 2026-10-12 from neurostar.com, brainsway.com, magnusmedical.com, Wikipedia (TMS history), and peer-reviewed abstracts retrieved via PubMed/Europe PMC. Content paraphrased. Note: the web-search budget ran out during compilation, so some commercial figures (prices, company metrics) come from background knowledge and are flagged "approx."; every trial listed was checked against PubMed/Europe PMC.*
+*Compiled 2026-10-12 from neurostar.com, brainsway.com, magnusmedical.com, Wikipedia (TMS history), and peer-reviewed abstracts retrieved via PubMed/Europe PMC. Content paraphrased. Prices are from clinic and company sources (cited below), not company list prices; every trial listed was checked against PubMed/Europe PMC.*
 
 > Not to be confused with "TMS" meaning tension myositis syndrome (Sarno).
 
@@ -9,10 +9,10 @@
 |---|---|
 | Website | https://neurostar.com/ ; https://www.brainsway.com/ ; https://www.magnusmedical.com/ (SAINT) |
 | Founder(s) | **Technique:** Anthony Barker and colleagues (Sheffield, UK) built the first practical TMS device in 1985. Mark George (MUSC/NIH) and Alvaro Pascual-Leone pioneered prefrontal rTMS for depression in the 1990s. **NeuroStar:** Neuronetics Inc. (Malvern, PA; founded 2003), with Mark Demitrack as CMO and Harold Sackeim among the trial leads. **BrainsWay Deep TMS (H-coil):** Abraham Zangen (Ben-Gurion University) and Yiftach Roth, with NIH collaborators; company in Jerusalem. **SAINT/SNT:** Nolan Williams (Stanford psychiatry); commercialised by Magnus Medical. |
-| Founded | TMS 1985. First depression trials 1993–96. Canada approved rTMS for depression in 2002 (approx.). NeuroStar FDA clearance Oct 2008. BrainsWay depression clearance Jan 2013, OCD 2018, smoking cessation 2020. SAINT 510(k) K220177 (Magnus Neuromodulation System with SAINT Technology) received Jan 2022, cleared 1 Sep 2022 (FDA database); FDA Breakthrough Device designation. |
+| Founded | TMS 1985. First depression trials 1993–96. Health Canada approved rTMS for depression in 2002 (Ontario Health). NeuroStar FDA clearance Oct 2008. BrainsWay depression clearance Jan 2013, OCD 2018, smoking cessation 2020. SAINT 510(k) K220177 (Magnus Neuromodulation System with SAINT Technology) received Jan 2022, cleared 1 Sep 2022 (FDA database); FDA Breakthrough Device designation. |
 | Format / delivery | In-clinic only, prescribed and supervised by a psychiatrist. Standard course: 5 sessions/week for 4–6 weeks, ~36 sessions of 19–40 min (3 min for theta-burst). SAINT: 10 sessions/day for 5 days. |
 | Business model | Commercial medical device sold or leased to clinics; clinician-delivered fee-for-service |
-| Direct cost | US cash price approx. $6,000–15,000 per acute course, roughly $200–500/session (2024–26 clinic quotes; approx.). SAINT has been reported at well above $20,000–30,000 cash (approx., not verified). Typical out-of-pocket with insurance is copays/deductible. NeuroStar's site lists no prices. |
+| Direct cost | US cash price typically $6,000–15,000 per acute course, about $300–500/session (clinic price guides 2025–26; individual clinics range from ~$5,000 to $15,000+). SAINT cash price is reported by clinics at ~$30,000–36,000; Medicare pays hospitals ~$19,703 for the full outpatient SAINT protocol (2025 OPPS, per Magnus Medical). Typical out-of-pocket with insurance is copays/deductible. NeuroStar's site lists no prices. |
 | Conditions claimed | **FDA-cleared:** treatment-resistant MDD in adults; anxious depression; adolescent MDD aged 15–21 (NeuroStar); late-life depression (BrainsWay); OCD adjunct; smoking cessation. **Studied / off-label:** neuropathic pain, fibromyalgia, CRPS, migraine (a separate single-pulse sTMS device), PTSD, tinnitus, addiction, small studies in IBS, FND and long COVID. |
 | Mainstream adoption | Substantial for depression: APA and CANMAT guidelines, NICE 2015 guidance, VA. Chronic pain is a third-line/specialist option only. |
 | Insurance reimbursable | Yes for treatment-resistant MDD (CPT 90867–90869; most US commercial insurers, Medicare LCDs, Tricare), usually after 2–4 failed antidepressants. Generally not reimbursed for pain or fibromyalgia in the US. |
@@ -46,7 +46,7 @@ The field does not treat ME/CFS, long COVID, POTS, MCS or IBS as one shared "bra
 - **SAINT/SNT.** fMRI to individualise the target, then 10 × 10-min iTBS sessions per day spaced 50 min apart, for 5 consecutive days (50 sessions, ~90,000 pulses). Patients are often seen inpatient or in day-hospital settings.
 - **Pain protocols (research/specialist).** M1 HF-rTMS: 5–10 daily induction sessions, then weekly-to-monthly maintenance. Benefit fades when sessions stop (Mhalla 2011; Silva 2025).
 - **Maintenance.** Booster sessions or repeat courses for relapse.
-- **Self-care.** None intrinsic to the device. It is given alongside medications and/or psychotherapy, and some clinics pair it with exercise or CBT. Risks include headache, scalp discomfort and a rare seizure risk (≈1 in 30,000–60,000 sessions; approx.).
+- **Self-care.** None intrinsic to the device. It is given alongside medications and/or psychotherapy, and some clinics pair it with exercise or CBT. Risks include headache, scalp discomfort and a rare seizure risk (≈0.3 per 10,000 sessions in a Clinical TMS Society survey of >500,000 sessions, higher with H-coil; <1 in 60,000 sessions in people without risk factors per Lerner 2019).
 
 ## 4. Roots and influences
 - 19th-century electromagnetism (Faraday) and **ECT** (1938), which established brain stimulation for depression. rTMS was designed as a seizure-free alternative.
@@ -59,7 +59,7 @@ The field does not treat ME/CFS, long COVID, POTS, MCS or IBS as one shared "bra
 ## 5. Mainstream adoption and insurance
 - **Depression.** Fully mainstream in the US, Canada, Australia, Israel and much of Europe. Recommended in the APA 2010 guideline and in CANMAT 2016 (first-line for patients who failed ≥1 antidepressant). NICE IPG542 (2015) allows rTMS with normal arrangements. Used in VA/DoD and academic medical centres. Accelerated protocols (SAINT) are moving into US hospitals.
 - **Pain.** The European IFCN-led guidelines (Lefaucheur et al., 2020) give **Level A** to HF M1-rTMS for neuropathic pain and **Level B** for fibromyalgia. The NeuPSIG-linked meta-analysis (Soliman et al., *Lancet Neurol* 2025) gives a weak, third-line recommendation for rTMS in neuropathic pain. It is used in French and other European pain centres but rarely in US pain clinics.
-- **Insurance.** US commercial insurers began covering TRD in 2011–2013 (Anthem, Kaiser and some BCBS plans first), and most now do. Medicare covers it through regional LCDs. Codes are CPT 90867 (initial with motor threshold), 90868 (subsequent) and 90869 (threshold re-determination). Prior authorisation usually requires documented failure of several antidepressant trials and psychotherapy. Coverage for OCD is growing. Pain and fibromyalgia indications are generally uncovered in the US. In the UK, NHS access is limited mainly by equipment and centre costs.
+- **Insurance.** US payers began covering TRD around 2012–2013 (Vermont Medicaid from 2012; Medicare LCD proposals from 2012; BCBS policies by 2013), and most commercial plans now do. Medicare covers it through regional LCDs (e.g. L34998). SAINT has Category III CPT codes (July 2024), an inpatient NTAP (up to $12,675) and Medicare outpatient New Technology APC payment (~$19,703 per protocol from 2025, maintained for 2026). Codes are CPT 90867 (initial with motor threshold), 90868 (subsequent) and 90869 (threshold re-determination). Prior authorisation usually requires documented failure of several antidepressant trials and psychotherapy. Coverage for OCD is growing. Pain and fibromyalgia indications are generally uncovered in the US. In the UK, NHS access is limited mainly by equipment and centre costs.
 
 ## 6. Evidence base
 **Depression (device-specific pivotal trials and large RCTs):**
@@ -94,9 +94,9 @@ The field does not treat ME/CFS, long COVID, POTS, MCS or IBS as one shared "bra
 - 2008: NeuroStar FDA clearance. Slow uptake until insurers began covering it around 2011–2013.
 - 2013–2019: rapid growth as BrainsWay entered (2013), coverage spread and clinic chains appeared (e.g. Greenbrook TMS, Success TMS). OCD clearance in 2018.
 - 2018–2022: theta-burst cut session time. SAINT drew heavy media attention (2020–2022 coverage of "remission in 5 days") and was cleared in 2022.
-- 2023–2026: consolidation. Neuronetics acquired Greenbrook TMS (reported completion Dec 2024; not re-verified in fact-check); adolescent indication added; accelerated protocols spreading.
-- Indicators: NeuroStar reports >9 million treatments in >250,000 patients (neurostar.com, 2026). BrainsWay lists >800 providers. The r/TMS subreddit hosts active patient discussion. "TMS therapy" US search interest rose steadily from about 2012 (qualitative description; not verified numerically).
-- Global cumulative patients across all devices are plausibly ~1–2 million (approx.; an estimate, not a published figure).
+- 2023–2026: consolidation. Neuronetics acquired Greenbrook TMS (closed 9–10 Dec 2024; ~95 clinics); SAINT commercial launch April 2024; adolescent indication added; accelerated protocols spreading.
+- Indicators: NeuroStar reports >9 million treatments in >250,000 patients (neurostar.com, 2026). BrainsWay lists >800 providers. The r/TMS subreddit hosts active patient discussion (member count not retrievable: Reddit's API blocked automated requests). "TMS therapy" US search interest rose steadily from about 2012 (qualitative; Google Trends has no machine-readable public export, so not quantified).
+- Global cumulative patients across all devices are plausibly ~1–2 million. This is our estimate: no cross-manufacturer total is published (checked company sites and Neuronetics/BrainsWay filings coverage).
 
 ## 8. Controversies / criticisms
 - Modest effects against sham; a large independent VA trial (Yesavage 2018, N=164) found no active–sham difference. There is debate about how much of the response is placebo or expectancy, given the intensive daily clinic contact.
@@ -130,5 +130,13 @@ The field does not treat ME/CFS, long COVID, POTS, MCS or IBS as one shared "bra
 - Yesavage 2018: https://pubmed.ncbi.nlm.nih.gov/29955803/
 - O'Connell 2018 (Cochrane): https://pubmed.ncbi.nlm.nih.gov/29547226/
 - FDA 510(k) K220177: https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K220177
+- Health Canada 2002 approval: https://ontariohealth.ca/clinical/mental-health-addictions/neurostimulation-program
+- Greenbrook acquisition closing (SEC 8-K): https://www.sec.gov/Archives/edgar/data/1735948/000114036124048931/ef20039750_ex99-1.htm
+- SAINT launch / NTAP / CPT III: https://www.businesswire.com/news/home/20240430113478/en/Magnus-Medical-Announces-Commercial-Launch-of-Groundbreaking-SAINT-Neuromodulation-System
+- SAINT 2025 OPPS payment: https://www.businesswire.com/news/home/20241112016592/en/Magnus-Medical-Announces-CMS-Approval-of-New-Payment-Rate-for-SAINT-Treatment-in-2025-Hospital-Outpatient-Rule
+- SAINT 2026 OPPS: https://www.businesswire.com/news/home/20251124582323/en
+- Cash price guides: https://healingmaps.com/tms-therapy-complete-guide/ ; https://www.cognitivefxusa.com/blog/tms-depression-treatment-costs ; https://www.cognitivefxusa.com/blog/saint-tms-los-angeles
+- Coverage history: https://healthlaw.org/wp-content/uploads/2024/10/TMS-Fact-Sheet-2024.pdf ; https://clinicaltmssociety.org/wp-content/uploads/2025/03/Lessons-Learned-From-U.S.-Insurance-1.pdf ; https://downloads.cms.gov/medicare-coverage-database/lcd_attachments/32220_1/DL32220_NEURO010_FinalComments.pdf
+- Seizure risk: https://pubmed.ncbi.nlm.nih.gov/31104898/ ; https://pubmed.ncbi.nlm.nih.gov/34133991/
 
-*Fact-checked 2026-10-12; corrections: SAINT clearance dated (1 Sep 2022); Cole 2020 ITT remission 86.4% added; Cole 2022 enrolment clarified (32 enrolled/29 randomised); Mhalla completers noted; added null VA trial (Yesavage 2018, N=164) and Cochrane 2018 chronic-pain review; Soliman details added; long-COVID case flagged as non-standard EMBP device; Greenbrook acquisition date and cost figures remain unverified (web-search budget exhausted). All 16 cited PMIDs verified; NeuroStar (>9M treatments, >250k patients) and BrainsWay (>800 providers) figures confirmed on company sites.*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: Greenbrook acquisition date confirmed (Dec 2024, SEC 8-K); Health Canada 2002 confirmed; standard rTMS and SAINT cash prices sourced; SAINT Medicare payment/CPT III added; insurance-coverage timeline corrected (2012–13; Anthem/Kaiser-first claim dropped); seizure-rate sourced; r/TMS member count and Google Trends not retrievable (Reddit API blocked; no Trends export); global reach remains our estimate.*

@@ -8,7 +8,7 @@
         "Dr Simone Peters (Monash University; listed on the About page as 'Content founder')"
     ],
     "founded_year": 2019,
-    "founded_year_range": "2019 (Mindset Health About page says founded in Melbourne in 2019; Peters et al. 2023 analysed app users from June 2019)",
+    "founded_year_range": "2019 (Mindset Health About page says founded in Melbourne in 2019; app released on the App Store 18 Jun 2019 per iTunes API; Peters et al. 2023 analysed app users from June 2019)",
     "category": "digital app/platform",
     "delivery": [
         "app",
@@ -55,7 +55,7 @@
         "continued maintenance access after week 6"
     ],
     "mainstream_adoption": "moderate",
-    "mainstream_notes": "Guidelines endorse gut-directed hypnotherapy as a technique: ACG 2021, BSG 2021, and the 2025 AGA Institute IBS quality indicators (Hung et al., Gastroenterology 2025). Nerva itself is not named in any guideline. The company claims 20,000+ referring clinicians (8,000+ US), and Monash, Mayo Clinic, Mount Sinai and Baylor researchers have analysed its data. It is not FDA, TGA or MHRA evaluated. It acquired key assets of Mahana Therapeutics (an FDA-authorised IBS-CBT prescription digital therapeutic) in May 2025. Nerva's site quotes a March 2026 PHTI report as saying Nerva had the strongest IBS evidence, but PHTI's public GI assessment page does not mention Nerva.",
+    "mainstream_notes": "Guidelines endorse gut-directed hypnotherapy as a technique: ACG 2021, BSG 2021, and the 2025 AGA Institute IBS quality indicators (Hung et al., Gastroenterology 2025). Nerva itself is not named in any guideline. The company claims 20,000+ referring clinicians (8,000+ US), and Monash, Mayo Clinic, Mount Sinai and Baylor researchers have analysed its data. It is not FDA, TGA or MHRA evaluated. It acquired key assets of Mahana Therapeutics (an FDA-authorised IBS-CBT prescription digital therapeutic) in May 2025. PHTI's 2026 Virtual GI Care Solutions report did not formally rate Nerva, but its full report discusses Nerva as noncompany evidence and states that Nerva presented the strongest overall evidence for improving IBS symptoms among the evidence reviewed, noting that part of that evidence comes from Mahana.",
     "insurance": "sometimes/indirect",
     "insurance_notes": "From 5 Jul 2026, CMS ACCESS Model participation gives eligible Original Medicare beneficiaries no-cost access via outcome-aligned payments, and referring Part B clinicians can bill a co-management payment. Medicare Advantage is not eligible in this phase. The company funds access for uncovered US patients aged 65+. Employer and commercial-plan coverage is described as \"starting,\" with no plans named. HSA/FSA payment works with a Letter of Medical Necessity. In Australia, the HIF private health fund has covered it since Mar 2025 (company source).",
     "evidence_level": "pilot or single RCT",
@@ -89,7 +89,7 @@
             "url": "https://pubmed.ncbi.nlm.nih.gov/27397586/"
         }
     ],
-    "controversy": "Low controversy: GDH is guideline-endorsed, and Nerva makes no cross-disorder or cure claims. Criticisms are mostly about evidence framing. Only one RCT exists, run by the content developers, with an active control that shares the app shell; the control arm's 63% responder rate shows large non-specific effects. The '17 studies' are mostly uncontrolled, company-linked abstracts with completer bias. Real-world adherence is low (9% completion in 2019-20; 31% persistence in 2022), a point raised in an independent commentary (Hasan, Ballou, Keefer, Vasant, NGM 2023). A PHTI quote on the site does not appear in PHTI's public summary. The app is sold DTC without FDA review, and self-reported IBS may mask organic disease.",
+    "controversy": "Low controversy: GDH is guideline-endorsed, and Nerva makes no cross-disorder or cure claims. Criticisms are mostly about evidence framing. Only one RCT exists, run by the content developers, with an active control that shares the app shell; the control arm's 63% responder rate shows large non-specific effects. The '17 studies' are mostly uncontrolled, company-linked abstracts with completer bias. Real-world adherence is low (9% completion in 2019-20; 31% persistence in 2022), a point raised in an independent commentary (Hasan, Ballou, Keefer, Vasant, NGM 2023). The site's PHTI 'strongest evidence' quote is accurate but comes from a side discussion in the full report, not a formal PHTI rating, and partly rests on Mahana evidence. The app is sold DTC without FDA review, and self-reported IBS may mask organic disease.",
     "popularity": {
         "indicators": [
             {
@@ -139,6 +139,24 @@
                 "value": "from 5 Jul 2026",
                 "source": "nervahealth.com/article/medicare-gut-brain-therapy-no-cost",
                 "year": 2026
+            },
+            {
+                "metric": "App Store ratings by storefront",
+                "value": "US 4.7 (14,991); AU 4.6 (7,067); UK 4.5 (4,173); CA 4.6 (3,066)",
+                "source": "iTunes lookup API, id 1467398796 (13 Oct 2026)",
+                "year": 2026
+            },
+            {
+                "metric": "venture funding",
+                "value": "US$5M (2021); A$17.8M Series A led by King River Capital (Mar 2023), US$52M post-money valuation",
+                "source": "AFR via nervahealth.com/post/melbourne-brothers-build-a-77m-business-from-hypnotherapy-apps-afr",
+                "year": 2023
+            },
+            {
+                "metric": "paying monthly users (Nerva)",
+                "value": "28,000",
+                "source": "AFR, 21 Mar 2023",
+                "year": 2023
             }
         ],
         "reach_estimate": "About 300,000 cumulative users by Sept 2026 (company figure, consistent with ~195k in the 2019-2025 dataset reported in conference abstracts)",
@@ -177,7 +195,7 @@
                 "relative_activity": 10
             }
         ],
-        "method_notes": "The trajectory is anchored on documented user counts: ~2.8k starters in the first ~10 months (2019-20); ~15k in 9 months of 2022; ~195k cumulative by 2025; 300k+ by Sep 2026. Milestones add to it: first peer-reviewed paper 2023, RCT online 2024 and in print 2025, Mahana acquisition and HIF partnership 2025, CMS ACCESS and PHTI 2026. Implied growth is roughly exponential. Reddit, Google Trends and YouTube metrics could not be checked because the web-search budget was exhausted. Values are relative within the program."
+        "method_notes": "The trajectory is anchored on documented user counts: ~2.8k starters in the first ~10 months (2019-20); ~15k in 9 months of 2022; ~195k cumulative by 2025; 300k+ by Sep 2026. Milestones add to it: first peer-reviewed paper 2023, RCT online 2024 and in print 2025, Mahana acquisition and HIF partnership 2025, CMS ACCESS and PHTI 2026. Implied growth is roughly exponential. Reddit, Google Trends and YouTube metrics remain unchecked: Reddit's API, old.reddit and Pullpush refused automated access, and the browser route was blocked. 2023 anchor added: 28,000 paying monthly users. Values are relative within the program."
     },
     "sources": [
         "https://www.nervahealth.com/",
@@ -200,6 +218,10 @@
         "https://pubmed.ncbi.nlm.nih.gov/36847206/",
         "https://pubmed.ncbi.nlm.nih.gov/41077057/",
         "https://ddw.digitellinc.com/p/s/app-delivered-gut-directed-hypnotherapy-is-superior-to-psychoeducation-in-reducing-symptoms-associated-with-irritable-bowel-syndrome-a-randomised-control-trial-7150",
-        "https://www.phti.org/assessment/virtual-solutions-gi-conditions/"
+        "https://www.phti.org/assessment/virtual-solutions-gi-conditions/",
+        "https://www.phti.org/wp-content/uploads/2026/10/PHTI-Virtual-GI-Care-Solutions-Assessment-Report-v1.2.pdf",
+        "https://www.nervahealth.com/post/melbourne-brothers-build-a-77m-business-from-hypnotherapy-apps-afr",
+        "https://www.businesswire.com/news/home/20210811005170/en/",
+        "https://itunes.apple.com/lookup?id=1467398796&country=us"
     ]
 }

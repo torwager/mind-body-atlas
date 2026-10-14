@@ -1,16 +1,16 @@
 # Compassionate Inquiry (Gabor Maté)
 
-*Compiled 2026-10-12 from compassionateinquiry.com (Home, About, FAQ, Professional Training, Short Course, Sat Dharam Kaur bio), drgabormate.com, thewisdomoftrauma.com, Wikipedia (Gabor Maté), and searches of PubMed, Europe PMC and ClinicalTrials.gov. Content paraphrased. Note: the session's general web-search quota ran out during research, so Reddit, Google Trends and news-archive checks could not be run; dates marked "approx." come from prior knowledge and were not re-verified.*
+*Compiled 2026-10-12 from compassionateinquiry.com (Home, About, FAQ, How to Apply, Professional Training, Short Course, Sat Dharam Kaur bio), drgabormate.com, thewisdomoftrauma.com, Wikipedia (Gabor Maté), Wayback Machine captures (2011–2026), and searches of PubMed, Europe PMC and ClinicalTrials.gov. Content paraphrased. Open items completed 2026-10-13; Reddit and Google Trends remained inaccessible (see §7).*
 
 ## At a glance
 | Field | |
 |---|---|
 | Website | https://compassionateinquiry.com/ (method); https://drgabormate.com/ (author) |
-| Founder(s) | **Gabor Maté, MD** (b. 1944, Budapest; Hungarian-Canadian family physician, UBC MD 1977; 20+ yrs family practice and palliative care, then ~12 yrs as staff physician with the Portland Hotel Society in Vancouver's Downtown Eastside addiction milieu; Order of Canada 2018). **Sat Dharam Kaur, ND** (naturopathic doctor, Owen Sound, Ontario; Kundalini yoga teacher; women's-health author; program details such as "Beyond Addiction"/"Healthy Breast" not re-verified). Her CI bio lists her as "Co-Executive Director, CEO, Facilitator and Practitioner" and "helped Maté organise the approach so others could learn it." |
-| Founded | The method grew out of Maté's clinical work in the 2000s; workshops ran from ~2010. The structured online Professional Training began **c. 2015–2016** (approx.; the site gives no founding date and no Wayback data could be retrieved). The illness framework dates to *When the Body Says No* (2003). |
+| Founder(s) | **Gabor Maté, MD** (b. 1944, Budapest; Hungarian-Canadian family physician, UBC MD 1977; 20+ yrs family practice and palliative care, then ~12 yrs as staff physician with the Portland Hotel Society in Vancouver's Downtown Eastside addiction milieu; Order of Canada 2018). **Sat Dharam Kaur, ND** (naturopathic doctor, Owen Sound, Ontario; Kundalini yoga teacher; women's-health author; runs the "Beyond Addiction" and "Healthy Breast" programs, per her CI bio). Her CI bio lists her as "Co-Executive Director, CEO, Facilitator and Practitioner" and "helped Maté organise the approach so others could learn it." |
+| Founded | The method grew out of Maté's clinical work in the 2000s and his trauma/addiction workshops (archived drgabormate.com event listings 2012–2015, not yet CI-branded). The structured online Professional Training dates to **c. 2017–2018**: compassionateinquiry.com was a parked domain through March 2016 (Wayback), drgabormate.com's July 2017 homepage does not mention CI, and the first live CI site (June 2018) offers "Online Training" with "Q&A with Gabor, March–May 2018"; three one-year cohorts were scheduled for 2019. No official founding date is published. The illness framework dates to *When the Body Says No* (2003). |
 | Format / delivery | Online professional training (1 yr; "330 hours" on compassionateinquiry.com, "240-hour" on drgabormate.com — the two official sites disagree), self-paced Short Course ("over 30 hours" of video, narrated slides and PDFs), 6-month Mentorship, then certification; Suicide Attention Training (25 hrs); "Circles" 10-week peer support groups run by certified practitioners; one-to-one sessions with certified CI practitioners (private fee); books, film and talks for the public. |
 | Business model | Commercial training organisation (Compassionate Inquiry Inc.), with clinician-delivered fee-for-service downstream; lots of free public content (talks, podcasts, the free-streamed film). |
-| Direct cost | Short Course **CAD 350** (US CE add-on +CAD 150), verified on the course page 2026-10-12. Professional Training: $50 application fee, plus tuition not shown on public pages (monthly payment plans offered; historically about USD 6–8k, approx., **unverified**, could not be confirmed in fact-check). Repeat training CAD 1,000. Cancellation fee $250. Practitioner sessions are set privately (typically therapist rates, ~USD 100–250/hr, approx.). |
+| Direct cost | Short Course **CAD 350** (US CE add-on +CAD 150), verified 2026-10-12. Professional Training (Feb 2027 cohort, How to Apply page, checked 2026-10-13): **CAD 3,800 early-bird / CAD 4,200 regular** (≈ USD 2,750–3,050), or 2 × CAD 2,150, 6 × CAD 769, 10 × CAD 480; plus $50 application fee and required personal therapy (≥12 sessions, not included). In 2019 it was CAD 3,500 (CAD 3,800 in 6 payments) (Wayback, Dec 2018). Repeat training CAD 1,000; cancellation fee CAD 250. Practitioner sessions are priced privately by each practitioner; no central fee schedule is published. |
 | Conditions claimed | Trauma and its sequelae: addiction, anxiety, depression, relationship patterns, "mental-emotional and physical symptoms." Through Maté's books: autoimmune disease, cancer, ALS, MS, IBS/IBD, fibromyalgia, chronic fatigue, migraine, ADHD. |
 | Mainstream adoption | Limited. CCPA (Canada) approves 10 CE hrs for the Short Course; thousands of licensed clinicians trained ("80+ countries"). Not in any clinical guideline. Maté is a mainstream cultural figure. |
 | Insurance reimbursable | Not as a branded program. Indirectly, when a licensed psychotherapist uses CI within a billable psychotherapy session. |
@@ -42,7 +42,7 @@ These are the 8 module topics of the course "CI Map."
 **Training structure:**
 - **Professional Training:** 1 year, 330 hrs per compassionateinquiry.com (drgabormate.com says 240 hrs) at 8–10 hrs/week. Content runs as 8 two-week modules, repeated across three 16-week levels. 27 facilitated bi-weekly 1.5-hr groups (12–18 people), with pods of ~6 and dyad/triad practice. Trainees must be in ≥12 sessions/yr of personal therapy. Prerequisites: ≥200 hrs of allied-health training plus ≥50 hrs of counselling skills. Completion requires attending ≥22 of the 27 groups.
 - **Mentorship:** 6 months, required for the "CI Practitioner" title; candidates need regulatory registration, ≥3 clients/week and liability insurance.
-- **Short Course:** "over 30 hours" of material: a self-paced recorded Vancouver workshop (~9 hrs, approx.), 8 narrated module summaries and 10 filmed demonstration sessions.
+- **Short Course:** "over 30 hours" of material: a four-part recording of a 2-day workshop with Maté (~9 h 20 min total run time), 8 narrated module summaries and 10 filmed demonstration sessions.
 
 **Self-care advice from the books.** The "7 A's of healing" from *When the Body Says No*: acceptance, awareness, anger (healthy expression), autonomy, attachment, assertion, affirmation. Other advice:
 - learning to say no
@@ -91,16 +91,16 @@ Maté has also publicly endorsed supervised psychedelic-assisted (ayahuasca) wor
   - *In the Realm of Hungry Ghosts* (2008) won the Hubert Evans Prize (2009).
   - *The Myth of Normal* (Sept 2022, with Daniel Maté) was an international bestseller and won the 2023 Vine Award.
 - **Film:** *The Wisdom of Trauma* (2021, Science and Nonduality) was free-streamed with ">10 million viewers in 230 countries/territories" (film site).
-- **Media:** a podcast staple (e.g., Joe Rogan, Diary of a CEO, Tim Ferriss; approx.) with YouTube talks in the millions of views. The March 2023 livestream with Prince Harry, where Maté publicly "diagnosed" ADD/ADHD, PTSD, anxiety and depression, was a global media spike.
-- **CI training:** described as studied by "thousands" in 80+ countries, with three cohorts a year (Feb/May/Sept; verified on drgabormate.com). An annual conference was claimed but not verified.
-- **Trajectory (approx.):**
+- **Media:** a frequent podcast guest (e.g., *Joe Rogan Experience* #1869, 2022, listed on Wikipedia), with widely viewed YouTube talks. The March 2023 livestream with Prince Harry, where Maté publicly "diagnosed" ADD/ADHD, PTSD, anxiety and depression, was a global media spike.
+- **CI training:** described as studied by "thousands" in 80+ countries, with three cohorts a year (Feb/May/Sept; verified on drgabormate.com and the How to Apply page). An alumni conference exists: a "CI Annual Conference Registration Form" page was archived in 2020, and the site's events menu lists "CI Conference, Vancouver (Autumn 2026)".
+- **Trajectory (milestone-based; 2003–2016 and 2024–2026 levels are estimates):**
   - 2003–2008: book-driven niche.
   - 2008–2015: rising Canadian profile through addiction work.
-  - 2016–2020: structured online training expands.
+  - 2018–2020: structured online training launches (site live 2018; three cohorts/yr from 2019).
   - 2021–2023: peak from the film, *The Myth of Normal* and the Harry interview.
   - 2024–2026: sustained high plateau.
 
-  Note: Reddit and Google Trends could not be checked directly in this session.
+  Note: Reddit and Google Trends could not be measured: Reddit's JSON endpoints returned HTTP 403 and the Google Trends API returned HTTP 429 (2026-10-13), so no subreddit or search-interest figures are given.
 
 ## 8. Controversies / criticisms
 - **Reductionism:** Nick Haslam (University of Melbourne) calls the near-singular emphasis on trauma as the cause of ill health unbalanced. Stanton Peele calls Maté's account of addiction reductionist. James Coyne (U. Pennsylvania) said Maté "urges us to abandon what has evolved to be evidence-based solutions to health and social problems" (quoted on Wikipedia); Coyne has long criticised psychosocial-causation claims about cancer generally. Vincenzo Di Nicola notes that parts of the work are not evidence-based.
@@ -116,6 +116,10 @@ Maté has also publicly endorsed supervised psychedelic-assisted (ayahuasca) wor
 - https://compassionateinquiry.com/faq/
 - https://compassionateinquiry.com/professional-training/
 - https://compassionateinquiry.com/short-course/
+- https://compassionateinquiry.com/how-to-apply/ (current tuition, cohorts)
+- https://web.archive.org/web/20181225231052/http://compassionateinquiry.com/online-training/how-to-apply/ (2019 fees and cohorts)
+- https://web.archive.org/web/20160313142716/http://compassionateinquiry.com/ (parked domain) and https://web.archive.org/web/20180606104159/http://compassionateinquiry.com/ (first live CI site)
+- https://web.archive.org/web/20200919002641/https://compassionateinquiry.com/ci-annual-conference-registration-form/
 - https://compassionateinquiry.com/sat-dharam-kaur/
 - https://drgabormate.com/about/
 - https://drgabormate.com/compassionate-inquiry/
@@ -125,4 +129,4 @@ Maté has also publicly endorsed supervised psychedelic-assisted (ayahuasca) wor
 - https://www.ebi.ac.uk/europepmc/ (query "compassionate inquiry" AND Maté; PMC10824345, PMC10836633)
 - https://clinicaltrials.gov/ (query "compassionate inquiry": 0 studies)
 
-*Fact-checked 2026-10-12; corrections: training hours conflict across official sites (330 vs 240) flagged; Short Course content corrected to "over 30 hrs"; Coyne critique reworded to his sourced quote; historical tuition, annual conference and Kaur program names flagged unverified; Hakomi/IFS links labelled as interpretation; PubMed/Europe PMC null results and book-review citations re-verified. The web-search quota was exhausted, so independent price and popularity checks were limited to official pages.*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: Professional Training tuition found (CAD 3,800–4,200; 2019 CAD 3,500) replacing the unverified "USD 6–8k"; founding narrowed to c. 2017–2018 via Wayback; annual conference confirmed; Kaur program names confirmed; workshop length (~9 h 20 min) and Rogan appearance verified; Reddit/Google Trends blocked (403/429) and left unmeasured.*

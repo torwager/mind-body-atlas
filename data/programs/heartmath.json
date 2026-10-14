@@ -5,18 +5,42 @@
   "founders": [
     "Doc Lew Childre Jr. (founder; musician/author, no academic credentials)",
     "Rollin McCraty, PhD (HMI Director of Research)",
-    "Deborah Rozman, PhD (psychologist; long-time CEO HeartMath Inc.)",
+    "Deborah Rozman, PhD (psychologist; long-time HeartMath executive; now president and co-CEO of Quantum Intech Inc., HMI Scientific Advisory Board)",
     "Howard Martin (co-author/executive)"
   ],
   "founded_year": 1991,
   "founded_year_range": "1991 (Institute of HeartMath IRS nonprofit status per McCraty 2022; heartmath.com/about says 'founded in 1991'); commercial HeartMath LLC by 1998-99, first device Freeze-Framer 1999",
   "category": "device/neuromodulation/biofeedback",
-  "delivery": ["device", "app", "book", "online course", "clinician-delivered", "group", "coaching", "workplace/organizational training"],
+  "delivery": [
+    "device",
+    "app",
+    "book",
+    "online course",
+    "clinician-delivered",
+    "group",
+    "coaching",
+    "workplace/organizational training"
+  ],
   "business_model": "commercial",
-  "cost_summary": "Store prices, Oct 2026 (USD), verified: Inner Balance Coherence Plus sensor $249 (includes lifetime app access, limited-time offer); Inner Balance Lightning sensor $179; emWave Pro Multi-user $399. HeartMath app is free, with Premium at about $79-99.99/yr (not re-verified). Clinician certifications cost about $249-649 and coach/trainer certifications about $1,295-3,995 (not re-verified).",
+  "cost_summary": "Store prices, Oct 2026 (USD), verified: Inner Balance Coherence Plus sensor $249 (includes lifetime app access, limited-time offer); Inner Balance Lightning sensor $179; emWave Pro $399; emWave Pro Plus $499. HeartMath app is free, with Premium in-app purchases at $79.00 or $99.99 (App Store). Clinician certifications $249-$499+ ($399-$649 with sensor); coach certification $1,295; trainer certifications $3,995. Main devices HSA/FSA-eligible with a letter of medical necessity (Truemed).",
   "cost_usd_typical": 249,
-  "conditions_claimed": ["general stress/wellbeing", "anxiety", "depression", "PTSD/trauma", "insomnia", "chronic pain (general)", "hypertension/cardiac", "ADHD", "test anxiety/performance"],
-  "conditions_primary": ["general stress/wellbeing", "anxiety", "depression", "PTSD/trauma"],
+  "conditions_claimed": [
+    "general stress/wellbeing",
+    "anxiety",
+    "depression",
+    "PTSD/trauma",
+    "insomnia",
+    "chronic pain (general)",
+    "hypertension/cardiac",
+    "ADHD",
+    "test anxiety/performance"
+  ],
+  "conditions_primary": [
+    "general stress/wellbeing",
+    "anxiety",
+    "depression",
+    "PTSD/trauma"
+  ],
   "differentiation": "transdiagnostic / not disorder-focused",
   "mechanisms": [
     "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")",
@@ -49,7 +73,7 @@
   "mainstream_adoption": "moderate",
   "mainstream_notes": "HRV biofeedback is an established biofeedback modality (AAPB/BCIA), and HeartMath devices are widely used in integrative, VA, cardiac-rehab, cancer-survivorship and staff-resilience settings. HeartMath reports 12,000+ certified practitioners and runs programs for hospitals, police, military and schools. It is not guideline-recommended for chronic pain, fibromyalgia, ME/CFS, IBS or depression.",
   "insurance": "sometimes/indirect",
-  "insurance_notes": "Devices, app and courses are self-pay. Clinician-delivered biofeedback may be billed under biofeedback CPT codes (e.g., 90901, 90875/90876), depending on the payer's biofeedback policy for the indication. FSA/HSA eligibility was not verified.",
+  "insurance_notes": "Devices, app and courses are not covered by insurance. Clinician-delivered biofeedback may be billed under biofeedback CPT codes (e.g., 90901, 90875/90876), depending on the payer's biofeedback policy for the indication. HeartMath markets Inner Balance Coherence Plus, emWave Pro and emWave Pro Plus as HSA/FSA-eligible via a Truemed letter of medical necessity.",
   "evidence_level": "systematic reviews/meta-analyses",
   "key_trials": [
     {
@@ -151,39 +175,131 @@
       "url": "https://doi.org/10.1177/27536351241227261"
     }
   ],
-  "controversy": "The founder has no scientific credentials, and in 1993 Redford Williams publicly criticised his early claims (sourced to Wikipedia, not independently verified). Most HeartMath-branded trials are small, run in-house and weakly controlled, and the one small independent emWave RCT was largely null. The proprietary \"coherence\" construct is largely explained by slow paced breathing (baroreflex resonance). Pseudoscientific extensions draw wide criticism: heart \"intelligence\" and electromagnetic-field claims, pre-stimulus \"intuition\"/psi studies, and the Global Coherence Initiative linking HRV to solar/geomagnetic activity and collective consciousness. Consumer devices carry \"not a medical device\" disclaimers, while certifications market clinical uses.",
+  "controversy": "The founder has no scientific credentials, and in 1993 Redford Williams publicly criticised his early claims (USA Today, 6 Jan 1993, as quoted in Wikipedia). Most HeartMath-branded trials are small, run in-house and weakly controlled, and the one small independent emWave RCT was largely null. The proprietary \"coherence\" construct is largely explained by slow paced breathing (baroreflex resonance). Pseudoscientific extensions draw wide criticism: heart \"intelligence\" and electromagnetic-field claims, pre-stimulus \"intuition\"/psi studies, and the Global Coherence Initiative linking HRV to solar/geomagnetic activity and collective consciousness. Consumer devices carry \"not a medical device\" disclaimers, while certifications market clinical uses.",
   "popularity": {
     "indicators": [
-      {"metric": "Certified practitioners", "value": "12,000+", "source": "heartmath.com/about", "year": 2026},
-      {"metric": "Claimed users", "value": "\"Millions\"", "source": "heartmath.com/about", "year": 2026},
-      {"metric": "iOS HeartMath app ratings", "value": "4.9 stars, ~4.7K ratings", "source": "Apple App Store", "year": 2026},
-      {"metric": "Peer-reviewed studies claimed", "value": "80+ in-house; 215+ total including independent", "source": "heartmath.com; heartmath.org", "year": 2026},
-      {"metric": "Product launches", "value": "Freeze-Framer 1999; emWave PSR 2006; emWave PC 2007; Inner Balance 2013 + emWave Pro; emWave Pro Plus 2015; Global Coherence app 2021; new HeartMath app 2023-25", "source": "McCraty 2022 Appl Psychophysiol Biofeedback; App Store", "year": 2022},
-      {"metric": "Trade book", "value": "The HeartMath Solution (HarperSanFrancisco, 1999)", "source": "Wikipedia", "year": 1999},
-      {"metric": "Citations of key review", "value": "McCraty & Shaffer 2015 ~490 citations (not re-verified)", "source": "Europe PMC", "year": 2026}
+      {
+        "metric": "Certified practitioners",
+        "value": "12,000+",
+        "source": "heartmath.com/about",
+        "year": 2026
+      },
+      {
+        "metric": "Claimed users",
+        "value": "\"Millions\"",
+        "source": "heartmath.com/about",
+        "year": 2026
+      },
+      {
+        "metric": "iOS HeartMath app ratings",
+        "value": "4.9 stars, ~4.7K ratings",
+        "source": "Apple App Store",
+        "year": 2026
+      },
+      {
+        "metric": "Peer-reviewed studies claimed",
+        "value": "80+ in-house; 215+ total including independent",
+        "source": "heartmath.com; heartmath.org",
+        "year": 2026
+      },
+      {
+        "metric": "Product launches",
+        "value": "Freeze-Framer 1999; emWave PSR 2006; emWave PC 2007; Inner Balance 2013 + emWave Pro; emWave Pro Plus 2015; Global Coherence app 2021; new HeartMath app 2023-25",
+        "source": "McCraty 2022 Appl Psychophysiol Biofeedback; App Store",
+        "year": 2022
+      },
+      {
+        "metric": "Trade book",
+        "value": "The HeartMath Solution (HarperSanFrancisco, 1999)",
+        "source": "Wikipedia",
+        "year": 1999
+      },
+      {
+        "metric": "Citations of key review",
+        "value": "McCraty & Shaffer 2015 (Glob Adv Health Med) 494 citations; Shaffer, McCraty & Zerr 2014 (Front Psychol) 1,130 citations",
+        "source": "Europe PMC",
+        "year": 2026
+      },
+      {
+        "metric": "YouTube subscribers (HeartMath Institute channel)",
+        "value": "~91.6K subscribers, 160 videos",
+        "source": "https://www.youtube.com/@HeartMathInstitute",
+        "year": 2026
+      }
     ],
     "reach_estimate": "Roughly 10^6 people cumulatively. The company claims millions of users across devices, apps, books, workplace, school and hospital programs over 35 years, and 12K certified practitioners. The App Store rating count (~4.7K) suggests active app users in the low hundreds of thousands at most.",
     "reach_log10": 6.2,
     "trajectory": [
-      {"year": 1991, "relative_activity": 1},
-      {"year": 1993, "relative_activity": 1.5},
-      {"year": 1995, "relative_activity": 2},
-      {"year": 1998, "relative_activity": 3},
-      {"year": 1999, "relative_activity": 4},
-      {"year": 2001, "relative_activity": 4.5},
-      {"year": 2003, "relative_activity": 5},
-      {"year": 2006, "relative_activity": 6},
-      {"year": 2008, "relative_activity": 6.5},
-      {"year": 2010, "relative_activity": 7},
-      {"year": 2013, "relative_activity": 8},
-      {"year": 2015, "relative_activity": 8},
-      {"year": 2018, "relative_activity": 7.5},
-      {"year": 2020, "relative_activity": 7.5},
-      {"year": 2022, "relative_activity": 7.5},
-      {"year": 2024, "relative_activity": 7.5},
-      {"year": 2026, "relative_activity": 7.5}
+      {
+        "year": 1991,
+        "relative_activity": 1
+      },
+      {
+        "year": 1993,
+        "relative_activity": 1.5
+      },
+      {
+        "year": 1995,
+        "relative_activity": 2
+      },
+      {
+        "year": 1998,
+        "relative_activity": 3
+      },
+      {
+        "year": 1999,
+        "relative_activity": 4
+      },
+      {
+        "year": 2001,
+        "relative_activity": 4.5
+      },
+      {
+        "year": 2003,
+        "relative_activity": 5
+      },
+      {
+        "year": 2006,
+        "relative_activity": 6
+      },
+      {
+        "year": 2008,
+        "relative_activity": 6.5
+      },
+      {
+        "year": 2010,
+        "relative_activity": 7
+      },
+      {
+        "year": 2013,
+        "relative_activity": 8
+      },
+      {
+        "year": 2015,
+        "relative_activity": 8
+      },
+      {
+        "year": 2018,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2020,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2022,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2024,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2026,
+        "relative_activity": 7.5
+      }
     ],
-    "method_notes": "Trajectory is anchored on documented milestones: the 1991 founding, the 1995-2003 research papers, the 1999 book and Freeze-Framer device, the 2006-07 emWave consumer devices, the 2013 Inner Balance smartphone sensor (assumed peak of consumer reach), and the 2021-25 app relaunches. The plateau after 2015 reflects competition from mainstream HRV wearables (Oura, Whoop, Apple Watch). Web-search budget ran out in both the research and fact-check passes, so Reddit, Twitter, Google Trends and YouTube metrics were not collected; levels are judgment-based from launches, company claims, app ratings and publication volume. reach_log10 is a rough estimate from company 'millions' claims, discounted for marketing inflation."
+    "method_notes": "Trajectory is anchored on documented milestones: the 1991 founding, the 1995-2003 research papers, the 1999 book and Freeze-Framer device, the 2006-07 emWave consumer devices, the 2013 Inner Balance smartphone sensor (assumed peak of consumer reach), and the 2021-25 app relaunches. The plateau after 2015 reflects competition from mainstream HRV wearables (Oura, Whoop, Apple Watch). YouTube subscribers were collected 2026-10-13; Reddit (automated access refused) and Google Trends (no API access, search quota exhausted) could not be retrieved, and Twitter/X was not checked; levels are judgment-based from launches, company claims, app ratings and publication volume. reach_log10 is a rough estimate from company 'millions' claims, discounted for marketing inflation."
   },
   "sources": [
     "https://www.heartmath.com/",
@@ -211,6 +327,10 @@
     "https://doi.org/10.1007/s10484-006-9028-0",
     "https://doi.org/10.1177/27536351241227261",
     "https://doi.org/10.1089/107555304322849057",
-    "https://doi.org/10.1038/s41598-018-20932-x"
+    "https://doi.org/10.1038/s41598-018-20932-x",
+    "https://www.heartmath.com/products/hsa-fsa-eligible-products/",
+    "https://www.heartmath.org/about/team/founder-and-executives/",
+    "https://www.youtube.com/@HeartMathInstitute",
+    "https://europepmc.org/article/MED/25694852"
   ]
 }

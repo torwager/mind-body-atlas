@@ -1,6 +1,6 @@
 # Tai Chi and Qigong programs (Tai Chi for Health Institute; Spring Forest Qigong)
 
-*Compiled 2026-10-12 from taichiforhealthinstitute.org (home page, Dr Paul Lam bio), springforestqigong.com (home page), and PubMed/Europe PMC records for the trials listed. Content paraphrased. Note: the web-search budget ran out during compilation, so insurer and guideline details below come from well-known published guidelines and were not re-fetched; the trial data were verified against PubMed/Europe PMC abstracts.*
+*Compiled 2026-10-12 from taichiforhealthinstitute.org (home page, Dr Paul Lam bio), springforestqigong.com (home page), and PubMed/Europe PMC records for the trials listed. Content paraphrased. Trial data were verified against PubMed/Europe PMC abstracts; guideline, VA, NCOA/CDC, NHIS, pricing and SFQ research claims were checked against primary pages on 2026-10-13.*
 
 This is an umbrella entry. **Tai chi** and **qigong** are generic Chinese mind-body movement practices that thousands of teachers deliver. Two identifiable programs anchor it:
 
@@ -17,12 +17,12 @@ Most of the clinical evidence comes from **generic or researcher-designed** tai 
 | Founded | Tai Chi for Arthritis created 1997; TCHI (non-profit) founded 2010; SFQ "since 1995" per its site. The underlying traditions go back centuries: tai chi quan codified in the 17th–19th c. (Chen/Yang/Sun styles), qigong roots much older. |
 | Format / delivery | In-person and virtual community classes (senior centres, YMCAs, hospitals); certified-instructor workshops; DVDs and online video lessons (TCHI: 15 health programs, 650+ clips). SFQ: self-study online courses, monthly subscription, in-person classes and healing circles, 5-day retreats, practitioner "energy healing", and a "Monthly Karmic Cleansing" offering (site, 2026). |
 | Business model | TCHI: non-profit, with mostly low-cost or free community classes and paid instructor training and DVDs. SFQ: commercial. Generic tai chi/qigong: mixed (free YouTube, paid classes). |
-| Direct cost | Community classes often free to about USD 10/session, typically funded through Older Americans Act or Area Agency on Aging programs (typical, not verified per site). TCHI home page lists no workshop prices. SFQ 5-day Intensive Healing Retreat: USD 3,295–3,800 (site, 2026). SFQ online courses and subscription prices are not shown on the home page. |
+| Direct cost | Community series are free or low-cost (e.g., USD 20 for a 16-session, 8-week Illinois Extension series, 2026); the program qualifies for Older Americans Act Title III-D funding (CDC). TCHI US instructor training: USD 490 (USD 380 workshop + USD 110 materials and 1-yr membership), USD 200 for the 2-yearly update (TCHI price sheet, Sept 2024). SFQ: online courses USD 99–768 (e.g., Five Elements Self-Healing USD 300/600); monthly subscriptions USD 69–179/month; 5-day Intensive Healing Retreat USD 3,295–3,800 (site, Oct 2026). |
 | Conditions claimed | TCHI programs labelled for arthritis, fall prevention, diabetes, osteoporosis, back pain, heart conditions, memory, rehabilitation, energy. SFQ makes broad self-healing claims, with testimonials for chronic pain, depression, Parkinson's and cancer. Research literature covers fibromyalgia, chronic LBP, neck pain, knee OA, ME/CFS-like illness, depression/anxiety, insomnia and stress. |
-| Mainstream adoption | **Substantial for tai chi.** ACP 2017 low back pain guideline and ACR/Arthritis Foundation 2019 OA guideline recommend it. EULAR 2016 fibromyalgia recommendations list meditative movement (weak for). CDC/Arthritis Foundation and ACL/NCOA list Tai Chi for Arthritis (and Fall Prevention) as an evidence-based community program. It is offered in VA Whole Health and many academic integrative medicine centres (general knowledge; not re-verified). SFQ adoption is limited. |
-| Insurance reimbursable | Sometimes, indirectly. There is no CPT code for tai chi itself. Classes reach people through Medicare Advantage fitness benefits (e.g., SilverSneakers class menus), Older Americans Act Title III-D funding for evidence-based programs, the VA, and employer wellness programs. Qigong energy healing is not reimbursed. |
-| Evidence (peer-reviewed trials) | **Systematic reviews/meta-analyses of many RCTs** for generic tai chi and qigong in fibromyalgia, chronic LBP and knee OA. Qigong for ME/CFS-like illness has 5 RCTs, mostly from one Hong Kong group. Branded TCHI: one community RCT of the Arthritis Foundation-licensed program (Callahan 2016; modest effects) plus Hall 2011, which Lam co-authored. SFQ: only uncontrolled or feasibility studies. |
-| Popularity signals | Lam claims more than 10 million people had learned his programs by 2020. Tai chi is one of the most commonly practised mind-body exercises among older US adults in the NHIS. There are 20+ Lam DVDs. Thousands of certified instructors worldwide (no exact figure published). |
+| Mainstream adoption | **Substantial for tai chi.** ACP 2017 low back pain guideline and ACR/Arthritis Foundation 2019 OA guideline recommend it. EULAR 2016 fibromyalgia recommendations list meditative movement (weak for). CDC/Arthritis Foundation and ACL/NCOA list Tai Chi for Arthritis (and Fall Prevention) as an evidence-based community program. VA Directive 1137 (recertified Dec 2022) lists tai chi/qigong among CIH approaches in the Veteran medical benefits package when clinically necessary. SFQ adoption is limited. |
+| Insurance reimbursable | Sometimes, indirectly. There is no CPT code for tai chi itself. Classes reach people through Medicare Advantage fitness benefits (e.g., SilverSneakers class menus), Older Americans Act Title III-D funding for evidence-based programs (Tai Chi for Arthritis qualifies, per CDC), the VA (covered under Directive 1137 when clinically necessary), and employer wellness programs. Original Medicare does not pay for classes; SilverSneakers inclusion varies by plan and site. Qigong energy healing is not reimbursed. |
+| Evidence (peer-reviewed trials) | **Systematic reviews/meta-analyses of many RCTs** for generic tai chi and qigong in fibromyalgia, chronic LBP and knee OA. Qigong for ME/CFS-like illness has 5 RCTs, mostly from one Hong Kong group. Branded TCHI: one community RCT of the Arthritis Foundation-licensed program (Callahan 2016; modest effects) plus Hall 2011, which Lam co-authored. SFQ: uncontrolled or feasibility studies, plus one small Mayo Clinic RCT of practitioner-delivered external qigong at a qigong healing centre that SFQ's site lists as its own (Vincent 2010, N=50). |
+| Popularity signals | Lam claims more than 10 million people had learned his programs by 2020. NHIS: 1.70% of US adults used tai chi/qigong in 2017 (up from 1.17% in 2007). r/taichi and r/qigong ~13k members each. There are 20+ Lam DVDs. Thousands of certified instructors worldwide (no exact figure published). |
 
 ## 1. Proposed mechanism(s)
 Two explanatory registers sit side by side.
@@ -63,7 +63,7 @@ Two explanatory registers sit side by side.
   - Tai Chi @ Work
   - Tai Chi 4 Kidz
   - Tai Chi for Beginners; Tai Chi for Life
-- **Teaching method:** a "stepwise progressive" approach. Instructors are certified in 1–2-day workshops (some via Zoom over two half-days) and must keep "regularly updating their skills"; a specific 2-year renewal rule is commonly reported but is not stated on the TCHI home page (unverified).
+- **Teaching method:** a "stepwise progressive" approach. Instructors are certified in 1–2-day workshops (some via Zoom over two half-days) and must renew their certification every two years (update workshop or a correspondence course at 50% of the workshop fee); the optional Board Certification is valid for one year; TCHI annual membership is AUD 40 (standard) or AUD 70 (premier) (TCHI FAQ pages; NCOA).
 - **Self-care elements:**
   - slow continuous movement with weight shifting
   - mindful attention to the body
@@ -106,7 +106,7 @@ Two explanatory registers sit side by side.
   - The German fibromyalgia guideline (Langhorst 2012/2017) recommends meditative movement therapies.
   - AHRQ systematic reviews (Skelly 2018, 2020) include tai chi and qigong among noninvasive treatments for chronic pain with low-to-moderate strength evidence.
 - **Public health:** CDC (Arthritis Program), the Administration for Community Living and NCOA list Tai Chi for Arthritis (and Fall Prevention) as evidence-based. This makes it eligible for Older Americans Act Title III-D funding, so classes are often free in senior centres. Fuzhong Li's Tai Ji Quan: Moving for Better Balance (a separate program) is part of CDC STEADI.
-- **Health systems:** offered in VA Whole Health and many hospital and integrative centres (general knowledge). The Yang 2024 virtual LBP RCT had Mayo Clinic co-authors but was led by the Center for Taiji and Qigong Studies (New York) and funded by the lead author's company (Qi Balance LLC); it is not evidence of Mayo Clinic adoption.
+- **Health systems:** VA Directive 1137 (2017, recertified Dec 2022) places tai chi/qigong on its List 1 of complementary and integrative health approaches included in the Veteran medical benefits package when the care team deems it clinically necessary (VA Whole Health pages). Also offered in many hospital and integrative centres. The Yang 2024 virtual LBP RCT had Mayo Clinic co-authors but was led by the Center for Taiji and Qigong Studies (New York) and funded by the lead author's company (Qi Balance LLC); it is not evidence of Mayo Clinic adoption.
 - **Insurance:** there is no direct billing code. Indirect coverage comes through Medicare Advantage fitness benefits, VA programs, and grant-funded community programs. Self-pay is otherwise the norm. **SFQ** has no mainstream reimbursement.
 
 ## 6. Evidence base
@@ -145,7 +145,7 @@ Two explanatory registers sit side by side.
   - Design: virtually delivered tai chi (Chen-style), Hunyuan qigong and meditation, 60 min twice weekly for 12 weeks, vs waitlist for LBP, N=350. Led by the Center for Taiji and Qigong Studies (NY) with Mayo, Weill Cornell and U Minnesota co-authors.
   - Results: ODI −4.7 at 8 weeks, −6.4 at 12 weeks and −8.1 at 16 weeks vs control.
   - Caveats: funded by Qi Balance LLC, directed by the lead author, who designed and taught the curriculum; about 30% attrition; waitlist control.
-- **Sotiropoulos 2025 meta-analysis** (*Cureus*, PMID 40530198; qigong/tai chi for CLBP; figures as reported by the researcher, abstract numbers not re-checked: 8 RCTs, N=729, pain SMD −1.07, I²=93%).
+- **Sotiropoulos 2025 meta-analysis** (*Cureus*, PMID 40530198; qigong/tai chi for CLBP; 8 RCTs, N=729; pain SMD −1.07 [95% CI −1.64 to −0.49], disability SMD −0.77, both I²=93%; verified against the abstract).
 
 **Generic qigong: fibromyalgia and ME/CFS**
 - **Lynch M, Sawynok J, et al. (2012)**, *Arthritis Res Ther* 14:R178 (PMID 22863206; NCT00938834).
@@ -172,7 +172,7 @@ Two explanatory registers sit side by side.
 - **Van de Winckel A et al. (2023)**, University of Minnesota:
   - remote SFQ for neuropathic pain after spinal cord injury: non-randomized feasibility trial (Front Physiol, PMID 37719467);
   - SFQ vs P.Volve low-intensity exercise in chronic LBP: Phase I feasibility RCT, N=32 randomized (medRxiv preprint, NCT04164225), with fMRI body-awareness network outcomes.
-- **No verified Mayo Clinic trial** of SFQ was found in PubMed or Europe PMC. Lin's Mayo link appears to be a co-written textbook chapter on qigong with a Mayo physician (Nisha Manek). The SFQ website's own "medical studies" page could not be retrieved (404).
+- **Vincent A, Hill J, Kruk KM, Cha SS, Bauer BA (2010)**, *Am J Chin Med* 38:695–703 (PMID 20626055), Mayo Clinic. RCT of **external qigong** (practitioner-delivered energy treatment) vs equivalent attention time, weekly 30-min sessions for 4 weeks, in 50 people with chronic pain recruited at a qigong healing centre. Pain intensity fell more with external qigong in weeks 2–4 (p≤0.003); at 8 weeks the difference persisted but was not significant. The abstract does not name SFQ; SFQ's "Medical Studies" page (retrieved 2026-10-13) lists it as an SFQ study and adds that it is not an endorsement by Mayo or the University of Minnesota. It tests healer-delivered treatment, not self-practice, and attention control cannot blind the 'healing intent'. Lin also co-wrote a textbook chapter on qigong with a Mayo physician (Nisha Manek). The same page lists a 2002 Adler School pilot in depression (N=39; not in PubMed) and a 2025 NCCIH-funded R34 SFQ feasibility protocol in SCI neuropathic pain (Van de Winckel).
 
 **Gaps and critiques**
 - Participants cannot be blinded, and controls are usually waitlist or education, so expectancy, attention and group effects aren't separated out.
@@ -181,14 +181,15 @@ Two explanatory registers sit side by side.
 - Many small Chinese trials have high risk of bias.
 - **Long COVID:** the first sizeable RCT was **null on its primary outcome**. Dietzel J et al. (2026), *Front Med* 13:1872035 (PMID 42638691; ACUQiG, Charité Berlin; NCT05289154): N=235 with post-COVID fatigue, 8 weeks of self-acupressure plus twice-weekly online qigong vs a self-care leaflet. SF-36 physical function difference 4.2 (95% CI −0.9 to 9.4, p=0.11). Chalder fatigue was slightly better (p=0.04). Some participants had aggravation of pre-existing symptoms.
 - Evidence for POTS, MCS, EHS, IBS and FND is essentially absent.
-- Branded-program evidence is thin: TCHI has one independent community RCT showing modest effects, and SFQ is pilot-level only.
+- Branded-program evidence is thin: TCHI has one independent community RCT showing modest effects, and SFQ has pilot/feasibility studies plus one small 2010 Mayo RCT of healer-delivered external qigong.
 
 ## 7. Popularity and trajectory
 - **Long baseline:** a mass practice in China since the 1950s. It spread in the West from the 1970s (Nixon-era China opening, Cheng Man-ch'ing and other teachers in the US).
 - **Paul Lam:** Tai Chi for Arthritis launched 1997, followed by DVDs (2000s, 20+ titles), CDC/Arthritis Foundation endorsement (late 2000s), TCHI formalised in 2010, and a claim of more than 10 million learners by 2020 (TCHI bio; self-reported, not audited).
 - **Research spike:** NCCAM/NCCIH-funded trials from about 2008 onward. The NEJM 2010 fibromyalgia trial got wide press coverage (NYT and others), and the BMJ 2018 trial produced a second media spike. Fibromyalgia meta-analyses have appeared every 1–3 years since. PubMed "tai chi" publications grew from dozens per year in the 1990s to several hundred per year in the 2020s.
 - **COVID-19 (2020–22):** a pivot to Zoom/virtual classes (e.g., Yang 2024), plus a flurry of qigong/Baduanjin trial protocols for long COVID and fatigue (2021–25). The first large long-COVID RCT (Dietzel 2026) was null on its primary outcome.
-- **US prevalence:** NHIS shows tai chi and qigong practised by roughly 1–2% of adults (several million), and much higher among older adults. Practice was broadly stable through 2002–2022, as were Google Trends for "tai chi" (moderate, steady, with a COVID-era uptick for "qigong"). This is from general knowledge of NHIS reports; exact values were not re-fetched.
+- **US prevalence:** NHIS past-year tai chi/qigong use rose from 1.17% of adults in 2007 to 1.27% in 2012 and 1.70% in 2017 (a 64% increase; about 4 million adults), with higher use among adults 65+, Asian Americans and the more educated (Wang 2022, PMID 36162718). Combined yoga/tai chi/qigong use rose from 5.8% (2002) to 14.5% (2017) (Wang 2019, PMID 30896991). No published 2022 NHIS tai chi/qigong estimate was found. Google Trends was not queried (no public API access).
+- **Online communities:** r/taichi and r/qigong each have about 13k members (GummySearch snapshot, accessed 2026-10-13; Reddit's own API was blocked). Small relative to r/yoga or r/Meditation.
 - **Spring Forest Qigong:** founded 1995 and reached peak visibility in the 2000s (Lin's books *Born a Healer*, 2003, and *Spring Forest Qigong for Health*). It later developed University of Minnesota research ties (2020s). A niche brand: a regional centre plus an online audience, with no published user numbers.
 
 ## 8. Controversies / criticisms
@@ -214,7 +215,7 @@ Two explanatory registers sit side by side.
 - https://pubmed.ncbi.nlm.nih.gov/23983785/ (Chan 2013)
 - https://pubmed.ncbi.nlm.nih.gov/25610473/ (Chan 2014)
 - https://pubmed.ncbi.nlm.nih.gov/39524182/ (Markwart 2024 SR)
-- https://pubmed.ncbi.nlm.nih.gov/39469294/ (Yang 2024 Mayo virtual LBP RCT)
+- https://pubmed.ncbi.nlm.nih.gov/39469294/ (Yang 2024 virtual LBP RCT)
 - https://pubmed.ncbi.nlm.nih.gov/21062951/ (Coleman 2011 SFQ pilot)
 - https://pubmed.ncbi.nlm.nih.gov/37719467/ (Van de Winckel 2023 SFQ SCI)
 - https://www.medrxiv.org/content/10.1101/2023.02.11.23285808v1 (SFQ vs P.Volve CLBP Phase I)
@@ -225,5 +226,23 @@ Two explanatory registers sit side by side.
 - https://pubmed.ncbi.nlm.nih.gov/27345663/ (Lauche 2016 neck pain RCT)
 - https://pubmed.ncbi.nlm.nih.gov/31905305/ (Mercuris 2020)
 - https://pubmed.ncbi.nlm.nih.gov/36824785/ (SFQ vs P.Volve CLBP, medRxiv)
+- https://pubmed.ncbi.nlm.nih.gov/20626055/ (Vincent 2010 Mayo external qigong RCT)
+- https://www.springforestqigong.com/medical-studies/
+- https://www.springforestqigong.com/product-category/courses/
+- https://www.springforestqigong.com/product-category/membership/
+- https://taichiforhealthinstitute.org/wp-content/uploads/2024/09/TCHI-USA-TCAFP-Instructor-Training-Pricing-September-2024.pdf
+- https://taichiforhealthinstitute.org/faq-items/i-am-an-instructor-do-i-need-to-be-updated-how-and-why/
+- https://taichiforhealthinstitute.org/faq-items/what-is-the-process-for-becoming-a-board-certified-instructor-how-long-will-it-take/
+- https://www.ncoa.org/article/evidence-based-program-tai-chi-for-arthritis-and-falls-prevention/
+- https://tools.cdc.gov/podcasts/media/pdf/347511_HealthyLivingWithArthritisEp6TaiChi.pdf (CDC: Title III-D eligibility)
+- https://extension.illinois.edu/events/2026-02-02-tai-chi-arthritis-and-fall-prevention
+- https://www.va.gov/WHOLEHEALTH/professional-resources/Tai_Chi.asp
+- https://www.va.gov/WHOLEHEALTH/professional-resources/IHCC.asp
+- https://pubmed.ncbi.nlm.nih.gov/28192789/ (ACP 2017 LBP guideline)
+- https://pubmed.ncbi.nlm.nih.gov/31908163/ (ACR/AF 2019 OA guideline)
+- https://pubmed.ncbi.nlm.nih.gov/27377815/ (EULAR 2016 fibromyalgia recommendations)
+- https://pubmed.ncbi.nlm.nih.gov/36162718/ (NHIS tai chi/qigong trends 2007–2017)
+- https://pubmed.ncbi.nlm.nih.gov/30896991/ (NHIS yoga/tai chi/qigong trends 2002–2017)
+- https://gummysearch.com/r/taichi/ ; https://gummysearch.com/r/qigong/
 
-*Fact-checked 2026-10-12; corrections: Callahan 2016 results corrected (pain/fatigue/stiffness approached significance; AF-licensed program; 1-yr data uncontrolled); Yang 2024 re-attributed (led by Center for Taiji and Qigong Studies, funded by lead author's company; not Mayo adoption); added null Dietzel 2026 long-COVID qigong RCT; Chan 2013, Jones 2012, Lynch 2012, Wang 2018 design details corrected; unlocatable 'Lee 2022' removed; TCHI 2-year renewal flagged unverified; Lam medal detail and SFQ 'karmic cleansing' offering added; COI critique added.*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: TCHI 2-year renewal confirmed (FAQ) and instructor fees added; SFQ course/subscription prices added; community class cost and Title III-D eligibility verified (CDC); VA Directive 1137 coverage verified; ACP/ACR/EULAR guideline statements verified; Sotiropoulos 2025 figures verified; SFQ 'no Mayo trial' corrected (Vincent 2010 external-qigong RCT, PMID 20626055); NHIS prevalence corrected from 'stable' to rising 1.17%→1.70% (2007–2017); Reddit sizes added; Google Trends not queried.*

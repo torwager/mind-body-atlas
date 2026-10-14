@@ -1,21 +1,21 @@
 # Mindfulness-Based Cognitive Therapy (MBCT)
 
-*Compiled 2026-10-12 from mbct.com (home, About), oxfordmindfulness.org (home, personal-learning course list), mindfulmood.org (Mindful Mood Balance), and PubMed records retrieved by PMID through NCBI E-utilities. Content paraphrased. The session's web-search quota ran out partway through, so no new searches could be made. Background facts from standard sources (book editions, NICE history) are marked "(background)" where they were not re-verified online in this session. Prices are not posted on the main sites, so the cost figures below are labelled as estimates.*
+*Compiled 2026-10-12 from mbct.com (home, About), oxfordmindfulness.org (home, personal-learning course list), mindfulmood.org (Mindful Mood Balance), and PubMed records retrieved by PMID through NCBI E-utilities. Content paraphrased. Open items were completed on 2026-10-13 from the NICE NG222 recommendations page, Guilford and Little, Brown book pages, the *Mindful Nation UK* report (PDF), course pages at UC San Diego, UMass Memorial and Oxford, Crossref, the ClinicalTrials.gov API and PubMed counts. Anything still unconfirmed is marked as such.*
 
 ## At a glance
 | Field | |
 |---|---|
 | Website | https://www.mbct.com/ (Segal/Dimidjian hub); https://www.oxfordmindfulness.org/ (Oxford Mindfulness Foundation, UK); https://mindfulmood.org/ (Mindful Mood Balance, digital MBCT) |
 | Founder(s) | Zindel V. Segal, PhD (clinical psychologist; CAMH, then University of Toronto Scarborough). J. Mark G. Williams, DPhil (clinical psychologist; Bangor, then Oxford; founder of the Oxford Mindfulness Centre/Foundation). John D. Teasdale, PhD (clinical/cognitive psychologist, MRC Cognition and Brain Sciences Unit, Cambridge). Sona Dimidjian (CU Boulder) co-leads Mindful Mood Balance |
-| Founded | Developed 1992–1999. First RCT published 2000; treatment manual published by Guilford in 2002, 2nd edition 2013 (background) |
+| Founded | Developed 1992–1999. First RCT published 2000; treatment manual published by Guilford in 2002 (first edition ©2002), 2nd edition released October 2012 (©2013) (guilford.com) |
 | Format / delivery | Manualised 8-week group course: weekly 2–2.25 h sessions for 8–15 people, plus about 45 min a day of home practice and, in many versions, a day of practice. Also offered as a self-help workbook, the digital course Mindful Mood Balance (8 online sessions with light coaching), and general-population variants (MBCT-L "Mindfulness for Life"; "Finding Peace in a Frantic World") |
 | Business model | Clinician/teacher-delivered and mostly fee-for-service. The manual and books are commercial. In the UK it is free at point of use on the NHS. Not proprietary: anyone can run "MBCT" after training, and no single company owns it |
-| Direct cost | No prices are posted on mbct.com or the Oxford course list (checked 2026-10). Typical ranges (estimate): about USD 300–700 for a US community or private 8-week group; about GBP 200–400 for UK private/charity courses; free on the NHS; workbook about USD 20–30 |
+| Direct cost | mbct.com and mindfulmood.org post no prices. Posted 2026 fees: UC San Diego 8-week online MBCT USD 595 (USD 545 if paid early); UMass Memorial 8-week online MBSR or MBCT USD 650; Oxford Mindfulness Foundation MBCT-L (Mindfulness for Life), 8 weeks online, GBP 300. Free on the NHS. *The Mindful Way Through Depression* (2nd ed.) USD 23.95 paperback; the clinician manual USD 55 paperback. Community and charity courses can cost less (not systematically surveyed) |
 | Conditions claimed | Core: prevention of relapse in recurrent major depression (3+ episodes). Adaptations tested for residual depression, health anxiety, perinatal depression, bipolar disorder, anxiety, chronic pain/headache, IBS, cancer distress, and general wellbeing (MBCT-L) |
-| Mainstream adoption | Substantial. NICE recommended it for recurrent depression from 2004 (CG23/CG90) and kept it in NG222 (2022) (background). Offered in NHS Talking Therapies (IAPT), Kaiser Permanente research and practice, and academic centres (Oxford, Exeter, Radboud, Toronto) |
+| Mainstream adoption | Substantial. NICE recommended it for recurrent depression from 2004 (CG23/CG90) and kept it in NG222 (2022) as a relapse-prevention option (recs 1.8.5–1.8.6, checked 2026-10-13). Offered in NHS Talking Therapies (IAPT), Kaiser Permanente research and practice, and academic centres (Oxford, Exeter, Radboud, Toronto) |
 | Insurance reimbursable | Sometimes. UK NHS is free. In the US it is billable as group psychotherapy (CPT 90853) when a licensed clinician delivers it. Community or lay-teacher courses are self-pay |
 | Evidence (peer-reviewed trials) | Strong for the specific branded protocol in recurrent depression: multiple RCTs plus an IPD meta-analysis (HR 0.69 vs no MBCT). About equal to maintenance antidepressants. Weaker and mixed evidence for other conditions |
-| Popularity signals | Guilford manual and *The Mindful Way Through Depression* (2007) are widely used. *Finding Peace in a Frantic World* (2011) was a UK bestseller (background). UK Parliament's Mindful Nation UK report (2015). AccessMBCT international therapist directory. A cross-national teacher-training infrastructure (Oxford, Bangor, UCSD, Toronto) |
+| Popularity signals | Guilford reports more than 70,000 copies of the manual and more than 475,000 copies of *The Mindful Way Through Depression* (2007; 2nd ed. 2024) in print. The publisher reports more than 2 million copies sold of *Mindfulness: Finding Peace in a Frantic World* (2011, MBCT-based). About 1,100 PubMed records name MBCT in the title or abstract (about 100–120 a year since 2020), and ClinicalTrials.gov lists about 260–290 registered studies. UK Parliament's Mindful Nation UK report (2015). AccessMBCT international therapist directory. A cross-national teacher-training infrastructure (Oxford, Bangor, UCSD, Toronto) |
 
 ## 1. Proposed mechanism(s)
 - **Cognitive reactivity.** After someone recovers from depression, a mild sad mood can reactivate the negative thinking patterns of earlier episodes. Examples are self-devaluation, hopelessness and ruminative "why am I like this" thinking. Each episode makes this link easier to trigger, which is the kindling/"scar" idea. Teasdale's Interacting Cognitive Subsystems (ICS) model gives the theory: the risk lies in *how* one relates to thoughts more than in what they say.
@@ -30,7 +30,7 @@ Mostly one process model, with condition-specific emphasis. The core vulnerabili
 ## 3. Treatments and self-care strategies
 **Structure (classic MBCT for depression):** an individual pre-class interview; 8 weekly group sessions of about 2–2.25 h; home practice of about 40–45 min a day, 6 days a week, with audio; often an all-day session; optional follow-up "reunion" sessions.
 
-Session themes (from the manual, background):
+Session themes (from the Guilford manual; session titles not re-checked against the book text):
 1. Awareness and automatic pilot: the raisin exercise and the body scan.
 2. Living in our heads: the body scan, plus the thoughts-and-feelings exercise (ABC model).
 3. Gathering the scattered mind: mindful movement (yoga-based stretching), sitting meditation on the breath, and the 3-minute breathing space.
@@ -50,7 +50,7 @@ Core self-care tools:
 
 In PREVENT the protocol included supported tapering of antidepressants (MBCT-TS).
 
-**Variants:** Mindful Mood Balance (8 online sessions over about 3 months with minimal phone/email coaching in the trial; mindfulmood.org describes a 12-week programme and posts no price); MBCT-L/Mindfulness for Life (8 × 2.25 h plus a 5-h practice day; Oxford); Finding Peace in a Frantic World (8 × 90 min); MBCT for chronic pain (Day, 2017 manual, background); MBCT for health anxiety (Oxford).
+**Variants:** Mindful Mood Balance (8 online sessions over about 3 months with minimal phone/email coaching in the trial; mindfulmood.org describes a 12-week programme and posts no price); MBCT-L/Mindfulness for Life (8 × 2.25 h plus a 5-h practice day; Oxford); Finding Peace in a Frantic World (8 × 90 min); MBCT for chronic pain (Day, 2017, Wiley clinical manual, doi:10.1002/9781119257875); MBCT for health anxiety (Oxford).
 
 ## 4. Roots and influences
 - Jon Kabat-Zinn's **MBSR** (1979, UMass), which supplied the 8-week group format, body scan, sitting meditation and hatha-yoga movement. mbct.com describes MBCT as an adaptation of MBSR.
@@ -60,9 +60,9 @@ In PREVENT the protocol included supported tapering of antidepressants (MBCT-TS)
 - MBCT is a precursor and sibling of other **third-wave CBTs** (ACT, DBT, metacognitive therapy) and the template for later "MB-X" programmes (MBRP for addiction, MBCT-L, MB pain management).
 
 ## 5. Mainstream adoption and insurance
-- **NICE:** MBCT for people currently well who have had 3+ episodes of depression appeared in the 2004 depression guideline (CG23) and was retained in CG90 (2009). NG222 (2022) keeps group MBCT as a relapse-prevention option for people in remission at higher risk of relapse; the exact eligibility wording could not be re-verified (unverified, background). NG222 also lists group mindfulness/meditation as a first-line option for less severe depression (background; the NICE page returned 403 to automated fetch).
+- **NICE:** MBCT for people currently well who have had 3+ episodes of depression appeared in the 2004 depression guideline (CG23) and was retained in CG90 (2009). *Mindful Nation UK* (2015) confirms that NICE has recommended it since 2004. NG222 (2022), rec 1.8.5: for people who remitted on antidepressants alone but are at higher risk of relapse, consider continuing medication, or a course of group CBT or MBCT for those who do not wish to continue antidepressants, or both. Rec 1.8.6 specifies a relapse-prevention focus, usually 8 sessions over 2–3 months with optional extra sessions over the next 12 months. Eligibility in rec 1.8.5 is framed as "higher risk of relapse", not as a 3+ episode count. NG222 Table 1 also lists "group mindfulness and meditation" (e.g., MBCT; 8 sessions, 8–15 participants) as a treatment option for a new episode of less severe depression, 7th of 11 options in the committee's ranking (checked 2026-10-13).
 - **NHS:** delivered through NHS Talking Therapies and secondary-care mindfulness services. Oxford's "MBCT for Depression" course is offered only to UK residents with a GP, in collaboration with the Nottingham Centre for Mindfulness.
-- The **UK Mindfulness All-Party Parliamentary Group** report *Mindful Nation UK* (2015) recommended scaling MBCT in the NHS (background). Kuyken, Williams and Byng gave evidence to the APPG (COI statement, PMID 27119968).
+- The **UK Mindfulness All-Party Parliamentary Group** report *Mindful Nation UK* (October 2015) recommended commissioning MBCT in line with NICE for the 580,000 adults a year at risk of recurrent depression, starting with 15% (87,000 a year) by 2020 at an indicative cost of just under GBP 10 million a year, and training 100 MBCT teachers a year through IAPT. It noted that NHS access to MBCT was "still extremely limited". Kuyken, Williams and Byng gave evidence to the APPG (COI statement, PMID 27119968).
 - **US:** Kaiser Permanente Colorado hosted the 460-person Mindful Mood Balance trial. Academic medical centres run MBCT groups. It is reimbursable when billed as group psychotherapy by a licensed provider; there is no MBCT-specific code.
 - **Internationally:** centres in the Netherlands (Radboud), Belgium, Switzerland, Hong Kong and Canada, and teacher-training pathways at Oxford, Bangor, UCSD and Toronto.
 
@@ -89,7 +89,7 @@ These trials test the **specific manualised MBCT protocol** unless noted. All we
 **Gaps and critiques:**
 - **Investigator independence.** Most pivotal trials were run by the developers or their centres. The IPD meta-analysis COI statement notes royalties and training income for Segal, Williams and Teasdale. Segal and Dimidjian both disclose being cofounders of Mindful Noggin, Inc. (online MBCT dissemination and therapist training), and both receive Guilford royalties (COI statement, PMID 31995132).
 - **Specific vs common factors.** The specific meditation component is not clearly better than active comparators: Williams 2014 vs CPE, Farb 2018 vs CT, PREVENT vs antidepressants. MBCT is best described as "about as good as maintenance antidepressants" for people with 3+ episodes.
-- **Pain, IBS, fibromyalgia and other somatic conditions.** MBCT-specific pain evidence is limited to small pilot RCTs (Day et al. on headache and low back pain, listed above; Bindicsova et al. 2025, *J Pain*, pilot of internet MBCT for chronic pain, PMID 40379069, not reviewed in detail). Most RCT evidence for pain and IBS comes from MBSR or generic mindfulness rather than MBCT. **No trials of MBCT were identified for ME/CFS, POTS, MCS, long COVID or FND.**
+- **Pain, IBS, fibromyalgia and other somatic conditions.** MBCT-specific pain evidence is limited to small pilot RCTs (Day et al. on headache and low back pain, listed above; Bindicsova et al. 2025, *J Pain* 32:105429, PMID 40379069: pilot RCT of a 4-week self-directed internet MBCT vs delayed treatment, N=48. It was feasible with 88% retention. Within-group pain interference improved (d=0.48) but pain intensity changed little (d=0.20), and no between-group efficacy test was reported). Most RCT evidence for pain and IBS comes from MBSR or generic mindfulness rather than MBCT. **No trials of MBCT were identified for ME/CFS, POTS, MCS, long COVID or FND.**
 
 ## 7. Popularity and trajectory
 - **1992–1999:** development (MRC CBU Cambridge, Toronto, Bangor).
@@ -97,18 +97,18 @@ These trials test the **specific manualised MBCT protocol** unless noted. All we
 - **2002:** Guilford manual.
 - **2004:** NICE recommendation.
 - **2007:** *The Mindful Way Through Depression* (self-help, with CD).
-- **2008:** Oxford Mindfulness Centre founded (Williams; background).
+- **2008:** Oxford Mindfulness Centre founded, with Williams as Founding Director (role per Guilford author bio). The year is from standard accounts and is not stated on oxfordmindfulness.org; Oxford University pages returned 403.
 - **2011:** *Finding Peace in a Frantic World* (Williams & Penman) reaches a mass UK audience.
 - **2013:** 2nd edition of the manual.
 - **2015:** PREVENT trial in the *Lancet* (wide press coverage: "mindfulness as good as pills") and *Mindful Nation UK*.
 - **2016:** IPD meta-analysis in *JAMA Psychiatry*.
 - **2016–2020:** Mindful Mood Balance digital trial; the MBCT-L general-public curriculum.
-- **2020s:** COVID-era shift to live online groups (Oxford courses are now taught live online); MBCT reaffirmed in NICE NG222 (2022). Academic output has plateaued at a high level. Public "mindfulness" attention peaked around 2015–2017 (Google Trends, background) and has since flattened, with apps (Headspace, Calm) absorbing popular demand.
-- **Reach (estimate, unverified):** hundreds of thousands of course completers worldwide plus readers of the self-help books. Including book readers, cumulative exposure is roughly 10^6. No published enrolment or sales figures were found, so treat this as an order-of-magnitude guess.
+- **2020s:** COVID-era shift to live online groups (Oxford courses are now taught live online); MBCT reaffirmed in NICE NG222 (2022). Academic output has plateaued at a high level: PubMed title/abstract records for MBCT were about 77 in 2015, 108 in 2020, 121 in 2022 and 116 in 2025. Public "mindfulness" attention is generally described as peaking around 2015–2017, with apps (Headspace, Calm) absorbing popular demand. Google Trends was not checked because it has no public API that automated fetch can reach.
+- **Reach (estimate):** publisher figures give more than 2.5 million self-help and manual copies (over 2 million *Finding Peace*, over 475,000 *Mindful Way*, over 70,000 manuals). Course completers worldwide are probably in the hundreds of thousands, but no enrolment totals are published by mbct.com, Oxford, NHS Talking Therapies or AccessMBCT. Cumulative exposure is roughly 10^6–10^7. Reddit: no MBCT-specific subreddit metrics could be retrieved because Reddit blocked automated access to its JSON endpoints.
 
 ## 8. Controversies / criticisms
 - **Overselling.** Media framing after PREVENT ("as effective as antidepressants") overstated a non-superiority result.
-- **Adverse effects of meditation.** Britton et al. 2021 (*Clin Psychol Sci* 9:1185, PMID 35174010) used an independent interview after three variants of 8-week MBCT (n=96). 83% reported at least one meditation-related side effect, 37% reported negative impacts on functioning, and 6–14% had lasting bad effects (hyperarousal, dissociation). The authors judged these rates similar to other psychological treatments. The MBCT developers have also published on harms monitoring (background).
+- **Adverse effects of meditation.** Britton et al. 2021 (*Clin Psychol Sci* 9:1185, PMID 35174010) used an independent interview after three variants of 8-week MBCT (n=96). 83% reported at least one meditation-related side effect, 37% reported negative impacts on functioning, and 6–14% had lasting bad effects (hyperarousal, dissociation). The authors judged these rates similar to other psychological treatments. Researchers from the developers' Oxford group have also published on harms monitoring in mindfulness-based programmes: Baer, Crane, Miller & Kuyken 2019, *Clin Psychol Rev* (PMID 30638824).
 - **Narrow benefit.** The effect in the original trials was limited to people with 3+ episodes, and the dismantling trial was null overall. Generalisation to "everyone" (MBCT-L, workplace programmes) has weaker support.
 - **Allegiance effects and income ties** among the developers who ran most trials.
 - MBCT has largely stayed clear of the "brain retraining for chronic illness" debates because it makes no claims about ME/CFS-type conditions.
@@ -131,6 +131,20 @@ These trials test the **specific manualised MBCT protocol** unless noted. All we
 - https://pubmed.ncbi.nlm.nih.gov/31995132/
 - https://pubmed.ncbi.nlm.nih.gov/26654212/
 - https://pubmed.ncbi.nlm.nih.gov/22708977/
-- https://www.nice.org.uk/guidance/ng222 (not fetchable automatically; recommendation content from background knowledge)
+- https://www.nice.org.uk/guidance/ng222/chapter/Recommendations
+- https://pubmed.ncbi.nlm.nih.gov/23446085/
+- https://pubmed.ncbi.nlm.nih.gov/30605517/
+- https://pubmed.ncbi.nlm.nih.gov/35174010/
+- https://pubmed.ncbi.nlm.nih.gov/40379069/
+- https://pubmed.ncbi.nlm.nih.gov/30638824/
+- https://www.guilford.com/books/Mindfulness-Based-Cognitive-Therapy-for-Depression/Segal-Williams-Teasdale/9781462537037
+- https://www.guilford.com/books/The-Mindful-Way-Through-Depression/Williams-Teasdale-Segal-Kabat-Zinn/9781593851286
+- https://www.littlebrown.co.uk/titles/professor-mark-williams/mindfulness/9780749953089/
+- https://www.themindfulnessinitiative.org/Handlers/Download.ashx?IDMF=1af56392-4cf1-4550-bdd1-72e809fa627a (Mindful Nation UK, 2015)
+- https://cih.ucsd.edu/mindfulness/programs/8-week-mindfulness-based-cognitive-therapy
+- https://www.ummhealth.org/umass-memorial-medical-center/services-treatments/center-mindfulness/mindfulness-programs/mbsr-or-mbct-tuition-and-payment
+- https://oxfordmindfulness.org/course/mindfulness-for-life-28
+- https://doi.org/10.1002/9781119257875 (Day 2017 manual)
+- https://clinicaltrials.gov/api/v2/studies?query.intr=%22mindfulness-based%20cognitive%20therapy%22 (263 studies, 2026-10-13)
 
-*Fact-checked 2026-10-12; corrections: Farb 2018 N=166/24-mo detail added; Kuyken 2008 and Huijbers 2016 results filled in from abstracts (Huijbers: discontinuation worse); IPD severity moderator softened to 'some evidence'; added Day 2014/2019 MBCT pain pilot RCTs and Britton 2021 adverse-effects study; Mindful Noggin COI confirmed (Segal and Dimidjian); NG222 eligibility wording flagged unverified; cost and reach figures flagged as unverified estimates; Teasdale credential wording adjusted.*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: NG222 wording verified (recs 1.8.5–1.8.6, Table 1); manual editions (2002; 2nd ed. Oct 2012/©2013); posted course fees (UCSD, UMass, Oxford) replace cost estimates; Finding Peace (>2M copies), Mindful Way (>475k) and manual (>70k) sales; Mindful Nation UK recommendations; Day 2017 manual; Bindicsova 2025 results; Baer 2019 harms paper; PubMed and ClinicalTrials.gov counts; unresolved: OMC founding year (2008, not confirmed on an official page), Google Trends and Reddit (automated access blocked), course-completer totals (not published).*

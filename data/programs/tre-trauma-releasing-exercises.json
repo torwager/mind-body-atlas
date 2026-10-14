@@ -2,51 +2,260 @@
   "slug": "tre-trauma-releasing-exercises",
   "name": "TRE (Tension & Trauma Releasing Exercises)",
   "url": "https://treglobal.org/",
-  "founders": ["David Berceli, PhD (social work, Arizona State University, 2009, per Wikipedia; not independently confirmed); trauma-intervention educator in conflict zones (Lebanon, Sudan)"],
+  "founders": [
+    "David Berceli, PhD (Arizona State University, 2009; dissertation 'Evaluating the effects of stress reduction exercises employing mild tremors: a pilot study'; field given as social work by Wikipedia); trauma-intervention educator in conflict zones (Lebanon, Sudan)"
+  ],
   "founded_year": 2004,
   "founded_year_range": "2002-2005. Basis: traumaprevention.com was captured in the Internet Archive from Jan 2004; the first book, 'Trauma Releasing Exercises', came out in 2005; the method was formalised in the 2009 ASU dissertation. Berceli dates the origin observation to 1979 in Lebanon (per Hall 2020).",
   "category": "somatic/movement practice",
-  "delivery": ["certified-provider workshops (in-person/online)", "1:1 sessions", "group classes", "self-practice at home", "book", "agency/large-group trainings", "retreat"],
+  "delivery": [
+    "certified-provider workshops (in-person/online)",
+    "1:1 sessions",
+    "group classes",
+    "self-practice at home",
+    "book",
+    "agency/large-group trainings",
+    "retreat"
+  ],
   "business_model": "freemium/hybrid",
-  "cost_summary": "The exercises are freely described in books (about US$15-20) and on YouTube. Instruction comes from independent Providers who set their own fees; treglobal.org publishes no workshop prices. Certification needs a one-time Enrollee fee plus Trainer fees for two 3-day modules and supervision. The only fee listed on the site is US$250 for people enrolled to become Certification Trainers (2026). TRE For All, Inc. is a 501(c)(3) nonprofit.",
-  "cost_usd_typical": null,
-  "conditions_claimed": ["general stress/wellbeing", "anxiety", "PTSD/trauma", "insomnia", "chronic pain (general)", "depression", "burnout/vicarious trauma", "fatigue", "multiple sclerosis symptoms (research use)", "Parkinson's (research use)", "fibromyalgia (thesis-level research use)", "restless legs (research use)", "hypertension (research use)"],
-  "conditions_primary": ["general stress/wellbeing", "PTSD/trauma", "anxiety"],
+  "cost_summary": "The exercises are freely described in books (about US$15-20) and on YouTube. Instruction comes from independent Providers who set their own fees; treglobal.org publishes no workshop prices. Sample Provider prices (Oct 2026): 2-hour live online intro workshop US$88, private session US$111, group refresher US$25 or EUR15, 3-day online in-depth intro course US$950, TRE UK BRONZE programme GBP250. Certification needs a one-time Enrollee membership fee of US$35 plus Trainer fees for two 3-day modules and supervision; Certification Trainer trainees pay US$250. TRE For All, Inc. is a 501(c)(3) nonprofit.",
+  "cost_usd_typical": 88,
+  "conditions_claimed": [
+    "general stress/wellbeing",
+    "anxiety",
+    "PTSD/trauma",
+    "insomnia",
+    "chronic pain (general)",
+    "depression",
+    "burnout/vicarious trauma",
+    "fatigue",
+    "multiple sclerosis symptoms (research use)",
+    "Parkinson's (research use)",
+    "fibromyalgia (thesis-level research use)",
+    "restless legs (research use)",
+    "hypertension (research use)"
+  ],
+  "conditions_primary": [
+    "general stress/wellbeing",
+    "PTSD/trauma",
+    "anxiety"
+  ],
   "differentiation": "transdiagnostic / not disorder-focused",
-  "mechanisms": ["unresolved trauma stored in body", "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")", "sensorimotor / movement patterns / body schema", "polyvagal / vagal tone / safety signalling", "stress / HPA axis"],
+  "mechanisms": [
+    "unresolved trauma stored in body",
+    "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")",
+    "sensorimotor / movement patterns / body schema",
+    "polyvagal / vagal tone / safety signalling",
+    "stress / HPA axis"
+  ],
   "mechanism_summary": "Tremoring is presented as an innate mammalian reflex that discharges stress or trauma energy once a threat has passed. Adults suppress it, so the stress response stays incomplete and is held as chronic muscle tension, especially in the psoas. Deliberately fatiguing the leg and psoas muscles and then allowing 'neurogenic tremors' is said to let the nervous system self-regulate back toward parasympathetic balance, with no need for verbal processing or belief. The same model applies to all conditions. Polyvagal framing was added later. Critics read the tremor as ordinary fatigue tremor, with benefits coming from relaxation and expectancy.",
-  "roots": ["Reichian body psychotherapy", "Somatic Experiencing / ethology", "polyvagal theory", "Selye stress theory", "Bioenergetic Analysis (Lowen)", "Daoist qigong/tai chi"],
-  "techniques": ["6-7 preparatory exercises to stretch and fatigue the ankles, calves, quads, hamstrings, hips and psoas (incl. wall-sit)", "supine butterfly position to elicit involuntary neurogenic tremors spreading from legs to pelvis/trunk", "self-titration: stop the tremor by extending the legs; pause if overwhelmed", "dose: beginners 15 min max, no more than 3-4x/week; later at least 2x/week up to daily, as lifelong self-care", "provider-led intro workshops, 1:1 courses, online group 'shakes', retreats", "Neurogenic Yoga variant"],
+  "roots": [
+    "Reichian body psychotherapy",
+    "Somatic Experiencing / ethology",
+    "polyvagal theory",
+    "Selye stress theory",
+    "Bioenergetic Analysis (Lowen)",
+    "Daoist qigong/tai chi"
+  ],
+  "techniques": [
+    "6-7 preparatory exercises to stretch and fatigue the ankles, calves, quads, hamstrings, hips and psoas (incl. wall-sit)",
+    "supine butterfly position to elicit involuntary neurogenic tremors spreading from legs to pelvis/trunk",
+    "self-titration: stop the tremor by extending the legs; pause if overwhelmed",
+    "dose: beginners 15 min max, no more than 3-4x/week; later at least 2x/week up to daily, as lifelong self-care",
+    "provider-led intro workshops, 1:1 courses, online group 'shakes', retreats",
+    "Neurogenic Yoga variant"
+  ],
   "mainstream_adoption": "limited",
   "mainstream_notes": "TRE is absent from NICE, APA and VA/DoD guidelines. It appeared in a 2011 US DCoE grey-literature review of mind-body autonomic skills. Uptake is in NGO and humanitarian settings (South Africa, Africa, Middle East), military and veteran wellbeing (Australia), Danish MS and arthritis societies, UK prisons and charities via TRE UK, and a Beijing psychiatric hospital report. There is also a Chinese RCT protocol using it as an add-on (Zhao 2024) and an Egyptian trial registration in hypertension (NCT07242651).",
   "insurance": "no",
   "insurance_notes": "TRE is not a recognised billable modality. It is reimbursed only indirectly when a licensed psychotherapist or physiotherapist includes it in a session billed under generic codes. The FAQ states it has not been evaluated by the FDA or AMA and is not intended to diagnose, treat, cure or prevent disease.",
   "evidence_level": "pilot or single RCT",
   "key_trials": [
-    {"citation": "Harrison EG, Keating JL, Morgan P. Novel Exercises for Restless Legs Syndrome: A Randomized, Controlled Trial. J Am Board Fam Med 2018;31(5):783-794. PMID 30201675", "design": "Exploratory RCT, TRE weekly x6 wk vs discussion-group control; independent investigators (Monash physiotherapy)", "n": 18, "finding": "No between-group differences on any outcome at week 6; both groups improved over time.", "url": "https://pubmed.ncbi.nlm.nih.gov/30201675/"},
-    {"citation": "Skovgaard L, Trénel P, Hanehøj K, Lynning M. Tension and Trauma Releasing Exercises for People with Multiple Sclerosis: A Randomized Controlled Trial. Adv Mind Body Med 2025;39(1):4-12. PMID 40064004", "design": "RCT (Danish MS Society), 8 TRE sessions + daily home practice vs usual care, unblinded, simple randomisation", "n": 28, "finding": "Primary fatigue outcome (MFIS) null in the unadjusted analysis; significant (p=.03) only after adjusting for covariate imbalance. Daily spasticity and pain ratings fell.", "url": "https://pubmed.ncbi.nlm.nih.gov/40064004/"},
-    {"citation": "Lynning M, Svane C, Westergaard K, Bergien SO, Gunnersen SR, Skovgaard L. Tension and trauma releasing exercises for people with multiple sclerosis - An exploratory pilot study. J Tradit Complement Med 2021;11(5):383-389. PMID 34522632", "design": "Uncontrolled pilot, 9 weeks", "n": 9, "finding": "Self-reported symptoms and MFIS fatigue improved (43.7 to 22.0); objective spasticity (PSAD) unchanged.", "url": "https://pubmed.ncbi.nlm.nih.gov/34522632/"},
-    {"citation": "Berceli D, Salmon M, Bonifas R, Ndefo N. Effects of Self-induced Unclassified Therapeutic Tremors on Quality of Life Among Non-professional Caregivers: A Pilot Study. Glob Adv Health Med 2014;3(5):45-48. PMID 25568824", "design": "Uncontrolled pre-post pilot, 10 weeks, founder-led, SOS Children's Village caregivers, South Africa", "n": 21, "finding": "91.3% adherence; self-reported QoL rose from 3.81 to 4.35 (P<.05).", "url": "https://pubmed.ncbi.nlm.nih.gov/25568824/"},
-    {"citation": "Roos LAJ, van Niekerk K, Tönsing KM. Trauma Releasing Exercises as a Treatment Technique: A Scoping Review. Occup Ther Health Care 2026 (online ahead of print, 9 Sep). PMID 42713778", "design": "JBI scoping review of 22 studies (24 records)", "n": null, "finding": "Mostly stress- and trauma-exposed populations; possible benefits on mood, anxiety-related sleep and cognition; designs not consistently rigorous.", "url": "https://pubmed.ncbi.nlm.nih.gov/42713778/"}
+    {
+      "citation": "Harrison EG, Keating JL, Morgan P. Novel Exercises for Restless Legs Syndrome: A Randomized, Controlled Trial. J Am Board Fam Med 2018;31(5):783-794. PMID 30201675",
+      "design": "Exploratory RCT, TRE weekly x6 wk vs discussion-group control; independent investigators (Monash physiotherapy)",
+      "n": 18,
+      "finding": "No between-group differences on any outcome at week 6; both groups improved over time.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30201675/"
+    },
+    {
+      "citation": "Skovgaard L, Trénel P, Hanehøj K, Lynning M. Tension and Trauma Releasing Exercises for People with Multiple Sclerosis: A Randomized Controlled Trial. Adv Mind Body Med 2025;39(1):4-12. PMID 40064004",
+      "design": "RCT (Danish MS Society), 8 TRE sessions + daily home practice vs usual care, unblinded, simple randomisation",
+      "n": 28,
+      "finding": "Primary fatigue outcome (MFIS) null in the unadjusted analysis; significant (p=.03) only after adjusting for covariate imbalance. Daily spasticity and pain ratings fell.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40064004/"
+    },
+    {
+      "citation": "Lynning M, Svane C, Westergaard K, Bergien SO, Gunnersen SR, Skovgaard L. Tension and trauma releasing exercises for people with multiple sclerosis - An exploratory pilot study. J Tradit Complement Med 2021;11(5):383-389. PMID 34522632",
+      "design": "Uncontrolled pilot, 9 weeks",
+      "n": 9,
+      "finding": "Self-reported symptoms and MFIS fatigue improved (43.7 to 22.0); objective spasticity (PSAD) unchanged.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34522632/"
+    },
+    {
+      "citation": "Berceli D, Salmon M, Bonifas R, Ndefo N. Effects of Self-induced Unclassified Therapeutic Tremors on Quality of Life Among Non-professional Caregivers: A Pilot Study. Glob Adv Health Med 2014;3(5):45-48. PMID 25568824",
+      "design": "Uncontrolled pre-post pilot, 10 weeks, founder-led, SOS Children's Village caregivers, South Africa",
+      "n": 21,
+      "finding": "91.3% adherence; self-reported QoL rose from 3.81 to 4.35 (P<.05).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25568824/"
+    },
+    {
+      "citation": "Roos LAJ, van Niekerk K, Tönsing KM. Trauma Releasing Exercises as a Treatment Technique: A Scoping Review. Occup Ther Health Care 2026 (online ahead of print, 9 Sep). PMID 42713778",
+      "design": "JBI scoping review of 22 studies (24 records)",
+      "n": null,
+      "finding": "Mostly stress- and trauma-exposed populations; possible benefits on mood, anxiety-related sleep and cognition; designs not consistently rigorous.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42713778/"
+    }
   ],
   "controversy": "Harriet Hall (Science-Based Medicine, 14 Apr 2020) called TRE pseudoscience. In her view the stored-trauma and psoas claims are Reichian and implausible, and the tremors are ordinary fatigue tremor. She judged it probably safe but said 'I can't recommend TRE.' The site claims to be 'backed by research' while mixing theses, posters and submissions with peer-reviewed work. Providers can be certified without a clinical licence yet market TRE for PTSD. Reported side effects include nausea, headaches, aches and emotional flooding. Both small RCTs were null on unadjusted primary outcomes.",
   "popularity": {
     "indicators": [
-      {"metric": "Certified providers", "value": ">1,000 in dozens of countries (self-reported)", "source": "Wikipedia citing TRE For All", "year": 2026},
-      {"metric": "Book translations", "value": "At least 14 languages", "source": "treglobal.org/recommended-reading", "year": 2026},
-      {"metric": "Scheduled events listed", "value": "65 workshops/classes/trainings for Oct 2026-May 2027", "source": "treglobal.org/open-workshops-classes", "year": 2026},
-      {"metric": "Earliest web presence", "value": "traumaprevention.com captured Jan 2004", "source": "Internet Archive CDX", "year": 2004},
-      {"metric": "Books", "value": "2005 TRE; 2008 Revolutionary Trauma Release Process; 2015 Shake It Off Naturally", "source": "Open Library", "year": 2015},
-      {"metric": "Studies in scoping review", "value": "22 studies (mostly small and uncontrolled)", "source": "Roos et al. 2026", "year": 2026},
-      {"metric": "PubMed records with 'trauma releasing exercise*' in title/abstract", "value": "3", "source": "PubMed search, fact-check", "year": 2026},
-      {"metric": "Mainstream critique", "value": "Science-Based Medicine article", "source": "Hall 2020", "year": 2020}
+      {
+        "metric": "Certified providers",
+        "value": ">1,000 in dozens of countries (self-reported)",
+        "source": "Wikipedia citing TRE For All",
+        "year": 2026
+      },
+      {
+        "metric": "Book translations",
+        "value": "At least 14 languages",
+        "source": "treglobal.org/recommended-reading",
+        "year": 2026
+      },
+      {
+        "metric": "Scheduled events listed",
+        "value": "65 workshops/classes/trainings for Oct 2026-May 2027",
+        "source": "treglobal.org/open-workshops-classes",
+        "year": 2026
+      },
+      {
+        "metric": "YouTube subscribers (David Berceli channel)",
+        "value": "48.2K subscribers, 375 videos",
+        "source": "https://www.youtube.com/@davidberceli",
+        "year": 2026
+      },
+      {
+        "metric": "Earliest web presence",
+        "value": "traumaprevention.com captured Jan 2004",
+        "source": "Internet Archive CDX",
+        "year": 2004
+      },
+      {
+        "metric": "Books",
+        "value": "2005 TRE; 2008 Revolutionary Trauma Release Process; 2015 Shake It Off Naturally",
+        "source": "Open Library",
+        "year": 2015
+      },
+      {
+        "metric": "Studies in scoping review",
+        "value": "22 studies (mostly small and uncontrolled)",
+        "source": "Roos et al. 2026",
+        "year": 2026
+      },
+      {
+        "metric": "PubMed records with 'trauma releasing exercise*' in title/abstract",
+        "value": "3",
+        "source": "PubMed search, fact-check",
+        "year": 2026
+      },
+      {
+        "metric": "Mainstream critique",
+        "value": "Science-Based Medicine article",
+        "source": "Hall 2020",
+        "year": 2020
+      },
+      {
+        "metric": "OpenAlex works mentioning 'trauma releasing exercises'",
+        "value": "about 150",
+        "source": "OpenAlex API search",
+        "year": 2026
+      }
     ],
     "reach_estimate": "About 300k-1M people cumulatively (low confidence). Basis: a self-reported figure of more than 1,000 Providers, each teaching dozens to hundreds of people over 10-20 years, plus large-group humanitarian and agency trainings, book sales in 14+ languages, and free YouTube and social-media 'shaking' practice.",
     "reach_log10": 5.7,
     "trajectory": [
-      {"year": 2004, "relative_activity": 1}, {"year": 2005, "relative_activity": 1.5}, {"year": 2008, "relative_activity": 2.5}, {"year": 2010, "relative_activity": 3}, {"year": 2012, "relative_activity": 3.5}, {"year": 2014, "relative_activity": 4}, {"year": 2016, "relative_activity": 4.5}, {"year": 2018, "relative_activity": 5}, {"year": 2020, "relative_activity": 6}, {"year": 2022, "relative_activity": 7}, {"year": 2024, "relative_activity": 8}, {"year": 2025, "relative_activity": 8}, {"year": 2026, "relative_activity": 7.5}
+      {
+        "year": 2004,
+        "relative_activity": 1
+      },
+      {
+        "year": 2005,
+        "relative_activity": 1.5
+      },
+      {
+        "year": 2008,
+        "relative_activity": 2.5
+      },
+      {
+        "year": 2010,
+        "relative_activity": 3
+      },
+      {
+        "year": 2012,
+        "relative_activity": 3.5
+      },
+      {
+        "year": 2014,
+        "relative_activity": 4
+      },
+      {
+        "year": 2016,
+        "relative_activity": 4.5
+      },
+      {
+        "year": 2018,
+        "relative_activity": 5
+      },
+      {
+        "year": 2020,
+        "relative_activity": 6
+      },
+      {
+        "year": 2022,
+        "relative_activity": 7
+      },
+      {
+        "year": 2024,
+        "relative_activity": 8
+      },
+      {
+        "year": 2025,
+        "relative_activity": 8
+      },
+      {
+        "year": 2026,
+        "relative_activity": 7.5
+      }
     ],
-    "method_notes": "The trajectory is anchored on documented dates: 2004 web capture, books in 2005/2008/2013/2015, 2009 dissertation, 2011 DCoE review, 2014-2025 publications, 2020 SBM critique, about 2024 treglobal.org rebrand, more than 1,000 Providers (self-reported) and 65 listed events in 2026. The 2020-2025 rise reflects the pandemic-era 'somatic / nervous-system regulation' wave on social media, judged qualitatively. WebSearch quota was exhausted and the Reddit API was blocked, so no subreddit, Google Trends or YouTube counts were verified. Reach is an order-of-magnitude estimate."
+    "method_notes": "The trajectory is anchored on documented dates: 2004 web capture, books in 2005/2008/2013/2015, 2009 dissertation, 2011 DCoE review, 2014-2025 publications, 2020 SBM critique, about 2024 treglobal.org rebrand, more than 1,000 Providers (self-reported) and 65 listed events in 2026. The 2020-2025 rise reflects the pandemic-era 'somatic / nervous-system regulation' wave on social media, judged qualitatively. YouTube counts were checked in Oct 2026 (Berceli channel 48.2K subscribers). Reddit JSON endpoints were blocked and Google Trends was not accessible, so no subreddit or Trends figures are available. Reach is an order-of-magnitude estimate."
   },
-  "sources": ["https://treglobal.org/", "https://treglobal.org/what-is-tre/", "https://treglobal.org/frequently-asked-questions/", "https://treglobal.org/get-certified/", "https://treglobal.org/certification/", "https://treglobal.org/open-workshops-classes/", "https://treglobal.org/recommended-reading/", "https://treglobal.org/research/", "https://en.wikipedia.org/wiki/Tension_and_Trauma_Releasing_Exercises", "https://sciencebasedmedicine.org/tension-and-trauma-releasing-exercises-tre/", "https://pubmed.ncbi.nlm.nih.gov/30201675/", "https://pubmed.ncbi.nlm.nih.gov/40064004/", "https://pubmed.ncbi.nlm.nih.gov/34522632/", "https://pubmed.ncbi.nlm.nih.gov/25568824/", "https://pubmed.ncbi.nlm.nih.gov/42713778/", "https://pubmed.ncbi.nlm.nih.gov/39574118/", "https://pubmed.ncbi.nlm.nih.gov/36061228/", "https://clinicaltrials.gov/study/NCT07242651", "https://treuk.com/"]
+  "sources": [
+    "https://treglobal.org/",
+    "https://treglobal.org/what-is-tre/",
+    "https://treglobal.org/frequently-asked-questions/",
+    "https://treglobal.org/get-certified/",
+    "https://treglobal.org/certification/",
+    "https://treglobal.org/open-workshops-classes/",
+    "https://treglobal.org/recommended-reading/",
+    "https://treglobal.org/research/",
+    "https://en.wikipedia.org/wiki/Tension_and_Trauma_Releasing_Exercises",
+    "https://sciencebasedmedicine.org/tension-and-trauma-releasing-exercises-tre/",
+    "https://pubmed.ncbi.nlm.nih.gov/30201675/",
+    "https://pubmed.ncbi.nlm.nih.gov/40064004/",
+    "https://pubmed.ncbi.nlm.nih.gov/34522632/",
+    "https://pubmed.ncbi.nlm.nih.gov/25568824/",
+    "https://pubmed.ncbi.nlm.nih.gov/42713778/",
+    "https://pubmed.ncbi.nlm.nih.gov/39574118/",
+    "https://pubmed.ncbi.nlm.nih.gov/36061228/",
+    "https://clinicaltrials.gov/study/NCT07242651",
+    "https://treuk.com/",
+    "https://treglobal.org/enroll/",
+    "https://www.letgoofstress.com/learntre",
+    "https://trehealing.com/online-tre-group-sessions/",
+    "https://oppmerksombevegelse.no/tre-online-introduction-course/",
+    "https://treuk.com/bronze-2/",
+    "https://treuk.com/wp-content/uploads/2014/05/ASU-Revised-disssertation-for-publication.pdf",
+    "https://pubmed.ncbi.nlm.nih.gov/16534658/",
+    "https://www.youtube.com/@davidberceli"
+  ]
 }

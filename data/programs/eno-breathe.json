@@ -17,7 +17,7 @@
     "recorded audio/digital resources"
   ],
   "business_model": "free",
-  "cost_summary": "Free to participants (GBP 0). Funded philanthropically via ENO: trusts, foundations, donors, a Big Give match campaign (GBP 41,093 raised in March 2025) and a Bloomberg Philanthropies Digital Accelerator. Both trials were funded by Imperial College London. Not NHS-commissioned; whether any NHS money funds delivery is unverified.",
+  "cost_summary": "Free to participants (GBP 0). Funded philanthropically via ENO: trusts, foundations, donors, a Big Give match campaign (GBP 41,093 raised in March 2025) and a Bloomberg Philanthropies Digital Accelerator. Both trials were funded by Imperial College London. Not NHS-commissioned, and no NHS funding received as of March 2025 (Social Prescribing Academy).",
   "cost_usd_typical": 0,
   "conditions_claimed": [
     "long COVID",
@@ -92,8 +92,8 @@
       },
       {
         "metric": "participants (cumulative)",
-        "value": "~300 (not independently verified)",
-        "source": "classical-music.com feature",
+        "value": "~300 (by Nov 2021; funding then in place for up to 1,000 patients)",
+        "source": "classical-music.com feature, 24 Nov 2021",
         "year": 2021
       },
       {
@@ -176,6 +176,7 @@
     "https://www.imperial.nhs.uk/about-us/news/royal-philharmonic-society-award-win-for-eno-breathe",
     "https://royalphilharmonicsociety.org.uk/awards/rps_music_awards/winners-to-date/impact/2021-impact",
     "https://www.smithsonianmag.com/innovation/how-opera-singing-is-helping-long-haul-covid-19-patients-recover-180977497/",
-    "https://www.emjreviews.com/respiratory/news/online-singing-programme-eases-long-covid-symptoms/"
+    "https://www.emjreviews.com/respiratory/news/online-singing-programme-eases-long-covid-symptoms/",
+    "https://socialprescribingacademy.org.uk/resources/eno-breathe-supporting-people-with-long-covid-through-breathing-and-singing-techniques/"
   ]
 }

@@ -23,7 +23,7 @@
 | Founded | **c. 2008–2012.** Precursor work ran 2006–2011, including the "affective self-awareness" RCT (Hsu et al., 2010). The NIAMS R01 (AR057808) trial first called the intervention "Emotional Exposure Therapy." The manual was renamed EAET by v2 (Sept 2012). |
 | Format / delivery | Clinician-delivered psychotherapy. Typical forms: an individual 90-min session plus 8 × 90-min small-group sessions; a 3-session individual course; a single 90-min "life-stress interview"; a 2-hr telehealth class; and a 10-week internet self-help version (I-EAET, Sweden; research only). |
 | Business model | Clinician-delivered (fee-for-service psychotherapy). The treatment manuals are free. Professional training and patient books are commercial. |
-| Direct cost | Patients: no program fee; standard psychotherapy fees apply (≈ USD 100–250 per session in the US, so roughly USD 1,000–2,500 for a 9-session course; author estimate). Clinician training: **USD 600** for a 5 × 3-hr Zoom course with 15 CE hours for psychologists and social workers, through Wayne State (unlearnyourpain.com, accessed Oct 2026). The course is waitlist-only, and the page gives conflicting dates for the next cohort ("early 2027" vs autumn 2026). Schubiner's workbook *Unlearn Your Pain* costs ≈ USD 25. |
+| Direct cost | Patients: no program fee; standard psychotherapy fees apply (≈ USD 100–250 per session in the US, so roughly USD 1,000–2,500 for a 9-session course; author estimate). Clinician training: **USD 600** for a 5 × 3-hr Zoom course with 15 CE hours for psychologists and social workers, through Wayne State (unlearnyourpain.com, accessed Oct 2026). The course is waitlist-only (registration not open). On re-check (2026-10-13) the page still states both "the next course will occur in early 2027" and an already-elapsed Sept 10–Oct 8, 2026 Thursday cohort; the 2027 date appears to be current. Schubiner's workbook *Unlearn Your Pain* costs ≈ USD 25. |
 | Conditions claimed | Primary/"centralized"/nociplastic pain: fibromyalgia, chronic musculoskeletal and back/neck pain, IBS, urogenital and pelvic pain, headache and migraine, medically unexplained symptoms / somatic symptom disorder. Also studied in pain with PTSD/trauma, and in pain with opioid use disorder (pilot). Schubiner's broader writing extends the model to anxiety, depression, insomnia and fatigue. |
 | Mainstream adoption | Moderate and growing. Listed as a behavioral treatment option in the 2019 HHS Pain Management Best Practices Inter-Agency Task Force report. NIH- and VA-funded trials. Offered at a few VA sites (VA Greater LA). A multisite, NCCIH-funded pragmatic trial in veterans (UCLA lead; NCT07218757; estimated N=672) began recruiting in January 2026. Taught in academic pain-psychology training. |
 | Insurance reimbursable | Sometimes/indirectly. There is no EAET-specific code; licensed clinicians bill standard psychotherapy and health-behavior CPT codes. |
@@ -132,7 +132,7 @@ Other lineage:
 - **Funding:**
   - NIAMS R01 for the fibromyalgia trial;
   - VA funding for the Yarns trials;
-  - NIH funding for the 4-arm M&M trial (CBT vs ACT vs EAET vs control; lead site Rush University, PI John Burns, with Wayne State; NCT06044649; started Nov 2023; 408 enrolled; active, not recruiting). The funding institute was not independently verified;
+  - NIH funding for the 4-arm M&M trial (CBT vs ACT vs EAET vs control; lead site Rush University, PI John Burns, with Wayne State; NCT06044649; started Nov 2023; 408 enrolled; active, not recruiting). It is funded by NINR (R01NR020610, per NIH RePORTER);
   - NCCIH funding for the veterans pragmatic trial (UCLA lead; NCT07218757; recruiting since Jan 2026; estimated N=672).
 - **VA trials:** VA Greater LA has delivered EAET clinically and by video telehealth. A 3-arm VA trial (EAET vs mindfulness vs CBT by home video, NCT06004804, target N=216, 2023–2027) is ongoing.
 - **Other academic sites:** Ann Arbor/Michigan (EAET for pain with OUD, NCT06865560; completed pilot, N=11); Stanford (Ziadni); Karolinska (Maroti); Toronto (headache); Utah (migraine).
@@ -163,7 +163,7 @@ All trials below were verified on PubMed. Lumley and/or Schubiner co-authored ne
 | Maroti et al., *J Psychosom Res* 2022;163:111068 (PMID 36327532; NCT04751825) | RCT, **N=74** somatic symptom disorder; 10-wk internet I-EAET | Waitlist | Somatic symptoms reduced at post and 4-mo follow-up. Pain, depression, anxiety and insomnia gains not retained. About 20% had substantial improvement. Partly mediated by emotional processing. |
 | Krohner et al., *J Pain* 2024;25:39 (PMID 37479050) | RCT, **N=91** chronic musculoskeletal pain + ≥3 ACEs; single 90-min video interview (EAET/ISTDP-based) | Waitlist | **No difference in pain severity.** Pain interference reduced (ηp² 0.05). Pain attributions and controllability shifted. |
 | Maroti et al., *Internet Interv* 2026;44:100942 (PMID 41969788) | RCT, **N=154** persistent physical symptoms | Guided vs unguided I-EAET | Both improved. No significant group × time difference; responders 47% vs 30%, favouring guidance. |
-| Kaufmann, Lumley et al., *Pain Med* 2026;27:948 (PMID 41761583) | Preliminary RCT, migraine (brief report) | Waitlist/delayed (per NCT05837650; 30 enrolled per registration) | Abstract not available on PubMed (brief report). Effect sizes are **unverified**. A podcast claim of roughly 7 fewer migraine days/month could not be confirmed and should not be cited. |
+| Kaufmann, Lumley et al., *Pain Med* 2026;27:948 (PMID 41761583; NCT05837650) | Preliminary RCT, **N=30** episodic/chronic migraine (87% women); 8 online sessions | Waitlist | Monthly migraine days 16.4→9.4 (−7.0) vs 15.0→13.3 (−1.7); condition × time ηp² 0.23, p=.008. ≥30% responders 80% vs 36%; ≥50% 40% vs 7%. Also better on QoL, anxiety, depression, allodynia, affect. No adverse events. Utah-led, but Lumley and Yarns co-author. |
 
 ### Precursors and related randomized trials (earlier variants, not the branded protocol)
 - **Hsu, Schubiner, Lumley et al.**, *J Gen Intern Med* 2010 (PMID 20532650). "Affective self-awareness" in fibromyalgia, N=45 vs waitlist. At 6 mo, 45.8% vs 0% had ≥30% pain reduction.
@@ -204,7 +204,7 @@ All trials below were verified on PubMed. Lumley and/or Schubiner co-authored ne
 | 2024 | JAMA Netw Open veterans trial: UCLA release; ScienceDaily, HealthDay and McKnight's coverage; MDedge feature. This is the largest media spike. |
 | 2025–2026 | German-language introduction (*Schmerz* 2025). New trials in migraine, headache, orthopaedic trauma, OUD and VA pragmatic care. 41 PubMed records with the exact name. Training cohorts on waitlists. |
 
-Consumer signals are weak. No subreddit is dedicated to EAET, and searches found no notable Reddit threads (it is mentioned in passing in r/TMSdiscussion / r/ChronicPain discussions of PRT and Sarno). There is no app and no direct-to-consumer brand. Popularity runs through clinicians, academic pain psychology and Schubiner's books.
+Consumer signals are weak. No subreddit is dedicated to EAET, and web searches (2026-10-13) surfaced no notable Reddit threads; Reddit's own search API blocked automated queries, so this is a web-index check only (it is mentioned in passing in r/TMSdiscussion / r/ChronicPain discussions of PRT and Sarno). There is no app and no direct-to-consumer brand. Popularity runs through clinicians, academic pain psychology and Schubiner's books.
 
 ## 8. Controversies / criticisms (if any)
 
@@ -240,6 +240,8 @@ Consumer signals are weak. No subreddit is dedicated to EAET, and searches found
 - https://clinicaltrials.gov/study/NCT07218757
 - https://clinicaltrials.gov/study/NCT06865560
 - https://clinicaltrials.gov/study/NCT05837650
+- https://academic.oup.com/painmedicine/article/27/8/948/8501983 (Kaufmann 2026 full text)
+- https://reporter.nih.gov/project-details/5R01NR020610-04 (M&M trial, NINR)
 - https://www.uclahealth.org/news/release/confronting-trauma-alleviates-chronic-pain-among-older
 - https://www.healthday.com/healthpro-news/pain-management/emotional-awareness-and-expression-therapy-beneficial-for-pain-relief
 - https://mdedge.com/content/new-psychotherapeutic-gold-standard-chronic-pain
@@ -248,11 +250,13 @@ Consumer signals are weak. No subreddit is dedicated to EAET, and searches found
 - https://istdpsweden.se/tag/pdt-vs-kbt/
 - https://search.pedro.org.au/search-results/record-detail/51475
 
-*Fact-checked 2026-10-12; corrections:*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: Kaufmann 2026 migraine RCT results verified from full text (−7.0 vs −1.7 migraine days/month); M&M trial funder confirmed as NINR (R01NR020610); training-page cohort dates re-checked (still inconsistent; early 2027 appears current); PubMed count re-confirmed at 41; Reddit presence re-checked via web search.*
+
+*Earlier corrections (2026-10-12):*
 - *HHS 2019 listing now verified in the report itself (p. 38).*
 - *NCT06044649 enrollment is 408, not about 460; the lead site is Rush (Burns).*
 - *The VA pragmatic trial NCT07218757 is recruiting since Jan 2026 (estimated N=672, NCCIH), not merely planned.*
 - *NCT06865560 is a completed N=11 pilot.*
-- *The migraine RCT enrolled 30; the podcast effect claim is flagged as unverified.*
+- *The migraine RCT enrolled 30.*
 - *The training page gives conflicting next-cohort dates.*
 - *All 18 cited PMIDs, the authors, journals and the key numbers in the abstracts were confirmed.*

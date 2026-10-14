@@ -81,7 +81,7 @@
     "standard dose: 1 individual + 8 x 90-min small-group sessions (5-7 patients); also 3-session individual, single 90-min interview, 2-hr class, 10-module internet versions"
   ],
   "mainstream_adoption": "moderate",
-  "mainstream_notes": "The 2019 HHS Pain Management Best Practices Inter-Agency Task Force report lists EAET as a behavioral treatment option (section 2.5, p. 38, verified in the report). Funding has come from NIH and the VA. NIAMS funded the fibromyalgia RCT. NIH funds the 4-arm M&M trial (CBT vs ACT vs EAET vs control; Rush/Wayne State; NCT06044649; 408 enrolled). The VA funded the Yarns trials. VA Greater Los Angeles delivers EAET clinically and by telehealth. A multisite NCCIH-funded pragmatic trial in veterans (UCLA lead; NCT07218757; estimated N=672) began recruiting in January 2026. Academic programs at Wayne State, Michigan, Stanford, UCLA, Stockholm/Karolinska, Toronto and Utah. Not named in NICE or the VA/DoD pain guidelines. Training is run by the developers.",
+  "mainstream_notes": "The 2019 HHS Pain Management Best Practices Inter-Agency Task Force report lists EAET as a behavioral treatment option (section 2.5, p. 38, verified in the report). Funding has come from NIH and the VA. NIAMS funded the fibromyalgia RCT. NINR (R01NR020610) funds the 4-arm M&M trial (CBT vs ACT vs EAET vs control; Rush/Wayne State; NCT06044649; 408 enrolled). The VA funded the Yarns trials. VA Greater Los Angeles delivers EAET clinically and by telehealth. A multisite NCCIH-funded pragmatic trial in veterans (UCLA lead; NCT07218757; estimated N=672) began recruiting in January 2026. Academic programs at Wayne State, Michigan, Stanford, UCLA, Stockholm/Karolinska, Toronto and Utah. Not named in NICE or the VA/DoD pain guidelines. Training is run by the developers.",
   "insurance": "sometimes/indirect",
   "insurance_notes": "There is no EAET-specific code or coverage policy. When a licensed clinician delivers it, it is billed as standard psychotherapy (90832/90834/90837, group 90853) or as a health-behavior intervention (96158/96164). Many private mind-body therapists who offer EAET are cash-pay or out-of-network.",
   "evidence_level": "multiple RCTs",
@@ -164,10 +164,10 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/23620190/"
     },
     {
-      "citation": "Kaufmann D, Sturgeon JA, ..., Yarns BC, ..., Lumley MA. Pain Med 2026;27:948-951 (PMID 41761583)",
-      "design": "Preliminary RCT, migraine (brief report; NCT05837650, 30 enrolled)",
+      "citation": "Kaufmann D, Sturgeon JA, Mirow S, Zinkhan G, Schlesinger N, Yarns BC, Kommit K, Miller A, Lumley MA. Pain Med 2026;27:948-951 (PMID 41761583; NCT05837650)",
+      "design": "Preliminary RCT, EAET (8 online sessions) vs waitlist; episodic or chronic migraine",
       "n": 30,
-      "finding": "Published, but no abstract is available on PubMed. The results are unverified.",
+      "finding": "Monthly migraine days fell 16.4 to 9.4 (-7.0) with EAET vs 15.0 to 13.3 (-1.7) on waitlist (condition x time partial eta2 0.23, p=.008). At least 30% reduction: 80% vs 36%; at least 50%: 40% vs 7%. EAET was also better on quality of life, anxiety, depression, allodynia and affect. No adverse events. Small, waitlist-controlled, Lumley co-author.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41761583/"
     }
   ],
@@ -177,7 +177,7 @@
       {
         "metric": "PubMed records with exact phrase 'emotional awareness and expression therapy'",
         "value": "41",
-        "source": "PubMed search (re-verified 2026-10-12)",
+        "source": "PubMed search (re-verified 2026-10-13)",
         "year": 2026
       },
       {
@@ -206,35 +206,80 @@
       },
       {
         "metric": "Clinician training",
-        "value": "USD 600 Zoom course; waitlist only; next cohort dates given inconsistently (autumn 2026 vs early 2027)",
+        "value": "USD 600 Zoom course; waitlist only; page still lists both an elapsed Sept-Oct 2026 cohort and 'early 2027' (re-checked 2026-10-13)",
         "source": "unlearnyourpain.com",
         "year": 2026
       },
       {
         "metric": "Consumer/social presence",
         "value": "No dedicated subreddit or app; only incidental mentions in PRT/Sarno communities",
-        "source": "web/Reddit search",
+        "source": "web search for Reddit threads (2026-10-13; Reddit API blocked)",
         "year": 2026
       }
     ],
     "reach_estimate": "About 10^4 people. Trial participants total about 1,500. Several hundred to low thousands of clinicians have been trained, each treating a few to dozens of patients. VA and academic clinics add to this. Readers of Schubiner's books (likely tens of thousands) were not counted as EAET recipients.",
     "reach_log10": 4.2,
     "trajectory": [
-      {"year": 2008, "relative_activity": 1},
-      {"year": 2010, "relative_activity": 1.5},
-      {"year": 2012, "relative_activity": 2},
-      {"year": 2014, "relative_activity": 2},
-      {"year": 2016, "relative_activity": 3},
-      {"year": 2017, "relative_activity": 4},
-      {"year": 2018, "relative_activity": 4},
-      {"year": 2019, "relative_activity": 5},
-      {"year": 2020, "relative_activity": 5},
-      {"year": 2021, "relative_activity": 5},
-      {"year": 2022, "relative_activity": 6},
-      {"year": 2023, "relative_activity": 6.5},
-      {"year": 2024, "relative_activity": 8},
-      {"year": 2025, "relative_activity": 8},
-      {"year": 2026, "relative_activity": 8.5}
+      {
+        "year": 2008,
+        "relative_activity": 1
+      },
+      {
+        "year": 2010,
+        "relative_activity": 1.5
+      },
+      {
+        "year": 2012,
+        "relative_activity": 2
+      },
+      {
+        "year": 2014,
+        "relative_activity": 2
+      },
+      {
+        "year": 2016,
+        "relative_activity": 3
+      },
+      {
+        "year": 2017,
+        "relative_activity": 4
+      },
+      {
+        "year": 2018,
+        "relative_activity": 4
+      },
+      {
+        "year": 2019,
+        "relative_activity": 5
+      },
+      {
+        "year": 2020,
+        "relative_activity": 5
+      },
+      {
+        "year": 2021,
+        "relative_activity": 5
+      },
+      {
+        "year": 2022,
+        "relative_activity": 6
+      },
+      {
+        "year": 2023,
+        "relative_activity": 6.5
+      },
+      {
+        "year": 2024,
+        "relative_activity": 8
+      },
+      {
+        "year": 2025,
+        "relative_activity": 8
+      },
+      {
+        "year": 2026,
+        "relative_activity": 8.5
+      }
     ],
     "method_notes": "The trajectory is anchored on documented milestones, not usage data:\n- precursor trials, 2006-2011\n- R01 manual, 2012\n- first EAET-named paper, 2016\n- Pain and NGM RCTs, 2017\n- HHS listing, NPR story and review, 2019\n- VA pilot and internet versions, 2020-2022\n- This Might Hurt / PPDA attention, 2023\n- JAMA Netw Open trial and media spike, 2024\n- multisite NCCIH pragmatic trial launch and new trials, 2025-2026\nGoogle Trends volume for EAET is too low to be informative, and the acronym collides with other uses. There are no user counts or app metrics. Reach is a rough order-of-magnitude estimate built from trial Ns and assumed training throughput."
   },
@@ -269,6 +314,8 @@
     "https://www.uclahealth.org/news/release/confronting-trauma-alleviates-chronic-pain-among-older",
     "https://mdedge.com/content/new-psychotherapeutic-gold-standard-chronic-pain",
     "https://www.npr.org/sections/health-shots/2019/06/10/727682322/can-you-reshape-your-brains-response-to-pain",
-    "https://istdpsweden.se/tag/pdt-vs-kbt/"
+    "https://istdpsweden.se/tag/pdt-vs-kbt/",
+    "https://academic.oup.com/painmedicine/article/27/8/948/8501983",
+    "https://reporter.nih.gov/project-details/5R01NR020610-04"
   ]
 }

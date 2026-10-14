@@ -8,7 +8,7 @@
 | Field | |
 |---|---|
 | Website | No standalone site. Main public pages: the BIDMC news release (2021-09-28) and the trial records on ClinicalTrials.gov. |
-| Founder(s) | **Michael W. Donnino, MD.** Emergency medicine and critical care physician at Beth Israel Deaconess Medical Center (BIDMC) / Harvard Medical School, best known for resuscitation and sepsis research. He is PI and co-instructor of PSRT. **Patricia (Patty) Howard** (BIDMC Center for Resuscitation Science) is the "mind–body expert" co-instructor; her professional credentials are not stated in the papers (unverified). Collaborators include Robert Edwards and Myrella Paschali (Brigham & Women's pain psychology) and Anne Grossestreuer (biostatistics). Howard Schubiner is acknowledged (not an author) for "consultative expertise and education of instructors" before the pilot. |
+| Founder(s) | **Michael W. Donnino, MD.** Emergency medicine and critical care physician at Beth Israel Deaconess Medical Center (BIDMC) / Harvard Medical School, best known for resuscitation and sepsis research. He is PI and co-instructor of PSRT. **Patricia (Patty) Howard** (BIDMC Center for Resuscitation Science) is the "mind–body expert" co-instructor; the long COVID paper lists her degree as BS, and no clinical licence is stated. Collaborators include Robert Edwards and Myrella Paschali (Brigham & Women's pain psychology) and Anne Grossestreuer (biostatistics). Howard Schubiner is acknowledged (not an author) for "consultative expertise and education of instructors" before the pilot. |
 | Founded | **2014–2021.** The earliest version is a BIDMC pilot registered April 2014 ("Mind Body Syndrome Therapy for chronic pain," NCT02117921, PI Donnino, results never posted). The PSRT name first appears in print in 2021. |
 | Format / delivery | Small-group, clinician-led course (groups of 1–3 in the pilot; virtual for the long COVID cohort). Starts with a one-on-one intake, then **12–13 weeks, about 36–44 hours**: 4 weeks of PSRT-specific classes twice a week, followed by a standard 8–9-week MBSR course with a full-day retreat. Assigned readings are Sarno's *Healing Back Pain*, Schubiner's *Unlearn Your Pain*, and *The Mindful Way Through Anxiety* workbook. |
 | Business model | Academic, clinician-delivered research protocol. It is free to trial participants and not sold. Funding is philanthropic: Adam D'Angelo (Quora CEO) funded the back-pain pilot; D'Angelo and James O'Shaughnessy funded the long COVID study. |
@@ -17,7 +17,7 @@
 | Mainstream adoption | Limited. It exists only as research at a Harvard teaching hospital, with no clinical service, guideline mention or dissemination. |
 | Insurance reimbursable | No. It is not offered as a billable service. |
 | Evidence (peer-reviewed trials) | One small pilot RCT in back pain (N=35, 11 in the PSRT arm), plus a secondary mediation analysis of the same data. One uncontrolled long COVID cohort (N=23). A larger 3-arm RCT (NCT04689646, N=126) was completed July 2026 but is unpublished. All studies come from the developers. |
-| Popularity signals | Very low public footprint: a 2021 press release syndicated through Newswise, roughly 16 Europe PMC citations of the pilot, and discussion in Sarno/TMS and ME/CFS-skeptic forums. There is no app, book, course or social-media presence. |
+| Popularity signals | Very low public footprint: a 2021 press release syndicated through Newswise, 16 Europe PMC citations of the pilot (Oct 2026), and discussion mainly in ME/CFS forums (S4ME); no TMS Wiki forum hits. There is no app, book, course or social-media presence. |
 
 ## 1. Proposed mechanism(s)
 - **Core claim.** Nonspecific symptoms (pain, fatigue, dyspnea, brain fog, GI upset) are "psychophysiologic." They are somatic expressions of central nervous system processes driven by stress, repressed emotions, and "underlying conflicts and aversive affective states." Once set off, they are kept going by ongoing stressors.
@@ -65,8 +65,8 @@ All trials below are of PSRT itself and were run by the developers at BIDMC.
 | Pester BD et al. *J Pain Res* 2023;16:3871–80. doi:10.2147/JPR.S416305 | Secondary analysis of the same RCT | 35 | More PSRT patients reached ≥75% disability reduction at every time point. Change in pain anxiety (PASS-20) mediated the effect on disability at 26 weeks. |
 | Donnino M et al. *Mayo Clin Proc Innov Qual Outcomes* 2023;7(4):337–48. doi:10.1016/j.mayocpiqo.2023.05.002 (NCT04854772; preprint medRxiv 2022) | Single-arm interventional cohort, virtual; PASC ≥12 weeks after confirmed COVID, no organ injury, age <60 | 23 | SSS-8 somatic symptom score fell by 8.5, 9.4 and 10.9 points at 4, 8 and 13 weeks (all p<.001). Fatigue, dyspnea, pain and activity also improved. The share strongly agreeing that "exercise worsens symptoms" dropped from 57% to 4%. No long-term follow-up and no control group. |
 | Paschali M et al. *Front Pain Res* 2024;5:1328495. doi:10.3389/fpain.2024.1328495 | Hypothesis and trial-rationale paper (not a trial) | — | Sets out the model and the design of the larger RCT. |
-| NCT04689646, "Mind Body Syndrome Therapy for Chronic Pain" | 3-arm RCT (two mind–body interventions vs usual care); disability primary outcome | 126 actual (planned 150) | Completed 2026-07-06. **No results published as of Oct 2026.** |
-| NCT02117921 (Feb 2014–Dec 2016) | Early BIDMC "MBS Therapy" pilot | 20 (registry 'estimated' enrollment; actual unknown) | No results posted or published. |
+| NCT04689646, "Mind Body Syndrome Therapy for Chronic Pain" | 3-arm RCT (two mind–body interventions vs usual care); disability primary outcome | 126 actual (planned 150) | Completed 2026-07-06. **No results posted (record updated 2026-09-28) or published (PubMed/Europe PMC, 2026-10-13).** |
+| NCT02117921 (Feb 2014–Dec 2016) | Early BIDMC "MBS Therapy" pilot | 20 (registry 'estimated' enrollment; actual never reported — record still shows estimate, re-checked Oct 2026) | No results posted or published. |
 
 **Gaps and critiques**
 - **Tiny samples.** The randomized PSRT arm had only 11 people.
@@ -82,10 +82,10 @@ All trials below are of PSRT itself and were run by the developers at BIDMC.
 ## 7. Popularity and trajectory
 - **2014:** First BIDMC registration (NCT02117921). No public profile.
 - **2019–2020:** Pilot RCT conducted.
-- **Sept 2021:** Pilot published; BIDMC press release syndicated on Newswise. This is the peak media moment. (Uptake in Sarno/TMS communities is likely but was not verified here because the web-search budget ran out.)
+- **Sept 2021:** Pilot published; BIDMC press release syndicated on Newswise. This is the peak media moment. A TMS Wiki forum search for "Donnino" returned no threads (Oct 2026); Reddit could not be checked (blocked to automated access).
 - **2022–2023:** Long COVID preprint (Oct 2022) and paper (2023) drew attention, mostly critical, in long COVID and ME/CFS patient spaces such as S4ME. The mediation paper was published in 2023.
-- **2024:** Rationale paper. **2026:** large RCT completed; an S4ME thread revisited the pilot (mid-2026).
-- **Citation metrics (Europe PMC, Oct 2026; not re-verified by fact-check):** pilot ≈16 citations, long COVID paper ≈7, mediation paper ≈1.
+- **2024:** Rationale paper. **2026:** large RCT completed; an S4ME thread revisited the pilot (started 13 June 2026; 13 posts).
+- **Citation metrics (Europe PMC citedByCount, re-checked 2026-10-13):** pilot 16, long COVID paper 7, mediation paper 1, rationale paper 1. PubMed lists only these four PSRT papers.
 - **Reach.** No consumer channel exists. Direct reach is roughly 100–150 enrolled participants across all trials (11 + 23 + ~2/3 of 126 + up to ~20 in the 2014 pilot), of whom only about 34 PSRT recipients have published outcomes. Indirect reach comes through citations in reviews of Sarno-lineage therapies alongside PRT and EAET.
 
 ## 8. Controversies / criticisms
@@ -107,5 +107,7 @@ All trials below are of PSRT itself and were run by the developers at BIDMC.
 - https://clinicaltrials.gov/study/NCT04039139
 - https://clinicaltrials.gov/study/NCT02117921
 - https://s4me.info/threads/psychophysiologic-symptom-relief-therapy-for-chronic-back-pain-a-pilot-randomized-controlled-trial-2021-donnino-et-al.50684/
+- https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22psychophysiologic%20symptom%20relief%22 (citation counts)
+- https://www.tmswiki.org/forum/search/search?keywords=Donnino (no results)
 
-*Fact-checked 2026-10-12; corrections: Patricia Howard's '20 years counselling' background removed (unverifiable); Schubiner's role clarified as acknowledged consultant/instructor trainer, not author; funding split (D'Angelo for pilot; D'Angelo + O'Shaughnessy for long COVID); direct-reach estimate corrected from <100 to ~100–150 enrolled; NCT02117921 enrollment marked as registry estimate; all PMIDs, N, and results of the 3 published papers, the 2024 rationale paper, and NCT04689646 status (completed 2026-07-06, N=126, no results) verified.*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: Howard's degree (BS) added; Europe PMC citation counts re-verified; NCT04689646 and NCT02117921 records re-checked; TMS Wiki forum checked (no hits) and S4ME thread dated; Reddit not accessible. Earlier corrections: Patricia Howard's '20 years counselling' background removed (unverifiable); Schubiner's role clarified as acknowledged consultant/instructor trainer, not author; funding split (D'Angelo for pilot; D'Angelo + O'Shaughnessy for long COVID); direct-reach estimate corrected from <100 to ~100–150 enrolled; NCT02117921 enrollment marked as registry estimate; all PMIDs, N, and results of the 3 published papers, the 2024 rationale paper, and NCT04689646 status (completed 2026-07-06, N=126, no results) verified.*

@@ -2,21 +2,81 @@
   "slug": "ans-rewire",
   "name": "ANS REWIRE",
   "url": "https://ansrewire.com/",
-  "founders": ["Dan Neuffer"],
+  "founders": [
+    "Dan Neuffer"
+  ],
   "founded_year": 2016,
-  "founded_year_range": "2016 (FAQ: 'Launched in 2016'; site copyright from 2016; earliest Wayback snapshot reported as Mar 2016). The precursor book CFS Unravelled is dated c. 2013, which is unverified. The recovery story was on Health Rising by Aug 25 2015 (verified).",
+  "founded_year_range": "2016 (FAQ: 'Launched in 2016'; site copyright from 2016; earliest Wayback capture 22 Mar 2016, re-checked via CDX). Precursor book CFS Unravelled: Kindle 20 Jan 2013; 3rd-edition paperback May 2017 with Kati Thieme foreword (Goodreads). Recovery story on Health Rising by Aug 25 2015.",
   "category": "limbic/brain retraining course",
-  "delivery": ["online course", "audio/meditation tracks", "coaching", "book", "podcast"],
+  "delivery": [
+    "online course",
+    "audio/meditation tracks",
+    "coaching",
+    "book",
+    "podcast"
+  ],
   "business_model": "commercial",
   "cost_summary": "AUD 537 (approx. USD 374) for 12 months' access, per the program-details page (verified Oct 2026). Optional 1:1 coaching at AUD 139/hr, generally offered only after the course. Free intro lessons, podcast and blog.",
   "cost_usd_typical": 374,
-  "conditions_claimed": ["ME/CFS", "PVFS", "long COVID", "adrenal fatigue", "fibromyalgia", "POTS/dysautonomia", "MCS/IEI", "EHS", "IBS/functional GI", "somatic symptom disorder", "FND", "CRPS", "chronic Lyme", "mould/CIRS"],
-  "conditions_primary": ["ME/CFS", "fibromyalgia", "POTS/dysautonomia", "MCS/IEI"],
+  "conditions_claimed": [
+    "ME/CFS",
+    "PVFS",
+    "long COVID",
+    "adrenal fatigue",
+    "fibromyalgia",
+    "POTS/dysautonomia",
+    "MCS/IEI",
+    "EHS",
+    "IBS/functional GI",
+    "somatic symptom disorder",
+    "FND",
+    "CRPS",
+    "chronic Lyme",
+    "mould/CIRS"
+  ],
+  "conditions_primary": [
+    "ME/CFS",
+    "fibromyalgia",
+    "POTS/dysautonomia",
+    "MCS/IEI"
+  ],
   "differentiation": "mostly unified with condition-specific emphasis",
-  "mechanisms": ["autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")", "central sensitization", "conditioning / classical learning", "limbic system impairment / amygdala threat conditioning", "mitochondrial / metabolic / cell danger response", "stress / HPA axis", "inflammation / immune"],
+  "mechanisms": [
+    "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")",
+    "central sensitization",
+    "conditioning / classical learning",
+    "limbic system impairment / amygdala threat conditioning",
+    "mitochondrial / metabolic / cell danger response",
+    "stress / HPA axis",
+    "inflammation / immune"
+  ],
   "mechanism_summary": "A physical plus psychological stressor (infection, vaccination, surgery, childbirth, life stress) leaves the ANS stuck in sympathetic \"survival mode.\" Central sensitisation and a conditioned threat response keep it there. This produces secondary dysfunctions (mitochondrial, endocrine, gut, immune or infection, methylation, neurotransmitter), which in turn act as physical triggers that close a vicious loop. The Science page presents ME/CFS (including PVFS and 'adrenal fatigue'), PVFS-type long COVID, fibromyalgia, POTS, MCS, EHS and IBS as one illness. It puts SSD, FND and CRPS on the same spectrum and treats chronic Lyme and mould as secondary infections or triggers.",
-  "roots": ["limbic retraining (DNRS/Gupta lineage)", "behaviorism / classical conditioning", "Buddhist vipassana/insight meditation", "autogenic training / Relaxation Response", "gate control / neuromatrix pain science", "Selye stress theory", "functional/integrative medicine", "biofeedback (1960s-70s)", "NLP (inferred; not verified)"],
-  "techniques": ["REWIRE technique (interrupt trigger response, reframe, redirect attention)", "mindfulness meditation course (20/40/60 min)", "relaxation response training", "pain desensitisation exercises", "breathing retraining", "pacing / avoiding boom-bust", "individualised activity strategy", "diet and gut support", "sleep hygiene and sleep relaxation audio", "brainwave entrainment audio (binaural/isochronic)", "cognitive re-contextualisation of MCS/pain", "symptom/activity tracking and goal setting", "optional integrative-medicine adjuncts (metabolic, hormonal, detox support)", "1:1 coaching"],
+  "roots": [
+    "limbic retraining (DNRS/Gupta lineage)",
+    "behaviorism / classical conditioning",
+    "Buddhist vipassana/insight meditation",
+    "autogenic training / Relaxation Response",
+    "gate control / neuromatrix pain science",
+    "Selye stress theory",
+    "functional/integrative medicine",
+    "biofeedback (1960s-70s)"
+  ],
+  "techniques": [
+    "REWIRE technique (interrupt trigger response, reframe, redirect attention)",
+    "mindfulness meditation course (20/40/60 min)",
+    "relaxation response training",
+    "pain desensitisation exercises",
+    "breathing retraining",
+    "pacing / avoiding boom-bust",
+    "individualised activity strategy",
+    "diet and gut support",
+    "sleep hygiene and sleep relaxation audio",
+    "brainwave entrainment audio (binaural/isochronic)",
+    "cognitive re-contextualisation of MCS/pain",
+    "symptom/activity tracking and goal setting",
+    "optional integrative-medicine adjuncts (metabolic, hormonal, detox support)",
+    "1:1 coaching"
+  ],
   "mainstream_adoption": "none",
   "mainstream_notes": "No health-system, guideline or hospital adoption. Endorsed on the site by individual practitioners (Prof. Kati Thieme; Dr. Jacob Teitelbaum). Promoted through Health Rising and long-COVID podcasts. The founder is a lay person, not a clinician.",
   "insurance": "no",
@@ -26,23 +86,139 @@
   "controversy": "There are no outcome data. The FAQ argues placebo-controlled trials are unsuitable for a personalised program and declines to give a success rate. Correlational dysautonomia studies (Allen 2012, Stewart 1998, De Becker 1998, Naschitz 2004, Martinez-Martinez 2014) are cited as if causal. Heterogeneous conditions are lumped together, including 'adrenal fatigue', which endocrinology does not recognise, plus 'chronic Lyme' and mould illness. Adjuncts include brainwave entrainment and detox. The founder has no clinical credentials. It draws the usual ME/CFS advocate objections to brain-retraining programs, which Neuffer counters with a hybrid physical-loop model.",
   "popularity": {
     "indicators": [
-      {"metric": "Participants claimed", "value": "thousands across more than 60 countries", "source": "ansrewire.com/faq", "year": 2026},
-      {"metric": "Member Q&A archive", "value": "5,000+ answered questions", "source": "ansrewire.com/program-details", "year": 2026},
-      {"metric": "Earliest web snapshot", "value": "March 2016 (as reported by researcher; Wayback not re-checkable at fact-check)", "source": "Wayback Machine availability API", "year": 2016},
-      {"metric": "Recovery story feature", "value": "Health Rising recovery story published Aug 25 2015", "source": "healthrising.org", "year": 2015},
-      {"metric": "Peer-reviewed trials / registrations", "value": "0 PubMed, 0 ClinicalTrials.gov", "source": "PubMed, ClinicalTrials.gov", "year": 2026},
-      {"metric": "Podcast", "value": "Ongoing Dan Neuffer podcast; guest on Long Covid Podcast", "source": "player.fm listings", "year": 2022}
+      {
+        "metric": "Participants claimed",
+        "value": "thousands across more than 60 countries",
+        "source": "ansrewire.com/faq",
+        "year": 2026
+      },
+      {
+        "metric": "Member Q&A archive",
+        "value": "5,000+ answered questions",
+        "source": "ansrewire.com/program-details",
+        "year": 2026
+      },
+      {
+        "metric": "Earliest web snapshot",
+        "value": "22 March 2016 (Wayback CDX index, re-checked Oct 2026)",
+        "source": "Wayback Machine CDX",
+        "year": 2016
+      },
+      {
+        "metric": "Recovery story feature",
+        "value": "Health Rising recovery story published Aug 25 2015",
+        "source": "healthrising.org",
+        "year": 2015
+      },
+      {
+        "metric": "Peer-reviewed trials / registrations",
+        "value": "0 PubMed, 0 ClinicalTrials.gov",
+        "source": "PubMed, ClinicalTrials.gov",
+        "year": 2026
+      },
+      {
+        "metric": "Podcast",
+        "value": "Ongoing Dan Neuffer podcast; guest on Long Covid Podcast",
+        "source": "player.fm listings",
+        "year": 2022
+      },
+      {
+        "metric": "YouTube subscribers (CFS Unravelled channel)",
+        "value": "~55.9K subscribers, 264 videos",
+        "source": "youtube.com/@CFSUnravelled1",
+        "year": 2026
+      },
+      {
+        "metric": "Reddit posts mentioning 'ANS Rewire'",
+        "value": "~60 submissions 2016-2026 (mostly r/cfs, r/covidlonghaulers, r/Neuroplasticity_); 100+ comments in 2025-26; DNRS and Gupta each exceed the 100-result cap",
+        "source": "Pullpush Reddit archive API",
+        "year": 2026
+      },
+      {
+        "metric": "Goodreads ratings (CFS Unravelled, all editions)",
+        "value": "~132",
+        "source": "goodreads.com",
+        "year": 2026
+      }
     ],
-    "reach_estimate": "Roughly 10^4 people. Paid participants are probably in the low thousands to about 10k; book, podcast and blog audiences perhaps several tens of thousands.",
-    "reach_log10": 4.2,
-    "method_notes": "Trajectory anchored on documented dates: Health Rising feature in 2015, 2016 launch, and the 2020-22 long-COVID pivot with podcast appearances. Book dates (c. 2013, 2017 edition) are unverified. Scaled by the site's own claim of 'thousands' in 60+ countries. Reddit and Google Trends were not checked because the search budget was exhausted. Reach is a rough order-of-magnitude guess.",
+    "reach_estimate": "Roughly 10^4-10^5 people. Paid participants are probably in the low thousands to about 10k; the YouTube channel (~56K subscribers), podcast, books and blog reach perhaps several tens of thousands.",
+    "reach_log10": 4.4,
+    "method_notes": "Trajectory anchored on documented dates: CFS Unravelled Kindle 2013, Health Rising feature 2015, 2016 launch (Wayback 22 Mar 2016), 2017 3rd edition, and the 2020-22 long-COVID pivot with podcast appearances. Scaled by the site's claim of 'thousands' in 60+ countries, YouTube subscribers (~56K) and Reddit mentions (~60 posts, rising comment volume 2025-26). Google Trends could not be queried programmatically. Reach is a rough order-of-magnitude guess.",
     "trajectory": [
-      {"year": 2013, "relative_activity": 1}, {"year": 2014, "relative_activity": 1.5}, {"year": 2015, "relative_activity": 2.5},
-      {"year": 2016, "relative_activity": 4}, {"year": 2017, "relative_activity": 5}, {"year": 2018, "relative_activity": 5},
-      {"year": 2019, "relative_activity": 5.5}, {"year": 2020, "relative_activity": 6.5}, {"year": 2021, "relative_activity": 8},
-      {"year": 2022, "relative_activity": 8}, {"year": 2023, "relative_activity": 7}, {"year": 2024, "relative_activity": 6.5},
-      {"year": 2025, "relative_activity": 6}, {"year": 2026, "relative_activity": 6}
+      {
+        "year": 2013,
+        "relative_activity": 1
+      },
+      {
+        "year": 2014,
+        "relative_activity": 1.5
+      },
+      {
+        "year": 2015,
+        "relative_activity": 2.5
+      },
+      {
+        "year": 2016,
+        "relative_activity": 4
+      },
+      {
+        "year": 2017,
+        "relative_activity": 5
+      },
+      {
+        "year": 2018,
+        "relative_activity": 5
+      },
+      {
+        "year": 2019,
+        "relative_activity": 5.5
+      },
+      {
+        "year": 2020,
+        "relative_activity": 6.5
+      },
+      {
+        "year": 2021,
+        "relative_activity": 8
+      },
+      {
+        "year": 2022,
+        "relative_activity": 8
+      },
+      {
+        "year": 2023,
+        "relative_activity": 7
+      },
+      {
+        "year": 2024,
+        "relative_activity": 6.5
+      },
+      {
+        "year": 2025,
+        "relative_activity": 6
+      },
+      {
+        "year": 2026,
+        "relative_activity": 6
+      }
     ]
   },
-  "sources": ["https://ansrewire.com/", "https://ansrewire.com/the-science/", "https://ansrewire.com/program-details/", "https://ansrewire.com/faq/", "https://healthrising.org/dan-neuffer", "https://www.healthrising.org/forums/resources/hitting-rock-bottom-leads-to-turnaround-for-dan.215/updates", "https://www.healthrising.org/authors/dan-neuffer", "https://fa.player.fm/en/podcasts/Dan-Neuffer", "http://web.archive.org/web/20160322211524/https://www.ansrewire.com/", "https://clinicaltrials.gov/api/v2/studies?query.term=ANS+Rewire", "https://www.nice.org.uk/guidance/ng206"]
+  "sources": [
+    "https://ansrewire.com/",
+    "https://ansrewire.com/the-science/",
+    "https://ansrewire.com/program-details/",
+    "https://ansrewire.com/faq/",
+    "https://healthrising.org/dan-neuffer",
+    "https://www.healthrising.org/forums/resources/hitting-rock-bottom-leads-to-turnaround-for-dan.215/updates",
+    "https://www.healthrising.org/authors/dan-neuffer",
+    "https://fa.player.fm/en/podcasts/Dan-Neuffer",
+    "http://web.archive.org/web/20160322211524/https://www.ansrewire.com/",
+    "https://clinicaltrials.gov/api/v2/studies?query.term=ANS+Rewire",
+    "https://www.nice.org.uk/guidance/ng206",
+    "https://www.goodreads.com/work/editions/24945577-cfs-unravelled---one-man-s-search-for-the-cause-of-fibromyalgia-and-chro",
+    "https://www.healthrising.org/blog/2023/12/04/dan-neuffer-recovery-chronic-fatigue-fibromyalgia-pt-3/",
+    "https://web.archive.org/cdx/search/cdx?url=ansrewire.com",
+    "https://www.youtube.com/@CFSUnravelled1",
+    "https://api.pullpush.io/reddit/search/submission/?q=%22ans%20rewire%22"
+  ]
 }

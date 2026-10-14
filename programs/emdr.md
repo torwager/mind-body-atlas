@@ -1,6 +1,6 @@
 # EMDR (Eye Movement Desensitization and Reprocessing)
 
-*Compiled 2026-10-12 from emdria.org ("About EMDR therapy", training pages), emdr.com (EMDR Institute: history, "What is EMDR"), PubMed abstracts of pain/somatic trials and meta-analyses, and guideline documents (WHO, NICE, VA/DoD). Content paraphrased. Live web search was unavailable during compilation (session quota exhausted). Every trial below was verified on PubMed or Crossref. Cost ranges and the guideline list are from background knowledge and are flagged as such.*
+*Compiled 2026-10-12 from emdria.org ("About EMDR therapy", training pages), emdr.com (EMDR Institute: history, "What is EMDR"), PubMed abstracts of pain/somatic trials and meta-analyses, and guideline documents (WHO, NICE, VA/DoD). Content paraphrased. Every trial below was verified on PubMed or Crossref. Training fees, guideline wording and Reddit size were checked against primary pages on 2026-10-13; the per-session therapy price remains an estimate (see Direct cost).*
 
 ## At a glance
 | Field | |
@@ -10,12 +10,12 @@
 | Founded | 1987: Shapiro's walk-in-the-park observation. 1989: first publications as "EMD" (Shapiro 1989, *J Trauma Stress*; *J Behav Ther Exp Psychiatry*). 1990: EMDR Institute created and first trainings run. 1991: renamed EMDR. 1993: Institute incorporated. 1995: training restrictions lifted and EMDRIA formed. 2014: renamed "EMDR therapy" (dates from the emdr.com history page, checked 2026-10-12). |
 | Format / delivery | Clinician-delivered individual psychotherapy using an 8-phase protocol. Typically 6–12+ sessions of 60–90 min, in person or by telehealth. Group protocols (e.g., a 4-day outpatient pain group in Germany) and self-administered bilateral tapping ("butterfly hug") are adjuncts. |
 | Business model | Clinician-delivered (fee-for-service). The training and certification ecosystem is commercial (EMDRIA-approved basic trainings, consultants, certification). |
-| Direct cost | No price is set centrally (EMDRIA says training prices vary by site). *Background estimate, not verified this session:* US private-practice sessions are commonly about US$100–250 per 50–90 min. Clinician basic training is about US$1,500–2,500. EMDRIA's minimum basic training is 20 h instruction + 20 h practicum + 10 h consultation. Free on the NHS (UK) for PTSD. |
+| Direct cost | No price is set centrally. Therapy sessions: *estimate*, US private practice commonly about US$100–250 per 50–90 min. Neither EMDRIA nor the EMDR Institute publishes client fees; consumer cost pages (Forbes Health, GoodRx) blocked automated access and web search was unavailable on 2026-10-13. Clinician training (verified, emdr.com fees page): EMDR Institute basic training is two weekends at US$750 each for licensed clinicians (US$685 for non-profit staff or pre-licensed; 5% off if both are booked together), 20 CE credits per weekend. The 10 required consultation hours are extra (group about US$30–50/h), so the total is about US$1,800–2,000. EMDRIA's minimum basic training is 20 h instruction + 20 h practicum + 10 h consultation. Free on the NHS (UK) for PTSD. |
 | Conditions claimed | Core: PTSD/trauma. EMDRIA says "research shows EMDR is highly effective for anxiety, depression, OCD, chronic pain, and addiction." Its broader list adds "chronic illness and medical issues", pain, dissociative and eating disorders, sleep disturbance and others. Research extensions: phantom limb pain, chronic back pain, fibromyalgia, migraine, IBS, FND, tinnitus, dysmenorrhea. |
 | Mainstream adoption | Substantial for PTSD: WHO (2013), NICE NG116 (2018), ISTSS, VA/DoD (2017/2023); APA (2017) gives a conditional recommendation. Limited for pain and somatic conditions, mostly German, Dutch, Turkish and Iranian pain/psychosomatic centres and UK FND services. |
 | Insurance reimbursable | Yes, indirectly. It is billed as ordinary psychotherapy (e.g., US CPT 90834/90837) when a licensed clinician treats a covered diagnosis. There is no EMDR-specific code. Coverage for a "pain" indication depends on a coded mental-health diagnosis. |
 | Evidence (peer-reviewed trials) | PTSD: many RCTs and meta-analyses. Chronic pain: about 7 small RCTs plus observational studies; systematic reviews call it "promising" but low in quality. |
-| Popularity signals | 100,000+ clinicians worldwide (EMDR Institute claim). EMDRIA has 15,000–20,000+ members (two figures on its own site). PubMed EMDR papers rose from ~12/yr (1995) to ~159/yr (2025). Media spike with Prince Harry's on-camera EMDR session (Apple TV+, 2021). |
+| Popularity signals | 100,000+ clinicians worldwide (EMDR Institute claim). EMDRIA has 15,000–20,000+ members (two figures on its own site). PubMed EMDR papers rose from ~12/yr (1995) to ~159/yr (2025). Media spike with Prince Harry's on-camera EMDR session (Apple TV+, May 2021). Reddit r/EMDR ~37,700 members (July 2025). |
 
 ## 1. Proposed mechanism(s)
 
@@ -73,12 +73,12 @@ EMDR does *not* claim a shared neurological illness across ME/CFS, fibromyalgia,
 - For pain: **trauma–pain comorbidity research** and **pain-memory / neuromatrix concepts** (phantom limb pain).
 
 ## 5. Mainstream adoption and insurance
-- **Guidelines (PTSD).** *Background, not re-verified this session:*
-  - WHO 2013 guideline on stress-related conditions: recommended for PTSD in adults and children.
-  - NICE NG116 (2018): recommended for adults with PTSD after non-combat trauma lasting more than 3 months.
+- **Guidelines (PTSD).** Checked 2026-10-13 against the guideline pages or PubMed synopses where noted:
+  - WHO 2013 *Guidelines on conditions specifically related to stress*: lists EMDR with trauma-focused CBT as a PTSD treatment (WHO press release, 6 Aug 2013).
+  - NICE NG116 (2018), verified: "Offer EMDR to adults with ... PTSD ... more than 3 months after a non-combat-related trauma"; "consider" at 1–3 months if preferred; for ages 7–17 only if trauma-focused CBT fails.
   - ISTSS (2018): strong recommendation.
-  - VA/DoD PTSD guidelines (2017, 2023): one of the recommended trauma-focused psychotherapies.
-  - APA (2017): conditional recommendation.
+  - VA/DoD PTSD guidelines (2017, 2023), verified for 2023: a **strong** recommendation for prolonged exposure, CPT or EMDR (Ann Intern Med 2024 synopsis, PMID 38408360).
+  - APA (2017): conditional recommendation. The ISTSS and APA pages render by script and could not be read automatically, and the Wayback Machine was offline on 2026-10-13, so these two strengths rest on the published guidelines as summarised in the literature.
   - Cochrane (Bisson et al. 2013, CD003388): included alongside TF-CBT among effective trauma-focused therapies.
 - **Health systems.** Offered in NHS Talking Therapies/IAPT and specialist trauma services, the VA, and Dutch and German routine care. Dutch and German psychosomatic pain clinics (Heidelberg/Mainz/Ulm "EMDR Pain Network Germany", Vock 2024) use it for pain with trauma comorbidity. UK FND services are trialling it (MODIFI).
 - **Pain guidelines** do not currently recommend EMDR for chronic pain. It is absent from NICE NG193 (chronic primary pain).
@@ -130,7 +130,7 @@ Other trials (non-chronic or adjacent conditions): post-operative pain in adoles
 - **1995–2010 (institutionalisation).** EMDRIA founded in 1995. Shapiro's textbook *EMDR: Basic Principles, Protocols and Procedures* (1995; 2nd ed. 2001; 3rd ed. 2018). Humanitarian Assistance Programs. PubMed records with EMDR in title/abstract: ~12 (1995), 16 (2000), 16 (2005), 29 (2010) (PubMed count, this session).
 - **2013–2018 (guideline wave).** WHO 2013, ISTSS 2018 and NICE 2018 endorsements. Van der Kolk's bestseller *The Body Keeps the Score* (2014) features EMDR. Shapiro's self-help book *Getting Past Your Past* (2012). PubMed: 36 (2015).
 - **2019–2026 (mass awareness).** Shapiro died in 2019. Prince Harry showed an EMDR session in *The Me You Can't See* (Apple TV+, 2021), a major popular-media spike. TikTok and Instagram "EMDR" content grew, as did telehealth/virtual-BLS platforms. PubMed: 87 (2020), 113 (2023), 159 (2025). EMDR Pain Network Germany formed (2024).
-- **Scale.** The EMDR Institute claims "over 100,000 clinicians" worldwide and "millions" treated. EMDRIA cites more than 15,000 (elsewhere 20,000+) members and says EMDR therapists have helped "millions of people across 130 countries". Subreddit and Google Trends figures could not be retrieved this session.
+- **Scale.** The EMDR Institute claims "over 100,000 clinicians" worldwide and "millions" treated. EMDRIA cites more than 15,000 (elsewhere 20,000+) members and says EMDR therapists have helped "millions of people across 130 countries". Reddit r/EMDR had 37,694 members in the latest Wayback capture (7 July 2025); the live reddit.com API blocks automated access. Google Trends not retrieved (no public API; web search unavailable 2026-10-13).
 
 ## 8. Controversies / criticisms
 - **"Purple hat" critique.** Dismantling studies and Davidson & Parker (2001) suggest the eye movements, the method's namesake, add little beyond exposure. Critics (Herbert, Lilienfeld, Lohr, Rosen, McNally) have called EMDR (Herbert et al. 2000, *Clin Psychol Rev* 20:945–71; Lohr et al. 1999, *J Anxiety Disord* 13:185–207) a case study in pseudoscientific marketing: what is effective in it is not new, and what is new is not effective. Lee & Cuijpers (2013) and working-memory research partly rebut the claim that eye movements are inert. Even so, the comparative-efficacy data (Wright 2024 IPD) show no advantage over other trauma-focused therapies.
@@ -166,6 +166,13 @@ Other trials (non-chronic or adjacent conditions): post-operative pain in adoles
 - https://pubmed.ncbi.nlm.nih.gov/11098395/ (Herbert et al. 2000, critique)
 - https://pubmed.ncbi.nlm.nih.gov/10225508/ (Lohr et al. 1999, critique)
 - https://en.wikipedia.org/wiki/Francine_Shapiro (doctorate details)
-- https://www.nice.org.uk/guidance/ng116 (NICE PTSD guideline)
+- https://www.nice.org.uk/guidance/ng116/chapter/Recommendations (NICE PTSD guideline, EMDR recommendations)
+- https://www.emdr.com/emdr-basic-training-fees-requirements/ (EMDR Institute training fees)
+- https://pubmed.ncbi.nlm.nih.gov/38408360/ (VA/DoD 2023 PTSD guideline synopsis)
+- https://www.who.int/publications/i/item/9789241505406 (WHO 2013 stress guideline)
+- https://www.who.int/news/item/06-08-2013-who-releases-guidance-on-mental-health-care-after-trauma (WHO 2013 press release)
+- https://pubmed.ncbi.nlm.nih.gov/31283056/ (ISTSS 2018 guidelines methodology)
+- http://web.archive.org/web/20250707134322/https://www.reddit.com/r/EMDR/ (r/EMDR member count)
+- https://en.wikipedia.org/wiki/The_Me_You_Can%27t_See (Apple TV+ series, May 2021)
 
-*Fact-checked 2026-10-12; corrections: all 12 listed papers verified on PubMed (authors/year/journal/N correct); added Shapiro's unaccredited-PhD detail and Institute 1993/2014 milestones; Shapiro 1989 described as randomized, developer-run, unblinded; added Wright 2024 IPD (no superiority over other therapies) and Herbert 2000/Lohr 1999 critiques; flagged Nia 2018 non-random 'RCT' and its shared author with Rostaminejad 2017; Zat Çiftçi p-value inconsistency; Mesmer reframed as a critics' analogy; cost figures remain unverified estimates.*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: training fees verified (US$750 × 2 weekends + consultation); NICE NG116, VA/DoD 2023 and WHO 2013 recommendations verified; r/EMDR 37,694 members (Wayback, Jul 2025); Apple TV+ series date confirmed; session price, Google Trends and ISTSS/APA page text remain unchecked (web search unavailable, guideline pages script-rendered, Wayback offline).*

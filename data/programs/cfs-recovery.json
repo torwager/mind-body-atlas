@@ -2,48 +2,163 @@
   "slug": "cfs-recovery",
   "name": "CFS Recovery (Recovery School / Recovery Academy / Recovery Platinum)",
   "url": "https://cfsrecovery.com/",
-  "founders": ["Miguel Bautista (reportedly Canada-based; former athlete and video-business owner who reports recovering from self-described CFS, ill 2017 to 2019; no clinical credentials)"],
+  "founders": [
+    "Miguel Bautista (company CFS Recovery Inc. states it is US-based; founder's personal location not published; former athlete and video-business owner who reports recovering from self-described CFS, ill 2017 to 2019; no clinical credentials)"
+  ],
   "founded_year": 2021,
-  "founded_year_range": "2021 (the About page timeline says 'CFS Recovery Founded' in 2021; the founder was ill 2017-2019)",
+  "founded_year_range": "2021 (the About page timeline says 'CFS Recovery Founded' in 2021; the YouTube channel was created 8 Apr 2021; the founder was ill 2017-2019)",
   "category": "limbic/brain retraining course (peer-coach subscription)",
-  "delivery": ["online course", "coaching", "group", "online community", "retreat"],
+  "delivery": [
+    "online course",
+    "coaching",
+    "group",
+    "online community",
+    "retreat"
+  ],
   "business_model": "commercial",
-  "cost_summary": "Monthly subscription, verified Oct 2026. Recovery School is US$47/mo (self-paced plus a weekly group call). Recovery Academy is US$297/mo (up to 7 live group calls a week). Recovery Platinum is 1:1 coaching, priced by application, with a 30-day money-back guarantee. All tiers can be cancelled at any time. A free assessment and a free training are offered. A year on Academy costs about US$3.5k.",
+  "cost_summary": "Monthly subscription, verified Oct 2026. Recovery School is US$47/mo (self-paced plus a weekly group call). Recovery Academy is US$297/mo (up to 7 live group calls a week). Recovery Platinum is 1:1 coaching, priced by application, with a 30-day money-back guarantee. All tiers can be cancelled at any time. A free assessment and a free training are offered. A year on Academy costs about US$3.5k. Earlier pricing was higher: in Aug 2023 a sales email quoted on the Science for ME forum charged US$6,500 for one year, then US$297/mo.",
   "cost_usd_typical": 1782,
-  "conditions_claimed": ["ME/CFS", "long COVID", "fibromyalgia", "POTS/dysautonomia", "PVFS", "chronic pain (general)", "general stress/wellbeing"],
-  "conditions_primary": ["ME/CFS", "long COVID", "fibromyalgia", "POTS/dysautonomia"],
+  "conditions_claimed": [
+    "ME/CFS",
+    "long COVID",
+    "fibromyalgia",
+    "POTS/dysautonomia",
+    "PVFS",
+    "chronic pain (general)",
+    "general stress/wellbeing"
+  ],
+  "conditions_primary": [
+    "ME/CFS",
+    "long COVID",
+    "fibromyalgia",
+    "POTS/dysautonomia"
+  ],
   "differentiation": "single unified mechanism",
-  "mechanisms": ["autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")", "stress / HPA axis", "fear-avoidance / catastrophizing / cognitive appraisal", "central sensitization", "limbic system impairment / amygdala threat conditioning", "inflammation / immune", "polyvagal / vagal tone / safety signalling"],
+  "mechanisms": [
+    "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")",
+    "stress / HPA axis",
+    "fear-avoidance / catastrophizing / cognitive appraisal",
+    "central sensitization",
+    "limbic system impairment / amygdala threat conditioning",
+    "inflammation / immune",
+    "polyvagal / vagal tone / safety signalling"
+  ],
   "mechanism_summary": "The program treats these conditions as one nervous system \"stuck, not broken\" in a chronic stress/threat response. A trigger (infection, stress, overload) switches on an alarm that stays on. The resulting real symptoms are then read as danger, which keeps the loop going, with fear of symptoms as the key maintaining factor. A \"stress threshold/bucket\" (allostatic load) model has all stressors filling a single tank. Supporting language includes sympathetic overactivity, a non-resetting HPA axis, central sensitisation, vagal brain-immune signalling and neuroplastic reversibility. It is one mechanism for ME/CFS, long COVID, fibromyalgia and POTS; individualisation is through a proprietary assessment, not by disease.",
-  "roots": ["Selye stress theory", "CBT (Beck/Ellis)", "Sarno TMS", "gate control / neuromatrix pain science", "polyvagal theory", "Feldenkrais / Alexander / somatics", "life coaching / positive psychology", "limbic retraining (DNRS/Gupta lineage)"],
-  "techniques": ["mechanism education to reduce fear", "somatic regulation exercises", "cognitive reframing of symptoms as safe", "'loop interruption' of symptom-fear cycle", "short daily retraining practices", "flare-up protocols", "expansion vs rest timing (pacing)", "graded activity/stamina rebuilding", "social/work reintegration", "emotional processing of grief/identity", "Nervous System Health Assessment and SF-36 progress tracking", "live group coaching calls", "1:1 peer coaching", "caregiver support calls", "online community (Skool/Discord)", "in-person Thriver Retreat"],
+  "roots": [
+    "Selye stress theory",
+    "CBT (Beck/Ellis)",
+    "Sarno TMS",
+    "gate control / neuromatrix pain science",
+    "polyvagal theory",
+    "Feldenkrais / Alexander / somatics",
+    "life coaching / positive psychology",
+    "limbic retraining (DNRS/Gupta lineage)"
+  ],
+  "techniques": [
+    "mechanism education to reduce fear",
+    "somatic regulation exercises",
+    "cognitive reframing of symptoms as safe",
+    "'loop interruption' of symptom-fear cycle",
+    "short daily retraining practices",
+    "flare-up protocols",
+    "expansion vs rest timing (pacing)",
+    "graded activity/stamina rebuilding",
+    "social/work reintegration",
+    "emotional processing of grief/identity",
+    "Nervous System Health Assessment and SF-36 progress tracking",
+    "live group coaching calls",
+    "1:1 peer coaching",
+    "caregiver support calls",
+    "online community (Skool/Discord)",
+    "in-person Thriver Retreat"
+  ],
   "mainstream_adoption": "none",
   "mainstream_notes": "The site says CFS Recovery is a coaching and educational company and that its staff \"are not doctors\". Its coaches are lay recovered patients with in-house training. There is no health-system, guideline or insurer uptake. The only named physician endorser is one functional-medicine MD (Scott Resnick); the other professional quotes are Trustpilot reviews.",
   "insurance": "no",
   "insurance_notes": "It is a coaching subscription. The home page and FAQ mention no insurance or HSA billing.",
   "evidence_level": "none",
   "key_trials": [],
-  "controversy": "The company advertises in-house \"aggregate\" SF-36 gains (+18% at 6 months, +40% at 12 months) with no N, control group, attrition data or definition of the metric. It sets them beside uncited 'published trial' benchmarks (standard care 5-10%, exercise 10-15%, CBT 8-12%). Its self-reported figures are internally inconsistent: 50+ vs 100+ hours of video, and 2,000+ clients helped vs 'hundreds' recovered. The 'Physician Endorsed' badge rests on one functional-medicine MD, and testimonials are not independent. It shares the criticisms made of the whole limbic-retraining genre: ME/CFS advocates object to the stress/fear framing, to the risk of post-exertional crashes from 'expansion' and to open-ended subscription costs sold to a vulnerable group. Coaches are unlicensed.",
+  "controversy": "The company advertises in-house \"aggregate\" SF-36 gains (+18% at 6 months, +40% at 12 months) with no N, control group, attrition data or definition of the metric. It sets them beside uncited 'published trial' benchmarks (standard care 5-10%, exercise 10-15%, CBT 8-12%). Its self-reported figures are internally inconsistent: 50+ vs 100+ hours of video, and 2,000+ clients helped vs 'hundreds' recovered. The 'Physician Endorsed' badge rests on one functional-medicine MD, and testimonials are not independent. It shares the criticisms made of the whole limbic-retraining genre: ME/CFS advocates object to the stress/fear framing, to the risk of post-exertional crashes from 'expansion' and to open-ended subscription costs sold to a vulnerable group. Coaches are unlicensed. A Science for ME forum thread (since Aug 2023) and Reddit posts (2023-2026) specifically criticise it as amateur brain retraining that frames crashes as an 'adjustment period', and object to its high prices.",
   "popularity": {
     "indicators": [
-      {"metric": "clients served (self-reported)", "value": "2,000+ in 50+ countries", "source": "cfsrecovery.com / cfsrecovery.co", "year": 2026},
-      {"metric": "active community members (self-reported)", "value": "400+", "source": "cfsrecovery.co", "year": 2026},
-      {"metric": "customer satisfaction (self-reported)", "value": "97%", "source": "cfsrecovery.co", "year": 2026},
-      {"metric": "coaching team size", "value": "founder + ~7 Thriver Coaches", "source": "cfsrecovery.com/coaches", "year": 2026},
-      {"metric": "recovery-story video content", "value": "50+ hours (cfsrecovery.co) / 100+ hours (cfsrecovery.com)", "source": "company sites", "year": 2026},
-      {"metric": "peer-reviewed publications / trial registrations", "value": "0 PubMed hits; 0 ClinicalTrials.gov hits", "source": "PubMed eutils; ClinicalTrials.gov API", "year": 2026}
+      {
+        "metric": "clients served (self-reported)",
+        "value": "2,000+ in 50+ countries",
+        "source": "cfsrecovery.com / cfsrecovery.co",
+        "year": 2026
+      },
+      {
+        "metric": "active community members (self-reported)",
+        "value": "400+",
+        "source": "cfsrecovery.co",
+        "year": 2026
+      },
+      {
+        "metric": "customer satisfaction (self-reported)",
+        "value": "97%",
+        "source": "cfsrecovery.co",
+        "year": 2026
+      },
+      {
+        "metric": "coaching team size",
+        "value": "founder + ~7 Thriver Coaches",
+        "source": "cfsrecovery.com/coaches",
+        "year": 2026
+      },
+      {
+        "metric": "recovery-story video content",
+        "value": "50+ hours (cfsrecovery.co) / 100+ hours (cfsrecovery.com)",
+        "source": "company sites",
+        "year": 2026
+      },
+      {
+        "metric": "peer-reviewed publications / trial registrations",
+        "value": "0 PubMed hits; 0 ClinicalTrials.gov hits",
+        "source": "PubMed eutils; ClinicalTrials.gov API",
+        "year": 2026
+      },
+      {
+        "metric": "YouTube subscribers (@cfsrecovery)",
+        "value": "43.8K (6.96M total views; 2,177 videos; channel created Apr 2021)",
+        "source": "https://www.youtube.com/@cfsrecovery/about",
+        "year": 2026
+      },
+      {
+        "metric": "Reddit posts mentioning program/founder",
+        "value": "~50 posts Aug 2023-Oct 2026 (r/cfs, r/LongCovid, r/covidlonghaulers, etc.), many critical; no official subreddit",
+        "source": "PullPush Reddit archive",
+        "year": 2026
+      }
     ],
-    "reach_estimate": "About 2,000-3,000 paying clients (company claim of 2,000+), plus perhaps tens of thousands of YouTube viewers. Core reach is about 10^3.4.",
+    "reach_estimate": "About 2,000-3,000 paying clients (company claim of 2,000+; 1,000+ claimed in 2024), plus a YouTube audience of 43.8K subscribers and about 7M cumulative views. Core reach is about 10^3.4.",
     "reach_log10": 3.4,
     "trajectory": [
-      {"year": 2021, "relative_activity": 2},
-      {"year": 2022, "relative_activity": 3},
-      {"year": 2023, "relative_activity": 5},
-      {"year": 2024, "relative_activity": 6},
-      {"year": 2025, "relative_activity": 8},
-      {"year": 2026, "relative_activity": 9}
+      {
+        "year": 2021,
+        "relative_activity": 2
+      },
+      {
+        "year": 2022,
+        "relative_activity": 3
+      },
+      {
+        "year": 2023,
+        "relative_activity": 5
+      },
+      {
+        "year": 2024,
+        "relative_activity": 6
+      },
+      {
+        "year": 2025,
+        "relative_activity": 8
+      },
+      {
+        "year": 2026,
+        "relative_activity": 9
+      }
     ],
-    "method_notes": "Web search was exhausted in both the research and fact-check sessions, so Reddit, Wayback, Google Trends and YouTube subscriber data were not retrieved. The trajectory is inferred from the stated 2021 founding, the growth from a solo offer to a multi-coach tiered subscription, and the self-reported 2,000+ clients. Reach_log10 rests on an unaudited company claim and is uncertain."
+    "method_notes": "The trajectory follows the company's About-page timeline (2021 founding, first coaches 2022, 1,000+ clients 2024, 2,000+ 2026), the YouTube channel (created Apr 2021, 43.8K subscribers by Oct 2026) and the timing of Reddit posts (from Aug 2023). The cfsrecovery.com Wayback captures are parked/redirect pages until mid-2024. Google Trends was not checked. Reach_log10 rests on an unaudited company claim."
   },
   "sources": [
     "https://cfsrecovery.com/",
@@ -55,6 +170,12 @@
     "https://cfsrecovery.com/expert-endorsements/",
     "https://cfsrecovery.co/",
     "https://pubmed.ncbi.nlm.nih.gov/?term=%22CFS+Recovery%22+Bautista",
-    "https://clinicaltrials.gov/search?term=%22CFS%20Recovery%22"
+    "https://clinicaltrials.gov/search?term=%22CFS%20Recovery%22",
+    "https://cfsrecovery.com/privacy-policy/",
+    "https://www.youtube.com/@cfsrecovery/about",
+    "https://s4me.info/threads/miguel-bautista%E2%80%99s-cfs-recovery-%E2%80%98recovery-jumpstart%E2%80%99.34942",
+    "https://api.pullpush.io/reddit/search/submission/?q=%22cfs%20recovery%22%20miguel",
+    "https://wellnessbydesign.libsyn.com/246-nervous-system-regulation-for-chronic-fatigue-syndrome-with-miguel-bautista-jane-hogan",
+    "https://web.archive.org/cdx/search/cdx?url=cfsrecovery.com"
   ]
 }

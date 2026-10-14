@@ -3,17 +3,26 @@
   "name": "Pain Reprocessing Therapy (PRT)",
   "url": "https://www.painreprocessingtherapy.com/",
   "founders": [
-    "Alan Gordon, LCSW (developer; founder/director of the Pain Psychology Center, Los Angeles; listed as director of the PRT Center in 2021)",
+    "Alan Gordon, LCSW (developer; founder/executive director of the Pain Psychology Center, Los Angeles; adjunct assistant professor, USC; PRT Center clinical advisor, listed as PRT Center director in 2021)",
     "Howard Schubiner, MD (co-developer of trial protocol; Mind Body Medicine Center)",
     "Paulina Soble, LCSW and Daniella Deutsch, LCSW (listed co-founders of the PRT Center)",
     "Alon Ziv (co-author, The Way Out)"
   ],
   "founded_year": 2017,
-  "founded_year_range": "2015-2021. The method was formalized for the Boulder trial, which enrolled from Nov 2017 (NCT03294148). The Pain Psychology Center is earlier, early-to-mid 2010s; this is an estimate and its founding date was not stated on its site. PRT Center clinician training scaled up around 2020-2021, alongside the JAMA Psychiatry paper (Sept 2021) and The Way Out (Aug 2021).",
+  "founded_year_range": "2012-2021. The Pain Psychology Center's domain was registered in Mar 2012 (no founding year is published). The method was formalized for the Boulder trial, which enrolled from Nov 2017 (NCT03294148). The PRT Center domain was registered in Apr 2018, and the Center is named in the 2021 trial disclosures. Clinician training scaled up around the JAMA Psychiatry paper (Sept 2021) and The Way Out (Aug 2021).",
   "category": "psychological/neuroplastic-pain therapy",
-  "delivery": ["clinician-delivered", "telehealth", "group", "book", "online course", "app", "coaching", "clinician training/certification"],
+  "delivery": [
+    "clinician-delivered",
+    "telehealth",
+    "group",
+    "book",
+    "online course",
+    "app",
+    "coaching",
+    "clinician training/certification"
+  ],
   "business_model": "clinician-delivered (fee-for-service)",
-  "cost_summary": "Patient therapy at WellBody Psychotherapy costs USD 165-250 per 50-minute virtual session (verified Oct 2026), so a typical 8-12-session course is about USD 1,300-3,000. The 8-week online Healing Workshop has no posted price. Clinician training (21 h Foundational, 21 CE/CME) was reported at USD 890-990, with advanced training at about USD 660-720 and a coaching add-on at USD 190. These training prices could not be re-verified: the training page lists no prices and the product pages return 404. The book The Way Out costs about USD 15-28. The podcast, blog and some videos are free.",
+  "cost_summary": "Patient therapy at WellBody Psychotherapy costs USD 165-250 per session (verified Oct 2026), so a typical 8-12-session course is about USD 1,300-3,000. The 8-week online Healing Workshop costs USD 525 (course page, Nov-Dec 2026 cohort). The book The Way Out costs about USD 15-28. The podcast, blog and some videos are free. Clinician training: Foundational (21 h, 21 CE/CME) costs USD 890 early-bird / 990 regular (Jan-Feb 2027 cohort), and PRT Verification costs USD 725. Advanced, Mastery and coaching training prices are not published (listed as 'per program').",
   "cost_usd_typical": 2000,
   "conditions_claimed": [
     "chronic pain (general)",
@@ -32,7 +41,12 @@
     "itch/nausea",
     "POTS/dysautonomia (research adaptation PORT only; not on PRT FAQ)"
   ],
-  "conditions_primary": ["chronic back/neck pain", "chronic pain (general)", "fibromyalgia", "headache/migraine"],
+  "conditions_primary": [
+    "chronic back/neck pain",
+    "chronic pain (general)",
+    "fibromyalgia",
+    "headache/migraine"
+  ],
   "differentiation": "mostly unified with condition-specific emphasis",
   "mechanisms": [
     "neuroplastic/learned pain (brain-generated danger signal / predictive processing)",
@@ -82,9 +96,9 @@
     },
     {
       "citation": "Ashar YK, Low EL, Knight K, Schubiner H, Gordon A, LeRoux A, Lumley MA, Wager TD. 5-Year Follow-Up of a Randomized Clinical Trial. JAMA Psychiatry 2025;82(10):1049-1051. doi:10.1001/jamapsychiatry.2025.1844",
-      "design": "Research letter; 5-year follow-up of the RCT above",
-      "n": 151,
-      "finding": "Developers describe gains as largely maintained. A critic (Ingraham, PainScience.com) reports SMD about -0.62 but only about 0.67/10 raw points, with no 5-year effects on sleep, anxiety or catastrophizing. These figures are secondary-source and unverified against the full text.",
+      "design": "Research letter; 5-year follow-up of the RCT above (113/151 = 75% followed up)",
+      "n": 113,
+      "finding": "Adjusted 5-year pain: 1.93 (PRT) vs 3.19 (placebo) vs 2.60 (usual care). SMD -0.83 vs placebo (P = .006) and -0.62 vs usual care (P = .04). Pain-free (0-1/10): 55% vs 26% vs 36%. Effects persisted on depression, kinesiophobia, interference, anger and mind-brain attribution, but not on sleep, anxiety or catastrophizing. Ingraham (PainScience.com) argues the raw difference vs usual care is small (he cites 0.67/10; the adjusted difference is 0.96).",
       "url": "https://pubmed.ncbi.nlm.nih.gov/40736996/"
     },
     {
@@ -137,34 +151,109 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/41758479/"
     }
   ],
-  "controversy": "Harriet Hall (Science-Based Medicine, May 2022) criticized the pivotal trial's open-label saline placebo as an inadequate control and called the usual-care arm an \"A + B vs A\" design. She also noted that first positive trials often shrink on replication. Paul Ingraham (PainScience.com, 2025) argued that the 5-year SMD of about -0.62 masks a raw difference of only about 0.67/10 points in a mild, homogeneous sample, and that the largest durable effects are on the beliefs PRT trains. Other concerns: there is only one fully powered RCT; it is single-site, with no active psychological comparator, self-reported outcomes and unusually large effects. Disclosed conflicts in the trial papers: UnitedHealth Group consulting (Ashar, Gordon, Schubiner); PRT Center and Lin Health fees (Ashar); Curable consulting (Schubiner); Curable SAB (Wager); Gordon founded the Pain Psychology Center and Healing Track; book royalties. The website extends the model to conditions never tested in trials (MCS, fatigue, tinnitus, dizziness). Patient groups (ME/CFS, long COVID, POTS/EDS) worry that brain-based framing will be misapplied to organic disease. PRT itself requires a medical evaluation first and acknowledges \"mixed\" pain. Note: T. D. Wager is senior author of the core trials.",
+  "controversy": "Harriet Hall (Science-Based Medicine, May 2022) criticized the pivotal trial's open-label saline placebo as an inadequate control and called the usual-care arm an \"A + B vs A\" design. She also noted that first positive trials often shrink on replication. Paul Ingraham (PainScience.com, 2025) argued that the 5-year SMD of -0.62 vs usual care masks a small raw difference (he cites 0.67/10; the paper's adjusted difference is 0.96, and it is 1.29 vs placebo) in a mild, homogeneous sample with 75% follow-up, and that the largest durable effects are on the beliefs PRT trains. Other concerns: there is only one fully powered RCT; it is single-site, with no active psychological comparator, self-reported outcomes and unusually large effects. Disclosed conflicts in the trial papers: UnitedHealth Group consulting (Ashar, Gordon, Schubiner); PRT Center and Lin Health fees (Ashar); Curable consulting (Schubiner); Curable SAB (Wager); Gordon founded the Pain Psychology Center and Healing Track; book royalties. The website extends the model to conditions never tested in trials (MCS, fatigue, tinnitus, dizziness). Patient groups (ME/CFS, long COVID, POTS/EDS) worry that brain-based framing will be misapplied to organic disease. PRT itself requires a medical evaluation first and acknowledges \"mixed\" pain. Note: T. D. Wager is senior author of the core trials.",
   "popularity": {
     "indicators": [
-      {"metric": "Pivotal RCT publication with broad media/NIH coverage", "value": "JAMA Psychiatry, online 29 Sept 2021", "source": "PubMed 34586357; NIH Research Matters", "year": 2021},
-      {"metric": "Consumer book", "value": "The Way Out (Avery/Penguin Random House; Ebury UK)", "source": "Open Library / publisher", "year": 2021},
-      {"metric": "PubMed records for 'pain reprocessing therapy'", "value": "27 total (verified); about 20 from 2025-2026", "source": "PubMed E-utilities, Oct 2026", "year": 2026},
-      {"metric": "Registered clinical trials", "value": "15 on ClinicalTrials.gov (verified)", "source": "ClinicalTrials.gov API v2", "year": 2026},
-      {"metric": "Clinician training", "value": "21-h Foundational training (21 CE/CME); co-founder bio says she 'has trained thousands of mental health clinicians'", "source": "painreprocessingtherapy.com", "year": 2026},
-      {"metric": "5-year follow-up publication", "value": "JAMA Psychiatry, Oct 2025 issue (online mid-2025)", "source": "PubMed 40736996", "year": 2025}
+      {
+        "metric": "Pivotal RCT publication with broad media/NIH coverage",
+        "value": "JAMA Psychiatry, online 29 Sept 2021",
+        "source": "PubMed 34586357; NIH Research Matters",
+        "year": 2021
+      },
+      {
+        "metric": "Consumer book",
+        "value": "The Way Out (Avery/Penguin Random House; Ebury UK)",
+        "source": "Open Library / publisher",
+        "year": 2021
+      },
+      {
+        "metric": "PubMed records for 'pain reprocessing therapy'",
+        "value": "27 total (re-verified 2026-10-13); about 20 from 2025-2026",
+        "source": "PubMed E-utilities, Oct 2026",
+        "year": 2026
+      },
+      {
+        "metric": "Registered clinical trials",
+        "value": "15 on ClinicalTrials.gov (re-verified 2026-10-13)",
+        "source": "ClinicalTrials.gov API v2",
+        "year": 2026
+      },
+      {
+        "metric": "Clinician training",
+        "value": "21-h Foundational training (21 CE/CME); co-founder bio says she 'has trained thousands of mental health clinicians'",
+        "source": "painreprocessingtherapy.com",
+        "year": 2026
+      },
+      {
+        "metric": "5-year follow-up publication",
+        "value": "JAMA Psychiatry, online 30 July 2025 (Oct 2025 issue); 55% vs 26%/36% pain-free",
+        "source": "PubMed 40736996",
+        "year": 2025
+      },
+      {
+        "metric": "Healing Workshop cohort",
+        "value": "8-week online group workshop, USD 525, running Nov-Dec 2026",
+        "source": "painreprocessingtherapy.com/course/healing-workshop",
+        "year": 2026
+      }
     ],
-    "reach_estimate": "About 1e5 to 1e6 people reached cumulatively, central estimate about 2-3 x 10^5. Basis: a major-publisher book (sales unverified), thousands of trained clinicians each seeing tens of patients, workshops and app users. PRT-style content in Curable and Lin Health is not counted.",
+    "reach_estimate": "About 1e5 to 1e6 people reached cumulatively, central estimate about 2-3 x 10^5. Basis: a major-publisher book (sales not published), thousands of trained clinicians each seeing tens of patients, workshops and app users. PRT-style content in Curable and Lin Health is not counted.",
     "reach_log10": 5.4,
     "trajectory": [
-      {"year": 2012, "relative_activity": 0.5},
-      {"year": 2014, "relative_activity": 0.8},
-      {"year": 2016, "relative_activity": 1},
-      {"year": 2017, "relative_activity": 1.5},
-      {"year": 2018, "relative_activity": 2},
-      {"year": 2019, "relative_activity": 2},
-      {"year": 2020, "relative_activity": 2.5},
-      {"year": 2021, "relative_activity": 6},
-      {"year": 2022, "relative_activity": 7},
-      {"year": 2023, "relative_activity": 7},
-      {"year": 2024, "relative_activity": 7.5},
-      {"year": 2025, "relative_activity": 8.5},
-      {"year": 2026, "relative_activity": 9}
+      {
+        "year": 2012,
+        "relative_activity": 0.5
+      },
+      {
+        "year": 2014,
+        "relative_activity": 0.8
+      },
+      {
+        "year": 2016,
+        "relative_activity": 1
+      },
+      {
+        "year": 2017,
+        "relative_activity": 1.5
+      },
+      {
+        "year": 2018,
+        "relative_activity": 2
+      },
+      {
+        "year": 2019,
+        "relative_activity": 2
+      },
+      {
+        "year": 2020,
+        "relative_activity": 2.5
+      },
+      {
+        "year": 2021,
+        "relative_activity": 6
+      },
+      {
+        "year": 2022,
+        "relative_activity": 7
+      },
+      {
+        "year": 2023,
+        "relative_activity": 7
+      },
+      {
+        "year": 2024,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2025,
+        "relative_activity": 8.5
+      },
+      {
+        "year": 2026,
+        "relative_activity": 9
+      }
     ],
-    "method_notes": "The trajectory rests on dated documentary indicators: trial enrolment (2017-18), the JAMA Psychiatry paper and The Way Out (2021), training expansion, the PubMed count by year (sharp rise in 2025-26) and ClinicalTrials.gov registrations (2023-26). Reddit and Google Trends were not measured. Years before 2017 reflect Gordon's practice, whose founding date is unverified. Reach is an order-of-magnitude guess; no official user counts are published."
+    "method_notes": "The trajectory rests on dated documentary indicators: the Pain Psychology Center domain (2012), trial enrolment (2017-18), the PRT Center domain (2018), the JAMA Psychiatry paper and The Way Out (2021), training expansion, the PubMed count by year (sharp rise in 2025-26) and ClinicalTrials.gov registrations (2023-26). Reddit (API returned 403) and Google Trends (API returned 400) could not be measured, and book sales are not published. Reach is an order-of-magnitude guess; no official user counts are published."
   },
   "sources": [
     "https://www.painreprocessingtherapy.com/",
@@ -190,6 +279,12 @@
     "https://clinicaltrials.gov/search?term=%22pain%20reprocessing%22",
     "https://sciencebasedmedicine.org/pain-reprocessing-therapy/",
     "https://www.painscience.com/blog/pain-reprocessing-therapy-follow-up.html",
-    "https://www.nih.gov/news-events/nih-research-matters/retraining-brain-treat-chronic-pain"
+    "https://www.nih.gov/news-events/nih-research-matters/retraining-brain-treat-chronic-pain",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC12311821/",
+    "https://www.painreprocessingtherapy.com/course/training-registration-july-2026-2",
+    "https://www.painreprocessingtherapy.com/course/pain-reprocessing-therapy-verification",
+    "https://www.painpsychologycenter.com/our-team",
+    "https://rdap.verisign.com/com/v1/domain/painpsychologycenter.com",
+    "https://rdap.verisign.com/com/v1/domain/painreprocessingtherapy.com"
   ]
 }

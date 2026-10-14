@@ -18,7 +18,7 @@
     "self-administered bilateral stimulation (adjunct)"
   ],
   "business_model": "clinician-delivered (fee-for-service)",
-  "cost_summary": "No central price. Background estimate (not verified this session): US sessions about US$100-250 each, with 6-15 sessions typical, so roughly US$1,000-3,000 per course. EMDRIA says training prices vary by site. Clinician basic training about US$1,500-2,500 (EMDRIA minimum is 20 h instruction + 20 h practicum + 10 h consultation). Free on the NHS for PTSD.",
+  "cost_summary": "No central price. Therapy sessions (estimate; no official client fee published): US about US$100-250 each, 6-15 sessions typical, so roughly US$1,000-3,000 per course. Clinician training (verified, emdr.com 2026): EMDR Institute basic training is 2 weekends at US$750 each for licensed clinicians (US$685 non-profit/pre-licensed) plus 10 h required consultation (group ~US$30-50/h), about US$1,800-2,000 total. EMDRIA minimum is 20 h instruction + 20 h practicum + 10 h consultation. Free on the NHS for PTSD.",
   "cost_usd_typical": 1500,
   "conditions_claimed": [
     "PTSD/trauma",
@@ -78,7 +78,7 @@
     "between-session log"
   ],
   "mainstream_adoption": "substantial",
-  "mainstream_notes": "Recommended for PTSD by WHO 2013, NICE NG116 2018, ISTSS 2018 and VA/DoD 2017/2023; APA 2017 conditional; Cochrane 2013 includes it with TF-CBT. Delivered in NHS, VA, and Dutch and German routine care. For chronic pain and somatic conditions adoption is limited: German psychosomatic pain centres (EMDR Pain Network Germany) and UK FND trials. Not in chronic pain guidelines such as NICE NG193.",
+  "mainstream_notes": "Recommended for PTSD by WHO 2013, NICE NG116 2018, ISTSS 2018 and VA/DoD 2017/2023 (2023: strong recommendation alongside PE and CPT); APA 2017 conditional; Cochrane 2013 includes it with TF-CBT. Delivered in NHS, VA, and Dutch and German routine care. For chronic pain and somatic conditions adoption is limited: German psychosomatic pain centres (EMDR Pain Network Germany) and UK FND trials. Not in chronic pain guidelines such as NICE NG193.",
   "insurance": "yes",
   "insurance_notes": "Reimbursed as standard psychotherapy (US CPT 90834/90837) by commercial insurers, Medicare and Medicaid when a licensed clinician treats a covered diagnosis. There is no EMDR-specific code. Pain-only indications need a coded mental-health diagnosis. Free via the NHS for PTSD.",
   "evidence_level": "systematic reviews/meta-analyses",
@@ -203,21 +203,27 @@
         "year": 2025
       },
       {
+        "metric": "Reddit r/EMDR members",
+        "value": "37,694",
+        "source": "Wayback Machine capture of reddit.com/r/EMDR, 2025-07-07",
+        "year": 2025
+      },
+      {
         "metric": "Guideline endorsements for PTSD",
-        "value": "WHO 2013, ISTSS 2018, NICE 2018, VA/DoD 2017/2023",
-        "source": "guideline documents (background knowledge)",
+        "value": "WHO 2013; ISTSS 2018; NICE NG116 2018 ('offer' for adults >3 months after non-combat trauma); VA/DoD 2017/2023 (2023 strong)",
+        "source": "nice.org.uk/guidance/ng116; PubMed 38408360 (VA/DoD 2023 synopsis); who.int 2013 guideline and press release",
         "year": 2018
       },
       {
         "metric": "Major media exposure",
-        "value": "Prince Harry on-camera EMDR session, The Me You Can't See (Apple TV+)",
-        "source": "background knowledge",
+        "value": "Prince Harry on-camera EMDR session, The Me You Can't See (Apple TV+) (premiered 21 May 2021)",
+        "source": "en.wikipedia.org/wiki/The_Me_You_Can't_See",
         "year": 2021
       },
       {
         "metric": "Popular books",
         "value": "Shapiro textbook 1995/2001/2018; Getting Past Your Past 2012; featured in van der Kolk's The Body Keeps the Score 2014",
-        "source": "background knowledge",
+        "source": "en.wikipedia.org/wiki/Francine_Shapiro; background knowledge",
         "year": 2014
       }
     ],
@@ -285,7 +291,7 @@
         "relative_activity": 9.5
       }
     ],
-    "method_notes": "The trajectory is anchored on founding milestones (1987 observation, 1989 papers, 1990 Institute, 1995 EMDRIA and the first textbook) and guideline endorsements (WHO 2013, NICE/ISTSS 2018). It also uses PubMed annual publication counts queried this session, which rose ~13-fold from 1995 to 2025, and the 2021 Prince Harry media spike. Reach comes from organisational claims (over 100,000 clinicians, 'millions' treated) and is discounted to ~5 million. WebSearch quota was exhausted, so Reddit, Google Trends and social-media metrics could not be retrieved; the trajectory after 2020 is a judgment based on the PubMed growth and media coverage."
+    "method_notes": "The trajectory is anchored on founding milestones (1987 observation, 1989 papers, 1990 Institute, 1995 EMDRIA and the first textbook) and guideline endorsements (WHO 2013, NICE/ISTSS 2018). It also uses PubMed annual publication counts queried this session, which rose ~13-fold from 1995 to 2025, and the 2021 Prince Harry media spike. Reach comes from organisational claims (over 100,000 clinicians, 'millions' treated) and is discounted to ~5 million. Reddit r/EMDR size (37,694 members, July 2025) came from a Wayback capture; Google Trends was not retrieved (no public API, web search unavailable 2026-10-13). The trajectory after 2020 is a judgment based on the PubMed growth and media coverage."
   },
   "sources": [
     "https://www.emdria.org/about-emdr-therapy/",
@@ -313,6 +319,14 @@
     "https://pubmed.ncbi.nlm.nih.gov/11098395/",
     "https://pubmed.ncbi.nlm.nih.gov/10225508/",
     "https://pubmed.ncbi.nlm.nih.gov/23987561/",
-    "https://en.wikipedia.org/wiki/Francine_Shapiro"
+    "https://en.wikipedia.org/wiki/Francine_Shapiro",
+    "https://www.nice.org.uk/guidance/ng116/chapter/Recommendations",
+    "https://www.emdr.com/emdr-basic-training-fees-requirements/",
+    "https://pubmed.ncbi.nlm.nih.gov/38408360/",
+    "https://www.who.int/publications/i/item/9789241505406",
+    "https://www.who.int/news/item/06-08-2013-who-releases-guidance-on-mental-health-care-after-trauma",
+    "https://pubmed.ncbi.nlm.nih.gov/31283056/",
+    "http://web.archive.org/web/20250707134322/https://www.reddit.com/r/EMDR/",
+    "https://en.wikipedia.org/wiki/The_Me_You_Can%27t_See"
   ]
 }

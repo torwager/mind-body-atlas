@@ -3,10 +3,10 @@
   "name": "Dr Joe Dispenza meditations, workshops and retreats (Encephalon Inc.)",
   "url": "https://drjoedispenza.com/",
   "founders": [
-    "Joe Dispenza, DC (chiropractor; Encephalon Inc.)"
+    "Joe Dispenza, DC (BS Evergreen State College; DC Life University; Encephalon Inc.)"
   ],
-  "founded_year": 2009,
-  "founded_year_range": "2007-2010. Basis: first book Evolve Your Brain (2007); weekend workshops from about 2009-10; week-long retreats from about 2013-14. Unverified background knowledge, since the live search quota was exhausted.",
+  "founded_year": 2005,
+  "founded_year_range": "2005-2012. Encephalon, Inc. filed its Washington certificate of formation on 18 Feb 2005 (OpenCorporates). First book Evolve Your Brain 2007. Advanced workshops ran 'since 2012' and university research partnerships 'since 2010' (Hay House). The weekend-workshop start of about 2009-10 has no primary source.",
   "category": "influencer/author method",
   "delivery": [
     "retreat",
@@ -18,7 +18,7 @@
     "docuseries"
   ],
   "business_model": "commercial",
-  "cost_summary": "Week-long retreat about USD 2,300-2,500 registration, excluding lodging and travel (attendee blogs aggregated by unanswered.io 2026; not shown on official pages; unverified). Four-day advanced follow-up retreat about USD 1,499 + tax (2024, secondary). Progressive Online Course (required before retreats) USD 399 for unlimited access, or free for 30 days with retreat registration (official, 2026). Dr Joe Live subscription price not public. Books about USD 15-25. Free YouTube and blog content.",
+  "cost_summary": "Week-long retreat USD 2,499 registration (official help-centre listing, Dallas May 2026). It includes the online course, teaching, and breakfast and lunch; lodging (from USD 294 a night) and travel are extra. Secondary 2024-25 reports give USD 2,300-2,500. Four-day advanced follow-up retreat about USD 1,499 + tax (2024, secondary). Progressive Online Course USD 399, or free for 30 days with retreat registration (official). The Dr Joe Live subscription price is not public (logged-in checkout only). Books about USD 15-25. Free YouTube and blog content. Need-based retreat awards are available via the Give to Give Foundation.",
   "cost_usd_typical": 2500,
   "conditions_claimed": [
     "general stress/wellbeing",
@@ -84,7 +84,7 @@
   "mainstream_adoption": "none",
   "mainstream_notes": "Not in any clinical guideline or health-system programme. Academic engagement is limited to company-co-authored observational studies with a UCSD/VA San Diego anesthesiology lab (Patel), VitaMed Research, Bond University (Stapleton) and the HeartMath Institute. A corporate offshoot, Neuro Change Solutions, sells workplace training.",
   "insurance": "no",
-  "insurance_notes": "Not reimbursable; entirely self-pay.",
+  "insurance_notes": "Not reimbursable; entirely self-pay. No insurance, HSA or FSA statement in any of the 277 official help-centre articles. Need-based awards come from the Give to Give Foundation.",
   "evidence_level": "case reports/observational only",
   "key_trials": [
     {
@@ -137,7 +137,7 @@
       "url": "https://clinicaltrials.gov/study/NCT06583395"
     }
   ],
-  "controversy": "Widely criticized as pseudoscience. A 2020 Skeptical Inquirer review of Becoming Supernatural by C. van Steenderen (SI 44(4)) cites misuse of quantum physics, pineal-gland 'piezoelectric crystal' claims, HeartMath claims and Ramtha ties. He uses the title \"Dr\" on a chiropractic degree and is often presented as a neuroscientist. He has a long association with Ramtha's School of Enlightenment and was featured in What the Bleep Do We Know!? Testimonials claim healing of cancer and MS, which raises concerns about people forgoing care and about blaming those who do not heal. All research is company-co-authored and uncontrolled, including a COVID-19 'adjuvant' claim from a self-selected survey and parapsychology random-number-generator studies; one paper declares no COI despite company authors. The QUANTUM cohort was registered retrospectively. Costs are high, with upselling to advanced retreats, subscriptions and supplements. Long multi-hour meditation days may be hard to tolerate for people with post-exertional malaise in ME/CFS.",
+  "controversy": "Widely criticized as pseudoscience. A 2020 Skeptical Inquirer review of Becoming Supernatural by C. van Steenderen (SI 44(4)) cites misuse of quantum physics, pineal-gland 'piezoelectric crystal' claims, HeartMath claims and Ramtha ties. He uses the title \"Dr\" on a chiropractic degree and is often presented as a neuroscientist. He has a 'previous affiliation' with Ramtha's School of Enlightenment and was featured in What the Bleep Do We Know!? Testimonials claim healing of cancer and MS, which raises concerns about people forgoing care and about blaming those who do not heal. All research is company-co-authored and uncontrolled, including a COVID-19 'adjuvant' claim from a self-selected survey and parapsychology random-number-generator studies; one paper declares no COI despite company authors. The QUANTUM cohort was registered retrospectively. Costs are high, with upselling to advanced retreats, subscriptions and supplements. Long multi-hour meditation days may be hard to tolerate for people with post-exertional malaise in ME/CFS.",
   "popularity": {
     "indicators": [
       {
@@ -172,8 +172,8 @@
       },
       {
         "metric": "Bestselling books",
-        "value": "Evolve Your Brain (2007), Breaking the Habit of Being Yourself (2012), You Are the Placebo (2014), Becoming Supernatural (2017); widely translated (sales figures unverified)",
-        "source": "Publisher/background knowledge",
+        "value": "Evolve Your Brain (2007), Breaking the Habit of Being Yourself (2012), You Are the Placebo (2014), Becoming Supernatural (2017); NYT bestseller (Hay House); 96,173 Goodreads ratings across 108 works; copy-sales figures not published",
+        "source": "Hay House author bio; Goodreads author page",
         "year": 2017
       },
       {
@@ -184,12 +184,18 @@
       },
       {
         "metric": "Social media",
-        "value": "Active YouTube, Instagram, TikTok, Facebook and X channels; large following (exact counts not verified)",
-        "source": "drjoedispenza.com",
+        "value": "YouTube 1.82M subscribers (1.1K videos); Instagram 4M followers; TikTok 583K followers (checked 2026-10-13)",
+        "source": "youtube.com/@drjoedispenza; instagram.com/drjoedispenza; tiktok.com/@drjoedispenza",
+        "year": 2026
+      },
+      {
+        "metric": "Official retreat fee",
+        "value": "USD 2,499 per week-long retreat",
+        "source": "support.drjoedispenza.com (Dallas May 2026 listing)",
         "year": 2026
       }
     ],
-    "reach_estimate": "Order of 10^6-10^7 people exposed through books, YouTube and podcasts (unverified). About 2.2x10^4 cumulative 7-day-retreat attendees by about 2021-22 (company survey frame), probably 5x10^4-10^5 by 2026 at about 10-12 events a year x 1,000-2,200 people.",
+    "reach_estimate": "Order of 10^6-10^7 people exposed through books, YouTube (1.82M subscribers), Instagram (4M) and podcasts. About 2.2x10^4 cumulative 7-day-retreat attendees by about 2021-22 (company survey frame), probably 5x10^4-10^5 by 2026 at about 10-12 events a year x 1,000-2,200 people. Book sales are unpublished.",
     "reach_log10": 6.5,
     "trajectory": [
       {
@@ -257,7 +263,7 @@
         "relative_activity": 9.5
       }
     ],
-    "method_notes": "Trajectory is anchored on dated milestones: the 2004 film, book releases in 2007, 2012, 2014 and 2017, the 2017 Heal documentary, the pandemic-era social-media surge in 2020-22, the 22,459 past-attendee survey frame (about 2021-22), and the almost-monthly 1,000-2,200-person retreats documented for 2024. The levels are judgement-based estimates; Google Trends, subreddit counts and book and subscriber numbers were not checked live because of search rate limits. Reach is a Fermi estimate."
+    "method_notes": "Trajectory is anchored on dated milestones: Encephalon formed in 2005, the 2004 film, book releases in 2007, 2012, 2014 and 2017, the 2017 Heal documentary, the pandemic-era social-media surge in 2020-22, the 22,459 past-attendee survey frame (about 2021-22), and the almost-monthly 1,000-2,200-person retreats documented for 2024. Social counts were checked on 2026-10-13. Reddit metrics could not be retrieved because the API refused automated requests, and Google Trends was not checked. The levels are judgement-based estimates, and reach is a Fermi estimate."
   },
   "sources": [
     "https://drjoedispenza.com/",
@@ -276,6 +282,14 @@
     "https://clinicaltrials.gov/study/NCT06583395",
     "https://en.wikipedia.org/wiki/Heal_(film)",
     "https://unanswered.io/guide/joe-dispenza-retreat-cost",
-    "https://skepticalinquirer.org/2020/06/joe-dispenzas-becoming-supernatural-how-common-people-are-being-misled/"
+    "https://skepticalinquirer.org/2020/06/joe-dispenzas-becoming-supernatural-how-common-people-are-being-misled/",
+    "https://support.drjoedispenza.com/hc/en-us/articles/34118084685213-Retreats-Dallas-Week-Long-Retreat-May-2026",
+    "https://support.drjoedispenza.com/hc/en-us/articles/36807495898653",
+    "https://opencorporates.com/companies/us_wa/602475102",
+    "https://www.goodreads.com/author/show/345332.Joe_Dispenza",
+    "https://www.hayhouse.com/authorbio/dr-joe-dispenza/",
+    "https://www.youtube.com/@drjoedispenza",
+    "https://www.instagram.com/drjoedispenza/",
+    "https://www.tiktok.com/@drjoedispenza"
   ]
 }

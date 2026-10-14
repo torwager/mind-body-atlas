@@ -13,7 +13,7 @@
     "Peg Hanson, RN, BSN (co-founder, former board)"
   ],
   "founded_year": 2011,
-  "founded_year_range": "2011 (Clarke's ATNS bio: President since 2011; researcher cites March 2011 incorporation per archived 2012 PPDA page, not re-verified; renamed Symptomatic/ATNS autumn 2024; neuroplastic.org 2026; Clarke's stress-illness approach dates to the 1980s, book 2007)",
+  "founded_year_range": "2011 (501(c)(3) PPDA 'founded in March 2011' per archived 2012 Mission and History page, confirmed; IRS exemption ruling date March 2018 per ProPublica; renamed Symptomatic/ATNS autumn 2024; neuroplastic.org 2026; Clarke's stress-illness approach dates to the 1980s, book 2007)",
   "category": "psychological/neuroplastic-pain therapy (nonprofit education, referral and advocacy hub)",
   "delivery": [
     "online education hub",
@@ -28,7 +28,7 @@
     "coaching (via directory)"
   ],
   "business_model": "freemium/hybrid",
-  "cost_summary": "501(c)(3) nonprofit. Quiz and practitioner directory are free; Clarke's 12-chapter self-treatment course is described as free (no price on the course page). Rewiring Project membership starts at US$5.50/month (Community tier; ~$66/yr); professional tiers exist but prices are not posted; first month free. 2026 conference registration price not posted (member discount); pre-conference workshops +$126. 2023 virtual conference was reportedly $375 with CE/CME or $275 without (archived page, not re-verified). Therapy from directory practitioners is billed separately at private rates.",
+  "cost_summary": "501(c)(3) nonprofit. Quiz and practitioner directory are free; Clarke's 12-chapter self-treatment course is described as free (no price on the course page). Rewiring Project membership starts at US$5.50/month (Community tier; ~$66/yr); professional tiers exist but prices are not published (checked site and archived 2025 membership page); first month free. 2026 conference registration price not posted (member discount); pre-conference workshops +$126. 2023 virtual conference was $375 with CE/CME or $275 without, 30% member discount (confirmed on Nov 2023 Wayback capture). Therapy from directory practitioners is billed separately at private rates.",
   "cost_usd_typical": 66,
   "conditions_claimed": [
     "chronic back/neck pain",
@@ -122,7 +122,7 @@
       "citation": "Ashar YK, Gordon A, Schubiner H, Uipi C, et al., Wager TD. Effect of Pain Reprocessing Therapy vs Placebo and Usual Care for Patients With Chronic Back Pain. JAMA Psychiatry 2022;79(1):13-23",
       "design": "RCT: PRT vs open-label placebo injection vs usual care, chronic back pain. Trial of affiliated therapy (PRT), not of ATNS itself; PPDA listed as a funder; ATNS co-founders (Gordon, Schubiner) and board member (Uipi) are co-authors",
       "n": 151,
-      "finding": "66% (33/50) pain-free or nearly pain-free post-treatment after PRT vs 20% placebo and 10% usual care; effects maintained at 1 year (Hedges g -0.70 vs placebo)",
+      "finding": "66% (33/50) pain-free or nearly pain-free post-treatment after PRT vs 20% placebo and 10% usual care; effects maintained at 1 year (Hedges g -0.70 vs placebo); 5-year follow-up (JAMA Psychiatry 2025;82:1049, doi:10.1001/jamapsychiatry.2025.1844): PRT still had lower pain intensity than both controls",
       "url": "https://doi.org/10.1001/jamapsychiatry.2021.2669"
     },
     {
@@ -166,13 +166,13 @@
     "indicators": [
       {
         "metric": "First teaching conference attendance",
-        "value": "~250 practitioners from 11 states and 4 countries (NY Academy of Medicine); archived page, not re-verified",
+        "value": "~250 practitioners from 11 states and 4 countries (NY Academy of Medicine)",
         "source": "PPDA blog via Wayback (ppdassociation.org/blog/2013/8/24)",
         "year": 2012
       },
       {
         "metric": "Research crowdfunding",
-        "value": "$65k goal reached 144%; ~500 international donors (Boulder PRT trial); archived page, not re-verified. PPDA funding confirmed in JAMA Psychiatry 2022 acknowledgments",
+        "value": "$65k goal reached 144%; nearly 500 international donors (Boulder PRT trial). PPDA funding confirmed in JAMA Psychiatry 2022 acknowledgments",
         "source": "PPDA blog via Wayback (2017/7/28)",
         "year": 2017
       },
@@ -211,6 +211,12 @@
         "value": ">10,000 since the 1980s (self-reported; Clarke alone reports >7,000)",
         "source": "neuroplastic.org/atns-research/neuroplastic-statistics; Clarke bio",
         "year": 2026
+      },
+      {
+        "metric": "Annual revenue (IRS Form 990)",
+        "value": "$3.6k (2014), $107k (2017), $100k (2020), $167k (2021), $335k (2022), $165k (2023)",
+        "source": "ProPublica Nonprofit Explorer, EIN 45-0678253",
+        "year": 2023
       }
     ],
     "reach_estimate": "About 300k-1M cumulative people reached. Basis: ~30k/month self-reported current reach (~360k/yr), lower in earlier years; thousands of conference, course and membership participants; >10k patients treated by board clinicians. Deep engagement (members, course takers, attendees) is probably in the low tens of thousands.",
@@ -281,7 +287,7 @@
         "relative_activity": 8.5
       }
     ],
-    "method_notes": "Web search quota was exhausted for both the researcher and the fact-checker, so Reddit/forum sizes, Google Trends and social follower counts were not checked directly, and Wayback pages could not be re-fetched. The trajectory is anchored on dated, documented events: 2011 founding; 2012 website launch and NYAM conference (~250); 2013-2016 low activity; 2017 crowdfunding of the Boulder PRT trial; 2019 and 2022 textbooks; 2020s virtual CE/CME conferences; Sept 2021 JAMA Psychiatry PRT publication with heavy media coverage; 2023 long COVID content and first national survey; autumn 2024 rebrand to Symptomatic/ATNS; 2026 neuroplastic.org relaunch and Dallas conference. Current reach figures are self-reported by ATNS. Reach_log10 is an order-of-magnitude estimate of unique people exposed to its materials."
+    "method_notes": "Archived PPDA pages (2011 founding, 2012 conference, 2017 crowdfunding, 2023 conference prices) were re-checked on 2026-10-13. IRS 990 revenue (ProPublica) shows a small organisation: <$5k/yr 2014-16, ~$80-107k 2017-20, peak $335k 2022, $165k 2023. Reddit (r/TMSHealing) size, Google Trends and social follower counts could not be retrieved (Reddit blocks automated access; social pages require login). The trajectory is anchored on dated, documented events and 990 revenue: 2011 founding; 2012 website launch and NYAM conference (~250); 2013-2016 low activity; 2017 crowdfunding of the Boulder PRT trial; 2019 and 2022 textbooks; 2020s virtual CE/CME conferences; Sept 2021 JAMA Psychiatry PRT publication with heavy media coverage; 2023 long COVID content and first national survey; autumn 2024 rebrand to Symptomatic/ATNS; 2026 neuroplastic.org relaunch and Dallas conference. Current reach figures are self-reported by ATNS. Reach_log10 is an order-of-magnitude estimate of unique people exposed to its materials."
   },
   "sources": [
     "https://neuroplastic.org/",
@@ -317,6 +323,10 @@
     "https://doi.org/10.1001/jamanetworkopen.2024.15842",
     "https://doi.org/10.1097/j.pain.0000000000001036",
     "https://doi.org/10.1007/s11606-010-1418-6",
-    "https://doi.org/10.1016/j.jpain.2023.09.019"
+    "https://doi.org/10.1016/j.jpain.2023.09.019",
+    "https://web.archive.org/web/20231127160533/https://ppdassociation.org/2023-conference",
+    "https://web.archive.org/web/20250702131909/https://www.symptomatic.me/membership",
+    "https://projects.propublica.org/nonprofits/organizations/450678253",
+    "https://doi.org/10.1001/jamapsychiatry.2025.1844"
   ]
 }

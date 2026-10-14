@@ -8,7 +8,7 @@
     "Key collaborators/co-developers (not founders): Peter Kent (Curtin; RESTORE lead; Evoolve technical support), Kieran O'Sullivan, Kjartan Vibe Fersum, Wim Dankaerts, Mary O'Keeffe, Anne Smith"
   ],
   "founded_year": 2010,
-  "founded_year_range": "2005-2013 (estimate). Grew out of O'Sullivan's 2005 motor-control classification of low back pain into 'classification-based CFT'. The term first appears in PubMed-indexed titles in 2013 (Vibe Fersum RCT; Caneiro case report). Definitive description in Phys Ther 2018. The Evoolve training enterprise dates to about 2023-2024 (researcher-reported ABN and Wayback dates, not re-verified).",
+  "founded_year_range": "2006-2013 (estimate). Grew out of O'Sullivan's 2005 motor-control classification of low back pain into 'classification-based CFT'. The first RCT (Bergen, started March 2006) was registered on ClinicalTrials.gov on 20 May 2010 under the CFT name (NCT01129817). The term first appears in PubMed-indexed titles in 2013 (Vibe Fersum RCT; Caneiro case report). Definitive description in Phys Ther 2018. The Evoolve training enterprise has had an ABN since 16 Nov 2023, and the Wayback Machine first captured its site on 20 Mar 2024.",
   "category": "physio/pain-education approach",
   "delivery": [
     "clinician-delivered",
@@ -17,7 +17,7 @@
     "workshops/mentoring for clinicians"
   ],
   "business_model": "clinician-delivered (fee-for-service)",
-  "cost_summary": "Patients pay standard private physiotherapy fees, and Body Logic does not post prices. Typical Australian physio costs roughly AU$100-200 per session, so about 5-7 sessions comes to roughly AU$700-1,400 (about US$450-900) before rebates. This is an estimate. Clinician training through Evoolve (verified Oct 2026): the Tier 1 online course is US$330 for high-income countries, US$165 for middle-income and US$33 for low-income, plus tax, with student discounts. Masterclasses and later training tiers are priced separately. Some free courses and patient resources are offered. Evoolve describes itself as a social enterprise.",
+  "cost_summary": "Patients pay standard private physiotherapy fees. Body Logic does not post prices; its FAQ says its fees are higher than many practices, with 60-min initial and 30-min follow-up appointments. Typical Australian physio costs roughly AU$100-200 per session, so about 5-7 sessions comes to roughly AU$700-1,400 (about US$450-900) before rebates. The per-session figure is a general estimate, not a published survey. The Medicare chronic-disease rebate (MBS 10960) is AU$63.40 per visit, up to 5 allied-health visits a year. Clinician training through Evoolve (verified Oct 2026): the Tier 1 online course is US$330 for high-income countries, US$165 for middle-income and US$33 for low-income, plus tax, with student discounts. Masterclasses and later training tiers are priced separately. Some free courses and patient resources are offered. Evoolve describes itself as a social enterprise.",
   "cost_usd_typical": 650,
   "conditions_claimed": [
     "chronic back/neck pain",
@@ -64,7 +64,7 @@
   "mainstream_adoption": "moderate",
   "mainstream_notes": "CFT is a mainstream academic physiotherapy approach. Its trials appeared in the Lancet (2023) and Lancet Rheumatology (2025), and a JAMA news item followed in 2025 (Anderer, PMID 40880076). An independent 2026 network meta-analysis (Niederer, JOSPT) ranked CFT as the most effective tailored exercise therapy vs usual care. An NHS feasibility RCT (Newton 2024) showed NHS physiotherapists could be trained to fidelity. CFT is used in Danish secondary care and has been described in UK military rehabilitation (Conway, BMJ Mil Health 2020). Evoolve lists 16 certified trainers across Australia, Brazil, Norway, Belgium, Denmark, Ireland and the UK. No major guideline names CFT, but it is consistent with NICE NG59 and the WHO 2023 recommendations for combined physical/psychological, biopsychosocial active care.",
   "insurance": "sometimes/indirect",
-  "insurance_notes": "There is no CFT-specific billing code; CFT is reimbursed as ordinary physiotherapy. Routes include Australian private-health extras rebates, Medicare chronic-disease allied-health items, workers' compensation, Scandinavian public health systems and US physical-therapy CPT codes. In RESTORE, CFT dominated usual care: more QALYs and lower societal costs (AU$5,276 and AU$8,211 less per person over 1 year). The Danish CFT+ trial estimated an ICER of EUR 53,075/QALY vs an interdisciplinary programme.",
+  "insurance_notes": "There is no CFT-specific billing code; CFT is reimbursed as ordinary physiotherapy. Routes include Australian private-health extras rebates, Medicare chronic-disease allied-health items (MBS 10960: AU$63.40 rebate per visit, up to 5 a year), workers' compensation, Scandinavian public health systems and US physical-therapy CPT codes. In RESTORE, CFT dominated usual care: more QALYs and lower societal costs (AU$5,276 and AU$8,211 less per person over 1 year). The Danish CFT+ trial estimated an ICER of EUR 53,075/QALY vs an interdisciplinary programme.",
   "evidence_level": "systematic reviews/meta-analyses",
   "key_trials": [
     {
@@ -169,7 +169,7 @@
       "citation": "Marelli M et al. Pain Med 2025;26:248-260 (systematic review)",
       "design": "Systematic review and meta-analysis; CFT for chronic spinal pain",
       "n": null,
-      "finding": "Short-term benefit on disability and pain vs other conservative care at low or very-low certainty; long-term superiority over active treatments not maintained (researcher summary)",
+      "finding": "8 LBP RCTs (N=1,228) plus 1 neck-pain RCT. Short-term disability MD -9.41 (ODI) and pain MD -1.59 vs other conservative care, at low and very-low certainty respectively. Benefit persisted longer term except against other conservative interventions",
       "url": "https://doi.org/10.1093/pm/pnaf002"
     },
     {
@@ -218,31 +218,97 @@
         "value": "Latvia, Switzerland, Germany, Netherlands, Adelaide, plus masterclasses",
         "source": "evoolvepaincare.academy",
         "year": 2026
+      },
+      {
+        "metric": "Reddit posts mentioning 'cognitive functional therapy' (all time; no dedicated subreddit)",
+        "value": "46 posts, 2022-2026; mostly r/backpain (11), r/ChronicPain (5), r/physiotherapy (4); low engagement",
+        "source": "PullPush Reddit archive API (checked 2026-10-13)",
+        "year": 2026
+      },
+      {
+        "metric": "ClinicalTrials.gov registered studies mentioning CFT",
+        "value": "23 (13 completed, 4 recruiting, 2 not yet recruiting, 1 active, 1 terminated, 2 unknown)",
+        "source": "ClinicalTrials.gov API v2 (checked 2026-10-13)",
+        "year": 2026
       }
     ],
     "reach_estimate": "About 50,000 people cumulatively, as an order of magnitude. Trial participants total roughly 1,700. Thousands of physiotherapists have likely been exposed through workshops and the online course. Clinical delivery in Australia, Scandinavia, Ireland, the UK and Brazil over about 15 years plausibly reaches tens of thousands of patients. No counts of clinicians trained or patients treated have been published.",
     "reach_log10": 4.7,
     "trajectory": [
-      {"year": 2005, "relative_activity": 0.5},
-      {"year": 2008, "relative_activity": 1},
-      {"year": 2010, "relative_activity": 1.5},
-      {"year": 2012, "relative_activity": 2},
-      {"year": 2013, "relative_activity": 2.5},
-      {"year": 2014, "relative_activity": 2.5},
-      {"year": 2015, "relative_activity": 3},
-      {"year": 2016, "relative_activity": 3.5},
-      {"year": 2017, "relative_activity": 3.5},
-      {"year": 2018, "relative_activity": 4.5},
-      {"year": 2019, "relative_activity": 5},
-      {"year": 2020, "relative_activity": 5.5},
-      {"year": 2021, "relative_activity": 5.5},
-      {"year": 2022, "relative_activity": 6},
-      {"year": 2023, "relative_activity": 8},
-      {"year": 2024, "relative_activity": 8.5},
-      {"year": 2025, "relative_activity": 10},
-      {"year": 2026, "relative_activity": 9.5}
+      {
+        "year": 2005,
+        "relative_activity": 0.5
+      },
+      {
+        "year": 2008,
+        "relative_activity": 1
+      },
+      {
+        "year": 2010,
+        "relative_activity": 1.5
+      },
+      {
+        "year": 2012,
+        "relative_activity": 2
+      },
+      {
+        "year": 2013,
+        "relative_activity": 2.5
+      },
+      {
+        "year": 2014,
+        "relative_activity": 2.5
+      },
+      {
+        "year": 2015,
+        "relative_activity": 3
+      },
+      {
+        "year": 2016,
+        "relative_activity": 3.5
+      },
+      {
+        "year": 2017,
+        "relative_activity": 3.5
+      },
+      {
+        "year": 2018,
+        "relative_activity": 4.5
+      },
+      {
+        "year": 2019,
+        "relative_activity": 5
+      },
+      {
+        "year": 2020,
+        "relative_activity": 5.5
+      },
+      {
+        "year": 2021,
+        "relative_activity": 5.5
+      },
+      {
+        "year": 2022,
+        "relative_activity": 6
+      },
+      {
+        "year": 2023,
+        "relative_activity": 8
+      },
+      {
+        "year": 2024,
+        "relative_activity": 8.5
+      },
+      {
+        "year": 2025,
+        "relative_activity": 10
+      },
+      {
+        "year": 2026,
+        "relative_activity": 9.5
+      }
     ],
-    "method_notes": "The trajectory is anchored mainly on PubMed publications per year (E-utilities query 'cognitive functional therapy'[tiab], 98 items; the count was re-verified at fact-check). Key milestones: the classification model (2005); the first RCT and first indexed use of the CFT name (2013); the Phys Ther 2018 definitive paper; Lancet RESTORE (May 2023) with press; Lancet Rheumatology 3-year results (Aug 2025) with press and JAMA news; and the launch of Evoolve (about 2023-2024). Google Trends, Reddit and social-media counts were not collected. Consumer visibility is low because CFT is a clinician-facing method. The reach estimate is a judgment-based order of magnitude, not a published count."
+    "method_notes": "The trajectory is anchored mainly on PubMed publications per year (E-utilities query 'cognitive functional therapy'[tiab], 98 items; the count was re-verified at fact-check). Key milestones: the classification model (2005); the first RCT and first indexed use of the CFT name (2013); the Phys Ther 2018 definitive paper; Lancet RESTORE (May 2023) with press; Lancet Rheumatology 3-year results (Aug 2025) with press and JAMA news; and the launch of Evoolve (ABN Nov 2023; site first archived Mar 2024). Reddit volume, checked through the PullPush archive, is low: 46 posts in total. Google Trends was not checked. Consumer visibility is low because CFT is a clinician-facing method. The reach estimate is a judgment-based order of magnitude, not a published count."
   },
   "sources": [
     "https://www.evoolvepaincare.academy/",
@@ -274,6 +340,11 @@
     "https://pubmed.ncbi.nlm.nih.gov/31079050/",
     "https://www.news-medical.net/news/20250805/Australian-study-finds-lasting-relief-for-back-pain-through-cognitive-functional-therapy.aspx",
     "https://www.scimex.org/newsfeed/back-pain-study-sustained-benefits-from-mind-and-body-treatment-approach",
-    "https://physioupdate.co.uk/course-of-cognitive-functional-therapy-for-low-back-pain-remains-effective-for-at-least-three-years-finds-physiotherapist-led-team/"
+    "https://physioupdate.co.uk/course-of-cognitive-functional-therapy-for-low-back-pain-remains-effective-for-at-least-three-years-finds-physiotherapist-led-team/",
+    "https://abr.business.gov.au/ABN/View?abn=13672998168",
+    "https://bodylogic.physio/faqs-and-forms/",
+    "https://www9.health.gov.au/mbs/fullDisplay.cfm?type=item&q=10960",
+    "https://clinicaltrials.gov/study/NCT01129817",
+    "https://web.archive.org/cdx/search/cdx?url=evoolvepaincare.academy"
   ]
 }

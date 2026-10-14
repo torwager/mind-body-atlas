@@ -1,13 +1,13 @@
 # ANS REWIRE
 
-*Compiled 2026-10-12 from ansrewire.com (Home, The Science, Program Details, FAQ), Health Rising (Neuffer profile and 2015 recovery story), PubMed and ClinicalTrials.gov searches, and an earlier internal review (../ans-rewire-review.md). Content paraphrased. The web-search budget ran out partway through, so Reddit and other social-media metrics could not be checked directly; popularity estimates are flagged as rough.*
+*Compiled 2026-10-12 from ansrewire.com (Home, The Science, Program Details, FAQ), Health Rising (Neuffer profile and 2015 recovery story), PubMed and ClinicalTrials.gov searches, and an earlier internal review (../ans-rewire-review.md). Content paraphrased. Open items (book dates, founder background, Wayback, Reddit/YouTube metrics) completed 2026-10-13.*
 
 ## At a glance
 | Field | |
 |---|---|
 | Website | https://ansrewire.com/ (sister site and podcast: cfsunravelled.com) |
-| Founder(s) | Dan (Daniel) Neuffer, Gold Coast, Australia. He is a lay author, recovered patient and coach, not a clinician. His ME/CFS and fibromyalgia began after a chickenpox vaccination and lasted about 6.5 years. (Self-described lack of formal physiology training is reported in secondary profiles; not re-verified at fact-check.) Author of *CFS Unravelled* and *Discover Hope*. Company: ANS REWIRE Pty Ltd. |
-| Founded | 2016. The FAQ gives 2016 as the launch year, the site copyright runs 2016–2026, and the earliest Wayback snapshot is March 2016. *CFS Unravelled* came first (first-edition date of c. 2013 and a 2017 edition with Kati Thieme's foreword are unverified at fact-check). Neuffer's recovery story was on Health Rising by Aug 2015. |
+| Founder(s) | Dan (Daniel) Neuffer, Gold Coast, Australia. He is a lay author, recovered patient and coach, not a clinician. His ME/CFS and fibromyalgia began after a chickenpox vaccination and lasted about 6.5 years. On his Health Rising profile he says he began with "very little knowledge or training in physiology or biochemistry." Author of *CFS Unravelled* and *Discover Hope*. Company: ANS REWIRE Pty Ltd. |
+| Founded | 2016. The FAQ gives 2016 as the launch year, the site copyright runs 2016–2026, and the earliest Wayback snapshot is 22 March 2016 (re-checked via the CDX index). *CFS Unravelled* came first: Kindle edition 20 Jan 2013, then a 3rd-edition paperback (Elednura Publishing, 31 May 2017) with a foreword by Kati Thieme (Goodreads edition listing). Neuffer's recovery story was on Health Rising by Aug 2015. |
 | Format / delivery | Self-paced online video course: 40+ core lessons (60+ items including Q&A "snippets" and interviews), released one per day over about 6 weeks. Includes an audio library and a member Q&A archive. Optional 1:1 coaching by video call. |
 | Business model | Commercial: a one-off paid course. Free entry funnel of 4 introductory lessons, plus a free podcast and blog. |
 | Direct cost | AUD 537 for 12 months' access (approx. USD 374 / GBP 283 / EUR 335), per the site in Oct 2026. Coaching is AUD 139/hr and offered only after the course is finished. No payment plans listed. |
@@ -15,7 +15,7 @@
 | Mainstream adoption | None documented. No NHS, NICE, health-system or guideline mentions. Endorsements come from individual practitioners (Kati Thieme; Jacob Teitelbaum, an integrative MD). |
 | Insurance reimbursable | No. Neither the site nor insurer listings mention it. It is direct-to-consumer and run by a non-clinician. |
 | Evidence (peer-reviewed trials) | None. No PubMed records and no ClinicalTrials.gov registrations. The founder says he lacked the resources to run a trial, and the FAQ argues blinded placebo-controlled trials are inappropriate. |
-| Popularity signals | The site claims "thousands of participants" in "more than 60 countries" and 5,000+ member Q&As. Neuffer has a long-running podcast and appears on Health Rising and the Long Covid Podcast. Activity rose after 2020 with long COVID. It is a niche brand next to DNRS and Gupta. |
+| Popularity signals | The site claims "thousands of participants" in "more than 60 countries" and 5,000+ member Q&As. Neuffer has a long-running podcast and appears on Health Rising and the Long Covid Podcast. Activity rose after 2020 with long COVID. YouTube channel CFS Unravelled (@CFSUnravelled1): about 55.9K subscribers and 264 videos (Oct 2026). Reddit: about 60 posts mention "ANS Rewire" (2016–2026, mostly r/cfs, r/covidlonghaulers, r/Neuroplasticity_), with comments rising in 2025–26. It is a niche brand next to DNRS and Gupta. |
 
 ## 1. Proposed mechanism(s)
 - **Core claim.** These illnesses are neurological. Persistent autonomic nervous system (ANS) dysregulation (sympathetic overdrive, "survival mode") plus central sensitisation are the root drivers.
@@ -62,7 +62,7 @@ The structure is about 6 weeks of daily lessons of 25–35 minutes each. Partici
 - **Coaching and behavioural tools.** Daily action steps, symptom and activity tracking, flexible goals, an accountability partner, reframing setbacks, values and life balance.
 
 ## 4. Roots and influences
-- **Founder's own recovery.** Gut and elimination diet, supplements (magnesium, B vitamins, CoQ10), meditation, and "mental techniques" to retrain the ANS (Health Rising 2015). The claim that these were NLP-derived (as in the Lightning Process) was not verified at fact-check and should be treated as an inference.
+- **Founder's own recovery.** Gut and elimination diet, supplements (magnesium, B vitamins, CoQ10), meditation, and "mental techniques" to retrain the ANS (Health Rising 2015). No source links these techniques to NLP or the Lightning Process (checked the Health Rising profile, 2015 story, 2023 interview and FAQ), so no NLP lineage is claimed here.
 - **Limbic-retraining lineage.** Close structural parallels to DNRS (Hopper) and the Gupta Program: pattern interrupt, then reframe, then redirect attention.
 - **Mindfulness and meditation research.** Relaxation Response / Benson; MBSR-style meditation.
 - **Pain science.** Central sensitisation and neuroplasticity framing. Thieme's operant and psychophysiological fibromyalgia work is cited via her endorsement.
@@ -81,19 +81,19 @@ The structure is about 6 weeks of daily lessons of 25–35 minutes each. Partici
   - PubMed: no hits for "ANS Rewire" or Neuffer plus CFS.
   - ClinicalTrials.gov: zero studies.
   - No published audits, cohort data or success rates.
-- **Founder's stance.** He has reportedly said he lacked resources for a publishable study (date/source not re-verified). The FAQ argues that blinded RCTs are unsuitable for an individualised program and declines to give a success rate.
+- **Founder's stance.** An earlier internal review reports that in 2019 he said he lacked resources for a publishable study; no public source for that quote was found (checked Health Rising profile and 2023 interview, the FAQ and podcast listings). In the 2023 Health Rising interview he declined to give a recovery percentage, saying he spoke from his own experience only. The FAQ argues that blinded RCTs are unsuitable for an individualised program and declines to give a success rate.
 - **Related generic evidence (not the branded program).** Mindfulness, relaxation, pacing and pain-education components each have some RCT support in fibromyalgia and chronic pain. Limbic-retraining analogues (DNRS, Gupta) have only small or pilot studies. None of this tests the ANS-causal model or the REWIRE technique.
 - **Gap.** The efficacy case rests entirely on testimonials (e.g. "10% to 100% functional in about 6 months") and practitioner endorsements, with no independent evaluation.
 
 ## 7. Popularity and trajectory
-- **Before launch (c. 2013–2015).** *CFS Unravelled* and the cfsunravelled.com blog built an audience. Health Rising featured the recovery story in Aug 2015.
-- **Launch (2016).** First Wayback snapshot of ansrewire.com in March 2016.
-- **Growth (2017–2019).** Edition of *CFS Unravelled* with Thieme's foreword, the *Discover Hope* book, and a regular podcast (on player.fm in several languages).
+- **Before launch (2013–2015).** *CFS Unravelled* (Kindle, Jan 2013) and the cfsunravelled.com blog built an audience. Health Rising featured the recovery story in Aug 2015.
+- **Launch (2016).** First Wayback snapshot of ansrewire.com on 22 March 2016.
+- **Growth (2017–2019).** 3rd edition of *CFS Unravelled* (May 2017) with Thieme's foreword, the *Discover Hope* book, and a regular podcast (on player.fm in several languages).
 - **Long-COVID boost (2020–2023).** Neuffer pivoted messaging toward long COVID and PVFS, appearing on the Long Covid Podcast and on YouTube ("New treatments for ME/CFS & Long Covid targeting ANS dysfunction").
 - **2024–2026.** Steady niche presence.
 - **Current claims.** "Thousands" of participants across 60+ countries and 5,000+ answered member questions.
-- **Relative size.** Visibility on Reddit and in Google Trends appears far lower than for DNRS, Gupta, Primal Trust or Curable (not verified quantitatively this session).
-- **Rough reach estimate.** Paid participants are probably in the low thousands to about 10k. Including book and podcast audiences, reach is perhaps 10^4–10^5.
+- **Relative size.** Reddit visibility is far lower than for DNRS or Gupta: the Pullpush archive returns about 60 submissions ever mentioning "ANS Rewire," against the 100-result cap for each of "DNRS" and "Gupta program." Comment mentions are steady (100 in 2025–26 alone). The main reach channel is YouTube (about 55.9K subscribers). Google Trends could not be queried programmatically; Goodreads shows about 130 ratings across *CFS Unravelled* editions.
+- **Rough reach estimate.** Paid participants are probably in the low thousands to about 10k. Including YouTube (~56K subscribers), book and podcast audiences, reach is perhaps 10^4–10^5.
 
 ## 8. Controversies / criticisms
 - **Patient-advocate objections.** Like other "brain retraining" programs for ME/CFS, it draws criticism that it implies a psychological cause and that recovery testimonials pressure patients. Neuffer counters with the hybrid physical-loop model.
@@ -102,7 +102,7 @@ The structure is about 6 weeks of daily lessons of 25–35 minutes each. Partici
 - **Lumping.** Heterogeneous conditions, including "adrenal fatigue," which endocrinology does not recognise, plus "chronic Lyme" and mould illness, are combined under one cause.
 - **Non-evidence-based adjuncts.** Brainwave entrainment, detox and methylation support.
 - **Founder credentials.** He has no clinical qualifications, which matters given that coaching is sold.
-- **Unverified.** No regulatory actions or formal complaints were found in this session.
+- **Regulatory.** No regulatory actions or formal complaints found (web search for ANS Rewire with ACCC, TGA and Ad Standards, Oct 2026).
 
 ## Sources (URLs)
 - https://ansrewire.com/
@@ -117,5 +117,10 @@ The structure is about 6 weeks of daily lessons of 25–35 minutes each. Partici
 - https://pubmed.ncbi.nlm.nih.gov/?term=%22ANS+Rewire%22 (no relevant results)
 - https://clinicaltrials.gov/api/v2/studies?query.term=ANS+Rewire (0 studies)
 - https://www.nice.org.uk/guidance/ng206 (context)
+- https://www.goodreads.com/work/editions/24945577-cfs-unravelled---one-man-s-search-for-the-cause-of-fibromyalgia-and-chro (book editions 2013, 2017)
+- https://www.healthrising.org/blog/2023/12/04/dan-neuffer-recovery-chronic-fatigue-fibromyalgia-pt-3/
+- https://web.archive.org/cdx/search/cdx?url=ansrewire.com (earliest capture 2016-03-22)
+- https://www.youtube.com/@CFSUnravelled1 (subscriber count)
+- https://api.pullpush.io/reddit/search/submission/?q=%22ans%20rewire%22 (Reddit mentions)
 
-*Fact-checked 2026-10-12; corrections: softened unverified NLP-roots claim and founder quote; flagged CFS Unravelled 2013/2017 dates and 2019 'no resources' statement as unverified; clarified that brain-injury and child exclusions come only from comment replies; noted the site's '60+ countries' wording; confirmed price AUD 537, coaching AUD 139/hr, 2016 launch, no PubMed/CT.gov trials.*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: confirmed CFS Unravelled 2013 Kindle and 2017 3rd edition with Thieme foreword; verified founder's self-described lack of physiology training; re-confirmed 22 Mar 2016 Wayback snapshot and 0 PubMed/CT.gov; added YouTube (~55.9K subs) and Reddit (~60 posts) metrics; dropped unsupported NLP lineage; 2019 'no resources' quote has no public source; no regulatory actions found.*

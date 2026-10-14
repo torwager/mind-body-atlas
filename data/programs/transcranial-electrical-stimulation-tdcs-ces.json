@@ -3,15 +3,15 @@
   "name": "Home transcranial electrical stimulation (Flow tDCS, Alpha-Stim and Fisher Wallace CES)",
   "url": "https://www.flowneuroscience.com/",
   "founders": [
-    "Daniel Månsson (Flow Neuroscience co-founder, clinical psychologist; unverified)",
-    "Erik Rehn (Flow Neuroscience, CTO)",
-    "Daniel L. Kirsch (Alpha-Stim / Electromedical Products International; unverified)",
+    "Daniel Månsson (Flow Neuroscience co-founder, clinical psychologist)",
+    "Erik Rehn (Flow Neuroscience co-founder, CTO)",
+    "Daniel L. Kirsch (Alpha-Stim inventor; founded Electromedical Products International 1981)",
     "Chip Fisher (Fisher Wallace Laboratories co-founder, chairman)",
     "Martin Wallace (Fisher Wallace co-founder, deceased)",
     "Kelly Roman (Fisher Wallace co-founder, CEO)"
   ],
   "founded_year": 1981,
-  "founded_year_range": "Alpha-Stim/EPI ~1981 (unverified); Fisher Wallace ~2007-2009 (unverified); Flow ~2016 (unverified; EU CE mark ~2019; FDA PMA P230024 Dec 2025). Underlying CES/electrosleep dates to the 1950s-60s.",
+  "founded_year_range": "Alpha-Stim/EPI 1981 (founded by Kirsch; first FDA 510(k) June 1983); Fisher-Wallace Laboratories LLC Dec 2006 (Wikipedia: 2007; current Inc. Aug 2019); Flow Jan 2016 (EU CE mark 2019; FDA PMA P230024 Dec 2025; US launch 1 Sept 2026). Underlying CES/electrosleep dates to the 1950s-60s.",
   "category": "device/neuromodulation/biofeedback",
   "delivery": [
     "device",
@@ -19,8 +19,8 @@
     "clinician-prescribed home use"
   ],
   "business_model": "commercial",
-  "cost_summary": "Flow headset ~EUR 459 (~US$537) in Europe (unverified); estimated US retail US$500-800 (prescription; Reuters/Psychiatric Times Dec 2025). Halo sister headset ~US$600 (IEEE Spectrum). Alpha-Stim AID/M roughly US$800-1,200 (unverified; no price on site; HSA/FSA accepted). Fisher Wallace legacy device ~US$500-700 (unverified; no price on site).",
-  "cost_usd_typical": 600,
+  "cost_summary": "Flow: EUR 459 one-off or EUR 89/month rental in the EU, GBP 399 in the UK; US launch price reported at US$2,200 (ThePrint citing WIRED, Sept 2026) versus the US$500-800 target given at approval (Reuters Dec 2025); prescription-only in US. Halo sister headset ~US$600. Alpha-Stim (US store, Wayback May 2026): AID US$882, M US$1,363; NICE lists AID at GBP 450; HSA/FSA accepted. Fisher Wallace Version 1.0 was US$699 (2015) but has not been sold since April 2023; OAK price not published.",
+  "cost_usd_typical": 900,
   "conditions_claimed": [
     "depression",
     "anxiety",
@@ -54,7 +54,7 @@
   ],
   "techniques": [
     "2 mA anodal left-DLPFC tDCS, 30 min, 5x/week for 3 weeks then 2-3x/week to 10-12 weeks (Flow)",
-    "app-guided session scheduling and adherence logging with behaviour-therapy lessons (sleep, exercise, nutrition, meditation; unverified)",
+    "app-guided session scheduling and adherence logging with behaviour-therapy exercises and MADRS-S self-ratings",
     "ear-clip microcurrent CES 20-60 min daily (Alpha-Stim)",
     "local microcurrent probes for pain (Alpha-Stim M)",
     "temple-electrode CES headband 20 min 1-2x daily (Fisher Wallace)",
@@ -62,9 +62,9 @@
     "remote clinician supervision"
   ],
   "mainstream_adoption": "moderate",
-  "mainstream_notes": "Flow FL-100 received FDA PMA (P230024, Dec 2025), the first home brain stimulation device approved for MDD (adults, moderate-severe, non-treatment-resistant); prescription-only, US launch planned Q2 2026 and the site now says it is available. The IFCN guideline (Lefaucheur 2017) gives Level B probable efficacy for tDCS in non-resistant depression, fibromyalgia and craving. In Dec 2019 the FDA reclassified CES for anxiety/insomnia to Class II and required PMA for depression, citing lack of valid evidence. Alpha-Stim is FDA-cleared for anxiety, insomnia and pain only; it has had NHS pilots, was tested in the independent NIHR Alpha-Stim-D trial (null), and offers military/veteran pricing. Fisher Wallace reports a VA pilot and a pending anxiety clearance. Cochrane rates the chronic-pain tDCS evidence very low quality. None is routine first-line care.",
+  "mainstream_notes": "Flow FL-100 received FDA PMA (P230024, 8 Dec 2025; supplement S001 Jul 2026), the first home brain stimulation device approved for MDD (adults, moderate-severe, non-treatment-resistant); prescription-only, US launch 1 Sept 2026. Flow reports use in six NHS trusts (company figure). The IFCN guideline (Lefaucheur 2017) gives Level B probable efficacy for tDCS in non-resistant depression, fibromyalgia and craving. In Dec 2019 the FDA reclassified CES for anxiety/insomnia to Class II and required PMA for depression, citing lack of valid evidence. Alpha-Stim is FDA-cleared for anxiety, insomnia and pain only; it has had NHS pilots, NICE (MIB193, then MTG56/HTG570) does not recommend routine adoption for anxiety, and the independent NIHR Alpha-Stim-D trial was null. Fisher Wallace stopped marketing its Version 1.0 device in April 2023; its OAK anxiety 510(k) (submitted Apr 2026) received an FDA additional-information hold in Jun 2026, and it has a VA feasibility study (Birmingham VA, 2026). Cochrane rates the chronic-pain tDCS evidence very low quality. None is routine first-line care.",
   "insurance": "sometimes/indirect",
-  "insurance_notes": "Generally out of pocket in the US. Alpha-Stim accepts HSA/FSA and offers military/veteran discounts. Flow said US coverage details would come in early 2026; payer coverage not verified. Some NHS trusts funded Alpha-Stim pilots.",
+  "insurance_notes": "Generally out of pocket in the US. Alpha-Stim accepts HSA/FSA and offers military/veteran discounts. Flow said in Dec 2025 that US payer coverage would follow in 2026; no payer coverage had been announced as of Oct 2026 (press: 'still evolving'). Some NHS trusts funded Alpha-Stim and Flow pilots.",
   "evidence_level": "systematic reviews/meta-analyses",
   "key_trials": [
     {
@@ -87,6 +87,13 @@
       "n": 236,
       "finding": "Negative: GRID-HDRS-17 change at 16 weeks -5.9 vs -6.5 (p=0.46)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/36724796/"
+    },
+    {
+      "citation": "Brunoni AR et al. N Engl J Med 2017;376:2523-2533. PMID 28657871",
+      "design": "Single-centre double-blind noninferiority RCT (ELECT-TDCS): clinic tDCS 2 mA 30 min vs escitalopram vs placebo, unipolar depression, Brazil (generic tDCS)",
+      "n": 245,
+      "finding": "HDRS-17 decrease 9.0 (tDCS) vs 11.3 (escitalopram) vs 5.8 (placebo); tDCS superior to placebo but not noninferior to escitalopram",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28657871/"
     },
     {
       "citation": "Barclay TH, Barclay RD. J Affect Disord 2014;164:171-177. PMID 24856571",
@@ -138,14 +145,14 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/36435660/"
     }
   ],
-  "controversy": "The CES evidence is dominated by small, manufacturer-linked trials (e.g., EPI-affiliated meta-analysis authors). The largest independent sham-controlled trials (Alpha-Stim-D for depression, a remote GAD trial reported as a preprint) were null. In 2019 the FDA stated there was no valid evidence that CES treats depression. Home tDCS for depression has mixed results: the supervised Flow trial was positive, while the two largest unsupervised/self-administered trials were negative. Critics (Wexler) say the Flow/Halo pairing blurs medical and wellness device lines. Safety concerns include burns from dried or reused pads, DIY montages, and long-term unsupervised use. Fibromyalgia meta-analyses show large effects from small, heterogeneous trials, and Cochrane rates chronic-pain tDCS evidence very low quality.",
+  "controversy": "The CES evidence is dominated by small, manufacturer-linked trials (e.g., EPI-affiliated meta-analysis authors). The largest independent sham-controlled trial (Alpha-Stim-D for depression, N=236) was null; a reported null remote GAD preprint could not be located. In 2019 the FDA stated there was no valid evidence that CES treats depression. Home tDCS for depression has mixed results: the supervised Flow trial was positive, while the two largest unsupervised/self-administered trials were negative. Critics (Wexler) say the Flow/Halo pairing blurs medical and wellness device lines. Safety concerns include burns from dried or reused pads, DIY montages, and long-term unsupervised use. Fibromyalgia meta-analyses show large effects from small, heterogeneous trials, and Cochrane rates chronic-pain tDCS evidence very low quality. Flow's US price (~US$2,200) is far above its EU price and its own approval-time estimate. Fisher Wallace warned customers that some Version 1.0 devices could overheat if batteries were reversed.",
   "popularity": {
     "indicators": [
       {
         "metric": "Flow cumulative users",
-        "value": ">55,000 (Europe, UK, Switzerland, Hong Kong)",
-        "source": "Psychiatric Times, Dec 2025",
-        "year": 2025
+        "value": "65,000+ (Europe, UK, Switzerland, Hong Kong; >55,000 in Dec 2025)",
+        "source": "flowneuroscience.com; ThePrint Sept 2026",
+        "year": 2026
       },
       {
         "metric": "Alpha-Stim users",
@@ -155,8 +162,8 @@
       },
       {
         "metric": "Fisher Wallace distribution",
-        "value": "tens of thousands of patients via thousands of prescribers; >US$11M equity crowdfunding",
-        "source": "fisherwallace.com",
+        "value": "tens of thousands of patients via thousands of prescribers; >100,000 Version 1.0 devices sold and >US$30M lifetime revenue (SEC 2023); >US$11M equity crowdfunding; no device sales since Apr 2023",
+        "source": "fisherwallace.com; SEC Form 1-A (2023) and 1-SA (Sept 2026)",
         "year": 2026
       },
       {
@@ -176,9 +183,21 @@
         "value": "multiple per year 2023-2026",
         "source": "PubMed",
         "year": 2026
+      },
+      {
+        "metric": "Flow NHS use",
+        "value": "6 NHS trusts (company figure)",
+        "source": "flowneuroscience.com; nhft.nhs.uk",
+        "year": 2026
+      },
+      {
+        "metric": "r/tDCS subreddit size",
+        "value": "not retrievable (Reddit blocked automated access); older undated blog figure ~3,800",
+        "source": "blog.practicalethics.ox.ac.uk",
+        "year": null
       }
     ],
-    "reach_estimate": "~300,000-1,000,000 cumulative users across Alpha-Stim (hundreds of thousands over 4 decades, company claim), Fisher Wallace (tens of thousands), Flow (>55k) and Halo/DIY tDCS",
+    "reach_estimate": "~300,000-1,000,000 cumulative users across Alpha-Stim (hundreds of thousands over 4 decades, company claim), Fisher Wallace (>100,000 devices sold per SEC filing), Flow (65k+) and Halo/DIY tDCS",
     "reach_log10": 5.7,
     "trajectory": [
       {
@@ -258,7 +277,7 @@
         "relative_activity": 9.5
       }
     ],
-    "method_notes": "Grouped entry, with the trajectory starting at the Alpha-Stim founding (~1981, unverified). Activity levels are judgement-based and anchored on documented events: CES growth in the mid-2000s and the Jan 2011 WSJ feature; the consumer/DIY tDCS boom of 2012-2016; Flow's EU launch ~2019 and growth to >55k users by 2025; the Nat Med trial (Oct 2024) and FDA PMA (Dec 2025); Flow US launch and Fisher Wallace FDA anxiety submission in 2026; the rise in home-tDCS publications 2023-2026. User counts are unaudited company claims. Google Trends and Reddit metrics were not checked (web-search quota exhausted in both research and fact-check passes)."
+    "method_notes": "Grouped entry, with the trajectory starting at the Alpha-Stim/EPI founding (1981). Activity levels are judgement-based and anchored on documented events: CES growth in the mid-2000s and the Jan 2011 WSJ feature; the consumer/DIY tDCS boom of 2012-2016; Flow's EU launch in 2019 and growth to >55k users by 2025 and 65k+ by Oct 2026; the Nat Med trial (Oct 2024) and FDA PMA (Dec 2025); Flow US launch (Sept 2026), Fisher Wallace off-market since Apr 2023 with OAK 510(k) on hold in 2026; the rise in home-tDCS publications 2023-2026. User counts are unaudited company claims. Reddit metrics could not be retrieved (Reddit blocks automated access); Google Trends not available programmatically."
   },
   "sources": [
     "https://www.flowneuroscience.com/",
@@ -282,6 +301,24 @@
     "https://pubmed.ncbi.nlm.nih.gov/33477056/",
     "https://pubmed.ncbi.nlm.nih.gov/36435660/",
     "https://pubmed.ncbi.nlm.nih.gov/41398008/",
-    "https://pubmed.ncbi.nlm.nih.gov/40286924/"
+    "https://pubmed.ncbi.nlm.nih.gov/40286924/",
+    "https://pubmed.ncbi.nlm.nih.gov/28657871/",
+    "https://www.flowneuroscience.com/about/",
+    "https://www.flowneuroscience.com/de-de",
+    "https://www.flowneuroscience.us/fda-announcement",
+    "https://theprint.in/feature/headset-us-helps-fight-depression/3048924/",
+    "https://www.androidheadlines.com/2026/09/flow-neuroscience-fl-100-at-home-depression-treatment.html",
+    "https://boots.com/flow-tdcs-portablewireless-headset-10341534",
+    "https://www.nhft.nhs.uk/updates/latest-nhft-update-flow-headsets-to-be-offered-to-patients-with-depression-11467/",
+    "https://www.legistorm.com/organization/summary/162547/Electromedical_Products_International_Inc_.html",
+    "https://web.archive.org/web/20260519193059/https://alpha-stim.com/product/alpha-stim-aid-kit-us-for-anxiety-insomnia/",
+    "https://web.archive.org/web/20260519193444/https://alpha-stim.com/product/alpha-stim-m-kit-us-for-pain-anxiety-insomnia/",
+    "https://www.nice.org.uk/guidance/htg570",
+    "https://www.sec.gov/Archives/edgar/data/1787792/000178779226000014/fwl20260630_1sa_final.htm",
+    "https://www.sec.gov/Archives/edgar/data/1787792/000110465923053345/tm2314145d1_partii.htm",
+    "https://en.wikipedia.org/wiki/Fisher_Wallace_Laboratories",
+    "https://sleepreviewmag.com/?p=75704",
+    "https://api.fda.gov/device/pma.json?search=pma_number:P230024",
+    "https://clinicaltrials.gov/study/NCT04751864"
   ]
 }

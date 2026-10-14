@@ -8,7 +8,7 @@
 - *podcast show notes (Finding Genius, Don't Sweat)*
 - *PubMed and ClinicalTrials.gov queries*
 
-*Content is paraphrased. The session's web-search budget ran out partway through, so Reddit and Google Trends were not checked directly; the popularity estimates rest on platform counts.*
+*Content is paraphrased. Popularity estimates rest on platform counts. Reddit (403 to direct and API requests) and Google Trends (HTTP 429) could not be queried; the TMS Wiki forum was checked as a substitute.*
 
 ## At a glance
 
@@ -24,7 +24,7 @@
 | Mainstream adoption | **None formal.** Embedded in the neuroplastic-symptom (TMS/PPD) community; Buglio is a speaker at the 2026 ATNS conference. |
 | Insurance reimbursable | **No.** Lay coaching, direct pay only. |
 | Evidence (peer-reviewed trials) | **None for the program.** No PubMed records and no ClinicalTrials.gov registrations. Its rationale borrows from trials of related clinician-delivered therapies (PRT, EAET). |
-| Popularity signals | **YouTube:** ~72.5K subscribers, ~12.3M total views (Oct 2026). **Facebook page:** ~22.6K followers. **Posts:** 2,500+ cross-platform since 2019. **Membership:** "thousands of members." **Audiobook:** 4.9★ from 50 ratings on Audible. |
+| Popularity signals | **YouTube:** ~72.5K subscribers, ~12.3M total views (Oct 2026). **Facebook page:** 22,644 followers (Oct 2026). **Posts:** 2,500+ cross-platform since 2019. **Membership:** "thousands of members." **Audiobook:** 4.9★ from 50 ratings on Audible. |
 
 ## 1. Proposed mechanism(s)
 
@@ -143,10 +143,10 @@ Together these keep the nervous system in **fight-or-flight**. The brain learns 
 - **Jan 2025: book.** The book and audiobook *Pain Free You: Teach Your Brain to End Your Pain* come out (self-published). The Audible audiobook was released 6 Jan 2025 and has 4.9★ from 50 ratings. A podcast tour follows (Finding Genius ~Feb 2025, Don't Sweat, others).
 - **Oct 2026: platform counts.**
   - YouTube ~72.5K subscribers and ~12.3M lifetime views (channel About page, accessed 2026-10-12).
-  - Facebook page ~22.6K followers.
+  - Facebook page 22,644 followers (re-verified 2026-10-13).
   - A private members' Facebook group also exists.
 - **2026: ATNS conference speaker.** A sign of growing standing within the neuroplastic-symptom field.
-- **Reddit and forums.** Commonly recommended alongside Sarno, Schubiner, Gordon, Curable and the TMS Wiki on r/TMSnoMore and r/ChronicPain. This is a qualitative impression; it was not quantified this session.
+- **Reddit and forums.** On the TMS Wiki forum, a search for "Buglio" fills 10 result pages (~200 hits, the search cap), and mentions are overwhelmingly positive: posters recommend his videos and success stories, especially for fear of symptoms. Reddit could not be quantified because reddit.com returned 403 to direct, JSON and fetch requests. Google Trends was rate-limited (HTTP 429).
 
 **Trajectory.** Steady growth since 2019, with a step up around the 2025 book launch. Reach is mid-sized compared with Curable or Sarno, but substantial for a single lay coach.
 
@@ -158,7 +158,7 @@ Together these keep the nervous system in **fight-or-flight**. The brain learns 
   - The site does caveat that some cases are organic and advises a medical check first.
 - **No published outcomes.** Results rest on testimonials; there is no disclosed success rate, guarantee or refund policy.
 - **Subscription model.** An open-ended US$100/month subscription for group coaching, and the cost accumulates over long recoveries.
-- **No public scandals found** (limited by the search budget).
+- **No public scandals found.** Checked: TMS Wiki forum mentions (positive; no direct criticism of Buglio, only general frustration with self-directed TMS work), PubMed, and ClinicalTrials.gov. Trustpilot has no page for painfreeyou.com. Reddit and a general web search for criticism could not be run (Reddit blocked; search quota exhausted).
 
 ## Sources (URLs)
 
@@ -169,14 +169,15 @@ Together these keep the nervous system in **fight-or-flight**. The brain learns 
 - https://www.painfreeyou.com/book
 - https://www.painfreeyou.com/1-on-1-coaching
 - https://www.youtube.com/@PainFreeYou/about (subscriber, view and join-date data, 2026-10-12)
-- https://www.facebook.com/PainFreeYouNow
+- https://www.facebook.com/PainFreeYouNow (22,644 followers, 2026-10-13)
+- https://www.tmswiki.org/forum/search/1/?q=Buglio (forum mentions, 2026-10-13)
 - https://www.audible.com/author/Dan-Buglio/B0DR66VGKK
 - https://atnsconference.sched.com/speaker/dan_buglio.29si95uh
 - https://www.findinggeniuspodcast.com/podcasts/rewiring-the-brain-for-a-pain-free-life-the-mind-body-approach-to-healing-with-dan-buglio/
 - https://dontsweat.com/a-pain-free-you-with-dan-buglio/
 - https://www.walmart.com/ip/Pain-Free-You-Teach-Your-Brain-to-End-Your-Pain-Paperback-9798990763104/15161552821
 - PubMed E-utilities queries (Buglio[au] AND pain/mind-body; "Pain Free You"[tiab]): 0 results
-- ClinicalTrials.gov API query "Pain Free You": 0 results
+- ClinicalTrials.gov API query "Pain Free You" Buglio: 0 results (both re-run 2026-10-13)
 - Related, not program-specific: Ashar YK et al. JAMA Psychiatry 2022;79(1):13-23 (PRT); Lumley MA et al. Pain 2017;158(12):2354-63 (EAET)
 
-*Fact-checked 2026-10-12; corrections: 'one yes' clue wording strengthened to the site's actual claim ("means" not "suggests"); credentials note adds 'studied psychology' (no degree/license); addiction removed from claimed conditions (only post-acute withdrawal listed); PubMed phrase-search note corrected (unrelated hits, not zero); price ($100/mo), YouTube counts (72.5K subs, 12.28M views, joined 3 Mar 2019), ATNS 2026 session and Jan 2025 book verified; independent search for criticism/studies not possible (search budget exhausted).*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: Facebook followers verified (22,644); TMS Wiki forum mentions checked (~200, positive) in place of Reddit; scandal/criticism check extended (none found); PubMed and ClinicalTrials.gov re-run (0); Reddit (403 blocked) and Google Trends (429) remain unquantified.*

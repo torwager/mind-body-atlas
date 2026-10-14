@@ -1,22 +1,22 @@
 # Sarno Method / Tension Myositis Syndrome (TMS, "Mindbody Syndrome", PPD)
 
-*Compiled 2026-10-12 from Sarno's books (as summarised in secondary sources), tmswiki.org (home page, Structured Educational Program, forum, Pain Recovery Program index), Wikipedia (John E. Sarno; Tension myositis syndrome), Shelf Awareness obituary note (2017), and PubMed records (fetched via NCBI E-utilities). Content paraphrased. Note: in this entry "TMS" means tension myositis syndrome, not transcranial magnetic stimulation. Web search budget ran out partway through research, so some popularity figures could not be verified; these are marked as such.*
+*Compiled 2026-10-12 from Sarno's books (as summarised in secondary sources), tmswiki.org (home page, Structured Educational Program, forum, Pain Recovery Program index), Wikipedia (John E. Sarno; Tension myositis syndrome), Shelf Awareness obituary note (2017), the US Senate HELP Committee hearing record (2012), and PubMed records (fetched via NCBI E-utilities). Content paraphrased. Note: in this entry "TMS" means tension myositis syndrome, not transcranial magnetic stimulation.*
 
 ## At a glance
 
 | Field | |
 |---|---|
 | Website | No official site; drsarno.com is parked. The de facto hub is the **TMS Wiki** (https://www.tmswiki.org/), with its forum, Structured Educational Program and Alan Gordon's Pain Recovery Program. |
-| Founder(s) | **John E. Sarno, MD** (1923–2017). Professor of Rehabilitation Medicine at NYU School of Medicine; attending physician at the Howard A. Rusk Institute of Rehabilitation Medicine, where he became director of the outpatient department in 1965. Retired ~2012 (year from secondary sources, not re-verified). Community infrastructure: **PPD/TMS Peer Network** (Brookline, MA), a peer-run 501(c)(3) of former patients, founded 2009. |
+| Founder(s) | **John E. Sarno, MD** (1923–2017). Professor of Clinical Rehabilitation Medicine at NYU School of Medicine (title as listed in his 2012 Senate testimony); attending physician at the Howard A. Rusk Institute of Rehabilitation Medicine, where he became director of the outpatient department in 1965. Retired from clinical practice in 2012, at age 89. Community infrastructure: **PPD/TMS Peer Network** (Brookline, MA), a peer-run 501(c)(3) of former patients, founded 2009. |
 | Founded | Concept developed in the **1970s** at Rusk (Sarno dated his shift to a psychological model to the early-mid 1970s). First book 1982; main popularising book 1991. TMS Wiki and Peer Network **January 2009**. |
 | Format / delivery | Mainly **book-based self-treatment** (bibliotherapy): *Mind Over Back Pain* (1982), *Healing Back Pain* (1991), *The Mindbody Prescription* (1998), *The Divided Mind* (2006). Historically also: Sarno's office diagnosis plus two 2-hour group lectures, follow-up groups, and psychotherapy for a minority. Today: free online wiki/forum programs, a directory of "TMS"/"PPD" physicians and therapists, and a successor lineage (PRT, EAET, PPD clinics). |
 | Business model | Books are commercial (paperbacks ~USD 10–18). The online community and its programs are **free** (donation-supported nonprofit). Clinician care from TMS practitioners is fee-for-service. |
-| Direct cost | Book: about USD 10–18 (paperback list price, 2026). TMS Wiki SEP and Pain Recovery Program: free. Private "TMS therapist" sessions are typically USD 150–300/hr in the US (rough market range, not verified per practitioner). |
+| Direct cost | Book: about USD 10–18 (paperback list price, 2026). TMS Wiki SEP and Pain Recovery Program: free. Private "TMS therapist" sessions are roughly USD 150–300 per session in the US. No published fee schedule exists; this is a market range, and one Psychology Today listing for a TMS-oriented psychologist shows USD 280/session (2026). |
 | Conditions claimed | Chronic back, neck and shoulder pain; sciatica; disc herniation pain (discs called usually incidental); repetitive strain injury / carpal tunnel; knee, foot (plantar fasciitis) and tendon pain; fibromyalgia ("severe TMS"); TMJ. "TMS equivalents": tension/migraine headache, IBS, heartburn/GERD, spastic colon, frequent urination, tinnitus, dizziness, skin conditions, allergies, chronic fatigue. *The Divided Mind* (2006) widens this to "mindbody disorders", including anxiety and depression as equivalents. |
 | Mainstream adoption | **Limited.** Rejected by mainstream medicine during Sarno's career; he claimed "99.999%" of the medical profession rejected the diagnosis. In 2017 an NYU Langone pain specialist (C. Gharibo) called his views "definitely considered on the fringe." A small network of physicians practised it (Schechter, Schubiner, Sopher, Rashbaum, Leonard-Segal). Its indirect influence is large: it is the root of PRT, EAET, "psychophysiologic disorder" clinics and the neuroplastic-pain apps. |
 | Insurance reimbursable | **Sometimes/indirect.** Physician visits and psychotherapy can be billed under standard codes (e.g. back pain, psychotherapy). The method itself, books and peer programs are not reimbursed. |
 | Evidence (peer-reviewed trials) | **No RCT of Sarno's method as such.** One uncontrolled case series (Schechter et al. 2007, N=51). Descendant therapies have RCTs, the strongest being PRT (Ashar 2022, N=151). |
-| Popularity signals | More than 1 million copies of Sarno's books sold (NYT obituary, as cited by Shelf Awareness 2017). *Healing Back Pain* has ~8,450 Goodreads ratings (avg 4.10; 2026). Celebrity advocates include Howard Stern, Larry David and John Stossel. Documentary *All the Rage: Saved by Sarno* (2016). TMS Wiki forum: ~13,700 members, ~27,700 threads and ~167,000 posts (2026). |
+| Popularity signals | More than 1 million copies of Sarno's books sold (NYT obituary, as cited by Shelf Awareness 2017). *Healing Back Pain* has ~7,650 Goodreads ratings (avg 4.05; 2026). Celebrity advocates include Howard Stern, Larry David and John Stossel. Documentary *All the Rage: Saved by Sarno* (2016). TMS Wiki forum: ~13,700 members, ~27,700 threads and ~167,000 posts (2026). |
 
 ## 1. Proposed mechanism(s)
 
@@ -94,8 +94,8 @@
 - **Mainstream medicine.**
   - Sarno practised inside an academic rehab institute (NYU Rusk), but his diagnosis was not accepted by mainstream medicine.
   - Wikipedia currently labels TMS a pseudomedical diagnosis.
-  - Sarno reportedly testified on mind-body approaches before a US Senate committee hearing on integrative care (2009). This could not be re-verified in this session.
-  - Andrew Weil promoted the approach (he appears in the 2016 documentary). A frequently repeated claim that Mehmet Oz endorsed it could not be verified in this session.
+  - Sarno testified before the US Senate HELP Committee at the hearing "Pain in America: Exploring Challenges to Relief" (14 February 2012, chaired by Tom Harkin). An often-repeated claim that he testified at the 2009 integrative-care hearings is wrong: he is not on either witness list.
+  - Andrew Weil promoted the approach (he appears in the 2016 documentary). A frequently repeated claim that Mehmet Oz endorsed it is unsourced. Oz testified at the 2009 Senate integrative-care hearing, but a search of web and news sources found no statement by Oz endorsing Sarno.
   - No clinical guideline (NICE, ACP, CDC, VA/DoD) recommends "TMS treatment" by name.
 - **Indirect uptake.** Guideline-endorsed pain education and psychological therapies, and the newer PRT/EAET trials (including the VA-based EAET trial, Yarns et al. 2024), carry Sarno's core premise that pain can be brain-generated and reversible. Clinics using "psychophysiologic disorder" framing now exist at a few academic and integrative centres. Examples are Schubiner at Ascension Providence (Michigan) and Donnino's group at Beth Israel Deaconess (Harvard), which runs PSRT.
 - **Insurance.** No reimbursement for the method as a brand. Physician consults with TMS-oriented doctors and psychotherapy with TMS therapists can be billed under standard E/M and psychotherapy codes. Many TMS therapists work out of network (private pay). The free wiki programs and books cost nothing or little.
@@ -135,11 +135,11 @@
 
 - **1970s–1980s.** Clinical practice at Rusk; *Mind Over Back Pain* (1982). Word-of-mouth following in New York.
 - **1991.** *Healing Back Pain* becomes a long-running word-of-mouth bestseller. ABC *20/20* coverage with John Stossel in the 1990s (as reported by secondary sources) and endorsements from Howard Stern brought national attention.
-- **1998, 2006.** *The Mindbody Prescription* and *The Divided Mind*. Combined book sales were reported as over 1 million copies by the time of his death (NYT, via Shelf Awareness 2017). Some sources give higher figures, which are unverified here.
-- **2009.** TMS Wiki and PPD/TMS Peer Network founded. Forum by 2026: ~13,700 members, ~27,700 threads, ~167,000 messages. A Reddit community (r/TMSHealing) exists, but its size could not be retrieved in this session.
-- **2010–2016.** Spread of practitioner books (Schubiner 2010; Ozanich; Schechter) and podcasts (Nicole Sachs's *The Cure for Chronic Pain*). Sarno retired in 2012.
+- **1998, 2006.** *The Mindbody Prescription* and *The Divided Mind*. Combined book sales were reported as over 1 million copies by the time of his death (NYT, via Shelf Awareness 2017). Some sources give higher figures, but none could be traced to a publisher or primary source. An older figure of over 150,000 copies refers to *Healing Back Pain* alone.
+- **2009.** TMS Wiki and PPD/TMS Peer Network founded. Forum by 2026: ~13,700 members, ~27,700 threads, ~167,000 messages. A Reddit community (r/TMSHealing) exists, but its size is not publicly retrievable here: Reddit's about.json, old.reddit and api.reddit all returned "Blocked"/403, and no third-party tracker (GummySearch, subredditstats, Hive Index) lists it.
+- **2010–2016.** Spread of practitioner books (Schubiner 2010; Ozanich; Schechter) and podcasts (Nicole Sachs's *The Cure for Chronic Pain*). Sarno testified to the Senate HELP Committee (February 2012) and retired from clinical practice in 2012.
 - **2016–2017.** Documentary *All the Rage: Saved by Sarno* (2016; Larry David, Howard Stern, Andrew Weil). Sarno died on 22 June 2017, with NYT/Washington Post obituaries and a spike of media essays.
-- **2021–2026.** The PRT JAMA Psychiatry trial (2021/22) and Alan Gordon's *The Way Out* (2021) re-legitimised the lineage in academic circles. Sarno's books continue to sell, and *Healing Back Pain* has ~8,450 Goodreads ratings (2026). Activity is now increasingly channelled through successor brands (Curable, PRT, Pathways, Sachs).
+- **2021–2026.** The PRT JAMA Psychiatry trial (2021/22) and Alan Gordon's *The Way Out* (2021) re-legitimised the lineage in academic circles. Sarno's books continue to sell, and *Healing Back Pain* has ~7,650 Goodreads ratings (2026). The December 2024 Luigi Mangione case renewed media discussion of Sarno and back pain (e.g. a Town & Country essay, "Luigi Mangione and the Back Pain Cult"). Activity is now increasingly channelled through successor brands (Curable, PRT, Pathways, Sachs).
 
 ## 8. Controversies / criticisms
 
@@ -163,7 +163,12 @@
 - https://en.wikipedia.org/wiki/Tension_myositis_syndrome
 - https://www.shelf-awareness.com/theshelf/2017-06-26/obituary_note:_dr._john_e._sarno.html
 - https://playhousecinema.ca/movie/all-the-rage-saved-by-sarno
-- https://www.goodreads.com/book/show/18668.Healing_Back_Pain
+- https://www.goodreads.com/book/show/6640453 (ratings read via https://www.abebooks.com/9780446392303/Healing-Back-Pain-Mind-Body-Connection-0446392308/plp)
+- https://www.help.senate.gov/hearings/pain-in-america-exploring-challenges-to-relief
+- https://www.help.senate.gov/hearings/-integrative-care-a-pathway-to-a-healthier-nation
+- https://www.managedcaremag.com/content/tribute/
+- https://www.psychologytoday.com/us/therapists/margaret-h-chan-red-bank-nj/119443
+- https://www.aol.com/luigi-mangione-back-pain-cult-143000598.html
 - https://pubmed.ncbi.nlm.nih.gov/17900039/
 - https://pubmed.ncbi.nlm.nih.gov/2530198/
 - https://pubmed.ncbi.nlm.nih.gov/12708562/
@@ -174,4 +179,4 @@
 - https://pubmed.ncbi.nlm.nih.gov/34586357/
 - https://pubmed.ncbi.nlm.nih.gov/38869899/
 
-*Fact-checked 2026-10-12; corrections: Lumley 2017 EAET did not beat education on its primary outcome (pain severity); Burger 2016 title corrected and N=72 added; added omitted Yarns 2024 EAET-vs-CBT RCT (N=126); Sarno's claimed cure rate restated as ~85%, unverified by him; removed the unverified Steve Kerr advocacy and flagged the Oz endorsement; title corrected to Professor of Rehabilitation Medicine; softened the DNRS/Gupta lineage claim; flagged the 2012 retirement year; added NYU 'fringe' criticism. Web search budget exhausted, so the Senate testimony and retirement year remain unverified.*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: Senate testimony corrected to Feb 2012 HELP 'Pain in America' hearing (not 2009); 2012 retirement confirmed; title set to Professor of Clinical Rehabilitation Medicine per Senate record; Oz endorsement found unsourced; Goodreads figure corrected (old URL pointed to a different book) to ~7,650 ratings; therapist fee range supported by one listing; higher sales figures untraceable; r/TMSHealing size and Google Trends blocked. Earlier corrections: Lumley 2017 EAET did not beat education on its primary outcome (pain severity); Burger 2016 title corrected and N=72 added; added omitted Yarns 2024 EAET-vs-CBT RCT (N=126); Sarno's claimed cure rate restated as ~85%, unverified by him; removed the unverified Steve Kerr advocacy; softened the DNRS/Gupta lineage claim; added NYU 'fringe' criticism.*

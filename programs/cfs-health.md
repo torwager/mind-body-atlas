@@ -1,20 +1,20 @@
 # CFS Health (Online Recovery Program / RECOVERY Mentorship 3.0)
 
-*Compiled 2026-10-12 from cfshealth.com (Home, FAQ, Program Info, Meet the Team, Book, Podcast, Trainings), the transcript of podcast Episode 1 ("Origin of CFS Health," 7 Aug 2022), Trustpilot, the YouTube channel and a publisher listing for Morrison's 2026 book. Content paraphrased. Note: this session's web-search budget ran out early, so the PubMed, ClinicalTrials.gov and Reddit/forum checks were limited (see §6–7).*
+*Compiled 2026-10-12 from cfshealth.com (Home, FAQ, Program Info, Meet the Team, Book, Podcast, Trainings), the transcript of podcast Episode 1 ("Origin of CFS Health," 7 Aug 2022), Trustpilot, the YouTube channel and a publisher listing for Morrison's 2026 book. Content paraphrased. PubMed, ClinicalTrials.gov and Reddit (via the Pullpush archive) checks were completed 2026-10-13 (see §6–8).*
 
 ## At a glance
 | Field | |
 |---|---|
 | Website | https://www.cfshealth.com/ (Kajabi-hosted; Melbourne, Australia) |
 | Founder(s) | **Toby Morrison** (founder and head coach). He was a teenage elite basketballer who developed CFS after glandular fever (EBV) in his mid-teens, was diagnosed about 2 years later and was ill for several years. By his own account (podcast), he studied exercise science and worked as a personal trainer and health coach. The site lists no formal medical, psychology or coaching credentials for him. |
-| Founded | Informal 1:1 coaching from about **2012**. The site's "Meet the Team" page says 2009, which may count from his own recovery. The **online program launched October 2013** (Morrison, podcast Ep. 1, in his own words). The book page claims "over 16 years" (consistent with the 2009 date). |
+| Founded | Informal 1:1 coaching from about **2012**. The site's "Meet the Team" page says 2009, which may count from his own recovery. The **online program launched October 2013** (Morrison, podcast Ep. 1, in his own words). The book page claims "over 16 years" (consistent with the 2009 date), and a bookseller blurb calls CFS Health, "started in 2009," Australia's first clinic dedicated to CFS. |
 | Format / delivery | Application, then a sales or "enrolment" call, then a membership-style **online coaching program**. It includes a video library (40+ hrs), weekly group Zoom calls, monthly guest workshops, a 1:1 "Momentum Coach," weekly accountability check-ins, a private Facebook group, an app or portal, and a printed daily planner and tracker. Free funnel material includes trainings, a podcast (about 213 episodes), YouTube, a documentary (*FREEDOM*) and a book. |
 | Business model | Commercial (free content funnel leading to high-ticket coaching) |
-| Direct cost | No public prices; you have to book a call ("flexible payment plans"). A Trustpilot reviewer reports **"just under $4,000 for 6 months"** (likely AUD; ≈ USD 2,600). Another reviewer mentions a "£500+ commitment" (probably a monthly instalment). Minimum **6-month commitment** with no early cancellation; the FAQ says most members stay 9–15 months. The book *Get Your Life Back* is US$9 as an e-book (promotional price, 2026). |
+| Direct cost | No public prices; you have to book a call ("flexible payment plans"). A Trustpilot reviewer reports **"just under $4,000 for 6 months"** (likely AUD; ≈ USD 2,600). Another reviewer mentions a "£500+ commitment" (probably a monthly instalment). A Reddit commenter (Oct 2026) cites **"$199 per week"** (≈ $5,200 over 6 months, currency unstated). All of these are unverified user reports. Minimum **6-month commitment** with no early cancellation; the FAQ says most members stay 9–15 months. The book *Get Your Life Back* is US$9 as an e-book (promotional price, 2026). |
 | Conditions claimed | ME/CFS (core), fibromyalgia (named on Program Info and Meet the Team), post-viral fatigue (FAQ). Long COVID is not named on the current Program Info, FAQ or book pages; it appears only in podcast/marketing content, where it is subsumed under post-viral fatigue, "long-term exhaustion," and in the podcast, chronic ill health generally, diagnosed or not |
-| Mainstream adoption | None found. Not referenced in NICE, CDC or Australian ME/CFS guidance. The team includes an accredited exercise physiologist and an "integrative medical doctor" on the coaching team (named by the original researcher as Dr Olivia Lesslar; not re-verified on current pages). |
+| Mainstream adoption | None found. Not referenced in NICE, CDC or Australian ME/CFS guidance. The team includes an accredited exercise physiologist and an "integrative medical doctor" on the coaching team (unnamed on the Program Info page; a third-party podcast bio lists Dr Olivia Lesslar, a Sydney functional/integrative medicine doctor, as "Resident Medical Consultant at CFS Health", but she is not on the current Meet the Team page). |
 | Insurance reimbursable | No (direct-pay coaching; explicitly "not a medical program") |
-| Evidence (peer-reviewed trials) | **None.** The only outcome data are internal, self-reported member surveys (e.g. 92% "improved overall health and well-being"; the book page says 92% "see improvements ... within the first six months"). No methods are given. PubMed search for "CFS Health" Morrison returned no results (Oct 2026). |
+| Evidence (peer-reviewed trials) | **None.** The only outcome data are internal, self-reported member surveys (e.g. 92% "improved overall health and well-being"; the book page says 92% "see improvements ... within the first six months"). No methods are given. PubMed ("CFS Health" with Morrison, coaching or program) returned only an unrelated hit, and ClinicalTrials.gov ("CFS Health", "Toby Morrison") returned 0 studies (Oct 2026). |
 | Popularity signals | YouTube @tobytvcfs: about 45.1K subscribers, about 1,164 videos and about 5.5M lifetime views (channel created Sept 2011). The site claims 5,500+ people helped in 78 countries. Trustpilot: 28 reviews, 3.5/5. Book from Dean Publishing (Apr 2026). |
 
 ## 1. Proposed mechanism(s)
@@ -37,7 +37,7 @@ The program uses **one generic model applied to all conditions**, with ME/CFS as
 **Core components:**
 - **Baseline and anti-push–crash pacing.** Find a stable daily activity baseline (the free "Find your baseline" training), stop boom–bust, then expand gradually. This is the foundation module.
 - **"RPE Method".** Movement is paced by rating of perceived exertion so that members can "move without crashing" (book).
-- **Restorative movement.** This is a video-module topic, not a separately named program on the current Program Info page. It is overseen by the in-house exercise physiologist Steph Ryan (BSc Sport & Exercise Science, Master of Clinical Exercise Physiology, PhD candidate; AEP accreditation not verified). A **progressive movement / reconditioning** stage follows once members are ready. This is in effect graded activity anchored to symptoms and PEM.
+- **Restorative movement.** This is a video-module topic, not a separately named program on the current Program Info page. It is overseen by the in-house exercise physiologist Steph Ryan (BSc Sport & Exercise Science, Master of Clinical Exercise Physiology; listed on Meet the Team as "ESSA AEP, AES", i.e. Exercise & Sports Science Australia–accredited exercise physiologist and exercise scientist). A **progressive movement / reconditioning** stage follows once members are ready. This is in effect graded activity anchored to symptoms and PEM.
 - **Nervous-system calming.** Relaxation-based regulation to reduce symptoms and pain.
 - **Mindset work.** Acceptance (letting go of anger and frustration was the first 6 weeks of Morrison's early 1:1 cases), "brain cognition" techniques for anxiety and worry, reworking unhelpful thoughts, belief that recovery is possible, guilt and shame, and identity.
 - **Lifestyle.** Nutrition e-books (stable blood sugar and energy), sleep, boundaries and relationships, and a setback strategy.
@@ -60,7 +60,7 @@ The program uses **one generic model applied to all conditions**, with ME/CFS as
 - It is not insurance-reimbursable. It is paid directly by card through Stripe, with payment plans.
 
 ## 6. Evidence base
-- **Branded program:** No peer-reviewed trials, observational cohorts or registered trials were identified, and the provider does not claim any. A fact-check PubMed query found nothing. ClinicalTrials.gov was not searched exhaustively. No publication is cited anywhere on the site.
+- **Branded program:** No peer-reviewed trials, observational cohorts or registered trials were identified, and the provider does not claim any. PubMed queries found nothing relevant, and ClinicalTrials.gov API searches for "CFS Health", "cfshealth" and "Toby Morrison" returned 0 studies (Oct 2026). No publication is cited anywhere on the site.
 - **Internal data:**
   - A 2024 self-reported member survey: 92% improved health and well-being, 97% improved mindset, 92% would recommend. There is no denominator, response rate, standardized measures or follow-up.
   - Outcome charts on the program page are images with no methods.
@@ -80,7 +80,8 @@ The program uses **one generic model applied to all conditions**, with ME/CFS as
 | Trustpilot | 28 reviews, 3.5/5 (71% 5★, 25% 1★); unclaimed profile | Trustpilot, 2026 |
 | Book | *Get Your Life Back: A Step-by-Step Recovery Guide for CFS* (Dean Publishing, 15 Apr 2026; audiobook narrated by Morrison) | AudiobooksNow listing |
 | Documentary | *FREEDOM*, offered as a free 7-day "premiere" funnel | cfshealth.com/freedom |
-| Staff | about 11 named staff plus 20+ mentors | Meet the Team, 2026 |
+| Staff | 19 named staff (incl. admin) plus 20+ mentors | Meet the Team, Oct 2026 |
+| Reddit | about 12 threads specifically on CFS Health (2017–2026; r/cfs, r/cfsrecovery, r/chronicfatigue, r/cfsme), most since 2023; about 60 comments name Morrison. Sentiment is polarized | Pullpush Reddit archive, Oct 2026 |
 
 **Trajectory, inferred:**
 - **2012–13:** local 1:1 coaching in Melbourne.
@@ -92,7 +93,7 @@ The program uses **one generic model applied to all conditions**, with ME/CFS as
 
 ## 8. Controversies / criticisms
 - **Sales model.** High-ticket pricing is hidden behind sales calls. There is a 6-month lock-in with no early cancellation. Trustpilot reviewers complain of a "great salesman" founder, an unorganised library of "over 100 videos," and coaching that isn't worth the price. Several 1-star reviews from 2026 call it a "scam" or the founder a "con man", and one compares the company to Belle Gibson. These are unverified reviewer claims, and the Trustpilot profile is unclaimed and not invited. A refund dispute involves the delivery charge on a physical product.
-- **Patient-community concerns.** In ME/CFS patient communities (e.g. Science for ME), coaching programs that combine "recovery" testimonials with mindset work and progressive exercise draw generic criticism. This criticism concerns implied blame, risk of PEM-driven deterioration from reconditioning, and survivorship-based marketing. A specific CFS Health thread could not be verified this session.
+- **Patient-community concerns.** In ME/CFS patient communities, coaching programs that combine "recovery" testimonials with mindset work and progressive exercise draw criticism for implied blame, risk of PEM-driven deterioration from reconditioning, and survivorship-based marketing. CFS Health specifically: r/cfs moderators removed a July 2026 post because "Toby Morrison's Baseline Theory includes brain retraining," which the subreddit bans. Comments there from 2021 to 2026 call the program a "grift" or "snake oil," note that Morrison "has no medical qualifications" and has published no research, and equate the approach with graded exercise therapy. Recovery testimonials appear mainly in r/cfsrecovery and r/mecfs. A 2015 Phoenix Rising thread discussed "apparent real recoveries" from his program. No CFS Health thread was found on Science for ME (site search and web search, Oct 2026).
 - **Facebook group rule.** The "no negative venting" rule may suppress reports of harm.
 - **Mismatch between marketing and substance.** Nervous-system marketing language has been layered onto what is essentially a pacing, reconditioning and coaching program.
 
@@ -110,5 +111,9 @@ The program uses **one generic model applied to all conditions**, with ME/CFS as
 - https://www.youtube.com/tobytvcfs
 - https://ca.trustpilot.com/review/cfshealth.com
 - https://www.audiobooksnow.com/audiobook/get-your-life-back/10456943/
+- https://www.exlibris.ch/de/buecher-buch/english-books/toby-morrison/get-your-life-back/id/9780648938668/ (bookseller blurb, "started in 2009")
+- https://ar.player.fm/1BMhpSX (podcast bio listing Dr Olivia Lesslar as Resident Medical Consultant at CFS Health)
+- https://api.pullpush.io/reddit/search/comment/?q=%22toby%20morrison%22 (Reddit archive search; r/cfs, r/cfsrecovery, r/mecfs, r/chronicfatigue)
+- https://clinicaltrials.gov/api/v2/studies?query.term=%22CFS+Health%22 (0 studies)
 
-*Fact-checked 2026-10-12; corrections: founder credentials marked as self-reported; "17+ years" changed to the site's "16 years"; long COVID not named on core site pages (demoted from primary); "Restorative Movement Program" is a module topic, not a named program; exercise physiologist credentials corrected (AEP unverified); "integrative GP" changed to "integrative medical doctor"; Trustpilot scam-review description corrected; PubMed null search added.*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: Steph Ryan confirmed ESSA AEP/AES; integrative doctor unnamed on site (Lesslar link via third-party bio only); staff count corrected to 19; ClinicalTrials.gov and broader PubMed searches null; Reddit/forum criticism (r/cfs ban, Phoenix Rising 2015) added; Reddit "$199/week" price report added; S4ME null; YouTube figures not re-verified (page renders client-side) and Google Trends not obtained.*

@@ -1,6 +1,6 @@
 # JournalSpeak / The Cure for Chronic Pain (Nicole Sachs)
 
-*Compiled 2026-10-12 from yourbreakawake.com (Home, About, JournalSpeak, Membership, Coaching, Education, FAQs, Book, Podcast pages), the podcast RSS feed (feeds.megaphone.fm/ADL5931785564; 437 episodes, Oct 2018–Oct 2026), the Apple Podcasts directory API, Open Library, PubMed and ClinicalTrials.gov. Content paraphrased. Note: web search was unavailable for part of this compilation, so press coverage, Reddit and Google Trends data are not directly sourced here.*
+*Compiled 2026-10-12 from yourbreakawake.com (Home, About, JournalSpeak, Membership, Coaching, Education, FAQs, Book, Podcast pages), the podcast RSS feed (feeds.megaphone.fm/ADL5931785564; 437 episodes, Oct 2018–Oct 2026), the Apple Podcasts directory API, Open Library, PubMed and ClinicalTrials.gov. Open items completed 2026-10-13 from the course, checkout and sarnosachs.com pages, the CE-provider statement, and YouTube/Instagram profile pages. Content paraphrased. Press coverage and Google Trends were not compiled; Reddit could not be queried (reddit.com blocked automated access on 2026-10-13).*
 
 ## At a glance
 | Field | |
@@ -8,14 +8,14 @@
 | Website | https://www.yourbreakawake.com/ ("BreakAwake"). The older domains thecureforchronicpain.com and nicolesachs.com redirect here. |
 | Founder(s) | **Nicole J. Sachs, LCSW**: psychotherapist (licensed clinical social worker) based in New York. At 19 she was diagnosed with a degenerative spinal condition and offered fusion surgery. She recovered via John Sarno's TMS approach, then became his colleague, lectured with him at NYU/Rusk and saw his patients in her private practice. She describes herself as one of a "handful of direct disciples" of Sarno. Lisa Eisenpresser, Sachs's partner (writer/producer), is listed as co-founder of Your BreakAwake and producer of the podcast. The practitioner training "Sarno x Sachs Solution" was co-created by Sachs, Eisenpresser and Christina Sarno (Sarno's daughter). |
 | Founded | Her clinical TMS practice dates to c. 2005 (the site claims "20+ years"). Branded program c. **2013–2018**: memoir *The Meaning of Truth* self-published 2013 (2nd ed. 2016); YouTube channel and the *Freedom from Chronic Pain* course existed before Oct 2018; podcast launched **18 Oct 2018**. |
-| Format / delivery | Free podcast (weekly, 437 episodes) and YouTube. Free JournalSpeak "3-step" guide (requires email). Self-paced online courses (14 lessons each). Two-tier membership (Zoom bootcamps, Facebook groups, weekly texts). 1:1 coaching with certified "BreakAwake practitioners". In-person retreats (yearly at Omega Institute, NY) plus virtual/mini retreats. Book *Mind Your Body* (2025). Clinician training "Sarno x Sachs Solution" (18.75 CE credits). Patreon. |
+| Format / delivery | Free podcast (weekly, 437 episodes) and YouTube. Free JournalSpeak "3-step" guide (requires email). Self-paced online courses (14 lessons each). Two-tier membership (Zoom bootcamps, Facebook groups, weekly texts). 1:1 coaching with certified "BreakAwake practitioners". In-person retreats (yearly at Omega Institute, NY) plus virtual/mini retreats. Book *Mind Your Body* (2025). Clinician training "Sarno x Sachs Solution" (8 modules, 32+ lessons; 18.75 CE credits via Amedco). Patreon. |
 | Business model | Freemium/hybrid: a large free podcast funnel plus paid courses, memberships, coaching, retreats and the book. Podcast carries sponsorship (e.g., Curable app ads and discount codes). |
-| Direct cost | Membership (Oct 2026): BreakAwake **US$9.99/mo or $99/yr**; Heal with Nicole **US$99/mo or $999/yr**. Coaching: **$160/session, sold in packs of 4 ($640)**. Courses: price not shown publicly; 1 year of access; a $75-off coupon was advertised, consistent with a price of a few hundred US$ (exact figure unverified). Omega recordings: $99 on sale. Book: standard hardcover price. Retreats priced separately. |
+| Direct cost | Membership (Oct 2026): BreakAwake **US$9.99/mo or $99/yr**; Heal with Nicole **US$99/mo or $999/yr**. Coaching: **$160/session, sold in packs of 4 ($640)**. Courses: **$349 each** (*Freedom from Chronic Pain*; *Freedom from an Anxious Life*), 1 year of access; occasional discounts (e.g., a $75-off coupon). Practitioner training: **$595, or $695 with 18.75 CE credits**. Omega recordings: $99 on sale. Book: standard hardcover price. Retreats priced separately. |
 | Conditions claimed | Chronic pain of all kinds (back, neck, sciatica, pelvic/IC, TMJ, migraine/headache, plantar fasciitis, trigeminal neuralgia, burning mouth); anxiety and panic; IBS/GI; fibromyalgia; ME/CFS; long COVID; POTS; vertigo/vestibular migraine; tinnitus; "chronic Lyme" and mould; autoimmune disease; skin conditions; allergies; insomnia; OCD; depression. The site says people can "live entirely free of chronic conditions." |
-| Mainstream adoption | Limited. No health-system or guideline adoption. Overlaps with the TMS/"mindbody" physician network (e.g., John Stracks MD, who wrote the book's foreword; Howard Schubiner MD and David Clarke MD have appeared as podcast guests). CE-accredited clinician training exists. |
+| Mainstream adoption | Limited. No health-system or guideline adoption. Overlaps with the TMS/"mindbody" physician network (e.g., John Stracks MD, who wrote the book's foreword; Howard Schubiner MD and David Clarke MD have appeared as podcast guests). CE-accredited clinician training exists (co-sponsored by Amedco, a jointly accredited provider approved by APA and ASWB ACE). |
 | Insurance reimbursable | No. Courses, membership, coaching and retreats are all self-pay. Sachs's earlier private LCSW psychotherapy could in principle have been billed as psychotherapy, but she does not currently offer 1:1 sessions. |
 | Evidence (peer-reviewed trials) | **None** of JournalSpeak or the Sachs program (PubMed and ClinicalTrials.gov return 0 hits for "JournalSpeak"). Indirect support comes only from trials of generic expressive writing and of EAET. |
-| Popularity signals | Podcast downloads: 2M (Oct 2021) → 5.5M (site, 2026); 437 episodes. Celebrity guests and testimonials (Ricki Lake, Rachel Platten, Catherine Oxenberg, NBA player Michael Porter Jr.). Book with a major publisher (Avery/Penguin Random House US; Vermilion/Ebury UK), plus a Spanish translation. Endorsement blurb from Arianna Huffington. Appearance on *The Jordan Harbinger Show* (2026). Omega retreats draw "hundreds." The About page claims both "hundreds of thousands" and "thousands of people around the world" supported (self-report, inconsistent). |
+| Popularity signals | Podcast downloads: 2M (Oct 2021) → 5.5M (site, 2026); 437 episodes. Celebrity guests and testimonials (Ricki Lake, Rachel Platten, Catherine Oxenberg, NBA player Michael Porter Jr.). Book with a major publisher (Avery/Penguin Random House US; Vermilion/Ebury UK), plus a Spanish translation. Endorsement blurb from Arianna Huffington. Social (Oct 2026): Instagram @nicolesachslcsw ~187K followers; YouTube ~31.2K subscribers, 124 videos. Appearance on *The Jordan Harbinger Show* (2026). Omega retreats draw "hundreds." The About page claims both "hundreds of thousands" and "thousands of people around the world" supported (self-report, inconsistent). |
 
 ## 1. Proposed mechanism(s)
 - **Sarno's TMS model, updated with nervous-system language.** Physical symptoms are real but have an "emotional genesis." The brain produces pain and other symptoms as a *protective distraction* that keeps intolerable, repressed emotions (rage, grief, shame, fear) out of awareness. Sachs's tagline: "The pain is NOT in your head, but the solution is not in your body."
@@ -36,7 +36,7 @@ The materials reviewed give no explicit diagnostic exclusion criteria beyond sta
 - As taught in the book and podcast: write privately and uncensored, in "tantrum" mode, about three domains: (1) past/childhood pain, (2) present-life stressors, (3) personality pressures such as perfectionism and people-pleasing.
 - Then destroy or delete what was written, so the writing is never reread or edited.
 - Follow with a short period of soothing meditation or self-compassion.
-- Commonly described dose: about 20 minutes of writing plus about 10 minutes of meditation, daily, open-ended. *(This dose is from secondary descriptions of the book and podcast; it is not shown on the public site.)*
+- Commonly described dose: about 20 minutes of writing plus about 10 minutes of meditation, daily, open-ended. *(From secondary descriptions of the book and podcast. Not stated on the public site, course pages, FAQ or podcast RSS descriptions, checked 2026-10-13; the book text could not be searched.)*
 - Members run a 28-day JournalSpeak Challenge.
 
 **Three "facets" (FAQ):**
@@ -74,7 +74,7 @@ The materials reviewed give no explicit diagnostic exclusion criteria beyond sta
 - **Self-help / New Thought-style framing**, e.g., "two forces in the universe, love and fear."
 
 ## 5. Mainstream adoption and insurance
-- **Adoption.** No uptake by health systems, guidelines (NICE, ACP, CDC) or insurers. Influence runs through the informal TMS/mindbody clinician network: physicians who refer to her (Stracks says he has referred for ~10 years), podcast guests (Schubiner, Clarke, Gofman), the CE-credited practitioner training, and cross-promotion with the Curable app.
+- **Adoption.** No uptake by health systems, guidelines (NICE, ACP, CDC) or insurers. Influence runs through the informal TMS/mindbody clinician network: physicians who refer to her (Stracks says he has referred for ~10 years), podcast guests (Schubiner, Clarke, Gofman), the CE-credited practitioner training (Amedco co-sponsor; APA and ASWB ACE credit), and cross-promotion with the Curable app.
 - **Insurance.** Not reimbursable; all offerings are self-pay. Coaching is delivered by non-licensed "certified" coaches and is not billed as psychotherapy.
 
 ## 6. Evidence base
@@ -99,7 +99,7 @@ The materials reviewed give no explicit diagnostic exclusion criteria beyond sta
 - **Oct 2021**: podcast passes **2 million downloads**.
 - **20 Sep 2024**: *Mind Your Body* announced for pre-order. Published **4 Feb 2025** (Avery/Penguin Random House US, ISBN 978-0-593-71693-9; Vermilion/Ebury UK; Penguin Audio audiobook May 2025), with a foreword by John Stracks MD and a blurb by Arianna Huffington. A Spanish edition, *Sana tu mente, cura tu cuerpo*, followed. A virtual "Mind Your Body Con" was held Feb 2025.
 - **2024–25**: rebrand to **BreakAwake**, tiered memberships, certified coach network, and the "Sarno x Sachs Solution" practitioner training with Christina Sarno.
-- **2026**: site claims **5.5M downloads**. Higher-profile media includes *The Jordan Harbinger Show* and an NBA player's (Michael Porter Jr.) recovery story.
+- **2026**: site claims **5.5M downloads**; Instagram ~187K followers, YouTube ~31.2K subscribers (Oct 2026). Higher-profile media includes *The Jordan Harbinger Show* and an NBA player's (Michael Porter Jr.) recovery story.
 - **Download figures.** Different figures (e.g., "3M") likely reflect older snapshots. The 2M (2021) and 5.5M (2026) figures are the dated ones.
 - **Overall**: steady growth since 2018 with an inflection in 2024–26 (book, membership, coaching). Within the TMS/mindbody niche she is one of the most visible figures, alongside Schubiner, Gordon/Curable and Dan Buglio.
 
@@ -120,6 +120,11 @@ The materials reviewed give no explicit diagnostic exclusion criteria beyond sta
 - https://www.yourbreakawake.com/faqs
 - https://www.yourbreakawake.com/book
 - https://www.yourbreakawake.com/podcast
+- https://www.yourbreakawake.com/course and https://www.yourbreakawake.com/anxiety-course (each "Price: $349 USD", one-year access)
+- https://www.sarnosachs.com/ and https://course.sarnosachs.com/offers/CKgd8YyT/checkout (training $595, or $695 with 18.75 CE credits; CE for APA, ASWB, NY SW/MHC/MFT/PSY)
+- https://drive.google.com/file/d/13djS-cW_eIDg7tFvRD1LPaelwrhZ-xjK/view (CE statement: co-sponsored by Amedco, Joint Accreditation provider 4008163; APA and ASWB ACE)
+- https://www.instagram.com/nicolesachslcsw/ (~187K followers, Oct 2026)
+- https://www.youtube.com/channel/UC-tz1Du69PhcBkC3-9_Mgmw (~31.2K subscribers, 124 videos, Oct 2026)
 - https://feeds.megaphone.fm/ADL5931785564 (podcast RSS; episode dates and descriptions, incl. "Two Million Downloads" 8 Oct 2021; "Mind Your Body the Book is Here" 20 Sep 2024, pub date 2/4/25)
 - https://podcasts.apple.com/us/podcast/id1439580309 (Apple Podcasts listing; 437 tracks)
 - https://openlibrary.org/search.json?author=Nicole+Sachs (book editions, publishers, years)
@@ -128,4 +133,4 @@ The materials reviewed give no explicit diagnostic exclusion criteria beyond sta
 - Frattaroli J. Experimental disclosure and its moderators: a meta-analysis. Psychol Bull. 2006;132(6):823-865. (generic expressive writing; not JournalSpeak)
 - Broderick JE, Junghaenel DU, Schwartz JE. Written emotional expression produces health benefits in fibromyalgia patients. Psychosom Med. 2005;67(2):326-34. PMID 15784801 (generic; not JournalSpeak)
 
-*Fact-checked 2026-10-12; corrections: Eisenpresser's role clarified (partner/co-founder of BreakAwake; co-creator of practitioner training with Christina Sarno); US imprint Avery, UK imprint Vermilion; self-reported reach figures are inconsistent ("thousands" vs "hundreds of thousands"); added the Broderick 2005 generic expressive-writing RCT. Prices, CE credits, credentials and zero-trials status verified.*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: course prices ($349 each) and practitioner-training price ($595/$695) verified; CE sponsor identified (Amedco; APA, ASWB ACE); Instagram and YouTube counts added; JournalSpeak dose still secondary-sourced only; Reddit blocked, press and Google Trends not compiled.*

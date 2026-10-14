@@ -2,57 +2,304 @@
   "slug": "gupta-program",
   "name": "Gupta Program (Amygdala and Insula Retraining, AIR)",
   "url": "https://guptaprogram.com/",
-  "founders": ["Ashok Gupta (UK; self-styled MA Cantab, MSc; not a physician; reports recovery from ME/CFS in his early twenties)"],
+  "founders": [
+    "Ashok Gupta (UK; self-styled MA Cantab, MSc; not a physician; reports recovery from ME/CFS in his early twenties)"
+  ],
   "founded_year": 2007,
-  "founded_year_range": "2006-2008 (estimate). Basis: hypothesis paper 2002; the Mayo pilot (registered Jan 2010) adapted 'an existing program'; user recall of a GBP 99 DVD course c. 2008; the 2018 ASA ruling records a home-study DVD course and workshops still on sale in 2017; renamed AIR c. 2020; app c. 2023.",
+  "founded_year_range": "2006-2007. Harley Street Solutions Ltd (t/a Gupta Amygdala Retraining) was incorporated on 18 Jul 2006 (Companies House 05880048). The earliest Wayback capture of guptaprogramme.com (Dec 2007) announces the newly launched DVD programme. The hypothesis paper appeared in 2002. A members' area existed by 2014 and a 'Gupta Program Online' subscription by 2019. Renamed AIR c. 2019-2020. App released 23 Jun 2023.",
   "category": "limbic/brain retraining course",
-  "delivery": ["online course", "app", "group (live webinars/daily sessions)", "coaching", "printed manual/DVD (historic)"],
+  "delivery": [
+    "online course",
+    "app",
+    "group (live webinars/daily sessions)",
+    "coaching",
+    "printed manual/DVD (historic)"
+  ],
   "business_model": "commercial",
-  "cost_summary": "US$499/year or $99/month x 6 ($594) (purchase page, Oct 2026). Both include webinars, daily live sessions, AI support and a mailed manual and chart. 28-day free trial with no card required. 'One-year money-back guarantee' with conditions on a separate page. Historically a GBP 99 DVD course (c. 2008).",
+  "cost_summary": "US$499/year or $99/month x 6 ($594) (purchase page, Oct 2026). Both include webinars, daily live sessions, AI support and a mailed manual and chart. 28-day free trial with no card required. 'One-year money-back guarantee' with conditions on a separate page. Historically: DVD programme GBP 145 / US$290 list price (launch offer GBP 95 / $190, Dec 2007); online program $349 for the first year then $50/yr (Jul 2019).",
   "cost_usd_typical": 499,
-  "conditions_claimed": ["ME/CFS", "long COVID", "fibromyalgia", "POTS/dysautonomia", "MCS/IEI", "EHS", "MCAS", "mould/CIRS", "chronic Lyme", "IBS/functional GI", "adrenal fatigue", "anxiety", "burnout", "chronic pain (general)", "headache/migraine", "drug withdrawal", "food sensitivities", "SIBO", "autoimmune conditions", "multiple sclerosis symptoms (trial)", "perimenopause (trial)"],
-  "conditions_primary": ["ME/CFS", "long COVID", "fibromyalgia", "MCS/IEI"],
+  "conditions_claimed": [
+    "ME/CFS",
+    "long COVID",
+    "fibromyalgia",
+    "POTS/dysautonomia",
+    "MCS/IEI",
+    "EHS",
+    "MCAS",
+    "mould/CIRS",
+    "chronic Lyme",
+    "IBS/functional GI",
+    "adrenal fatigue",
+    "anxiety",
+    "burnout",
+    "chronic pain (general)",
+    "headache/migraine",
+    "drug withdrawal",
+    "food sensitivities",
+    "SIBO",
+    "autoimmune conditions",
+    "multiple sclerosis symptoms (trial)",
+    "perimenopause (trial)"
+  ],
+  "conditions_primary": [
+    "ME/CFS",
+    "long COVID",
+    "fibromyalgia",
+    "MCS/IEI"
+  ],
   "differentiation": "single unified mechanism",
-  "mechanisms": ["limbic system impairment / amygdala threat conditioning", "attention & interoception / hypervigilance", "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")", "conditioning / classical learning", "inflammation / immune", "stress / HPA axis"],
+  "mechanisms": [
+    "limbic system impairment / amygdala threat conditioning",
+    "attention & interoception / hypervigilance",
+    "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")",
+    "conditioning / classical learning",
+    "inflammation / immune",
+    "stress / HPA axis"
+  ],
   "mechanism_summary": "After a combined stressor (virus, chemical exposure, pain, prolonged psychological stress), the amygdala and insula become conditioned to treat bodily and visceral signals and environmental triggers as threats. This keeps up an unconscious loop of sympathetic outflow and immune/nervous-system activation that produces fatigue, pain and sensitivities. Recovery comes from prefrontal top-down interruption of the loop and neuroplastic retraining toward 'safety' signals. The same mechanism is applied to all ~20 conditions; only the triggers differ. The mechanism has not been tested in any trial (no imaging or conditioning measures).",
-  "roots": ["behaviorism / classical conditioning", "Pavlov", "NLP", "CBT (Beck/Ellis)", "Buddhist vipassana/insight meditation", "Hindu yoga/pranayama", "life coaching / positive psychology", "polyvagal theory", "functional/integrative medicine", "LeDoux amygdala fear-conditioning neuroscience"],
-  "techniques": ["Multi-step retraining protocol ('7-step') with a floor/printed retraining chart: notice the symptom or trigger, 'STOP' interrupt, step across the chart, calming statements, visualisation of a healthy self and positive emotion", "30-60 s mini-retrains many times daily", "20-min daily mindfulness meditation", "Alternate-nostril breathing and breathwork", "Somatic/vagus-nerve regulation exercises and daily live 'Guptacise' sessions", "Lifestyle: sleep, nutrition, pacing-type energy management, supplement suggestions, calm morning ritual", "'Retraining parts' work on self-talk, perfectionism, people-pleasing", "Weekly webinars with Gupta, coaches, forum, buddy system, AI support", "Dose ~40-60 min/day for a minimum of 3, ideally 6 months"],
+  "roots": [
+    "behaviorism / classical conditioning",
+    "Pavlov",
+    "NLP",
+    "CBT (Beck/Ellis)",
+    "Buddhist vipassana/insight meditation",
+    "Hindu yoga/pranayama",
+    "life coaching / positive psychology",
+    "polyvagal theory",
+    "functional/integrative medicine",
+    "LeDoux amygdala fear-conditioning neuroscience"
+  ],
+  "techniques": [
+    "Multi-step retraining protocol ('7-step') with a floor/printed retraining chart: notice the symptom or trigger, 'STOP' interrupt, step across the chart, calming statements, visualisation of a healthy self and positive emotion",
+    "30-60 s mini-retrains many times daily",
+    "20-min daily mindfulness meditation",
+    "Alternate-nostril breathing and breathwork",
+    "Somatic/vagus-nerve regulation exercises and daily live 'Guptacise' sessions",
+    "Lifestyle: sleep, nutrition, pacing-type energy management, supplement suggestions, calm morning ritual",
+    "'Retraining parts' work on self-talk, perfectionism, people-pleasing",
+    "Weekly webinars with Gupta, coaches, forum, buddy system, AI support",
+    "Dose ~40-60 min/day for a minimum of 3, ideally 6 months"
+  ],
   "mainstream_adoption": "limited",
-  "mainstream_notes": "Studied at Mayo Clinic (pilot RCT 2010-11), Hospital Miguel Servet/Zaragoza (Spanish NHS; FM 2015-16, long COVID 2023-24), Helsinki University Hospital (n=360 planned RCT; registry status unknown) and Miami VA (registry status unknown). No guideline endorsement. NICE NG206 (2021) says not to offer the Lightning Process 'or therapies based on it'; Gupta is not named, but the program is often grouped in this class. Clinical uptake runs mainly through functional/integrative-medicine referrals and a paid affiliate scheme.",
+  "mainstream_notes": "Studied at Mayo Clinic (pilot RCT 2010-11), Hospital Miguel Servet/Zaragoza (Spanish NHS; FM 2015-16, long COVID 2023-24), Helsinki University Hospital (n=360 planned RCT; registry status unknown, last updated Feb 2022, no results by Oct 2026) and Miami VA (status unknown, last updated May 2023, no results by Oct 2026). No guideline endorsement. NICE NG206 (2021) says not to offer the Lightning Process 'or therapies based on it'; Gupta is not named, but the program is often grouped in this class. Clinical uptake runs mainly through functional/integrative-medicine referrals and a paid affiliate scheme.",
   "insurance": "no",
   "insurance_notes": "Self-pay subscription. No insurer coverage, CPT billing or HSA/FSA eligibility found.",
   "evidence_level": "multiple RCTs",
   "key_trials": [
-    {"citation": "Toussaint LL, Whipple MO, Abboud LL, Vincent A, Wahner-Roedler DL. A mind-body technique for symptoms related to fibromyalgia and chronic fatigue. Explore (NY) 2012;8(2):92-98", "design": "Single-blind pilot RCT (Mayo Clinic; NCT01046370). Amygdala retraining (2.5-h course + home video course, adapted from the program) + 1.5-day program vs the program alone.", "n": 44, "finding": "Greater gains in SF-36 physical health, energy, pain, symptom distress and fatigue. Only 21 of 44 completed (7 AIR vs 14 control). The ASA cited this attrition when rejecting the trial as substantiation.", "url": "https://doi.org/10.1016/j.explore.2011.12.003"},
-    {"citation": "Sanabria-Mazo JP, Montero-Marin J, Feliu-Soler A, et al., Garcia-Campayo J. Mindfulness-Based Program Plus Amygdala and Insula Retraining (MAIR) for the Treatment of Women with Fibromyalgia: A Pilot RCT. J Clin Med 2020;9(10):3246", "design": "Pilot RCT, MAIR (hybrid) vs relaxation therapy, both added to TAU (Zaragoza). The linked registration NCT02454244 listed compassion therapy as comparator.", "n": 41, "finding": "Greater reductions in FIQ, anxiety and depression; NNT 3 for >=50% FIQ reduction; BDNF decreased; no change in TNF-a, IL-6, IL-10 or hs-CRP.", "url": "https://doi.org/10.3390/jcm9103246"},
-    {"citation": "Toussaint LL, Bratty AJ. Amygdala and Insula Retraining (AIR) Significantly Reduces Fatigue and Increases Energy in People with Long COVID. Evid Based Complement Alternat Med 2023:7068326", "design": "Online RCT, branded AIR vs '12 Weeks to Wellness' active control. Self-identified long COVID, recruited from Facebook groups. Not registered.", "n": 100, "finding": "MFI fatigue fell 19% vs 8%. Between-group difference significant at months 1-2, p=0.058 at month 3, and non-significant at all timepoints on LOCF (N=100). SF-36 energy did not differ between groups. Only 40 completed. Co-author's consultancy serves the company and is paid by donors.", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10365910/"},
-    {"citation": "Norouzi E, Pournazari M, Ahmadi Joybari T, Sufivand P, Asar S, Bratty AJ, Khazaie H. Two non-pharmacological interventions, AIR and physical activity, are both significantly more effective than standard medication in improving symptoms of fibromyalgia. Current Psychology 2025;44:8605-8618", "design": "3-arm RCT, AIR (app + in-person groups) vs physical activity vs pregabalin, Iranian women with FM", "n": 145, "finding": "AIR and exercise beat pregabalin on FIQ, sleep, catastrophizing and depression. 86 completed. AIR and exercise arms were asked to stop FM medication. Bratty co-author.", "url": "https://doi.org/10.1007/s12144-025-07808-w"},
-    {"citation": "Ghaleni MA, Masrour FF, Saryar N, Bratty AJ, Norouzi E, Fernandes MSS, Badicu G. Effects of an intervention combining physical activity and components of AIR on sleep and working memory among older male adults. AIMS Neurosci 2024;11(3)", "design": "RCT, physical activity + selected AIR components vs control, in person for 12 wk; non-clinical older Iranian men", "n": 40, "finding": "Improved sleep, working memory, emotion regulation and depression vs control (36 completed). Not a target clinical population; hybrid intervention.", "url": "https://doi.org/10.3934/neuroscience.2024025"},
-    {"citation": "Bratty AJ. Neuroplasticity Intervention, AIR, Significantly Improves Overall Health and Functioning Across Various Chronic Conditions. Integr Med (Encinitas) 2023;22(6) (PMID 38404605)", "design": "Uncontrolled cross-sectional retrospective user survey, 16 conditions (convenience sample)", "n": 222, "finding": "Self-reported health gains in 14 of 16 conditions. This is the source of the website's percentages. Not a trial.", "url": "https://pubmed.ncbi.nlm.nih.gov/38404605/"}
+    {
+      "citation": "Toussaint LL, Whipple MO, Abboud LL, Vincent A, Wahner-Roedler DL. A mind-body technique for symptoms related to fibromyalgia and chronic fatigue. Explore (NY) 2012;8(2):92-98",
+      "design": "Single-blind pilot RCT (Mayo Clinic; NCT01046370). Amygdala retraining (2.5-h course + home video course, adapted from the program) + 1.5-day program vs the program alone.",
+      "n": 44,
+      "finding": "Greater gains in SF-36 physical health, energy, pain, symptom distress and fatigue. Only 21 of 44 completed (7 AIR vs 14 control). The ASA cited this attrition when rejecting the trial as substantiation.",
+      "url": "https://doi.org/10.1016/j.explore.2011.12.003"
+    },
+    {
+      "citation": "Sanabria-Mazo JP, Montero-Marin J, Feliu-Soler A, et al., Garcia-Campayo J. Mindfulness-Based Program Plus Amygdala and Insula Retraining (MAIR) for the Treatment of Women with Fibromyalgia: A Pilot RCT. J Clin Med 2020;9(10):3246",
+      "design": "Pilot RCT, MAIR (hybrid) vs relaxation therapy, both added to TAU (Zaragoza). The linked registration NCT02454244 listed compassion therapy as comparator.",
+      "n": 41,
+      "finding": "Greater reductions in FIQ, anxiety and depression; NNT 3 for >=50% FIQ reduction; BDNF decreased; no change in TNF-a, IL-6, IL-10 or hs-CRP.",
+      "url": "https://doi.org/10.3390/jcm9103246"
+    },
+    {
+      "citation": "Toussaint LL, Bratty AJ. Amygdala and Insula Retraining (AIR) Significantly Reduces Fatigue and Increases Energy in People with Long COVID. Evid Based Complement Alternat Med 2023:7068326",
+      "design": "Online RCT, branded AIR vs '12 Weeks to Wellness' active control. Self-identified long COVID, recruited from Facebook groups. Not registered.",
+      "n": 100,
+      "finding": "MFI fatigue fell 19% vs 8%. Between-group difference significant at months 1-2, p=0.058 at month 3, and non-significant at all timepoints on LOCF (N=100). SF-36 energy did not differ between groups. Only 40 completed. Co-author's consultancy serves the company and is paid by donors.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10365910/"
+    },
+    {
+      "citation": "Norouzi E, Pournazari M, Ahmadi Joybari T, Sufivand P, Asar S, Bratty AJ, Khazaie H. Two non-pharmacological interventions, AIR and physical activity, are both significantly more effective than standard medication in improving symptoms of fibromyalgia. Current Psychology 2025;44:8605-8618",
+      "design": "3-arm RCT, AIR (app + in-person groups) vs physical activity vs pregabalin, Iranian women with FM",
+      "n": 145,
+      "finding": "AIR and exercise beat pregabalin on FIQ, sleep, catastrophizing and depression. 86 completed. AIR and exercise arms were asked to stop FM medication. Bratty co-author.",
+      "url": "https://doi.org/10.1007/s12144-025-07808-w"
+    },
+    {
+      "citation": "Ghaleni MA, Masrour FF, Saryar N, Bratty AJ, Norouzi E, Fernandes MSS, Badicu G. Effects of an intervention combining physical activity and components of AIR on sleep and working memory among older male adults. AIMS Neurosci 2024;11(3)",
+      "design": "RCT, physical activity + selected AIR components vs control, in person for 12 wk; non-clinical older Iranian men",
+      "n": 40,
+      "finding": "Improved sleep, working memory, emotion regulation and depression vs control (36 completed). Not a target clinical population; hybrid intervention.",
+      "url": "https://doi.org/10.3934/neuroscience.2024025"
+    },
+    {
+      "citation": "Bratty AJ. Neuroplasticity Intervention, AIR, Significantly Improves Overall Health and Functioning Across Various Chronic Conditions. Integr Med (Encinitas) 2023;22(6) (PMID 38404605)",
+      "design": "Uncontrolled cross-sectional retrospective user survey, 16 conditions (convenience sample)",
+      "n": 222,
+      "finding": "Self-reported health gains in 14 of 16 conditions. This is the source of the website's percentages. Not a trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38404605/"
+    }
   ],
   "controversy": "UK ASA ruling A17-400324 (11 Apr 2018, against Harley Street Solutions Ltd t/a Gupta Amygdala Retraining) upheld all three complaints: claims to treat fibromyalgia, CFS/ME and 'electrical sensitivities' were unsubstantiated (CAP 3.1, 3.7, 12.1). The ASA judged the Mayo trial (over half dropped out), a draft study and an uncontrolled company audit insufficient. The current site still lists these conditions (including electrical hypersensitivity) under 'Conditions We Treat/Support' and calls the program 'clinically proven'. ME/CFS patient communities object to the conditioned-brain premise, the risk of overriding symptoms and triggering PEM, the cost, the restrictive guarantee and implied blame. Recent trials are co-authored by a paid company consultant and funded by donors through an affiliated fund (CCRF). Two CCRF trials (MS, mould) were registered retrospectively in Feb 2026, after completion. Headline percentages (e.g. '92% report symptom reversal') come from uncontrolled user surveys. Claims have expanded to Lyme, SIBO, MS and autoimmunity. Not to be confused with CNN's Sanjay Gupta.",
   "popularity": {
     "indicators": [
-      {"metric": "Claimed users", "value": "40,000+ 'lives transformed'; 6,000+ health professionals", "source": "guptaprogram.com (company claim, unverified)", "year": 2026},
-      {"metric": "YouTube @GuptaProgram subscribers", "value": "~11.7K subscribers; ~1.35M channel views", "source": "youtube.com (researcher scrape; not re-verified)", "year": 2026},
-      {"metric": "Trustpilot reviews", "value": "465 reviews, 4.5/5; 60 in last 12 months", "source": "uk.trustpilot.com (homepage confirms 4.5 rating)", "year": 2026},
-      {"metric": "Google Play installs", "value": "10K+", "source": "play.google.com (not re-verified)", "year": 2026},
-      {"metric": "Peer-reviewed AIR papers", "value": "~9 indexed items specifically on AIR (2002-2025): 5 RCTs, 1 survey, 2 protocols, 1 hypothesis paper", "source": "Europe PMC", "year": 2026},
-      {"metric": "Registered trials", "value": "8 on ClinicalTrials.gov (2010-2026), 5 since 2022; 2 registered retrospectively", "source": "ClinicalTrials.gov API", "year": 2026},
-      {"metric": "Media", "value": "Long-COVID RCT press coverage (HealthDay, Newswise) July 2023; Integrative Medicine interviews 2021, 2022, 2024", "source": "healthday.com, newswise.com, Europe PMC", "year": 2023}
+      {
+        "metric": "Claimed users",
+        "value": "40,000+ 'lives transformed'; 6,000+ health professionals",
+        "source": "guptaprogram.com (company claim, unverified)",
+        "year": 2026
+      },
+      {
+        "metric": "YouTube @GuptaProgram subscribers",
+        "value": "11.7K subscribers; 1,350,810 channel views; channel joined Jan 2008",
+        "source": "youtube.com/@GuptaProgram/about (checked 2026-10-13)",
+        "year": 2026
+      },
+      {
+        "metric": "Trustpilot reviews",
+        "value": "465 reviews, 4.5/5; 60 in last 12 months",
+        "source": "uk.trustpilot.com (homepage confirms 4.5 rating)",
+        "year": 2026
+      },
+      {
+        "metric": "Google Play installs",
+        "value": "10K+",
+        "source": "play.google.com (checked 2026-10-13)",
+        "year": 2026
+      },
+      {
+        "metric": "iOS App Store ratings",
+        "value": "210 ratings, 4.75/5; released 23 Jun 2023 (seller Harley Street Solutions LTD)",
+        "source": "iTunes Search API / apps.apple.com (checked 2026-10-13)",
+        "year": 2026
+      },
+      {
+        "metric": "Reddit",
+        "value": "No dedicated subreddit. Post titles mentioning Gupta, 2018-2026: 8 in r/LongCovid, 9 in r/MCAS, 4 in r/Fibromyalgia",
+        "source": "Arctic Shift Reddit archive API (checked 2026-10-13)",
+        "year": 2026
+      },
+      {
+        "metric": "Peer-reviewed AIR papers",
+        "value": "~9 indexed items specifically on AIR (2002-2025): 5 RCTs, 1 survey, 2 protocols, 1 hypothesis paper",
+        "source": "Europe PMC",
+        "year": 2026
+      },
+      {
+        "metric": "Registered trials",
+        "value": "8 on ClinicalTrials.gov (2010-2026), 5 since 2022; 2 registered retrospectively",
+        "source": "ClinicalTrials.gov API",
+        "year": 2026
+      },
+      {
+        "metric": "Media",
+        "value": "Long-COVID RCT: Luther College press release on Newswise and HealthDay coverage, 24 Jul 2023; Integrative Medicine pieces 2021 (PMID 34377093), 2022 (PMID 35431691), 2024 (PMID 38911448)",
+        "source": "healthday.com, newswise.com, Europe PMC (verified 2026-10-13)",
+        "year": 2023
+      }
     ],
     "reach_estimate": "~40,000-60,000 paying or enrolled users (company claim 40k+), plus a wider free YouTube/webinar audience; order 10^4.7",
     "reach_log10": 4.7,
     "trajectory": [
-      {"year": 2002, "relative_activity": 0.5}, {"year": 2005, "relative_activity": 0.5}, {"year": 2007, "relative_activity": 1.5}, {"year": 2009, "relative_activity": 2.5}, {"year": 2010, "relative_activity": 3}, {"year": 2012, "relative_activity": 3.5}, {"year": 2014, "relative_activity": 3.5}, {"year": 2016, "relative_activity": 3.5}, {"year": 2018, "relative_activity": 4}, {"year": 2019, "relative_activity": 4}, {"year": 2020, "relative_activity": 5.5}, {"year": 2021, "relative_activity": 7.5}, {"year": 2022, "relative_activity": 8.5}, {"year": 2023, "relative_activity": 9.5}, {"year": 2024, "relative_activity": 9.5}, {"year": 2025, "relative_activity": 9}, {"year": 2026, "relative_activity": 8.5}
+      {
+        "year": 2002,
+        "relative_activity": 0.5
+      },
+      {
+        "year": 2005,
+        "relative_activity": 0.5
+      },
+      {
+        "year": 2007,
+        "relative_activity": 1.5
+      },
+      {
+        "year": 2009,
+        "relative_activity": 2.5
+      },
+      {
+        "year": 2010,
+        "relative_activity": 3
+      },
+      {
+        "year": 2012,
+        "relative_activity": 3.5
+      },
+      {
+        "year": 2014,
+        "relative_activity": 3.5
+      },
+      {
+        "year": 2016,
+        "relative_activity": 3.5
+      },
+      {
+        "year": 2018,
+        "relative_activity": 4
+      },
+      {
+        "year": 2019,
+        "relative_activity": 4
+      },
+      {
+        "year": 2020,
+        "relative_activity": 5.5
+      },
+      {
+        "year": 2021,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2022,
+        "relative_activity": 8.5
+      },
+      {
+        "year": 2023,
+        "relative_activity": 9.5
+      },
+      {
+        "year": 2024,
+        "relative_activity": 9.5
+      },
+      {
+        "year": 2025,
+        "relative_activity": 9
+      },
+      {
+        "year": 2026,
+        "relative_activity": 8.5
+      }
     ],
-    "method_notes": "The trajectory was pieced together from dated events because Google Trends and Reddit could not be checked (search quota exhausted). Events used: the 2002 hypothesis paper; the DVD course c. 2007 (user recall; DVD and workshops confirmed on sale in 2017 by the ASA ruling); the Mayo pilot 2010-2012; the ASA ruling and S4ME thread 2018; long-COVID-driven growth from 2020 (Integr Med interviews 2021-22, RCT and press 2023, app c. 2023, CCRF trial registrations 2022-2026); and Trustpilot's 60 reviews in the last 12 months. Reach rests on the company's own 40k+ claim, cross-checked against 10K+ Android installs, 11.7K YouTube subscribers and 465 Trustpilot reviews. Treat it as an upper-bound company figure."
+    "method_notes": "The trajectory was pieced together from dated events. Google Trends could not be retrieved (the API returned HTTP 429 on 2026-10-13). Reddit was checked through the Arctic Shift archive and shows a small footprint. Events used: the 2002 hypothesis paper; company incorporation in Jul 2006 and the DVD launch in late 2007 (Wayback); the YouTube channel opened Jan 2008; the Mayo pilot 2009-2012; members' area and webinars 2013-14; the ASA ruling and S4ME thread 2018; the online subscription by 2019; long-COVID-driven growth from 2020 (Integr Med pieces 2021, 2022 and 2024; RCT and press Jul 2023; app Jun 2023; CCRF trial registrations 2022-2026); and Trustpilot's 60 reviews in the last 12 months. Reach rests on the company's own 40k+ claim, cross-checked against 10K+ Android installs, 210 iOS ratings, 11.7K YouTube subscribers and 465 Trustpilot reviews. Treat it as an upper-bound company figure."
   },
   "sources": [
-    "https://guptaprogram.com/", "https://guptaprogram.com/how-the-program-works/", "https://guptaprogram.com/purchase-gupta-program/", "https://guptaprogram.com/research/", "https://guptaprogram.com/treatment-for/me-cfs/", "https://guptaprogram.com/health-professionals/", "https://guptaprogram.com/ashoks-story/",
-    "https://doi.org/10.1016/s0306-9877(02)00321-3", "https://doi.org/10.1016/j.explore.2011.12.003", "https://doi.org/10.3390/jcm9103246", "https://pmc.ncbi.nlm.nih.gov/articles/PMC10365910/", "https://pubmed.ncbi.nlm.nih.gov/38404605/", "https://doi.org/10.3934/neuroscience.2024025", "https://doi.org/10.1007/s12144-025-07808-w", "https://doi.org/10.1186/s12906-023-04240-0", "https://doi.org/10.1371/journal.pone.0316169",
-    "https://clinicaltrials.gov/study/NCT01046370", "https://clinicaltrials.gov/study/NCT02454244", "https://clinicaltrials.gov/study/NCT05956405", "https://clinicaltrials.gov/study/NCT05212467", "https://clinicaltrials.gov/study/NCT05851846", "https://clinicaltrials.gov/study/NCT07427433", "https://clinicaltrials.gov/study/NCT07425431", "https://clinicaltrials.gov/study/NCT07427459",
-    "https://www.asa.org.uk/rulings/harley-street-solutions-ltd-a17-400324.html", "https://me-pedia.org/wiki/The_Gupta_Program",
-    "https://doi.org/10.1136/bmj-2024-081318", "https://s4me.info/threads/gupta-amygdala-training-program-for-me-cfs-fm-and-long-covid-news-and-discussion.3507/", "https://uk.trustpilot.com/review/guptaprogram.com", "https://www.youtube.com/@GuptaProgram", "https://www.healthday.com/healthpro-news/infectious-disease/physician-s-briefing-postacute-2662299224.html", "https://doi.org/10.1007/s10551-025-06230-3"
+    "https://guptaprogram.com/",
+    "https://guptaprogram.com/how-the-program-works/",
+    "https://guptaprogram.com/purchase-gupta-program/",
+    "https://guptaprogram.com/research/",
+    "https://guptaprogram.com/treatment-for/me-cfs/",
+    "https://guptaprogram.com/health-professionals/",
+    "https://guptaprogram.com/ashoks-story/",
+    "https://doi.org/10.1016/s0306-9877(02)00321-3",
+    "https://doi.org/10.1016/j.explore.2011.12.003",
+    "https://doi.org/10.3390/jcm9103246",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10365910/",
+    "https://pubmed.ncbi.nlm.nih.gov/38404605/",
+    "https://doi.org/10.3934/neuroscience.2024025",
+    "https://doi.org/10.1007/s12144-025-07808-w",
+    "https://doi.org/10.1186/s12906-023-04240-0",
+    "https://doi.org/10.1371/journal.pone.0316169",
+    "https://clinicaltrials.gov/study/NCT01046370",
+    "https://clinicaltrials.gov/study/NCT02454244",
+    "https://clinicaltrials.gov/study/NCT05956405",
+    "https://clinicaltrials.gov/study/NCT05212467",
+    "https://clinicaltrials.gov/study/NCT05851846",
+    "https://clinicaltrials.gov/study/NCT07427433",
+    "https://clinicaltrials.gov/study/NCT07425431",
+    "https://clinicaltrials.gov/study/NCT07427459",
+    "https://www.asa.org.uk/rulings/harley-street-solutions-ltd-a17-400324.html",
+    "https://me-pedia.org/wiki/The_Gupta_Program",
+    "https://doi.org/10.1136/bmj-2024-081318",
+    "https://s4me.info/threads/gupta-amygdala-training-program-for-me-cfs-fm-and-long-covid-news-and-discussion.3507/",
+    "https://uk.trustpilot.com/review/guptaprogram.com",
+    "https://www.youtube.com/@GuptaProgram",
+    "https://www.healthday.com/healthpro-news/infectious-disease/physician-s-briefing-postacute-2662299224.html",
+    "https://doi.org/10.1007/s10551-025-06230-3",
+    "https://find-and-update.company-information.service.gov.uk/company/05880048",
+    "https://web.archive.org/web/20071214043850/http://www.guptaprogramme.com/html/dvdprog.asp",
+    "https://web.archive.org/web/20190716015411/https://www.guptaprogram.com/purchase-gupta-program/",
+    "https://www.newswise.com/articles/new-published-research-shows-amygdala-insula-retraining-significantly-reduces-long-covid-fatigue",
+    "https://apps.apple.com/us/app/gupta-program-brain-retraining/id6449983590",
+    "https://play.google.com/store/apps/details?id=com.mightybell.guptaprogram",
+    "https://arctic-shift.photon-reddit.com/"
   ]
 }

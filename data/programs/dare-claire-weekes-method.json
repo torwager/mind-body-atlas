@@ -7,14 +7,37 @@
     "Dr Claire Weekes (1903-1990; Australian physician/GP; BSc 1926, DSc 1930 Sydney, MB 1945; MBE 1978)"
   ],
   "founded_year": 1962,
-  "founded_year_range": "Weekes 1962 (Self Help for Your Nerves); McDonagh Panic Away c. 2001-2004 (Goodreads: 2004); DARE book 2015; DARE app ~2015-16 (iOS ID 1034311206)",
+  "founded_year_range": "Weekes 1962 (Self Help for Your Nerves); McDonagh Panic Away c. 2004-05 (Goodreads: April 2004; panicaway.com registered 2005); DARE book 2015; DARE iOS app released 9 Sep 2015",
   "category": "influencer/author method",
-  "delivery": ["book", "app", "coaching", "group", "online course", "podcast"],
+  "delivery": [
+    "book",
+    "app",
+    "coaching",
+    "group",
+    "online course",
+    "podcast"
+  ],
   "business_model": "freemium/hybrid",
-  "cost_summary": "DARE app has a free tier. US iOS premium is $9.99-12.99/mo or $53.99-69.99/yr, and one-off 'Rapid Relief' audio packs cost $16.99. Book is about $15-20. 1:1 coaching is $85-90 per 30 min or $170-180 per hour (2026). Bootcamp and Advanced prices are not public. Weekes books cost about $10-18.",
+  "cost_summary": "DARE app has a free tier. US iOS premium is $9.99-12.99/mo or $53.99-69.99/yr, and one-off 'Rapid Relief' audio packs cost $16.99. Book is about $15-20. 1:1 coaching is $85-90 per 30 min or $170-180 per hour (2026). DARE Advanced is $39.95/mo (sale from $79.99, Oct 2026); Bootcamp and Academy prices are not published. Weekes books cost about $10-18.",
   "cost_usd_typical": 60,
-  "conditions_claimed": ["anxiety", "panic disorder", "agoraphobia", "health anxiety", "insomnia", "social anxiety", "intrusive thoughts/OCD-like", "depersonalization/derealization", "somatic symptom disorder", "general stress/wellbeing"],
-  "conditions_primary": ["anxiety", "panic disorder", "agoraphobia", "health anxiety"],
+  "conditions_claimed": [
+    "anxiety",
+    "panic disorder",
+    "agoraphobia",
+    "health anxiety",
+    "insomnia",
+    "social anxiety",
+    "intrusive thoughts/OCD-like",
+    "depersonalization/derealization",
+    "somatic symptom disorder",
+    "general stress/wellbeing"
+  ],
+  "conditions_primary": [
+    "anxiety",
+    "panic disorder",
+    "agoraphobia",
+    "health anxiety"
+  ],
   "differentiation": "single unified mechanism",
   "mechanisms": [
     "autonomic/nervous system dysregulation (sympathetic overdrive, \"stuck in fight-or-flight\")",
@@ -24,7 +47,15 @@
     "attention & interoception / hypervigilance"
   ],
   "mechanism_summary": "Weekes held that a stressor sensitizes the nervous system, so fear and bodily sensations come faster and stronger than normal. \"Second fear\" (fear of the first fear, plus \"what if\" thinking and struggle) re-sensitizes the system and keeps the cycle going. Recovery comes from changing one's reaction to the sensations (face, accept, float, let time pass), which lets the system self-desensitize; finding the original cause is not needed. DARE restates this in modern terms: resisting, avoiding and seeking safety from a harmless fight-or-flight response maintains anxiety, and repeatedly allowing and even inviting the sensations \"retrains\" the nervous system. Both use one transdiagnostic model, with no differentiation by medical syndrome.",
-  "roots": ["Claire Weekes sensitization model", "Cannon fight-or-flight / Selye stress theory", "CBT (Beck/Ellis)", "third-wave CBT (ACT, DBT)", "behaviorism / classical conditioning", "Frankl paradoxical intention", "mindfulness"],
+  "roots": [
+    "Claire Weekes sensitization model",
+    "Cannon fight-or-flight / Selye stress theory",
+    "CBT (Beck/Ellis)",
+    "third-wave CBT (ACT, DBT)",
+    "behaviorism / classical conditioning",
+    "Frankl paradoxical intention",
+    "mindfulness"
+  ],
   "techniques": [
     "Weekes: face, accept, float, let time pass",
     "DARE: Defuse ('so what' to what-ifs), Allow, Run toward (invite anxiety, relabel it as excitement), Engage (absorbing activity)",
@@ -41,16 +72,16 @@
     "lifestyle advice (sleep, caffeine, alcohol, exercise)"
   ],
   "mainstream_adoption": "limited",
-  "mainstream_notes": "The ADAA credits Weekes as a precursor of CBT for anxiety: Elizabeth DuPont Spencer's blog calls her the 'Grandmother of Cognitive Behavioral Treatment for Anxiety', Robert DuPont credited her books as the inspiration for his panic treatment, and the ADAA lists a Weekes-based peer support group. David Barlow praised her protocol in a blurb for Hoare's biography. Her books are widely recommended for bibliotherapy, but no health system delivers her method as a formal protocol. DARE has no NHS, NICE, VA or insurer adoption. Its App Store listing claims ORCHA approval (unverified). The NZ consumer site Healthify rated the app 3/5 in 2022, noting useful CBT/ACT elements but no evidence base for the method as a whole.",
+  "mainstream_notes": "The ADAA credits Weekes as a precursor of CBT for anxiety: Elizabeth DuPont Spencer's blog calls her the 'Grandmother of Cognitive Behavioral Treatment for Anxiety', Robert DuPont credited her books as the inspiration for his panic treatment, and the ADAA lists a Weekes-based peer support group. David Barlow praised her protocol in a blurb for Hoare's biography. Her books are widely recommended for bibliotherapy, but no health system delivers her method as a formal protocol. DARE has no NHS, NICE, VA or insurer adoption. Its App Store listing states 'Approved by ORCHA' (ORCHA's public library would not load to confirm). The NZ consumer site Healthify rated the app 3/5 in 2022, noting useful CBT/ACT elements but no evidence base for the method as a whole.",
   "insurance": "no",
   "insurance_notes": "App subscription and coaching are paid out of pocket. Coaching is explicitly framed as 'not therapy or a substitute for therapy', so it cannot be billed as psychotherapy.",
   "evidence_level": "case reports/observational only",
   "key_trials": [
     {
       "citation": "Weekes C. A practical treatment of agoraphobia. Br Med J 1973;2(5864):469-71. doi:10.1136/bmj.2.5864.469. PMID 4712489",
-      "design": "Uncontrolled author-run case series; treatment largely remote (books, recordings)",
-      "finding": "The author reported that most agoraphobic patients improved. There was no control group and outcomes were self-reported. The citation was verified, but the abstract and full text were not accessible, so N was not verified.",
-      "n": null,
+      "design": "Uncontrolled author-run questionnaire survey (1970-71); treatment entirely remote (books, LP/cassette recordings, quarterly magazines), no personal contact",
+      "finding": "Of 528 chronic agoraphobics (60% ill 10+ years; 65% previously treated by psychiatrists), 'satisfactory or good' results were reported in 73% aged 14-29, 67% aged 30-39, 55% aged 40-49 and 49% aged 50-74. There was no control group, outcomes were self-reported, and the author evaluated her own method.",
+      "n": 528,
       "url": "https://pubmed.ncbi.nlm.nih.gov/4712489/"
     },
     {
@@ -71,45 +102,164 @@
   "controversy": "The App Store listing calls DARE 'evidence-based' and the website says 'based on science', but neither cites trials. The only independent evaluation (an N=10 dissertation) was null to negative. A 2022 review by a clinical psychologist (Healthify NZ) flagged reassurance and SOS audios as possible safety behaviours, contradictory tracks, and no crisis signposting. One 'licensed therapist' coach is also an alternative health practitioner and hypnotherapist; coaching is labelled 'not therapy'. Download figures on the site are inconsistent (1M vs 1.8M). Weekes never ran a controlled trial; her outcome claims come from uncontrolled reports, and the ADB notes her methods were more highly regarded by patients than by colleagues. When downstream brain-retraining programs extend the sensitization and second-fear model to ME/CFS, long COVID or POTS, it draws criticism, but that critique applies to those programs rather than to Weekes or DARE.",
   "popularity": {
     "indicators": [
-      {"metric": "Self Help for Your Nerves copies sold", "value": "400,000+ by 1978 (ADB; Wikipedia says 300,000+), translated into 14 languages, in print since 1962", "source": "Australian Dictionary of Biography; Wikipedia", "year": 1978},
-      {"metric": "DARE book copies sold (developer claim)", "value": "400,000+", "source": "dareresponse.com/about", "year": 2026},
-      {"metric": "Panic Away copies sold (developer claim)", "value": "80,000+", "source": "dareresponse.com/about", "year": 2026},
-      {"metric": "DARE app downloads (developer claim)", "value": "1M and 1.8M both appear on the site; counter shows '145.315 people helped'", "source": "dareresponse.com", "year": 2026},
-      {"metric": "iOS App Store US rating", "value": "4.8/5 from about 6.8K ratings", "source": "apps.apple.com id1034311206", "year": 2026},
-      {"metric": "Podcast episodes", "value": "about 60+ episodes (DARE: Panic & Anxiety Relief)", "source": "Deezer/Buzzsprout (not re-verified)", "year": 2024},
-      {"metric": "Weekes biography", "value": "Hoare, The Woman Who Cracked the Anxiety Code (Scribe 2019); ADAA 40th-anniversary tribute 2020", "source": "Scribe; ADAA", "year": 2019}
+      {
+        "metric": "Self Help for Your Nerves copies sold",
+        "value": "400,000+ by 1978 (ADB; Wikipedia says 300,000+), translated into 14 languages, in print since 1962",
+        "source": "Australian Dictionary of Biography; Wikipedia",
+        "year": 1978
+      },
+      {
+        "metric": "DARE book copies sold (developer claim)",
+        "value": "400,000+",
+        "source": "dareresponse.com/about",
+        "year": 2026
+      },
+      {
+        "metric": "Panic Away copies sold (developer claim)",
+        "value": "80,000+",
+        "source": "dareresponse.com/about",
+        "year": 2026
+      },
+      {
+        "metric": "DARE app downloads (developer claim)",
+        "value": "1M and 1.8M both appear on the site; counter shows '145.315 people helped'",
+        "source": "dareresponse.com",
+        "year": 2026
+      },
+      {
+        "metric": "iOS App Store US rating",
+        "value": "4.8/5 from about 6.8K ratings",
+        "source": "apps.apple.com id1034311206",
+        "year": 2026
+      },
+      {
+        "metric": "Podcast episodes",
+        "value": "63 episodes (DARE: Panic & Anxiety Relief), July 2022 to August 2024; no new episodes since",
+        "source": "rss.buzzsprout.com/2015107.rss; Apple Podcasts",
+        "year": 2024
+      },
+      {
+        "metric": "Weekes biography",
+        "value": "Hoare, The Woman Who Cracked the Anxiety Code (Scribe 2019); ADAA 40th-anniversary tribute 2020",
+        "source": "Scribe; ADAA",
+        "year": 2019
+      },
+      {
+        "metric": "DARE iOS app first release",
+        "value": "9 September 2015",
+        "source": "itunes.apple.com/lookup?id=1034311206",
+        "year": 2015
+      }
     ],
     "reach_estimate": "About 1-3 million cumulative. Weekes's books plausibly reached hundreds of thousands to low millions of readers over 60 years (400k+ copies of her first book by 1978 alone). DARE adds 400k+ book buyers and 1M+ app downloads, of which perhaps several hundred thousand were active users.",
     "reach_log10": 6.3,
     "trajectory": [
-      {"year": 1962, "relative_activity": 3},
-      {"year": 1965, "relative_activity": 3},
-      {"year": 1970, "relative_activity": 3},
-      {"year": 1973, "relative_activity": 3.5},
-      {"year": 1976, "relative_activity": 4},
-      {"year": 1980, "relative_activity": 3.5},
-      {"year": 1983, "relative_activity": 4},
-      {"year": 1985, "relative_activity": 3},
-      {"year": 1990, "relative_activity": 2.5},
-      {"year": 1995, "relative_activity": 2},
-      {"year": 2000, "relative_activity": 2},
-      {"year": 2004, "relative_activity": 2.5},
-      {"year": 2005, "relative_activity": 3},
-      {"year": 2010, "relative_activity": 3.5},
-      {"year": 2015, "relative_activity": 5},
-      {"year": 2016, "relative_activity": 5.5},
-      {"year": 2017, "relative_activity": 6},
-      {"year": 2018, "relative_activity": 6},
-      {"year": 2019, "relative_activity": 6.5},
-      {"year": 2020, "relative_activity": 7.5},
-      {"year": 2021, "relative_activity": 8},
-      {"year": 2022, "relative_activity": 8},
-      {"year": 2023, "relative_activity": 8},
-      {"year": 2024, "relative_activity": 8},
-      {"year": 2025, "relative_activity": 8},
-      {"year": 2026, "relative_activity": 8}
+      {
+        "year": 1962,
+        "relative_activity": 3
+      },
+      {
+        "year": 1965,
+        "relative_activity": 3
+      },
+      {
+        "year": 1970,
+        "relative_activity": 3
+      },
+      {
+        "year": 1973,
+        "relative_activity": 3.5
+      },
+      {
+        "year": 1976,
+        "relative_activity": 4
+      },
+      {
+        "year": 1980,
+        "relative_activity": 3.5
+      },
+      {
+        "year": 1983,
+        "relative_activity": 4
+      },
+      {
+        "year": 1985,
+        "relative_activity": 3
+      },
+      {
+        "year": 1990,
+        "relative_activity": 2.5
+      },
+      {
+        "year": 1995,
+        "relative_activity": 2
+      },
+      {
+        "year": 2000,
+        "relative_activity": 2
+      },
+      {
+        "year": 2004,
+        "relative_activity": 2.5
+      },
+      {
+        "year": 2005,
+        "relative_activity": 3
+      },
+      {
+        "year": 2010,
+        "relative_activity": 3.5
+      },
+      {
+        "year": 2015,
+        "relative_activity": 5
+      },
+      {
+        "year": 2016,
+        "relative_activity": 5.5
+      },
+      {
+        "year": 2017,
+        "relative_activity": 6
+      },
+      {
+        "year": 2018,
+        "relative_activity": 6
+      },
+      {
+        "year": 2019,
+        "relative_activity": 6.5
+      },
+      {
+        "year": 2020,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2021,
+        "relative_activity": 8
+      },
+      {
+        "year": 2022,
+        "relative_activity": 8
+      },
+      {
+        "year": 2023,
+        "relative_activity": 8
+      },
+      {
+        "year": 2024,
+        "relative_activity": 8
+      },
+      {
+        "year": 2025,
+        "relative_activity": 8
+      },
+      {
+        "year": 2026,
+        "relative_activity": 8
+      }
     ],
-    "method_notes": "The trajectory combines the Weekes lineage (1962 bestseller; later books 1972, 1976/77, 1984, 1989; 1983 BBC series; decline after her death in 1990; 2019 biography) with DARE (Panic Away c. 2001-04; DARE book and app 2015-16; pandemic-era growth in anxiety apps 2020-22; podcast about 2022; active app development and AI assistant 2024-26, v21.3 by Oct 2026). Levels are relative within this program and judged from launch dates, claimed sales and download milestones, and media events. No Google Trends or Reddit data were quantitatively extracted. Download and sales figures are unverified developer claims, and the site's own download numbers are inconsistent."
+    "method_notes": "The trajectory combines the Weekes lineage (1962 bestseller; later books 1972, 1976/77, 1984, 1989; 1983 BBC series; decline after her death in 1990; 2019 biography) with DARE (Panic Away c. 2004-05; DARE book and app 2015 (iOS release Sep 2015); pandemic-era growth in anxiety apps 2020-22; podcast Jul 2022-Aug 2024; active app development and AI assistant 2024-26, v21.3 by Oct 2026). Levels are relative within this program and judged from launch dates, claimed sales and download milestones, and media events. No Google Trends data were extracted, and Reddit subscriber counts could not be retrieved (automated access blocked, Oct 2026). Download and sales figures are unverified developer claims, and the site's own download numbers are inconsistent."
   },
   "sources": [
     "https://dareresponse.com",
@@ -128,6 +278,11 @@
     "https://www.goodreads.com/book/show/10045728",
     "https://australianbookreview.com.au/abr-online/archive/2020/april-2020-no-420/761-april-2020-no-420/6351-carol-middleton-reviews-the-woman-who-cracked-the-anxiety-code-the-extraordinary-life-of-dr-claire-weekes-by-judith-hoare",
     "https://bookfreak.substack.com/p/book-freak-152-a-new-way-to-end-anxiety",
-    "https://retreat.guru/teachers/11291-15/barry-mcdonagh"
+    "https://retreat.guru/teachers/11291-15/barry-mcdonagh",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC1589478/",
+    "https://itunes.apple.com/lookup?id=1034311206",
+    "https://rss.buzzsprout.com/2015107.rss",
+    "https://dareresponse.com/dare-advanced/",
+    "https://web.archive.org/web/20080820215823/http://www.panicaway.com/"
   ]
 }

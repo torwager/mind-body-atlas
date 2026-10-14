@@ -15,7 +15,7 @@
 | Mainstream adoption | Substantial within neurology. Stone and Carson are central figures in the mainstream academic FND field. NHS clinics routinely give patients the site at diagnosis (e.g., Gloucestershire NHS leaflet). Edinburgh describes it as adopted by NHS inform and part of the NHS FND pathway. Australian FND treatment recommendations (BMJ Neurol Open 2025) cite it as a patient resource. |
 | Insurance reimbursable | Not applicable (free). The specialist physio, psychotherapy and OT the site describes are delivered within the NHS and other health systems, and are often covered by insurance. |
 | Evidence (peer-reviewed trials) | One RCT of a closely derived intervention (SHIFT, N=186): a new Dutch website that combined neurosymptoms.org elements with a CBT self-help workbook and physiotherapy exercises. It showed no benefit over usual care, though satisfaction was high. No RCT has tested neurosymptoms.org itself. The therapies it recommends have RCT support from related trials by the same group, but that support is mixed. |
-| Popularity signals | About 50,000 users a month (2021, About page); about 60,000 visits a month (Edinburgh Innovations, which also gives 10 languages); 13 languages listed on the site. Described as the leading FND information site worldwide. |
+| Popularity signals | About 50,000 users a month (2021, About page); about 60,000 visits a month (Edinburgh Innovations, which also gives 10 languages); 13 languages listed on the site. App: iOS (released 30 Jun 2021; 4.7/5 from 13 ratings) and Google Play (10K+ downloads). Described as the leading FND information site worldwide. |
 
 ## 1. Proposed mechanism(s)
 - **"Software, not hardware."** FND is described as a problem with how the nervous system *functions* rather than with its structure. The site compares it to a computer software bug that needs "reprogramming." Symptoms are real, not imagined and not under voluntary control. The site stresses that FND is not "made up."
@@ -115,9 +115,9 @@ The site is a stepped-care information resource. It does not run a structured pr
 - **Undated (University of Edinburgh staff profile, likely around 2017–19):** about 60,000 hits a month; 12 translations.
 - **2019:** the FND Society was founded, with Stone as Founding Secretary, and FND gained wider profile as a clinical field.
 - **2020:** SHIFT trial published; user survey (n=434) informed the redesign.
-- **June 2021:** redesigned site and app launched; about 50,000 users a month.
-- **2022–23:** Wellcome Trust iTPA Impact Fund (£50k) to develop the site into a research and treatment platform with a patient data registry. BMJ feature "Fighting the FND stigma" (May 2023).
-- **2023–26:** Edinburgh reports about 60,000 visits a month. FND's public profile has grown through TikTok and social media, and the site is widely shared in r/FND and FND Hope/FND Action communities. No subreddit or Trends figures could be verified for this review (search budget exhausted).
+- **June 2021:** redesigned site and app launched (iOS release 30 Jun 2021, last updated Oct 2023, v1.1.6); about 50,000 users a month.
+- **2022–23:** Wellcome Trust iTPA Impact Fund (£50k) to develop the site into a research and treatment platform with a patient data registry. BMJ feature profiling Stone, "Fighting the FND stigma: the consultant neurologist" (Oxtoby, 2 May 2023; PMID 37130594).
+- **2023–26:** Edinburgh reports about 60,000 visits a month. FND's public profile has grown through TikTok and social media. The r/FND subreddit (a general FND forum, not specific to the site) grew from 743 members (Mar 2022) to 8,343 (Aug 2025), per Wayback captures; the live count was blocked (HTTP 403). How often the site is shared there was not quantified. The Android app has 10K+ downloads. Google Trends data are not available without the interactive tool and were not checked.
 - **Rough cumulative reach:** about 50–60k visits a month for roughly 15 years is on the order of 10 million visits. That suggests perhaps 1–3 million unique people, allowing for repeat visits.
 
 ## 8. Controversies / criticisms
@@ -139,7 +139,10 @@ The site is a stepped-care information resource. It does not run a structured pr
 - https://www.research.ed.ac.uk/en/projects/developing-neurosymptomsorg-as-a-research-and-treatment-platform--2/
 - https://edwebprofiles.ed.ac.uk/profile/prof-jon-stone
 - https://www.gloshospitals.nhs.uk/documents/26340/Functional_Neurological_Symptoms_GHPI1553_10_25.pdf
-- https://apps.apple.com/app/id1543737006
+- https://apps.apple.com/app/id1543737006 (iTunes lookup API: release 2021-06-30, v1.1.6, 13 ratings)
+- https://play.google.com/store/apps/details?id=com.jonstone.fnd (10K+ downloads)
+- http://web.archive.org/web/20220320122828/https://www.reddit.com/r/FND/ and http://web.archive.org/web/20250816163018/https://www.reddit.com/r/FND/ (r/FND members)
+- https://pubmed.ncbi.nlm.nih.gov/37130594/ (BMJ 2023 feature)
 - http://web.archive.org/cdx/search/cdx?url=neurosymptoms.org (earliest capture 20090425)
 - https://pubmed.ncbi.nlm.nih.gov/32690783/ (SHIFT)
 - https://pubmed.ncbi.nlm.nih.gov/21795652/ (Sharpe 2011)
@@ -148,4 +151,4 @@ The site is a stepped-care information resource. It does not run a structured pr
 - https://pubmed.ncbi.nlm.nih.gov/40552010/ (Australian recommendations)
 - https://pubmed.ncbi.nlm.nih.gov/42750449/ (Stone 2026, digital healthcare in FND)
 
-*Fact-checked 2026-10-12; corrections: SHIFT tested a new Dutch website derived from neurosymptoms.org plus a CBT workbook and physio exercises, not the site itself, and Stone declared that he runs the site; evidence level downgraded to a single (null) RCT; Stone's FND Society role corrected to Founding Secretary; site lists ME/CFS as an overlapping functional disorder; Physio4FMD arm sizes and COVID exclusions added; 2017 traffic figure re-dated as undated; language count discrepancy noted. Verified: all four trial citations and results, the Australian 2025 recommendations, Scamvougeras & Castle 2024, the Gloucestershire leaflet, and the Edinburgh Innovations claims (2009, 60k visits, NHS inform, £50k iTPA). Not independently verified (search budget exhausted): BMJ 2023 feature, app launch date.*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: BMJ 2023 feature confirmed (Oxtoby, PMID 37130594); iOS app release date (30 Jun 2021) and ratings, Android 10K+ downloads added; r/FND membership added from Wayback (live Reddit blocked); "widely shared in r/FND" softened as unquantified; Google Trends not checked.*

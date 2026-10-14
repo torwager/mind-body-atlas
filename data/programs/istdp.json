@@ -8,7 +8,7 @@
     "Jon Frederickson, MSW (trainer and disseminator, not a co-founder; ISTDP Institute; Washington School of Psychiatry)"
   ],
   "founded_year": 1962,
-  "founded_year_range": "1962-1980 (Davanloo began developing the technique in 1962; first book 1978/80). Somatic/ED application from 2002 (NCT00833742)",
+  "founded_year_range": "1962-1980 (Davanloo began developing the technique in 1962; first book 1978/80). Somatic/ED application from 2002 (NCT00833742); ISTDP Institute (Frederickson) online since 2011",
   "category": "trauma/emotion-focused therapy (short-term psychodynamic psychotherapy)",
   "delivery": [
     "clinician-delivered",
@@ -20,7 +20,7 @@
     "professional training courses"
   ],
   "business_model": "clinician-delivered (fee-for-service)",
-  "cost_summary": "No set price; billed as ordinary psychotherapy. US private practice is roughly USD 150-300 per session (unverified estimate). Typical course is 1-5 sessions in the ED model, about 7 in the tertiary/MUS service (Abbass 2015 mean 7.3), and about 20 for treatment-resistant depression, so roughly USD 1,000-5,000. Free at point of use in Nova Scotia public services and in some NHS services. Therapist training is a 3-year core program (4 x 3-day weekends per year); prices vary by country and are not published.",
+  "cost_summary": "No set price; billed as ordinary psychotherapy. US private practice is roughly USD 150-300 per session (generic-psychotherapy estimate; no ISTDP-specific fee schedule published). Typical course is 1-5 sessions in the ED model, about 7 in the tertiary/MUS service (Abbass 2015 mean 7.3), and about 20 for treatment-resistant depression, so roughly USD 1,000-5,000. Free at point of use in Nova Scotia public services and in some NHS services. Therapist training is a 3-year core program (4 x 3-day weekends per year); prices vary by country and are not published. Archived training webinars cost USD 50 each.",
   "cost_usd_typical": 2000,
   "conditions_claimed": [
     "somatic symptom disorder",
@@ -180,8 +180,8 @@
       },
       {
         "metric": "ClinicalTrials.gov registrations",
-        "value": "6 (2002-2024 start dates); 4 checked: NCT00833742, NCT02076867, NCT01924715, NCT01141426",
-        "source": "ClinicalTrials.gov API",
+        "value": "6 under full name (2002-2024 start dates); 9 under \"ISTDP\" incl. NCT06682104 (Sweden, PPS, n=25), NCT06591754, NCT05863637",
+        "source": "ClinicalTrials.gov API v2, 2026-10-13",
         "year": 2026
       },
       {
@@ -198,8 +198,8 @@
       },
       {
         "metric": "Books by ISTDP Institute-listed authors",
-        "value": "14 titles (Frederickson, Abbass, Coughlin, Malan, Kuhn, Rousmaniere)",
-        "source": "istdpinstitute.com/books (not re-verified)",
+        "value": "14 titles (Frederickson, Abbass, Coughlin, Malan, Kuhn, Rousmaniere, Jacobs et al.)",
+        "source": "istdpinstitute.com/books (re-verified 2026-10-13)",
         "year": 2026
       },
       {
@@ -309,7 +309,7 @@
         "relative_activity": 9
       }
     ],
-    "method_notes": "Web search was rate-limited, so the trajectory is based mainly on verified publication and registration dates rather than social-media or Google Trends data. Inputs: Davanloo's development from 1962 and books 1978/80, 1990 and 2001; Abbass's ED service from 2002; somatic meta-analyses 2009, 2012, 2014, 2020, 2021 and 2025; RCT publication peaks 2016-2017 and 2020-2025; the 2018 Hidden From View crossover into the PPD/mind-body community; post-COVID telehealth and online training expansion; IEDTA's self-reported 1,000+ therapists and 12th biennial conference (Croatia, 2026). Activity is relative within the program (10 = peak). Reach is a Fermi estimate (therapists x caseload plus Halifax service volumes) and is uncertain by about half an order of magnitude. Reddit and Twitter metrics were not retrievable."
+    "method_notes": "The trajectory is based mainly on verified publication and registration dates rather than social-media or Google Trends data. Inputs: Davanloo's development from 1962 and books 1978/80, 1990 and 2001; Abbass's ED service from 2002; somatic meta-analyses 2009, 2012, 2014, 2020, 2021 and 2025; RCT publication peaks 2016-2017 and 2020-2025; the 2018 Hidden From View crossover into the PPD/mind-body community; post-COVID telehealth and online training expansion; IEDTA's self-reported 1,000+ therapists and 12th biennial conference (Croatia, 2026). Activity is relative within the program (10 = peak). Reach is a Fermi estimate (therapists x caseload plus Halifax service volumes) and is uncertain by about half an order of magnitude. Reddit metrics were not retrievable (Reddit API returned HTTP 403) and Twitter/X was not checked."
   },
   "sources": [
     "https://www.istdpinstitute.com/",
@@ -346,6 +346,9 @@
     "https://clinicaltrials.gov/study/NCT02076867",
     "https://clinicaltrials.gov/study/NCT00833742",
     "https://clinicaltrials.gov/study/NCT01924715",
-    "https://clinicaltrials.gov/study/NCT01141426"
+    "https://clinicaltrials.gov/study/NCT01141426",
+    "https://www.istdpinstitute.com/webinars/",
+    "https://clinicaltrials.gov/study/NCT06682104",
+    "https://web.archive.org/web/20120110120912/http://istdpinstitute.com/"
   ]
 }

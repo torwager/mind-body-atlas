@@ -7,7 +7,7 @@
     "Olafur S. Palsson, PsyD (clinical psychologist, UNC Chapel Hill; North Carolina scripted protocol, developed with UNC team incl. William E. Whitehead)"
   ],
   "founded_year": 1984,
-  "founded_year_range": "1984 (Whorwell, Prior & Faragher Lancet RCT). North Carolina scripted protocol ~1995 (Palsson & van Tilburg 2015: '20 years ago'; first trial report 2002). Regulora FDA De Novo reported late 2021 (not confirmed in FDA database).",
+  "founded_year_range": "1984 (Whorwell, Prior & Faragher Lancet RCT). North Carolina scripted protocol ~1995 (Palsson & van Tilburg 2015: '20 years ago'; first trial report 2002). Regulora FDA 510(k) clearance K211463, 24 Nov 2021 (not De Novo).",
   "category": "hypnosis/relaxation",
   "delivery": [
     "clinician-delivered",
@@ -17,7 +17,7 @@
     "app (Regulora prescription digital therapeutic)"
   ],
   "business_model": "clinician-delivered (fee-for-service)",
-  "cost_summary": "Free at point of care in NHS units where commissioned. Private practice estimate (unverified): about GBP 80-150 or USD 120-250 per session, so roughly USD 800-2,500 for a 6-12 session course. Regulora is a prescription app with no public price on the company site.",
+  "cost_summary": "Free at point of care in NHS units where commissioned. Private practice estimate: about GBP 80-150 or USD 120-250 per session (US upper bound sourced: Mindset Health 2023, up to USD 250/session; no authoritative UK fee data), so roughly USD 800-2,500 for a 6-12 session course. Regulora (prescription app, 12-week program) cash price about USD 942 (SingleCare, Oct 2026).",
   "cost_usd_typical": 1500,
   "conditions_claimed": [
     "IBS/functional GI",
@@ -52,12 +52,12 @@
     "North Carolina: 7 verbatim-scripted biweekly sessions over 12 weeks",
     "group and nurse-delivered formats",
     "paediatric home CD (5x/week for 3 months)",
-    "Regulora: 12-week app-based self-hypnosis with breathing/relaxation"
+    "Regulora: 12-week app-based self-hypnosis (7 x 30-min sessions, NC protocol) with breathing/relaxation"
   ],
   "mainstream_adoption": "substantial",
-  "mainstream_notes": "Recommended or suggested in NICE CG61 (2008; refractory IBS after 12 months), ACG 2021 (gut-directed psychotherapy for global IBS symptoms) and BSG 2021 (refractory IBS), and by Rome Foundation psychogastroenterology. Offered by NHS hospital units (Wythenshawe Manchester), Swedish nurse-delivered services, Dutch hospital programmes and US academic GI psychology services. Regulora is reported as FDA-authorized (De Novo, 2021; not confirmed in FDA database during fact-check).",
+  "mainstream_notes": "Recommended or suggested in NICE CG61 (2008; refractory IBS after 12 months), ACG 2021 (gut-directed psychotherapy for global IBS symptoms) and BSG 2021 (refractory IBS), and by Rome Foundation psychogastroenterology. Offered by NHS hospital units (Wythenshawe Manchester), Swedish nurse-delivered services, Dutch hospital programmes and US academic GI psychology services. Regulora (metaMe Health, built on Palsson's licensed North Carolina protocol) is FDA-cleared via 510(k) K211463 (24 Nov 2021).",
   "insurance": "sometimes/indirect",
-  "insurance_notes": "NHS-funded where commissioned (UK), and publicly funded in parts of Sweden and the Netherlands. In the US it is reimbursed when billed as health-behaviour or psychotherapy services by licensed clinicians; hypnosis-specific coding is often not covered. Regulora is a prescription digital therapeutic with limited or unclear payer coverage (not verified).",
+  "insurance_notes": "NHS-funded where commissioned (UK), and publicly funded in parts of Sweden and the Netherlands. In the US it is reimbursed when billed as health-behaviour or psychotherapy services by licensed clinicians; hypnosis-specific coding is often not covered. Regulora is a pharmacy-dispensed prescription digital therapeutic (cash ~USD 942); formulary coverage varies by plan and no Medicare or major-payer coverage policy was found.",
   "evidence_level": "systematic reviews/meta-analyses",
   "key_trials": [
     {
@@ -201,9 +201,9 @@
         "year": 2021
       },
       {
-        "metric": "FDA-authorized digital variant",
-        "value": "Regulora (metaMe Health) De Novo (reported; not confirmed in FDA database)",
-        "source": "Company/Berry 2023; Lakhan 2025 Cureus listing of FDA-cleared PDTs",
+        "metric": "FDA-cleared digital variant",
+        "value": "Regulora (metaMe Health) 510(k) K211463, cleared 24 Nov 2021",
+        "source": "FDA 510(k) database (openFDA)",
         "year": 2021
       },
       {
@@ -319,7 +319,7 @@
         "relative_activity": 9
       }
     ],
-    "method_notes": "Web search quota was exhausted during this run, so social-media, Google Trends and Reddit metrics could not be retrieved. The trajectory is anchored on documented milestones verified in PubMed and guideline records: 1984 first RCT; 2002 UNC protocol and Manchester service audit; 2003 long-term follow-up; 2008 NICE; 2012-2013 multinational RCTs; 2015 audit of 1,000 patients; 2019 IMAGINE trial; 2021 ACG/BSG guidelines and Regulora authorization; 2023-2026 digital RCTs and four network meta-analyses. Levels are scaled relative to the program's own peak (2025-2026). The reach estimate is an order-of-magnitude extrapolation from audit sizes, trial enrolment and multi-country clinical services; Nerva app users are excluded. Reach estimate is a rough extrapolation, not a measured figure."
+    "method_notes": "Social-media and Google Trends metrics were not quantified; there is no dedicated subreddit (discussion sits in r/IBS), and the Reddit API was blocked from this environment on 2026-10-13, so subscriber counts were not retrieved. The trajectory is anchored on documented milestones verified in PubMed and guideline records: 1984 first RCT; 2002 UNC protocol and Manchester service audit; 2003 long-term follow-up; 2008 NICE; 2012-2013 multinational RCTs; 2015 audit of 1,000 patients; 2019 IMAGINE trial; 2021 ACG/BSG guidelines and Regulora 510(k) clearance; 2023-2026 digital RCTs and four network meta-analyses. Levels are scaled relative to the program's own peak (2025-2026). The reach estimate is an order-of-magnitude extrapolation from audit sizes, trial enrolment and multi-country clinical services; Nerva app users are excluded. Reach estimate is a rough extrapolation, not a measured figure."
   },
   "sources": [
     "https://www.ishhypnosis.org/",
@@ -352,6 +352,11 @@
     "https://pubmed.ncbi.nlm.nih.gov/33903147/",
     "https://www.nice.org.uk/guidance/cg61",
     "https://pubmed.ncbi.nlm.nih.gov/12454833/",
-    "https://pubmed.ncbi.nlm.nih.gov/32276950/"
+    "https://pubmed.ncbi.nlm.nih.gov/32276950/",
+    "https://api.fda.gov/device/510k.json?search=k_number:K211463",
+    "https://www.singlecare.com/prescription/regulora",
+    "https://web.archive.org/web/20220601/https://www.regulora.com/",
+    "https://matter.health/posts/matter-startup-spotlight-metame/",
+    "https://start.nervahealth.com/post/hypnotherapy-for-ibs-how-to-get-started"
   ]
 }

@@ -4,7 +4,7 @@
   "url": "https://bidmc.org/news-stories/all-news-stories/news/2021/09/researchers-mind-body-program-outperforms-other-chronic-back-pain-treatment",
   "founders": [
     "Michael W. Donnino, MD (BIDMC/Harvard; emergency medicine and critical care; PI and co-instructor)",
-    "Patricia (Patty) Howard (BIDMC; mind-body co-instructor; credentials not stated)",
+    "Patricia (Patty) Howard, BS (BIDMC; mind-body co-instructor; no clinical licence stated)",
     "Howard Schubiner, MD (acknowledged consultant and instructor trainer; not an author)"
   ],
   "founded_year": 2014,
@@ -115,13 +115,13 @@
       },
       {
         "metric": "Citations of pilot RCT",
-        "value": "~16 (not re-verified)",
+        "value": "16 (Europe PMC, 2026-10-13)",
         "source": "Europe PMC citedByCount",
         "year": 2026
       },
       {
         "metric": "Citations of long COVID paper",
-        "value": "~7 (not re-verified)",
+        "value": "7 (Europe PMC, 2026-10-13)",
         "source": "Europe PMC citedByCount",
         "year": 2026
       },
@@ -135,6 +135,12 @@
         "metric": "Total enrolled participants (all trials)",
         "value": "~100-150 (35 + 23 + 126 + up to 20 in early pilot; PSRT recipients fewer)",
         "source": "trial records",
+        "year": 2026
+      },
+      {
+        "metric": "Forum discussion",
+        "value": "One S4ME thread (June 2026, 13 posts); TMS Wiki forum search for 'Donnino' returned no threads; Reddit not accessible",
+        "source": "s4me.info; tmswiki.org",
         "year": 2026
       }
     ],
@@ -194,7 +200,7 @@
         "relative_activity": 5
       }
     ],
-    "method_notes": "There is no website, app, book or social presence, so the trajectory follows research activity: trial registrations (2014, 2019, 2020-2021), the pilot publication and BIDMC press release (2021 peak), the long COVID preprint/paper and mediation paper (2022-2023), the rationale paper (2024) and completion of the large RCT (2026). Reach is the sum of trial enrollments. Citation counts are from the Europe PMC API (researcher; not re-verified). Reddit/forum and Google Trends signals beyond one S4ME thread were not collected; activity levels are coarse judgments."
+    "method_notes": "There is no website, app, book or social presence, so the trajectory follows research activity: trial registrations (2014, 2019, 2020-2021), the pilot publication and BIDMC press release (2021 peak), the long COVID preprint/paper and mediation paper (2022-2023), the rationale paper (2024) and completion of the large RCT (2026). Reach is the sum of trial enrollments. Citation counts are from the Europe PMC API (re-verified 2026-10-13). TMS Wiki forum search found no threads; Reddit blocked automated access and Google Trends was not collected (term too rare); activity levels are coarse judgments."
   },
   "sources": [
     "https://bidmc.org/news-stories/all-news-stories/news/2021/09/researchers-mind-body-program-outperforms-other-chronic-back-pain-treatment",
@@ -210,6 +216,7 @@
     "https://clinicaltrials.gov/study/NCT04854772",
     "https://clinicaltrials.gov/study/NCT04039139",
     "https://clinicaltrials.gov/study/NCT02117921",
-    "https://s4me.info/threads/psychophysiologic-symptom-relief-therapy-for-chronic-back-pain-a-pilot-randomized-controlled-trial-2021-donnino-et-al.50684/"
+    "https://s4me.info/threads/psychophysiologic-symptom-relief-therapy-for-chronic-back-pain-a-pilot-randomized-controlled-trial-2021-donnino-et-al.50684/",
+    "https://www.tmswiki.org/forum/search/search?keywords=Donnino"
   ]
 }

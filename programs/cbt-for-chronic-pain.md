@@ -1,21 +1,21 @@
 # Cognitive Behavioral Therapy for Chronic Pain (CBT-CP), incl. the VA national CBT-CP program
 
-*Compiled 2026-10-12 from va.gov/painmanagement (CBT-CP home and provider pages), the VA CBT-CP Therapist Manual (Murphy et al., 2014), PubMed/Europe PMC records of key trials and reviews, and guideline documents. Content paraphrased. Web search budget ran out partway through; trial details were verified through Europe PMC abstracts.*
+*Compiled 2026-10-12 from va.gov/painmanagement (CBT-CP home and provider pages), the VA CBT-CP Therapist Manual (Murphy et al., 2014), PubMed/Europe PMC records of key trials and reviews, and guideline documents. Content paraphrased. Trial details verified through PubMed/Europe PMC abstracts.*
 
 ## At a glance
 | Field | |
 |---|---|
 | Website | https://www.va.gov/painmanagement/ (CBT-CP: https://www.va.gov/PAINMANAGEMENT/CBT_CP/index.asp) |
 | Founder(s) | No single founder. Roots: Wilbert Fordyce (operant-behavioral pain treatment, Univ. of Washington, 1970s); Dennis Turk, Donald Meichenbaum & Myles Genest (*Pain and Behavioral Medicine: A Cognitive-Behavioral Perspective*, 1983); Francis Keefe, Robert Kerns and others (1980s–90s). VA protocol: Jennifer L. Murphy PhD (lead), John McKellar, Susan Raffa, Michael Clark, Robert Kerns, Bradley Karlin (VA psychologists). |
-| Founded | Generic CBT for pain: late 1970s to early 1980s. VA national CBT-CP Training Program: about 2011–2012 (patients treated by trainees from 2012; manual 2014; first evaluation 2015). |
+| Founded | Generic CBT for pain: late 1970s to early 1980s. VA national CBT-CP Training Program: clinicians trained since 2012 (patients treated by trainees from 2012; manual 2014; first evaluation 2015). |
 | Format / delivery | Clinician-delivered individual (12 sessions) or group therapy, in person or by video. Brief CBT-CP: 6 × 30 min in primary care. Headache-specific CBT-HA. Newer IVR/AI-coached self-directed versions. |
 | Business model | Clinician-delivered (fee-for-service in the private sector; free to eligible veterans in VHA). Manuals and workbooks are free public-domain PDFs. |
-| Direct cost | VA: no charge or standard copay for enrolled veterans. US private practice: typically about USD 100–250 per session, so about USD 1,200–3,000 for a 12-session course before insurance (estimate; rates vary). |
+| Direct cost | VA: no charge or standard copay for enrolled veterans. US private practice: many clinicians charge about USD 100–200 per session (Psychology Today), so about USD 1,200–2,400 for a 12-session course before insurance (no CBT-CP-specific price data; rates vary). |
 | Conditions claimed | Chronic pain in general: low back/neck pain, osteoarthritis, fibromyalgia, headache (separate CBT-HA), TMD, neuropathic pain, with comorbid depression, anxiety, PTSD and insomnia. |
 | Mainstream adoption | Substantial. Guideline-endorsed (ACP 2017, VA/DoD, CDC 2022, NICE NG193 2021 for chronic primary pain, NICE NG59 within combined programmes). The core of multidisciplinary pain programmes; national VHA rollout. |
 | Insurance reimbursable | Yes. Health Behavior Assessment & Intervention CPT codes 96156/96158/96159 (Medicare and most private payers), or psychotherapy codes 90832–90837 with a mental-health diagnosis. Covered by VHA and TRICARE. |
 | Evidence (peer-reviewed trials) | Very large: 59+ RCTs in Cochrane 2020. Effects are consistent but small (SMD about 0.1–0.3 vs active controls or usual care), larger for distress, disability and catastrophizing than for pain intensity. |
-| Popularity signals | Reference standard in pain psychology. VHA: 37,514 patients seen by CBT-CP-trained therapists in one administrative analysis. Low consumer or social-media "brand" profile. |
+| Popularity signals | Reference standard in pain psychology. VHA: 37,514 pain patients seen by CBT-CP-trained therapists, 38.4% of whom received CBT-CP (McGuire et al. 2025). r/ChronicPain: about 117K weekly visitors (Oct 2026). Low consumer or social-media "brand" profile. |
 
 ## 1. Proposed mechanism(s)
 - **Biopsychosocial model (Engel 1977) plus the gate control and neuromatrix theories (Melzack & Wall 1965; Melzack 1999).** Pain is shaped jointly by tissue and nervous-system factors, cognition, emotion, behaviour and social context. The VA manual teaches the gate control model to patients as the rationale that thoughts, mood and activity can "open or close the gate."
@@ -29,7 +29,7 @@
 Mostly one transdiagnostic framework. The same biopsychosocial and CBT model and the same skill set are applied across pain diagnoses. The manual reviews the medical features of specific conditions (low back pain, OA, FM, headache types, neuropathic pain) but does not posit different psychological mechanisms for each. Adaptations are mostly in emphasis and format: CBT-HA for headache (trigger management, relaxation/biofeedback); disease-specific variants in the literature for FM, IBS (gut-directed CBT is a separate tradition) and TMD. The model does **not** claim that pain is brain-generated or reversible in all cases, nor that ME/CFS, MCS and similar conditions share one cause. CBT for ME/CFS (e.g., PACE) is a distinct protocol not covered by CBT-CP.
 
 ## 3. Treatments and self-care strategies
-**VA CBT-CP protocol** (Murphy et al., 2014; a Veteran workbook/guidebook also exists; later manual revisions not independently verified): 12 weekly individual sessions (11 weekly sessions plus a booster follow-up), with homework between sessions. A group version also exists.
+**VA CBT-CP protocol** (Murphy et al., 2014; re-issued as an accessible "Version 2025_508" PDF with the same 12-session structure, alongside a Veteran Guidebook (Aug 2025) and Veteran Group Guidebook (2025); Brief CBT-CP and CBT-HA manuals listed as "coming soon" on the VA provider page as of Apr 2026): 12 weekly individual sessions (11 weekly sessions plus a booster follow-up), with homework between sessions. A group version also exists.
 1. Interview and assessment (pain history, measures: pain intensity, interference, catastrophizing, PHQ-9, WHOQOL-BREF).
 2. Treatment orientation: the biopsychosocial model, the pain cycle, gate control.
 3. Assessment feedback and SMART goal setting, tied to valued activities.
@@ -99,10 +99,11 @@ Mostly one transdiagnostic framework. The same biopsychosocial and CBT model and
 ## 7. Popularity and trajectory
 - **1976–1983.** Fordyce's operant program (1976) and Turk, Meichenbaum & Genest (1983) define the field. RCTs accumulate through the 1980s–90s, leading to Morley 1999.
 - **2000s.** Becomes standard in multidisciplinary pain programmes (UK "pain management programmes," US interdisciplinary clinics, German multimodal therapy). Cochrane reviews in 2009, 2012 and 2020.
-- **2011–2014.** VA national CBT-CP training launched (therapist evaluation published 2015; manual 2014). Opioid-crisis policy (CDC 2016; CARA 2016; HHS Task Force 2019) sharply raises demand for non-drug pain care. This is the peak period of policy attention.
+- **2012–2014.** VA national CBT-CP training launched (clinicians trained since 2012) (therapist evaluation published 2015; manual 2014). Opioid-crisis policy (CDC 2016; CARA 2016; HHS Task Force 2019) sharply raises demand for non-drug pain care. This is the peak period of policy attention.
 - **2020–2026.** Telehealth expansion during COVID-19; new HBAI billing codes (2020). Digital, AI and IVR versions; large pragmatic VA trials (COPES-ExTRA 2026). Also challenged by "pain reprocessing" approaches (PRT 2021 JAMA Psychiatry; EAET 2024), which position CBT-CP as the conventional comparator.
-- **Scale.** In a national VHA analysis, 37,514 patients with pain were seen by CBT-CP-trained therapists, about 38% of whom received CBT-CP. VA cohorts include 1,331 (2012–18) program-evaluation patients plus thousands in trials.
-- **Online visibility.** Generic CBT-for-pain is widely discussed on Reddit r/ChronicPain, often ambivalently ("useful coping, didn't reduce pain," "felt told it's in my head"). Google interest in "CBT for chronic pain" has been steady rather than viral. Not systematically measured here.
+- **Scale.** In a national VHA analysis (McGuire et al., Health Serv Res 2025; PMID 40208912), 37,514 patients with pain were seen by CBT-CP-trained therapists (Oct 2015–Feb 2020), 38.4% of whom received CBT-CP. VA cohorts include 1,331 (2012–18) program-evaluation patients plus thousands in trials.
+- **Research volume.** PubMed title/abstract records mentioning CBT and chronic pain: 18 (2000), 27 (2010), 60 (2015), 103 (2020), 142 (2025); about 1,480 in total. ClinicalTrials.gov lists 473 studies with condition "chronic pain" and a CBT intervention (Oct 2026).
+- **Online visibility.** CBT-CP has no consumer brand or dedicated subreddit. It is discussed within r/ChronicPain (about 117K weekly visitors and 5.4K weekly contributions in a 2026-10-08 Wayback capture; live Reddit API blocked), with anecdotal ambivalence ("useful coping, didn't reduce pain," "felt told it's in my head"); sentiment was not quantified. Google Trends could not be retrieved (no API access).
 
 ## 8. Controversies / criticisms
 - **Small effects.** The effect on pain is small, and some argue it is not clearly specific (it is roughly equal to active controls).
@@ -128,7 +129,14 @@ Mostly one transdiagnostic framework. The same biopsychosocial and CBT model and
 - https://pubmed.ncbi.nlm.nih.gov/28384682/ and https://pubmed.ncbi.nlm.nih.gov/42340733/ (Heapy, COPES)
 - https://pubmed.ncbi.nlm.nih.gov/35939288/ (Piette 2022)
 - https://pubmed.ncbi.nlm.nih.gov/38869899/ (Yarns 2024)
+- https://pubmed.ncbi.nlm.nih.gov/40208912/ (McGuire et al., Health Serv Res 2025; 37,514 patients, 38.4% uptake)
+- https://pubmed.ncbi.nlm.nih.gov/28796118/ (Lumley 2017) and https://pubmed.ncbi.nlm.nih.gov/32451528/ (Yarns 2020 pilot)
+- https://www.va.gov/PAINMANAGEMENT/CBT_CP/docs/CBT-Chronic-Pain-Therapist-Manual_2025_508.pdf (2025 accessible re-issue)
+- https://www.va.gov/PAINMANAGEMENT/CBT_CP/docs/CBT-CP_Veteran_Guidebook_08-27-2025_508.pdf
+- https://www.psychologytoday.com/us/basics/therapy/how-much-does-therapy-cost (session fees)
+- http://web.archive.org/web/20261008141340/https://www.reddit.com/r/ChronicPain/ (r/ChronicPain activity)
+- https://clinicaltrials.gov/api/v2/studies?query.cond=chronic+pain&query.intr=cognitive+behavioral+therapy
 - https://www.centreforevidence.org/article/20250410-use-of-cognitive-behavioral-therapy-in-a-nation-wide-veterans-health-administration-sample-the-role-of-clinic-therapist-and-patient-factors
 - https://www.nice.org.uk/guidance/ng193
 
-*Fact-checked 2026-10-12; corrections: all 15 cited PMIDs verified against PubMed/Europe PMC records; Cochrane CBT subset clarified (59 trials, >5,000 participants; 9,401 is all 75 trials); Lumley 2017 citation completed and result made precise (EAET ≈ CBT on primary outcome); COPES-ExTRA noted as open-label with comparator details; Darnall developer conflict and secondary outcomes noted; BeST comparator clarified; VA 38.4% uptake figure reworded (pain patients of trained therapists, 2015–2020); unverified '2025 manual update' softened; PTSD removed from claimed target conditions (comorbidity only).*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: 37,514/38.4% VHA figure traced to McGuire et al. 2025 (PMID 40208912); VA training start confirmed as 2012; 2025 VA manual/guidebook re-issue checked (same 12 sessions); private session fees sourced (USD 100–200); r/ChronicPain activity, PubMed and ClinicalTrials.gov counts added; Google Trends not retrievable.*

@@ -10,11 +10,11 @@
 | Founded | **1991**, Washington DC. Source: CMBM's "How We Started" page; the 2026 site says "35 years." |
 | Format / delivery | (1) A train-the-trainer **Professional Training Program** for clinicians, educators and community leaders. It was historically a week-long residential program and is now a 4-day live Zoom program. It leads to an Advanced Training, then supervision and Certification. (2) Certified facilitators run **Mind-Body Skills Groups (MBSGs)**: small groups of 8–12 people, typically 8–12 weekly sessions of about 2 hours. These run in schools, clinics, the VA, prisons and conflict or disaster zones. (3) Books and free online audio and video practices. |
 | Business model | Nonprofit 501(c)(3). Training is fee-based; programs for communities are grant- and donor-funded and often free to participants. 2024 revenue was about USD 5.8M (ProPublica Form 990 summary). |
-| Direct cost | Professional Training Program, Oct 2026: **USD 1,475**, or USD 1,275 early-bird, with limited scholarships. The 2023 price was the same (USD 1,475). Advanced training and certification cost extra; current prices were not found. Mind-Body Skills Groups are usually free to participants. |
+| Direct cost | Professional Training Program, Oct 2026: **USD 1,475**, or USD 1,275 early-bird, with limited scholarships. The 2023 price was the same (USD 1,475). Advanced Training (Dec 2026, online, prerequisite PTP) is also USD 1,475 (USD 1,275 early-bird). Certification costs USD 5,575 (Signature track, 1.5–2 years) or USD 2,950 (Essential track, 6–12 months), so full certification runs about USD 5,900–8,500. Mind-Body Skills Groups are usually free to participants. |
 | Conditions claimed | Population-level trauma and PTSD, stress, anxiety, depression, burnout, and "chronic and life-threatening illnesses" in general (cancer historically). It does **not** specifically target ME/CFS, fibromyalgia, POTS, IBS and similar syndromes. |
 | Mainstream adoption | Moderate (largely per CMBM self-report): <br>• VA/VHA partnership of about 10 years, including training Whole Health coaches in VISN 8 <br>• the Mind-Body Medicine course in Georgetown's medical school curriculum, plus faculty trained at more than 15 US medical schools <br>• described by CMBM as "one of the pillars" of Kosovo's postwar community mental health system (600+ Kosovar clinicians and educators trained), Gaza schools and clinics, and Broward County schools after Parkland <br>• CE credits for psychologists, social workers and counselors |
 | Insurance reimbursable | Not as a branded product. Licensed trainees can bill groups as group psychotherapy or behavioral health, and the VA delivers groups internally. |
-| Evidence (peer-reviewed trials) | Two developer-run RCTs: Kosovo adolescents with PTSD (n=82, waitlist) and US veterans with PTSD (n=108, vs usual care). Several uncontrolled pre–post studies cover Gaza children and adults, adolescents with depression, and prisoners. There are no trials in chronic pain or fatigue syndromes. **Verdict: two small developer-run RCTs (waitlist/usual-care controls), so technically "multiple RCTs" but weak; mostly PTSD, nearly all by the developers. Two registered Gaza RCTs (NCT01595477, NCT01595490; 2012) have no located published results.** |
+| Evidence (peer-reviewed trials) | Two published developer-run RCTs: Kosovo adolescents with PTSD (n=82, waitlist) and US veterans with PTSD (n=108, vs usual care). Several uncontrolled pre–post studies cover Gaza children and adults, adolescents with depression, and prisoners. There are no trials in chronic pain or fatigue syndromes. **Verdict: two small developer-run RCTs (waitlist/usual-care controls), so technically "multiple RCTs" but weak; mostly PTSD, nearly all by the developers. Three registered 2012 Gaza RCTs (NCT01595477, NCT01595490, NCT01595464) and a 2016 one (NCT02671487) have no published randomized results; a new Gaza RCT (NCT07302984) is recruiting.** |
 | Popularity signals | More than 8,000 professionals trained from 50+ countries (2026 site). CMBM says trainees have reached "hundreds of thousands" of people, including more than 280,000 children and adults in Gaza through about 1,500 local trainees. It has made Clinton Global Initiative commitments. Gordon is a frequent podcast guest (goop, Psychotherapy Networker, Sounds True). Grassroots social-media presence is modest. |
 
 ## 1. Proposed mechanism(s)
@@ -69,7 +69,7 @@ Trials of the branded CMBM Mind-Body Skills Group model. All were led or co-auth
 |---|---|---|
 | Gordon, Staples, Blyta, Bytyqi. *J Trauma Stress* 2004;17:143 (PMID 15141787) | Uncontrolled pilot; 139 Kosovar high-school students; 6-week program | PTSD reaction-index scores fell and stayed lower at follow-up. No control group. |
 | Gordon, Staples, Blyta, Bytyqi, Wilson. *J Clin Psychiatry* 2008;69:1469 (PMID 18945398) | **RCT**; 82 adolescents with PTSD (Harvard Trauma Questionnaire); 12 sessions vs waitlist; teacher-led | Greater PTSD reduction than waitlist (F=29.8, p<.001; mean 2.5→2.0 vs 2.5→2.4). Gains held at 3 months, and the waitlist improved once treated. Self-report only; not blinded. CMBM markets this as an "82% reduction" in PTSD caseness and the "first RCT of any intervention with war-traumatized adolescents." |
-| Staples, Abdel Atti, Gordon. *Int J Stress Manag* 2011;18:246 (doi 10.1037/a0024015) | Gaza children and adolescents; uncontrolled pre–post with 7-month follow-up | CMBM reports large drops in PTSD-positive rates and in depression and hopelessness. The developers report an 89% (website) or 91% (2022 CMBM research summary) reduction in PTSD caseness; N not verified. Uncontrolled. |
+| Staples, Abdel Atti, Gordon. *Int J Stress Manag* 2011;18:246 (doi 10.1037/a0024015) | Gaza children and adolescents; uncontrolled pre–post with 7-month follow-up | CMBM reports large drops in PTSD-positive rates and in depression and hopelessness. The developers report an 89% (website) or 91% (2022 CMBM research summary) reduction in PTSD caseness. N is not stated on CMBM's pages; the article is closed-access and its abstract is not in PubMed, Europe PMC, CrossRef or Semantic Scholar. Uncontrolled. |
 | Gordon, Staples, He, Abdel Atti. *Traumatology* 2016;22(3):155-64 (doi 10.1037/trm0000081) | 92 Gaza adults with PTSD; 10 sessions; pre–post with 10-month follow-up | Improvements in PTSD, depression, anxiety and quality of life were maintained at follow-up. Uncontrolled. |
 | Staples, Gordon, Hamilton, Uddo. *Psychol Trauma* 2022;14:1016 (epub 2020; PMID 32134288) | **RCT**; 108 veterans at a VA PTSD clinic; 10-week groups vs standard treatment | Greater improvement in total PTSD score, hyperarousal and avoidance at 10 weeks. Only the hyperarousal gain was maintained at 2 months. Anger and sleep improved. No difference in depression, anxiety, post-traumatic growth or quality of life. |
 | Aalsma et al. *J Pediatr Health Care* 2020;34:462 (PMID 32861425) | Single-arm; 43 depressed adolescents in primary care | Depression improved through the 3-month follow-up; good acceptability. |
@@ -85,12 +85,14 @@ Trials of the branded CMBM Mind-Body Skills Group model. All were led or co-auth
 **Registered trials:**
 - NCT01595477: Gaza children, randomized vs no-intervention control (n=114, 2012)
 - NCT01595490: Gaza adolescents, randomized vs no-intervention control (n=121, 2012)
-- NCT02671487: Gaza male adolescents vs waitlist (CMBM's 2022 summary describes a boys'-school controlled study "being prepared for publication")
-- NCT01093053: military and veterans
-- NCT05948917: incarcerated people
-- NCT07302984: Gaza adolescents, newly registered
+- NCT01595464: Gaza adults, randomized (n=148, 2012). The published adult study (Traumatology 2016, n=92) reports only pre–post data.
+- NCT02671487: Gaza male adolescents vs waitlist (n=115, completed 2017). CMBM's 2022 summary describes a boys'-school controlled study "being prepared for publication"; no paper found in PubMed as of Oct 2026.
+- NCT01093053: military and veterans (n=108, completed 2013; published as Staples 2022)
+- NCT00136357: Kosovo adolescents (n=82; published as Gordon 2008)
+- NCT05948917: incarcerated people (n=140, completed 2025; no results posted). NCT05622799 (n=46) is a related prison training study.
+- NCT07302984: new Gaza adolescent RCT (n=120), recruiting since Dec 2025.
 
-Results for the Gaza RCT registrations were not located in PubMed; these completed-but-unpublished randomized trials are a possible publication-bias concern.
+None of the three 2012 Gaza RCT registrations (NCT01595477, NCT01595490, NCT01595464) has results posted on ClinicalTrials.gov, and no randomized results were found in PubMed (searched Oct 2026); these completed-but-unpublished randomized trials are a possible publication-bias concern.
 
 **Gaps:**
 - Only two RCTs, both by the developers and both with waitlist or usual-care controls.
@@ -113,7 +115,7 @@ Results for the Gaza RCT registrations were not located in PubMed; these complet
 **Scale:**
 - Cumulative trainees: more than 7,000 (2019–2024 site) and more than 8,000 (2026).
 - Revenue: about USD 5.8M (2024).
-- Online presence: modest; there is no dedicated subreddit and little patient-community discussion compared with consumer brain-retraining programs.
+- Online presence: modest, with little patient-community discussion compared with consumer brain-retraining programs. Reddit could not be checked directly: reddit.com blocked automated requests (about.json for r/mindbodymedicine and r/CenterforMindBodyMedicine, Oct 2026). No dedicated subreddit is known.
 
 ## 8. Controversies and criticisms
 - **Gordon as CAM advocate.** Gordon's chairmanship of the White House CAM commission was criticised in a multi-part Quackwatch/NCAHF series (Stephen Barrett, E. Patrick Curry, Wallace Sampson and others). They argued the commission was stacked with CAM proponents and that Gordon was a partial advocate for untested practices. Quackwatch also raised what it called a 12-year (1973–85) involvement with the Rajneesh movement; Gordon wrote *The Golden Guru* (1987) about it and reportedly denied being a disciple. These criticisms target his CAM policy role rather than the MBSG model itself.
@@ -142,6 +144,13 @@ Results for the Gaza RCT registrations were not located in PubMed; these complet
 - https://clinicaltrials.gov/study/NCT01595490
 - https://clinicaltrials.gov/study/NCT02671487
 - https://clinicaltrials.gov/study/NCT01093053
+- https://clinicaltrials.gov/study/NCT01595464
+- https://clinicaltrials.gov/study/NCT00136357
+- https://clinicaltrials.gov/study/NCT05948917
+- https://clinicaltrials.gov/study/NCT07302984
+- https://cmbm.org/calendar/events/online-advanced-training-program-in-mind-body-medicine/
+- https://cmbm.org/certification-frequently-asked-questions/
+- https://cmbm.org/training-certification/certification/
 - https://projects.propublica.org/nonprofits/organizations/521755744
 - https://www.clintonfoundation.org/?p=97844
 - https://som.georgetown.edu/?p=1816
@@ -152,4 +161,4 @@ Results for the Gaza RCT registrations were not located in PubMed; these complet
 - https://www.clintonfoundation.org/commitment/clinton-global-initiative/hope-healing-addressing-population-wide-trauma-in-gaza/
 - https://cmbm.org/wp-content/uploads/2022/07/2022.3.10-CMBM-Summary-of-Publications-and-Research.pdf
 
-*Fact-checked 2026-10-12; corrections: removed unverified "2001 letter from academic psychologists" and Gorski attribution; Rajneesh dates attributed to Quackwatch (Gordon denies discipleship); evidence verdict aligned to two developer RCTs; added registered-but-unpublished Gaza RCTs (NCT01595477/NCT01595490); noted 89% vs 91% Gaza claim discrepancy and CMBM's 82% Kosovo framing; Traumatology citation completed; Kosovo/VA adoption flagged as CMBM self-report. Prices, founding year, 990 revenue, trial PMIDs/N verified.*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: Advanced Training and Certification prices added; ClinicalTrials.gov registry fully enumerated (added NCT01595464, NCT00136357, NCT07302984, enrollments/statuses); Gaza RCT non-publication reconfirmed; Gaza 2011 N still unavailable (closed access); Reddit not checkable (blocked).*

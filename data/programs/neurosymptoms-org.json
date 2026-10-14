@@ -151,6 +151,24 @@
         "value": "Wellcome-funded iTPA Impact Fund £50k",
         "source": "Edinburgh Innovations",
         "year": 2022
+      },
+      {
+        "metric": "iOS app release / ratings",
+        "value": "Released 2021-06-30; 4.7/5 from 13 ratings; v1.1.6 (Oct 2023)",
+        "source": "Apple iTunes lookup API (id1543737006)",
+        "year": 2026
+      },
+      {
+        "metric": "Android app downloads",
+        "value": "10K+",
+        "source": "Google Play (com.jonstone.fnd)",
+        "year": 2026
+      },
+      {
+        "metric": "r/FND subreddit members (general FND forum)",
+        "value": "743 (Mar 2022); 8,343 (Aug 2025)",
+        "source": "Wayback Machine captures of reddit.com/r/FND",
+        "year": 2025
       }
     ],
     "reach_estimate": "About 50-60k visits a month over ~15 years is roughly 10 million visits, or perhaps 1-3 million unique people (speculative, based on an assumed 3-10 visits per person). Many more are reached indirectly through NHS clinic referrals and translations.",
@@ -209,7 +227,7 @@
         "relative_activity": 9
       }
     ],
-    "method_notes": "Anchors:\n- 2009 launch (Wayback earliest capture; Edinburgh Innovations).\n- ~60k hits/month in an undated staff profile, placed at about 2017.\n- FND Society founded 2019.\n- SHIFT trial and user survey 2020.\n- 2021 redesign and app, ~50k users/month.\n- 2022 Wellcome iTPA grant.\n- ~60k visits/month per Edinburgh Innovations.\nEarly years (2009-2015) are interpolated with no direct metrics. The plateau after 2021 reflects stable reported traffic. Subreddit and Google Trends data could not be retrieved (web-search budget exhausted). Reach is visits converted to unique users with an assumed 3-10 visits per person."
+    "method_notes": "Anchors:\n- 2009 launch (Wayback earliest capture; Edinburgh Innovations).\n- ~60k hits/month in an undated staff profile, placed at about 2017.\n- FND Society founded 2019.\n- SHIFT trial and user survey 2020.\n- 2021 redesign and app, ~50k users/month.\n- 2022 Wellcome iTPA grant.\n- ~60k visits/month per Edinburgh Innovations.\nEarly years (2009-2015) are interpolated with no direct metrics. The plateau after 2021 reflects stable reported traffic. r/FND membership (a general FND forum) is from Wayback captures, since live Reddit returned 403; Google Trends was not checked. App figures are from the Apple lookup API and Google Play. Reach is visits converted to unique users with an assumed 3-10 visits per person."
   },
   "sources": [
     "https://www.neurosymptoms.org/",
@@ -232,6 +250,10 @@
     "https://pubmed.ncbi.nlm.nih.gov/38768621/",
     "https://pubmed.ncbi.nlm.nih.gov/40552010/",
     "https://pubmed.ncbi.nlm.nih.gov/38584382/",
-    "https://pubmed.ncbi.nlm.nih.gov/42750449/"
+    "https://pubmed.ncbi.nlm.nih.gov/42750449/",
+    "https://apps.apple.com/app/id1543737006",
+    "https://play.google.com/store/apps/details?id=com.jonstone.fnd",
+    "http://web.archive.org/web/20250816163018/https://www.reddit.com/r/FND/",
+    "https://pubmed.ncbi.nlm.nih.gov/37130594/"
   ]
 }

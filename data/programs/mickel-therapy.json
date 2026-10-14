@@ -2,16 +2,38 @@
   "slug": "mickel-therapy",
   "name": "Mickel Therapy",
   "url": "https://www.mickeltherapy.com/",
-  "founders": ["David Mickel, MD (medical doctor per own site; 'former Scottish GP' per secondary accounts, unverified)"],
-  "founded_year": 2000,
-  "founded_year_range": "1999-2001 (estimate: site claims 'over 25 years' of work as of 2026; no founding year stated; early-2000s UK presence and c.2002 Reverse Therapy spin-off are unverified background)",
+  "founders": [
+    "David Mickel, MBChB MRCGP (former GP, Victoria Medical Centre, Elgin, Scotland, until 2002-03)"
+  ],
+  "founded_year": 2002,
+  "founded_year_range": "2001-2005 (method piloted 2001-02; co-founded Reverse Therapy Ltd with John Eaton in 2002; after split, relaunched as Mickel Reverse Therapy / Mickel Therapy by 2004-05; mickeltherapy.com first archived Aug 2005)",
   "category": "limbic/brain retraining course (practitioner coaching; historical precursor)",
-  "delivery": ["coaching", "online course", "app", "group"],
+  "delivery": [
+    "coaching",
+    "online course",
+    "app",
+    "group"
+  ],
   "business_model": "commercial",
-  "cost_summary": "Verified Oct 2026: Self-Directed Core Course GBP 295; Guided Core Course GBP 595 (or 3 x GBP 205), which includes 3 team-coach sessions within 9 months; Personal Guidance with Dr Mickel GBP 2,195 (core course, 3 private sessions within 6 months, 6 months of messaging); individual consultations with Mickel are unpriced; workshop membership GBP 20; coach certification GBP 1,495 (two training weekends; core course is a separate prerequisite). Donation-funded bursaries are available through the Vitality Foundation.",
+  "cost_summary": "Historical (2005): GBP 80-100 per 1-hour session, typically 6-8 sessions. Verified Oct 2026: Self-Directed Core Course GBP 295; Guided Core Course GBP 595 (or 3 x GBP 205), which includes 3 team-coach sessions within 9 months; Personal Guidance with Dr Mickel GBP 2,195 (core course, 3 private sessions within 6 months, 6 months of messaging); individual consultations with Mickel are unpriced; workshop membership GBP 20; coach certification GBP 1,495 (two training weekends; core course is a separate prerequisite). Donation-funded bursaries are available through the Vitality Foundation.",
   "cost_usd_typical": 750,
-  "conditions_claimed": ["ME/CFS", "long COVID", "PVFS", "fibromyalgia", "chronic pain (general)", "anxiety", "IBS/functional GI", "headache/migraine", "MCAS", "general stress/wellbeing"],
-  "conditions_primary": ["ME/CFS", "long COVID", "fibromyalgia"],
+  "conditions_claimed": [
+    "ME/CFS",
+    "long COVID",
+    "PVFS",
+    "fibromyalgia",
+    "chronic pain (general)",
+    "anxiety",
+    "IBS/functional GI",
+    "headache/migraine",
+    "MCAS",
+    "general stress/wellbeing"
+  ],
+  "conditions_primary": [
+    "ME/CFS",
+    "long COVID",
+    "fibromyalgia"
+  ],
   "differentiation": "single unified mechanism",
   "mechanisms": [
     "stress / HPA axis",
@@ -20,7 +42,12 @@
     "inflammation / immune"
   ],
   "mechanism_summary": "The original model was 'hypothalamitis', and the program now calls it the 'Prolonged Activation State' (PAS). In this model, feelings that arise from present-day interactions are repeatedly overridden or left unanswered, and each new situation adds fresh activation. The hypothalamus, described on the site as the coordinating centre for the nervous, endocrine and immune systems, is said to stay 'on' as a result, producing fatigue, pain, brain fog, sensitivities and immune or allergy-type ('MCAS-type') symptoms. An infection can start the process, but PAS is explicitly 'not the residue of that event' and is not framed as past trauma or repressed emotion. Symptoms are treated as messages that call for a response. One model covers all of the conditions the program claims to treat.",
-  "roots": ["Selye stress theory", "life coaching / positive psychology", "Sarno TMS (analogy only)", "humanistic/somatic psychology (inferred)"],
+  "roots": [
+    "Selye stress theory",
+    "life coaching / positive psychology",
+    "Sarno TMS (analogy only)",
+    "humanistic/somatic psychology (inferred)"
+  ],
   "techniques": [
     "notice feelings and symptoms as signals/messages",
     "link the feeling to a current situation or relationship",
@@ -30,45 +57,137 @@
     "5-module, 17-lesson self-paced online core course with worksheets",
     "1:1 coach sessions (3 in the guided track)",
     "monthly workshops",
-    "historically: a short series of practitioner sessions with symptom/feeling diary homework (unverified)"
+    "historically (2005): 1-hour one-to-one sessions every 2-3 weeks, typically 6-8 sessions, with homework on recognising and acting on emotions"
   ],
   "mainstream_adoption": "none",
-  "mainstream_notes": "There is no NHS commissioning, guideline endorsement or academic program. NICE CG53 (2007) and NG206 (2021) do not recommend it. NG206 warns against the Lightning Process and therapies based on it but does not name Mickel Therapy. Coaches are certified only by the company, through two training weekends plus a one-month check-in.",
+  "mainstream_notes": "There is no NHS commissioning, guideline endorsement or academic program. NICE CG53 (2007) and NG206 (2021) do not recommend it. NG206 warns against the Lightning Process and therapies based on it but does not name Mickel Therapy. Coaches are certified only by the company, through two training weekends plus a one-month check-in. In 2005 Mickel planned an RCT to win NHS funding; it was never registered or published.",
   "insurance": "no",
   "insurance_notes": "Self-pay only. No insurer coverage or billing codes were found, and coaches are not a regulated profession.",
   "evidence_level": "none",
   "key_trials": [],
-  "controversy": "'Hypothalamitis' is a real but rare diagnosis of autoimmune or inflammatory hypothalamic lesions, and the PubMed literature on it consists of case reports such as anti-Ma hypothalamitis. Applying the term to ME/CFS has no evidential basis, and the program has since replaced it with PAS. ME/CFS patient advocates group Mickel Therapy with the Lightning Process and Reverse Therapy as unproven commercial coaching that implies patients sustain their illness through emotional habits; a critical 2011 reader comment on the ME Association site is one example. The site cites no studies, and testimonials stand in for outcome data, despite marketing to people with post-viral illness, including long COVID.",
+  "controversy": "'Hypothalamitis' is a real but rare diagnosis of autoimmune or inflammatory hypothalamic lesions, and the PubMed literature on it consists of case reports such as anti-Ma hypothalamitis. Applying the term to ME/CFS has no evidential basis, and the program has since replaced it with PAS. ME/CFS patient advocates group Mickel Therapy with the Lightning Process and Reverse Therapy as unproven commercial coaching that implies patients sustain their illness through emotional habits; a critical 2011 reader comment on the ME Association site is one example. The site cites no studies, and testimonials stand in for outcome data, despite marketing to people with post-viral illness, including long COVID. Earlier marketing (2003-2005) claimed all 39 pilot patients were 'cured' and 80-89% success rates from unpublished in-house data, alongside an announced RCT and 'independent observational study' that never appeared.",
   "popularity": {
     "indicators": [
-      {"metric": "claimed clients", "value": "'thousands of people from around the world'", "source": "mickeltherapy.com/about", "year": 2026},
-      {"metric": "peer-reviewed publications", "value": "0 (PubMed 'Mickel therapy'[tiab]; unquoted search gives ~120 hits, all for authors named Mickel)", "source": "PubMed E-utilities", "year": 2026},
-      {"metric": "ME Association site mentions", "value": "1 (2011 Observer letters page: one reader letter citing it favourably, one critical comment)", "source": "meassociation.org.uk", "year": 2026},
-      {"metric": "product range", "value": "online core course, coach directory, coach certification, app, workshops, Wired for Wonder offshoot", "source": "mickeltherapy.com", "year": 2026}
+      {
+        "metric": "claimed clients",
+        "value": "'thousands of people from around the world'",
+        "source": "mickeltherapy.com/about",
+        "year": 2026
+      },
+      {
+        "metric": "peer-reviewed publications",
+        "value": "0 (PubMed 'Mickel therapy'[tiab]; unquoted search gives ~120 hits, all for authors named Mickel)",
+        "source": "PubMed E-utilities",
+        "year": 2026
+      },
+      {
+        "metric": "ME Association site mentions",
+        "value": "1 (2011 Observer letters page: one reader letter citing it favourably, one critical comment)",
+        "source": "meassociation.org.uk",
+        "year": 2026
+      },
+      {
+        "metric": "product range",
+        "value": "online core course, coach directory, coach certification, app, workshops, Wired for Wonder offshoot",
+        "source": "mickeltherapy.com",
+        "year": 2026
+      },
+      {
+        "metric": "claimed clients and centres (historical)",
+        "value": "over 400 people treated; 26 centres in UK, Ireland, Netherlands, Canada; NZ/Australia training planned 2006",
+        "source": "mickeltherapy.com via Wayback (Aug-Dec 2005)",
+        "year": 2005
+      },
+      {
+        "metric": "YouTube subscribers",
+        "value": "4.37K subscribers, 227 videos (@MickelTherapy-Official)",
+        "source": "youtube.com",
+        "year": 2026
+      },
+      {
+        "metric": "Reddit mentions",
+        "value": "~15 submissions mentioning 'Mickel therapy' 2021-2026; >=100 comments in 2025-26 alone (query cap), mainly r/cfsrecovery, r/mecfs, r/cfsnervoussystemwork",
+        "source": "Pullpush Reddit archive API",
+        "year": 2026
+      }
     ],
     "reach_estimate": "About 5,000-20,000 people over 25 years. Basis: the site's 'thousands' claim, a niche UK/Commonwealth practitioner network, and a small online-course business. Low confidence.",
     "reach_log10": 4,
     "trajectory": [
-      {"year": 1999, "relative_activity": 1},
-      {"year": 2001, "relative_activity": 3},
-      {"year": 2003, "relative_activity": 5},
-      {"year": 2005, "relative_activity": 7},
-      {"year": 2007, "relative_activity": 7},
-      {"year": 2009, "relative_activity": 6},
-      {"year": 2011, "relative_activity": 5},
-      {"year": 2013, "relative_activity": 4},
-      {"year": 2015, "relative_activity": 3},
-      {"year": 2017, "relative_activity": 3},
-      {"year": 2019, "relative_activity": 2},
-      {"year": 2020, "relative_activity": 3},
-      {"year": 2021, "relative_activity": 4},
-      {"year": 2022, "relative_activity": 4},
-      {"year": 2023, "relative_activity": 3},
-      {"year": 2024, "relative_activity": 3},
-      {"year": 2025, "relative_activity": 3},
-      {"year": 2026, "relative_activity": 3}
+      {
+        "year": 1999,
+        "relative_activity": 0
+      },
+      {
+        "year": 2001,
+        "relative_activity": 1
+      },
+      {
+        "year": 2003,
+        "relative_activity": 4
+      },
+      {
+        "year": 2005,
+        "relative_activity": 7
+      },
+      {
+        "year": 2007,
+        "relative_activity": 7
+      },
+      {
+        "year": 2009,
+        "relative_activity": 6
+      },
+      {
+        "year": 2011,
+        "relative_activity": 5
+      },
+      {
+        "year": 2013,
+        "relative_activity": 4
+      },
+      {
+        "year": 2015,
+        "relative_activity": 3
+      },
+      {
+        "year": 2017,
+        "relative_activity": 3
+      },
+      {
+        "year": 2019,
+        "relative_activity": 2
+      },
+      {
+        "year": 2020,
+        "relative_activity": 3
+      },
+      {
+        "year": 2021,
+        "relative_activity": 4
+      },
+      {
+        "year": 2022,
+        "relative_activity": 4
+      },
+      {
+        "year": 2023,
+        "relative_activity": 3
+      },
+      {
+        "year": 2024,
+        "relative_activity": 3
+      },
+      {
+        "year": 2025,
+        "relative_activity": 3
+      },
+      {
+        "year": 2026,
+        "relative_activity": 3
+      }
     ],
-    "method_notes": "The web-search budget ran out in both the research pass and the fact-check pass, so news archives, Reddit, Wayback, Google Trends and YouTube metrics could not be retrieved. The trajectory is a qualitative reconstruction: development c.1999-2001; a 2000s UK peak alongside the Lightning Process and Reverse Therapy (unverified background); decline in the 2010s; a modest long-COVID-driven online relaunch from 2020. All values have low confidence."
+    "method_notes": "Checked 2026-10-13: Wayback captures of mickeltherapy.com (from Aug 2005) and reversetherapyinternational.com (2003, including reprinted 2003 Scottish press) date the method's emergence (2001-03) and the mid-2000s network peak (26 centres, >400 clients by 2005). Reddit (Pullpush) and YouTube counts were retrieved; Google Trends has no public API and was not retrieved. Values after 2006 and before 2020 remain a qualitative reconstruction (2010s decline; long-COVID-driven online relaunch from 2020). Low-to-moderate confidence."
   },
   "sources": [
     "https://www.mickeltherapy.com/",
@@ -85,6 +204,14 @@
     "https://www.nice.org.uk/guidance/ng206",
     "https://pubmed.ncbi.nlm.nih.gov/29379898/ (Bustos et al. 2018, anti-Ma hypothalamitis case report; illustrates the medical meaning of the term)",
     "PubMed E-utilities searches 2026-10-12 (0 relevant hits)",
-    "ClinicalTrials.gov and ISRCTN searches 2026-10-12 (0 relevant records)"
+    "ClinicalTrials.gov and ISRCTN searches 2026-10-12 (0 relevant records)",
+    "https://web.archive.org/web/20050812023629/http://www.mickeltherapy.com/",
+    "https://web.archive.org/web/2005/http://www.mickeltherapy.com/aboutus.html",
+    "https://web.archive.org/web/2005/http://www.mickeltherapy.com/information.html",
+    "https://web.archive.org/web/2005/http://www.mickeltherapy.com/news.html",
+    "https://web.archive.org/web/20030621122305/http://www.reversetherapyinternational.com/",
+    "https://www.healthrising.org/forums/resources/mickel-therapy-turns-the-corner-for-experienced-mind-body-practitioner.85/",
+    "https://www.youtube.com/@MickelTherapy-Official",
+    "https://api.pullpush.io/reddit/search/ (queries 'mickel therapy', 2026-10-13)"
   ]
 }

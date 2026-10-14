@@ -6,7 +6,7 @@
     "Moshé Feldenkrais (1904-1984; engineer/physicist, D.Sc. Sorbonne, early European judo black belt)"
   ],
   "founded_year": 1949,
-  "founded_year_range": "1940s-1950s. Basis: Body and Mature Behavior (1949) and Tel Aviv classes from the 1950s. First practitioner training in Tel Aviv approx. 1969-71; US trainings San Francisco 1975-78 and Amherst 1980-84. Professional bodies came later: Feldenkrais Guild of North America (approx. 1977) and the International Feldenkrais Federation (approx. 1992); these dates are unverified.",
+  "founded_year_range": "1940s-1950s. Basis: Body and Mature Behavior (1949) and Tel Aviv classes from the 1950s. First practitioner training in Tel Aviv 1969-71; US trainings San Francisco 1975-78 and Amherst 1980-83 (per FGNA; Wikipedia gives 1980-84). Professional bodies came later: the Feldenkrais Guild, established by Feldenkrais in 1977 (renamed Feldenkrais Guild of North America in 1997), and the International Feldenkrais Federation (founded Paris, 1992).",
   "category": "somatic/movement practice",
   "delivery": [
     "group classes (Awareness Through Movement)",
@@ -16,8 +16,8 @@
     "workshops"
   ],
   "business_model": "clinician-delivered (fee-for-service)",
-  "cost_summary": "IQWiG (2023): about EUR 10-20 per group session and EUR 60-90 per individual session, typically paid out of pocket. Typical US market range (unverified): about $15-35 per ATM class and $80-200 per FI session. Much ATM material is free online.",
-  "cost_usd_typical": 120,
+  "cost_summary": "IQWiG (2023): about EUR 10-20 per group session and EUR 60-90 per individual session, typically paid out of pocket. US listings (2026): group ATM classes about $15-20 drop-in; private FI sessions about $90-125 (e.g. $120 Napa Valley Somatic Institute; $100-125 City of Boulder). Practitioner-set prices, no standard rate. Much ATM material is free online. Practitioner training: about 800 hours/160 days over ~4 years, e.g. $25,000 tuition at one US program.",
+  "cost_usd_typical": 110,
   "conditions_claimed": [
     "chronic back/neck pain",
     "chronic pain (general)",
@@ -138,10 +138,10 @@
         "year": 2014
       },
       {
-        "metric": "Practitioners certified in US trainings (San Francisco 1975-78; Amherst 1980-84)",
-        "value": "several hundred",
-        "source": "Wikipedia",
-        "year": 1984
+        "metric": "Practitioners trained by Feldenkrais himself (Tel Aviv 1969-71, 13; San Francisco 1975-78, 65; Amherst 1980-83, 235 began)",
+        "value": "about 300",
+        "source": "FGNA (feldenkrais.com/about-moshe-feldenkrais); Wikipedia",
+        "year": 1983
       },
       {
         "metric": "Popular book coverage",
@@ -166,6 +166,18 @@
         "value": "109",
         "source": "NCBI E-utilities esearch, 2026-10-12",
         "year": 2026
+      },
+      {
+        "metric": "Feldenkrais practitioners worldwide (organisation's own claim)",
+        "value": "over 10,000",
+        "source": "FGNA, feldenkrais.com/about-moshe-feldenkrais (accessed 2026-10-13)",
+        "year": 2026
+      },
+      {
+        "metric": "r/Feldenkrais subreddit",
+        "value": "exists since at least 2014; member count not retrievable",
+        "source": "Wayback capture 2014-07-15; Reddit blocked automated access 2026-10-13",
+        "year": 2014
       }
     ],
     "reach_estimate": "About 1 million cumulative (order of magnitude). Basis: a few thousand certified practitioners worldwide (1,287 in the US in 2014), most part-time and seeing fewer than 10 individual plus fewer than 10 group students a week, over 50+ years, plus book readers and free online ATM audiences.",
@@ -240,7 +252,7 @@
         "relative_activity": 6
       }
     ],
-    "method_notes": "The web search budget was used up, and Reddit, the Wayback Machine and feldenkrais.com blocked automated fetches, so subreddit size and Google Trends could not be checked. The trajectory is built from documented milestones: 1949 book; 1950s Tel Aviv classes; 1972 ATM book and Esalen era; 1975-84 US trainings; 1990s-2000s growth of guilds; 2014 count of 1,287 US teachers; 2015 Doidge bestseller; 2020 COVID shift online; 2023 IQWiG HTA. Activity levels are relative within the program. Reach is an order-of-magnitude estimate from practitioner counts times caseload, plus book and online audiences. Fact-check (2026-10-12) confirmed all cited PMIDs via NCBI E-utilities."
+    "method_notes": "Reddit (about.json, api.reddit.com) and third-party subreddit-stats sites blocked automated access, and the Wayback CDX service was offline on 2026-10-13, so subreddit size could not be checked; a 2014 Wayback capture confirms the subreddit exists. Google Trends was not checked. The trajectory is built from documented milestones: 1949 book; 1950s Tel Aviv classes; 1972 ATM book and Esalen era; 1969-83 trainings (~300 practitioners); 1977 Guild founded; 1992 IFF founded; 2014 count of 1,287 US teachers; 2015 Doidge bestseller; 2020 COVID shift online; 2023 IQWiG HTA; FGNA's 2026 claim of over 10,000 practitioners worldwide. Activity levels are relative within the program. Reach is an order-of-magnitude estimate from practitioner counts times caseload, plus book and online audiences. Fact-check (2026-10-12) confirmed all cited PMIDs via NCBI E-utilities; open items (founding dates, prices, training figures) completed 2026-10-13."
   },
   "sources": [
     "https://feldenkrais.com/",
@@ -260,6 +272,16 @@
     "https://pubmed.ncbi.nlm.nih.gov/24985488/",
     "https://pubmed.ncbi.nlm.nih.gov/21419355/",
     "https://pubmed.ncbi.nlm.nih.gov/39593566/",
-    "https://pubmed.ncbi.nlm.nih.gov/25599428/"
+    "https://pubmed.ncbi.nlm.nih.gov/25599428/",
+    "https://feldenkrais.com/feldenkrais-guild-of-north-america/",
+    "https://feldenkrais.com/about-moshe-feldenkrais/",
+    "https://uia.org/s/or/en/1100048932",
+    "https://en.wikipedia.org/wiki/Mosh%C3%A9_Feldenkrais",
+    "https://opencourser.com/book/s6r835/thinking-and-doing",
+    "https://phoenixville.org/2915/The-Feldenkrais-Method",
+    "https://nvsi.abmp.com/services-and-rates",
+    "https://bouldercolorado.gov/feldenkrais-private-sessions",
+    "https://careerbridge.wa.gov/learn/program/4993",
+    "http://web.archive.org/web/20140715025335/http://www.reddit.com:80/r/Feldenkrais"
   ]
 }

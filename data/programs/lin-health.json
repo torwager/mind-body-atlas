@@ -2,53 +2,229 @@
   "slug": "lin-health",
   "name": "Lin Health",
   "url": "https://www.lin.health/",
-  "founders": ["Yehuda Kogan (CEO, co-founder)", "Shahar Elias (CTO, co-founder)"],
+  "founders": [
+    "Yehuda Kogan (CEO, co-founder)",
+    "Shahar Elias (CTO, co-founder)"
+  ],
   "founded_year": 2021,
-  "founded_year_range": "2021 (stated in company press releases Oct 2024 and Dec 2025; Trustpilot profile claimed Dec 2021)",
+  "founded_year_range": "2021 (stated in company press releases Oct 2024 and Dec 2025; earliest Wayback capture of lin.health 13 Apr 2021; Trustpilot profile claimed Dec 2021)",
   "category": "digital app/platform (virtual physician-led, coach-delivered pain practice)",
-  "delivery": ["app", "telehealth coaching", "clinician-delivered", "online course (free rethinkpain site)", "webinars"],
+  "delivery": [
+    "app",
+    "telehealth coaching",
+    "clinician-delivered",
+    "online course (free rethinkpain site)",
+    "webinars"
+  ],
   "business_model": "commercial",
-  "cost_summary": "Usually billed to insurance at a copay. Self-pay plans as of Oct 2026: Intensive $269/mo (4 live 30-min sessions/mo; list $378) or Core $159/mo (2 sessions/mo; list $189). Commitment plans: $129/mo month-to-month (first month $99), $109/mo billed per 6 months, or $984/yr. HSA/FSA eligible. Free mini-course and webinars at rethinkpain.lin.health. A reported 33% Mayo-referral discount was not re-verified.",
+  "cost_summary": "Usually billed to insurance at a copay. Self-pay plans as of Oct 2026: Intensive $269/mo (4 live 30-min sessions/mo; list $378) or Core $159/mo (2 sessions/mo; list $189). Commitment plans: $129/mo month-to-month (first month $99), $109/mo billed per 6 months, or $984/yr. HSA/FSA eligible. Free mini-course and webinars at rethinkpain.lin.health. Wayback captures show the same promo prices May 2023-Feb 2026. The '33% discount' for Mayo- and Lowell Pain Center-referred patients equals the standing $269/mo Intensive price.",
   "cost_usd_typical": 269,
-  "conditions_claimed": ["chronic pain (general)", "chronic back/neck pain", "headache/migraine", "TMD/jaw", "fibromyalgia", "CRPS", "IBS/functional GI", "pelvic pain/endometriosis/vulvodynia/IC", "POTS/dysautonomia", "ME/CFS", "long COVID", "FND", "tinnitus", "repetitive strain/tendinopathy", "chronic hives", "sensory hypersensitivity"],
-  "conditions_primary": ["chronic pain (general)", "chronic back/neck pain", "headache/migraine", "fibromyalgia"],
+  "conditions_claimed": [
+    "chronic pain (general)",
+    "chronic back/neck pain",
+    "headache/migraine",
+    "TMD/jaw",
+    "fibromyalgia",
+    "CRPS",
+    "IBS/functional GI",
+    "pelvic pain/endometriosis/vulvodynia/IC",
+    "POTS/dysautonomia",
+    "ME/CFS",
+    "long COVID",
+    "FND",
+    "tinnitus",
+    "repetitive strain/tendinopathy",
+    "chronic hives",
+    "sensory hypersensitivity"
+  ],
+  "conditions_primary": [
+    "chronic pain (general)",
+    "chronic back/neck pain",
+    "headache/migraine",
+    "fibromyalgia"
+  ],
   "differentiation": "mostly unified with condition-specific emphasis",
-  "mechanisms": ["neuroplastic/learned pain (brain-generated danger signal / predictive processing)", "central sensitization", "fear-avoidance / catastrophizing / cognitive appraisal", "repressed emotion / psychodynamic (rage, TMS)", "stress / HPA axis", "attention & interoception / hypervigilance"],
+  "mechanisms": [
+    "neuroplastic/learned pain (brain-generated danger signal / predictive processing)",
+    "central sensitization",
+    "fear-avoidance / catastrophizing / cognitive appraisal",
+    "repressed emotion / psychodynamic (rage, TMS)",
+    "stress / HPA axis",
+    "attention & interoception / hypervigilance"
+  ],
   "mechanism_summary": "Lin's model is \"brain-first.\" Most chronic pain is treated as ICD-11 chronic primary pain: an over-sensitised pain-signalling system misreads safe signals as danger (the PRT model). Fear of movement and worry keep it going (TSK-11 is tracked as a mediator), and stress or unprocessed emotion amplifies it (the EAET influence). A physician triage separates primary pain from structural pain (white-paper figures: 70% primary only, 26% mixed, 4% structural). The same model is applied to every listed condition, including POTS, CFS, IBS, hives and tinnitus.",
-  "roots": ["Sarno TMS", "gate control / neuromatrix pain science", "CBT (Beck/Ellis)", "third-wave CBT (ACT, DBT)", "Freudian psychoanalysis / psychodynamic theory", "Buddhist vipassana/insight meditation", "life coaching / positive psychology"],
-  "techniques": ["Pain Reprocessing Therapy (pain neuroscience education, evidence lists, somatic tracking, safety reappraisal)", "Emotional Awareness and Expression Therapy elements", "CBT and ACT elements", "graded re-engagement / fear-of-movement reduction (TSK-11 tracked)", "breathwork, meditation, gentle yoga", "live 1:1 pain-recovery coaching (30 min, 2-4/mo) plus in-app messaging", "physician medical review and triage (primary vs structural pain)", "app lessons and care kits, symptom tracking", "PT and psychiatry input as needed", "collaborative-care integration with referring clinicians"],
+  "roots": [
+    "Sarno TMS",
+    "gate control / neuromatrix pain science",
+    "CBT (Beck/Ellis)",
+    "third-wave CBT (ACT, DBT)",
+    "Freudian psychoanalysis / psychodynamic theory",
+    "Buddhist vipassana/insight meditation",
+    "life coaching / positive psychology"
+  ],
+  "techniques": [
+    "Pain Reprocessing Therapy (pain neuroscience education, evidence lists, somatic tracking, safety reappraisal)",
+    "Emotional Awareness and Expression Therapy elements",
+    "CBT and ACT elements",
+    "graded re-engagement / fear-of-movement reduction (TSK-11 tracked)",
+    "breathwork, meditation, gentle yoga",
+    "live 1:1 pain-recovery coaching (30 min, 2-4/mo) plus in-app messaging",
+    "physician medical review and triage (primary vs structural pain)",
+    "app lessons and care kits, symptom tracking",
+    "PT and psychiatry input as needed",
+    "collaborative-care integration with referring clinicians"
+  ],
   "mainstream_adoption": "moderate",
-  "mainstream_notes": "Verified: Mayo Clinic is an investor and collaborator (press release Oct 22 2024). Lin provides post-discharge care for Mayo Rochester's Fibromyalgia Treatment Program, with planned expansion to Mayo Arizona primary care. Also verified: Anthem BCBS Maine statewide network from Mar 20 2023, with an in-person site in Portland, ME. Company-reported but not re-verified: BCBS Minnesota network, WellSpan and Lowell Pain Center/Tufts referral partnerships, and the 2024 HLTH Digital Health Hub Rising Star award. There is no guideline, NICE or CMS endorsement specific to Lin.",
+  "mainstream_notes": "Verified: Mayo Clinic is an investor and collaborator (press release Oct 22 2024). Lin provides post-discharge care for Mayo Rochester's Fibromyalgia Treatment Program, with planned expansion to Mayo Arizona primary care. A Mayo-Lin RCT (NCT06988761) ran Jun 2025-Jul 2026. Anthem BCBS Maine statewide network from Mar 20 2023, with an in-person site in Portland, ME. BCBS Minnesota behavioral-health network for commercial members (Feb 12 2026). WellSpan and Lowell Pain Center (MA) referral partner pages exist; no direct Tufts Medicine tie was found. 2024 Digital Health Hub Foundation Consumer Wellness Rising Star award (confirmed on the Foundation's winners page). There is no guideline, NICE or CMS endorsement specific to Lin.",
   "insurance": "yes",
-  "insurance_notes": "Lin bills as an in-network specialty practice. Payers named in the Oct 2024 release: Aetna, Anthem BCBS, BCBS TX, Cigna, Harvard Pilgrim, Humana, Medicare, UnitedHealthcare. The company reports 27M covered lives (Oct 2024) and 60M (Dec 2025). The pricing FAQ still lists in-network coverage only in TX, CO and ME, so coverage varies by state and plan. HSA/FSA eligible.",
+  "insurance_notes": "Lin bills as an in-network specialty practice. Payers named in the Oct 2024 release: Aetna, Anthem BCBS, BCBS TX, Cigna, Harvard Pilgrim, Humana, Medicare, UnitedHealthcare. BCBS Minnesota was added Feb 2026. The company reports 27M covered lives (Oct 2024) and 60M (Dec 2025). The pricing FAQ still lists in-network coverage only in TX, CO and ME, so coverage varies by state and plan. HSA/FSA eligible.",
   "evidence_level": "case reports/observational only",
   "key_trials": [
-    {"citation": "Lin Health Medical Group white paper, June 2023 (not peer-reviewed)", "design": "Uncontrolled real-world self-report data, Jun 2022-Jan 2023", "n": 1045, "finding": "76% doing better at 3-6 months; 45% reduction in pain intensity; elevated fear of movement fell from 57% to 13%; NPS 60. Many data points missing; no control group.", "url": "https://assets.website-files.com/614b2ca6137715b5a98a9d6a/64884d081123f1d99744f937_LHMG%20Whitepaper%20June%202023-min.pdf"},
-    {"citation": "Ashar YK, Gordon A, Schubiner H, et al. JAMA Psychiatry 2022;79(1):13-23 (PMID 34586357). Related technique (PRT), not the Lin program; first author Ashar disclosed personal fees from Lin Health", "design": "RCT: PRT vs open-label placebo injection vs usual care, chronic back pain", "n": 151, "finding": "66% pain-free or nearly pain-free after PRT vs 20% placebo and 10% usual care; largely maintained at 1 year. 5-year follow-up: JAMA Psychiatry 2025;82(10):1049-51 (PMID 40736996).", "url": "https://pubmed.ncbi.nlm.nih.gov/34586357/"},
-    {"citation": "Sturgeon J, Trost Z, Ashar YK, Lumley MA, Schubiner H, Clauw D, Hassett AL. Reg Anesth Pain Med 2025 (PMID 40973446). Related technique, not Lin; Ashar is a Lin consultant", "design": "Single-arm open-label pilot of 3-session telehealth Brief PRT for fibromyalgia", "n": 35, "finding": "33/35 completed; acceptability high. Completers showed reduced pain intensity (3-month d=0.89), interference (d=1.06) and pain-related fear (d=1.04); 42.3% much or very much improved at 3 months. No control group.", "url": "https://pubmed.ncbi.nlm.nih.gov/40973446/"}
+    {
+      "citation": "Lin Health Medical Group white paper, June 2023 (not peer-reviewed)",
+      "design": "Uncontrolled real-world self-report data, Jun 2022-Jan 2023",
+      "n": 1045,
+      "finding": "76% doing better at 3-6 months; 45% reduction in pain intensity; elevated fear of movement fell from 57% to 13%; NPS 60. Many data points missing; no control group.",
+      "url": "https://assets.website-files.com/614b2ca6137715b5a98a9d6a/64884d081123f1d99744f937_LHMG%20Whitepaper%20June%202023-min.pdf"
+    },
+    {
+      "citation": "Ashar YK, Gordon A, Schubiner H, et al. JAMA Psychiatry 2022;79(1):13-23 (PMID 34586357). Related technique (PRT), not the Lin program; first author Ashar disclosed personal fees from Lin Health",
+      "design": "RCT: PRT vs open-label placebo injection vs usual care, chronic back pain",
+      "n": 151,
+      "finding": "66% pain-free or nearly pain-free after PRT vs 20% placebo and 10% usual care; largely maintained at 1 year. 5-year follow-up: JAMA Psychiatry 2025;82(10):1049-51 (PMID 40736996).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34586357/"
+    },
+    {
+      "citation": "Sturgeon J, Trost Z, Ashar YK, Lumley MA, Schubiner H, Clauw D, Hassett AL. Reg Anesth Pain Med 2025 (PMID 40973446). Related technique, not Lin; Ashar is a Lin consultant",
+      "design": "Single-arm open-label pilot of 3-session telehealth Brief PRT for fibromyalgia",
+      "n": 35,
+      "finding": "33/35 completed; acceptability high. Completers showed reduced pain intensity (3-month d=0.89), interference (d=1.06) and pain-related fear (d=1.04); 42.3% much or very much improved at 3 months. No control group.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40973446/"
+    },
+    {
+      "citation": "Mayo Clinic-Lin Health RCT, NCT06988761 (PI Wight EC, Mayo Clinic); Mayo is a Lin investor",
+      "design": "Open-label parallel RCT: Mayo usual care + Lin vs usual care alone, fibromyalgia; primary outcome FIQR at 3 months",
+      "n": 218,
+      "finding": "Completed Jul 2026; no results posted or published as of Oct 2026.",
+      "url": "https://clinicaltrials.gov/study/NCT06988761"
+    },
+    {
+      "citation": "Butler S, Shapiro H, McNamara K, Troutner A, Krishnaswami J, Courtney R, Birlea M. AAPM PainConnect 2026 poster (Mar 7 2026; not peer-reviewed)",
+      "design": "Uncontrolled before/after self-report healthcare-utilization survey of Lin patients",
+      "n": null,
+      "finding": "Among prior users: 63% reduced ED visits, 56% hospital admissions, 60% procedures, 52% specialist visits; 68% reduced pain medication (29% stopped); 79% reported less absenteeism or presenteeism. N not reported.",
+      "url": "https://lin.health/case-study/virtual-pain-care-helps-reduce-healthcare-utilization-improve-work-productivity"
+    }
   ],
-  "controversy": "Headline outcome statistics come from uncontrolled self-report or are borrowed from the PRT RCT (92%, 98%, 76%, 45%, 47%), and some pages show placeholder figures. A back-pain evidence base is extended to POTS, CFS, hives, tinnitus, GERD and \"pseudoseizures.\" Care is coach-delivered rather than therapist-delivered, which has not been tested. No peer-reviewed trial of Lin itself was found in PubMed (Oct 2026). The first author of the pivotal PRT trial (Ashar) is a paid Lin consultant and advisor, and Mayo Clinic is both investor and collaborator with a disclosed financial interest. The general ME/CFS-community critique of brain-based models also applies.",
+  "controversy": "Headline outcome statistics come from uncontrolled self-report or are borrowed from the PRT RCT (92%, 98%, 76%, 45%, 47%), and some pages show placeholder figures. A back-pain evidence base is extended to POTS, CFS, hives, tinnitus, GERD and \"pseudoseizures.\" Care is coach-delivered rather than therapist-delivered, which has not been tested. No peer-reviewed trial of Lin itself was found in PubMed (Oct 2026); a Mayo-Lin RCT (NCT06988761) completed in Jul 2026 remains unreported. The first author of the pivotal PRT trial (Ashar) is a paid Lin consultant and advisor, and Mayo Clinic is both investor and collaborator with a disclosed financial interest. The general ME/CFS-community critique of brain-based models also applies.",
   "popularity": {
     "indicators": [
-      {"metric": "patients in white-paper dataset", "value": "1,045 (Jun 2022-Jan 2023)", "source": "Lin white paper June 2023", "year": 2023},
-      {"metric": "covered lives", "value": "27 million", "source": "Lin/Mayo press release Oct 22 2024", "year": 2024},
-      {"metric": "covered lives", "value": "60 million", "source": "Series A press release Dec 9 2025", "year": 2025},
-      {"metric": "total funding", "value": "$15.4M by Oct 2024; +$11M Series A Dec 2025 (Proofpoint Capital lead)", "source": "Lin press releases", "year": 2025},
-      {"metric": "care interventions", "value": ">1 million projected by end 2024 (not re-verified)", "source": "Lin press releases", "year": 2024},
-      {"metric": "Trustpilot reviews", "value": "613 reviews, 4.9/5; 165 in last 12 months", "source": "trustpilot.com/review/lin.health", "year": 2026},
-      {"metric": "award", "value": "Consumer Wellness Rising Star, Digital Health Hub Foundation at HLTH (not re-verified)", "source": "Lin press", "year": 2024}
+      {
+        "metric": "patients in white-paper dataset",
+        "value": "1,045 (Jun 2022-Jan 2023)",
+        "source": "Lin white paper June 2023",
+        "year": 2023
+      },
+      {
+        "metric": "covered lives",
+        "value": "27 million",
+        "source": "Lin/Mayo press release Oct 22 2024",
+        "year": 2024
+      },
+      {
+        "metric": "covered lives",
+        "value": "60 million",
+        "source": "Series A press release Dec 9 2025",
+        "year": 2025
+      },
+      {
+        "metric": "total funding",
+        "value": "$15.4M by Oct 2024; +$11M Series A Dec 2025 (Proofpoint Capital lead)",
+        "source": "Lin press releases",
+        "year": 2025
+      },
+      {
+        "metric": "care interventions",
+        "value": ">1 million projected by end 2024 (company projection only)",
+        "source": "Lin HLTH award press release",
+        "year": 2024
+      },
+      {
+        "metric": "Trustpilot reviews",
+        "value": "613 reviews, 4.9/5; 165 in last 12 months",
+        "source": "trustpilot.com/review/lin.health",
+        "year": 2026
+      },
+      {
+        "metric": "award",
+        "value": "Consumer Wellness Rising Star, Digital Health Hub Foundation at HLTH 2024 (also a 2023 finalist)",
+        "source": "digitalhealthhub.org/awards/2024/2024-winners",
+        "year": 2024
+      },
+      {
+        "metric": "Reddit discussion",
+        "value": "unknown; Reddit API blocked automated access and web search found no indexed Reddit threads",
+        "source": "reddit.com search.json (blocked), web search Oct 2026",
+        "year": 2026
+      }
     ],
     "reach_estimate": "~10,000-30,000 treated patients cumulatively. Basis: ~1,000 in 8 months by early 2023, payer coverage growing to 60M lives, and the >1M interventions figure (message- and session-level). Free content reaches more people.",
     "reach_log10": 4.3,
     "trajectory": [
-      {"year": 2021, "relative_activity": 1.5},
-      {"year": 2022, "relative_activity": 3},
-      {"year": 2023, "relative_activity": 4.5},
-      {"year": 2024, "relative_activity": 6},
-      {"year": 2025, "relative_activity": 7.5},
-      {"year": 2026, "relative_activity": 8}
+      {
+        "year": 2021,
+        "relative_activity": 1.5
+      },
+      {
+        "year": 2022,
+        "relative_activity": 3
+      },
+      {
+        "year": 2023,
+        "relative_activity": 4.5
+      },
+      {
+        "year": 2024,
+        "relative_activity": 6
+      },
+      {
+        "year": 2025,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2026,
+        "relative_activity": 8
+      }
     ],
-    "method_notes": "Trajectory is anchored on company milestones: founding 2021; all-50-states telehealth and advisors 2022; Anthem Maine and the white paper (1,045 patients) 2023; $5.2M round, Mayo collaboration, 27M lives and the HLTH award 2024; $11M Series A and 60M lives 2025; Trustpilot review velocity of 165 per year in 2026. Web-search budget limits meant Reddit, Google Trends and Wayback were not checked. Reach is an order-of-magnitude estimate from the white-paper cohort size scaled by funding and coverage growth."
+    "method_notes": "Trajectory is anchored on company milestones: founding 2021; all-50-states telehealth and advisors 2022; Anthem Maine and the white paper (1,045 patients) 2023; $5.2M round, Mayo collaboration, 27M lives and the HLTH award 2024; $11M Series A and 60M lives 2025; Trustpilot review velocity of 165 per year in 2026. Wayback CDX (lin.health first captured Apr 2021; pricing pages 2022-2026) checked 2026-10-13. Reddit and Google Trends refused automated access (blocked / HTTP 429), so neither could be quantified. Reach is an order-of-magnitude estimate from the white-paper cohort size scaled by funding and coverage growth."
   },
-  "sources": ["https://www.lin.health/", "https://www.lin.health/about", "https://www.lin.health/science", "https://www.lin.health/for-patients", "https://www.lin.health/providers", "https://www.lin.health/pricing", "https://www.lin.health/mayo-clinic", "https://www.lin.health/lin-press/lin-health-collaborates-with-mayo-clinic", "https://www.lin.health/lin-press/lin-health-raises-11-million-series-a", "https://www.lin.health/lin-press/lin-health-wins-the-consumer-wellness-rising-star-award-at-hlth", "https://www.lin.health/lin-press/lin-health-appoints-dr-eric-anderson-cmo", "https://assets.website-files.com/614b2ca6137715b5a98a9d6a/64884d081123f1d99744f937_LHMG%20Whitepaper%20June%202023-min.pdf", "https://www.anthem.com/press/innovative-chronic-pain-program-now-part-of-anthem-network", "https://www.prnewswire.com/news-releases/lin-health-appoints-chronic-pain-experts-to-board-301498132.html", "https://pulse2.com/lin-health-11-million-series-a/", "https://rethinkpain.lin.health/", "https://www.trustpilot.com/review/lin.health", "https://pubmed.ncbi.nlm.nih.gov/34586357/", "https://pubmed.ncbi.nlm.nih.gov/40736996/", "https://pubmed.ncbi.nlm.nih.gov/40973446/"]
+  "sources": [
+    "https://www.lin.health/",
+    "https://www.lin.health/about",
+    "https://www.lin.health/science",
+    "https://www.lin.health/for-patients",
+    "https://www.lin.health/providers",
+    "https://www.lin.health/pricing",
+    "https://www.lin.health/mayo-clinic",
+    "https://www.lin.health/lin-press/lin-health-collaborates-with-mayo-clinic",
+    "https://www.lin.health/lin-press/lin-health-raises-11-million-series-a",
+    "https://www.lin.health/lin-press/lin-health-wins-the-consumer-wellness-rising-star-award-at-hlth",
+    "https://www.lin.health/lin-press/lin-health-appoints-dr-eric-anderson-cmo",
+    "https://assets.website-files.com/614b2ca6137715b5a98a9d6a/64884d081123f1d99744f937_LHMG%20Whitepaper%20June%202023-min.pdf",
+    "https://www.anthem.com/press/innovative-chronic-pain-program-now-part-of-anthem-network",
+    "https://www.prnewswire.com/news-releases/lin-health-appoints-chronic-pain-experts-to-board-301498132.html",
+    "https://pulse2.com/lin-health-11-million-series-a/",
+    "https://rethinkpain.lin.health/",
+    "https://www.trustpilot.com/review/lin.health",
+    "https://pubmed.ncbi.nlm.nih.gov/34586357/",
+    "https://pubmed.ncbi.nlm.nih.gov/40736996/",
+    "https://pubmed.ncbi.nlm.nih.gov/40973446/",
+    "https://clinicaltrials.gov/study/NCT06988761",
+    "https://lin.health/case-study/virtual-pain-care-helps-reduce-healthcare-utilization-improve-work-productivity",
+    "https://www.bluecrossmn.com/news/blue-cross-and-blue-shield-minnesota-adds-innovative-pain-management-solution-its-behavioral",
+    "https://www.lin.health/partner/wellspan",
+    "https://www.lin.health/partner/lowell-pain-center",
+    "https://www.digitalhealthhub.org/awards/2024/2024-winners",
+    "https://web.archive.org/web/2020*/lin.health/pricing"
+  ]
 }

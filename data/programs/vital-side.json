@@ -3,18 +3,48 @@
   "name": "Vital-Side (Rewire brain-retraining membership)",
   "url": "https://www.vital-side.com/",
   "founders": [
-    "Lindsay Mitchell, PA-C (founder/CEO; BS Biology, Univ. of Nevada; Master of PA Studies; NLP/EFT/TFT practitioner; former 'chronic Lyme' patient)",
+    "Lindsay Mitchell, PA-C (founder/CEO; BS Biology, Univ. of Nevada; Master of PA Studies, MCPHS; NLP/EFT/TFT practitioner; former 'chronic Lyme' patient)",
     "Bianca Spears (laughter-wellness coach; co-founder of the Elevate and Regulation Station sub-programs only, not of Vital-Side)"
   ],
   "founded_year": 2018,
   "founded_year_range": "2017-2018. The About page says the program was conceived in 2017 and officially started in 2018. The first Wayback capture is 2018-08-06.",
   "category": "limbic/brain retraining course",
-  "delivery": ["online course", "community/membership", "group coaching calls", "1:1 coaching", "audio meditations", "podcast"],
+  "delivery": [
+    "online course",
+    "community/membership",
+    "group coaching calls",
+    "1:1 coaching",
+    "audio meditations",
+    "podcast"
+  ],
   "business_model": "commercial",
-  "cost_summary": "Rewire costs USD 397/year, auto-renewing (verified Oct 2026). Codes REWIRE20 (20% off) and ELEVATE50 are advertised. Elevate costs USD 99 per 3 months (verified). Private 1:1 sessions and Deep Dive group calls are extra. Reset is a low-cost 7-day intro. In Sept 2020 Rewire was USD 279, with a USD 139 sale price (Wayback). No refunds on any memberships or sessions.",
+  "cost_summary": "Rewire costs USD 397/year, auto-renewing (verified Oct 2026). Codes REWIRE20 (20% off) and ELEVATE50 are advertised. Elevate costs USD 99 per 3 months (verified). Add-ons, from the Shopify feed in Oct 2026: Deep Dive calls USD 35 each, Reset USD 15, Regulation Station USD 30, Reboot USD 96, Incremental Progress Plan USD 59. Private 1:1 session prices are not published. In Sept 2020 Rewire was USD 279, with a USD 139 sale price (Wayback). No refunds on any memberships or sessions.",
   "cost_usd_typical": 397,
-  "conditions_claimed": ["ME/CFS", "fibromyalgia", "long COVID", "chronic Lyme", "MCAS", "mould/CIRS", "MCS/IEI", "POTS/dysautonomia", "IBS/functional GI", "anxiety", "depression", "insomnia", "chronic pain (general)", "pelvic pain/endometriosis/vulvodynia/IC", "general stress/wellbeing", "hormonal imbalance", "OCD"],
-  "conditions_primary": ["ME/CFS", "chronic Lyme", "MCAS", "mould/CIRS"],
+  "conditions_claimed": [
+    "ME/CFS",
+    "fibromyalgia",
+    "long COVID",
+    "chronic Lyme",
+    "MCAS",
+    "mould/CIRS",
+    "MCS/IEI",
+    "POTS/dysautonomia",
+    "IBS/functional GI",
+    "anxiety",
+    "depression",
+    "insomnia",
+    "chronic pain (general)",
+    "pelvic pain/endometriosis/vulvodynia/IC",
+    "general stress/wellbeing",
+    "hormonal imbalance",
+    "OCD"
+  ],
+  "conditions_primary": [
+    "ME/CFS",
+    "chronic Lyme",
+    "MCAS",
+    "mould/CIRS"
+  ],
   "differentiation": "single unified mechanism",
   "mechanisms": [
     "limbic system impairment / amygdala threat conditioning",
@@ -23,7 +53,16 @@
     "stress / HPA axis"
   ],
   "mechanism_summary": "Chronic symptoms are attributed to a conditioned chronic stress response. After an accumulated infectious, toxic or emotional load, the brain's threat circuitry (\"limbic system impairment,\" a term borrowed from DNRS) keeps the sympathetic nervous system stuck in fight-flight-freeze, or \"survival mode.\" This is said to block parasympathetic \"growth and repair.\" Repeated mental exercises are claimed to rewire these circuits through neuroplasticity, and the site also claims they change \"epigenetic\" gene expression, without citations. The body is then said to heal itself. One model is applied to 50+ diagnoses.",
-  "roots": ["limbic retraining (DNRS / Gupta Program)", "NLP", "EFT/TFT tapping", "behaviorism / classical conditioning", "Selye stress theory", "life coaching / positive psychology", "laughter yoga", "functional/integrative medicine"],
+  "roots": [
+    "limbic retraining (DNRS / Gupta Program)",
+    "NLP",
+    "EFT/TFT tapping",
+    "behaviorism / classical conditioning",
+    "Selye stress theory",
+    "life coaching / positive psychology",
+    "laughter yoga",
+    "functional/integrative medicine"
+  ],
   "techniques": [
     "Proprietary 'Rewire 7 Steps' retraining sequence (Module 4: interrupt the symptom/trigger response, then redirect to positive states and visualisation)",
     "'State changers': brief interrupts when a symptom appears",
@@ -47,27 +86,94 @@
   "controversy": "The program claims to address organic diseases (Lyme, RA, MCAS, CIRS, \"hormonal imbalance\") and 50+ conditions with one brain-retraining model, without outcome data. Its self-reported statistics (\"10,000+ helped,\" \"92% massive transformation\") have no published method or denominator. It makes uncited epigenetic claims and calls the power to heal from within \"a scientific fact.\" It leans on a PA-C credential while disclaiming medical advice, and sells a no-refund, auto-renewing subscription. It shares the general ME/CFS advocacy critique of limbic-retraining programs. I found no specific published critique of Vital-Side.",
   "popularity": {
     "indicators": [
-      {"metric": "Claimed cumulative participants", "value": ">10,000 since 2018", "source": "vital-side.com About Us (verified Oct 2026)", "year": 2026},
-      {"metric": "Podcast episodes (The Vital Side Podcast, formerly Rewire)", "value": "180 episodes; years active 2021-2025; latest 2025-10-07", "source": "Apple Podcasts id 1589835033", "year": 2025},
-      {"metric": "First web presence", "value": "First Wayback capture 2018-08-06", "source": "web.archive.org CDX", "year": 2018},
-      {"metric": "Price trajectory", "value": "USD 279 (sale 139) in 2020, USD 397/yr in 2026", "source": "Wayback 2020-09-28; current site", "year": 2026},
-      {"metric": "Product line expansion", "value": "Rewire, Reset, Reboot, Elevate, Regulation Station, kids coaching", "source": "vital-side.com", "year": 2024}
+      {
+        "metric": "Claimed cumulative participants",
+        "value": ">10,000 since 2018",
+        "source": "vital-side.com About Us (verified Oct 2026)",
+        "year": 2026
+      },
+      {
+        "metric": "Instagram followers (@myvitalside)",
+        "value": "~62K followers; 1,062 posts",
+        "source": "instagram.com/myvitalside profile metadata (2026-10-13)",
+        "year": 2026
+      },
+      {
+        "metric": "Facebook followers (Vital-Side, Austin TX)",
+        "value": "~1,579 followers",
+        "source": "facebook.com/vitalside page metadata (2026-10-13)",
+        "year": 2026
+      },
+      {
+        "metric": "Podcast episodes (The Vital Side Podcast, formerly Rewire)",
+        "value": "180 episodes; years active 2021-2025; latest 2025-10-07",
+        "source": "Apple Podcasts id 1589835033",
+        "year": 2025
+      },
+      {
+        "metric": "First web presence",
+        "value": "First Wayback capture 2018-08-06",
+        "source": "web.archive.org CDX",
+        "year": 2018
+      },
+      {
+        "metric": "Price trajectory",
+        "value": "USD 279 (sale 139) in 2020, USD 397/yr in 2026",
+        "source": "Wayback 2020-09-28; current site",
+        "year": 2026
+      },
+      {
+        "metric": "Product line expansion",
+        "value": "Rewire, Reset, Reboot, Elevate, Regulation Station, kids coaching",
+        "source": "vital-side.com",
+        "year": 2024
+      }
     ],
     "reach_estimate": "About 10^4. The company claims more than 10,000 participants, which is unaudited and may include intro-course users.",
     "reach_log10": 4,
     "trajectory": [
-      {"year": 2017, "relative_activity": 0.5},
-      {"year": 2018, "relative_activity": 1.5},
-      {"year": 2019, "relative_activity": 2.5},
-      {"year": 2020, "relative_activity": 4},
-      {"year": 2021, "relative_activity": 6},
-      {"year": 2022, "relative_activity": 7},
-      {"year": 2023, "relative_activity": 7.5},
-      {"year": 2024, "relative_activity": 8},
-      {"year": 2025, "relative_activity": 8},
-      {"year": 2026, "relative_activity": 7.5}
+      {
+        "year": 2017,
+        "relative_activity": 0.5
+      },
+      {
+        "year": 2018,
+        "relative_activity": 1.5
+      },
+      {
+        "year": 2019,
+        "relative_activity": 2.5
+      },
+      {
+        "year": 2020,
+        "relative_activity": 4
+      },
+      {
+        "year": 2021,
+        "relative_activity": 6
+      },
+      {
+        "year": 2022,
+        "relative_activity": 7
+      },
+      {
+        "year": 2023,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2024,
+        "relative_activity": 8
+      },
+      {
+        "year": 2025,
+        "relative_activity": 8
+      },
+      {
+        "year": 2026,
+        "relative_activity": 7.5
+      }
     ],
-    "method_notes": "The trajectory is anchored on: Wayback captures (launched Aug 2018); the 2020 price; the podcast running 2021-2025 with 180 episodes; product-line expansion in 2023-2024; and the claimed user count of more than 10,000. Growth after 2020 is assumed to follow the long-COVID wave. The web-search quota was exhausted in both the research and fact-check sessions, so Reddit, Google Trends and social follower counts were not checked. Values are coarse within-program estimates."
+    "method_notes": "The trajectory is anchored on: Wayback captures (launched Aug 2018); the 2020 price; the podcast running 2021-2025 with 180 episodes; product-line expansion in 2023-2024; and the claimed user count of more than 10,000. Growth after 2020 is assumed to follow the long-COVID wave. Instagram (~62K) and Facebook (~1.6K) follower counts were checked on 2026-10-13. Reddit about.json returned HTTP 403. The YouTube subscriber count could not be retrieved, and Google Trends was not accessible. Values are coarse within-program estimates."
   },
   "sources": [
     "https://www.vital-side.com/",
@@ -76,9 +182,13 @@
     "https://vital-side.com/pages/elevate-brain-retraining",
     "https://vital-side.com/pages/private-and-group-sessions",
     "https://vital-side.com/pages/faqs",
+    "https://vital-side.com/pages/private-sessions",
+    "https://vital-side.com/products.json",
     "http://web.archive.org/cdx/search/cdx?url=vital-side.com",
     "http://web.archive.org/web/20200928030037/https://vital-side.com/",
     "https://podcasts.apple.com/us/podcast/rewire-the-podcast/id1589835033",
-    "PubMed E-utilities: \"vital-side\" OR (Mitchell L[Author] AND brain retraining) - 9 hits, none relevant (checked 2026-10-12)"
+    "PubMed E-utilities: \"vital-side\"/\"vital side\" + brain retraining - 0 hits; Mitchell L[Author] AND brain retraining - 9 hits, none relevant (checked 2026-10-12/13); ClinicalTrials.gov API v2 - 0 studies (2026-10-13)",
+    "https://www.instagram.com/myvitalside/",
+    "https://www.facebook.com/vitalside/"
   ]
 }

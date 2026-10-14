@@ -4,14 +4,21 @@
   "url": "https://www.wimhofmethod.com/",
   "founders": [
     "Wim Hof",
-    "Enahm Hof (son; reported business co-lead at Innerfire BV; not independently verified)"
+    "Enahm Hof (eldest son; heads Innerfire BV, per Tatler Asia, Jan 2026)"
   ],
   "founded_year": 2011,
   "founded_year_range": "2010-2013. Hof's personal cold practice dates from about 1976-77, when he was 17. Commercial method: the Radboud research began in 2011 and aired on Dutch TV on 19 Apr 2011; wimhofmethod.com was first archived in May 2013; the instructor Academy dates from 2013 (site: 'since its launch in 2013'); the iOS app was released on 14 Sep 2014 (App Store, verified).",
   "category": "somatic/movement practice (breathwork + cold exposure)",
-  "delivery": ["online course", "app", "group workshops/retreats", "certified instructor network", "book", "YouTube"],
+  "delivery": [
+    "online course",
+    "app",
+    "group workshops/retreats",
+    "certified instructor network",
+    "book",
+    "YouTube"
+  ],
   "business_model": "freemium/hybrid",
-  "cost_summary": "Free: 3-lesson mini-class and YouTube sessions. App (US App Store, verified 2026-10-12): Supporter $5.99/mo or $42.99/yr, weekly $2.99, 30-Day Audio Challenge $26.99. Course prices are not public and were not verified; historically the Fundamentals course was about $60-100 and the Classic 10-Week about $200. Retreats and instructor Academy training cost thousands of euros, with prices given on request.",
+  "cost_summary": "Free: 3-lesson mini-class and YouTube sessions. App (US App Store, verified 2026-10-12): Supporter $5.99/mo or $42.99/yr, weekly $2.99, 30-Day Audio Challenge $26.99. Online courses (US checkout prices, verified 2026-10-13): Classic Video Course $119 (or 3 x $40); Fundamentals $299 (or 3 x $99, includes 1 yr of premium app access); Power of the Mind $469 (or 3 x $160); Instructor Video Course $1,699. Promotions of 35-50% off are frequent. Retreats and in-person Academy training cost thousands of euros, with prices given on request.",
   "cost_usd_typical": 43,
   "conditions_claimed": [
     "general stress/wellbeing",
@@ -151,39 +158,156 @@
   "controversy": "Shallow-water blackout drownings: Scott Carney's 2023 documentary linked 13 deaths to the method, and his public spreadsheet listed 32 alleged deaths by March 2024 (causation mostly unestablished). A US$67M wrongful-death suit over a 17-year-old's 2022 pool drowning (Metzger) was dismissed on 2 Jul 2024 because causation could not be proven. Hof's claims about RA, MS and cancer were disowned by his own researchers (Pickkers, Kox), and he misdescribed the results as 'neutralizing bacteria'. The 'backed by science' marketing rests partly on n=1 studies. Cardiac cautions apply to cold immersion with breath-holding. In 2012 Hof was convicted of assaulting his then-partner's 18-year-old son (40 h community service and a EUR350 fine). A de Volkskrant investigation (Sept 2024) reported further family-abuse allegations, which Hof denies; a planned biopic was put on hold.",
   "popularity": {
     "indicators": [
-      {"metric": "Certified instructors", "value": "1,200+ trained since 2013", "source": "wimhofmethod.com (homepage and instructors page, verified)", "year": 2026},
-      {"metric": "iOS app ratings", "value": "13,494 ratings, 4.86 average", "source": "Apple iTunes Lookup API (verified 2026-10-12)", "year": 2026},
-      {"metric": "YouTube subscribers", "value": "3.15M (Wim Hof channel @wimhof1); about 32K (@wimhofmethod)", "source": "youtube.com channel pages (checked 2026-10-12)", "year": 2026},
-      {"metric": "Instagram followers", "value": "3.5M+ (company claim)", "source": "wimhofmethod.com", "year": 2026},
-      {"metric": "Company claim", "value": "'Practiced by millions' (banner); 'thousands ... practice every day'", "source": "wimhofmethod.com", "year": 2026},
-      {"metric": "Major media", "value": "Vice documentary and Joe Rogan #712 (2015); Netflix Goop Lab (2020); BBC Freeze the Fear (2022)", "source": "Wikipedia / press", "year": 2022},
-      {"metric": "Books", "value": "Becoming the Iceman (2012, with Justin Rosales); Carney's What Doesn't Kill Us (2017); The Wim Hof Method (2020)", "source": "Wikipedia", "year": 2020},
-      {"metric": "Peer-reviewed WHM-titled papers", "value": "About 11 in Europe PMC with 'Wim Hof' in the title, plus about 10 more trials using the protocol", "source": "Europe PMC", "year": 2026},
-      {"metric": "Earliest website capture", "value": "2013-05-15", "source": "Wayback Machine CDX", "year": 2013}
+      {
+        "metric": "Certified instructors",
+        "value": "1,200+ trained since 2013",
+        "source": "wimhofmethod.com (homepage and instructors page, verified)",
+        "year": 2026
+      },
+      {
+        "metric": "iOS app ratings",
+        "value": "13,516 ratings, 4.86 average",
+        "source": "Apple iTunes Lookup API (verified 2026-10-13)",
+        "year": 2026
+      },
+      {
+        "metric": "YouTube subscribers",
+        "value": "3.15M (Wim Hof channel @wimhof1); about 32K (@wimhofmethod)",
+        "source": "youtube.com channel pages (checked 2026-10-12)",
+        "year": 2026
+      },
+      {
+        "metric": "Google Play downloads",
+        "value": "1M+ downloads; 41.3K reviews, 4.9 average",
+        "source": "Google Play listing nl.deckeron.apps.innerfire (verified 2026-10-13)",
+        "year": 2026
+      },
+      {
+        "metric": "YouTube video views",
+        "value": "118M views on 'Guided Wim Hof Method Breathing' (Nov 2019)",
+        "source": "youtube.com/watch?v=tybOi4hjZFQ (verified 2026-10-13)",
+        "year": 2026
+      },
+      {
+        "metric": "Reddit members",
+        "value": "r/WimHof about 11.4K (May 2025); r/BeyondWimHof unknown",
+        "source": "Wayback Machine capture of reddit.com/r/WimHof (2025-05-09)",
+        "year": 2025
+      },
+      {
+        "metric": "Instagram followers",
+        "value": "3.5M+ (company claim)",
+        "source": "wimhofmethod.com",
+        "year": 2026
+      },
+      {
+        "metric": "Company claim",
+        "value": "'Practiced by millions' (banner); 'thousands ... practice every day'",
+        "source": "wimhofmethod.com",
+        "year": 2026
+      },
+      {
+        "metric": "Major media",
+        "value": "Vice documentary and Joe Rogan #712 (2015); Joe Rogan #865 (24 Oct 2016); Netflix Goop Lab (2020); BBC Freeze the Fear (2022)",
+        "source": "Wikipedia / press; Apple Podcasts JRE feed",
+        "year": 2022
+      },
+      {
+        "metric": "Books",
+        "value": "Becoming the Iceman (2012, with Justin Rosales); Carney's What Doesn't Kill Us (2017); The Wim Hof Method (2020)",
+        "source": "Wikipedia",
+        "year": 2020
+      },
+      {
+        "metric": "Peer-reviewed WHM-titled papers",
+        "value": "About 11 in Europe PMC with 'Wim Hof' in the title, plus about 10 more trials using the protocol",
+        "source": "Europe PMC",
+        "year": 2026
+      },
+      {
+        "metric": "Earliest website capture",
+        "value": "2013-05-15",
+        "source": "Wayback Machine CDX",
+        "year": 2013
+      }
     ],
-    "reach_estimate": "Several million people have probably tried the breathing at least once, via the 3.15M-subscriber YouTube channel and its guided-breathing videos, the app (likely more than 1M downloads across platforms, inferred from about 13.5k iOS ratings), and books. Paid course and app users probably number in the hundreds of thousands.",
+    "reach_estimate": "Several million people have probably tried the breathing at least once: the 3.15M-subscriber YouTube channel's guided-breathing video alone has 118M views, the app has 1M+ Google Play downloads plus about 13.5k iOS ratings, and the books are bestsellers. Paid course and app users probably number in the hundreds of thousands.",
     "reach_log10": 6.5,
     "trajectory": [
-      {"year": 2007, "relative_activity": 1},
-      {"year": 2009, "relative_activity": 1},
-      {"year": 2011, "relative_activity": 2},
-      {"year": 2012, "relative_activity": 2},
-      {"year": 2013, "relative_activity": 3},
-      {"year": 2014, "relative_activity": 4},
-      {"year": 2015, "relative_activity": 6},
-      {"year": 2016, "relative_activity": 6},
-      {"year": 2017, "relative_activity": 7},
-      {"year": 2018, "relative_activity": 7.5},
-      {"year": 2019, "relative_activity": 8},
-      {"year": 2020, "relative_activity": 9},
-      {"year": 2021, "relative_activity": 9},
-      {"year": 2022, "relative_activity": 10},
-      {"year": 2023, "relative_activity": 9.5},
-      {"year": 2024, "relative_activity": 8.5},
-      {"year": 2025, "relative_activity": 8},
-      {"year": 2026, "relative_activity": 7.5}
+      {
+        "year": 2007,
+        "relative_activity": 1
+      },
+      {
+        "year": 2009,
+        "relative_activity": 1
+      },
+      {
+        "year": 2011,
+        "relative_activity": 2
+      },
+      {
+        "year": 2012,
+        "relative_activity": 2
+      },
+      {
+        "year": 2013,
+        "relative_activity": 3
+      },
+      {
+        "year": 2014,
+        "relative_activity": 4
+      },
+      {
+        "year": 2015,
+        "relative_activity": 6
+      },
+      {
+        "year": 2016,
+        "relative_activity": 6
+      },
+      {
+        "year": 2017,
+        "relative_activity": 7
+      },
+      {
+        "year": 2018,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2019,
+        "relative_activity": 8
+      },
+      {
+        "year": 2020,
+        "relative_activity": 9
+      },
+      {
+        "year": 2021,
+        "relative_activity": 9
+      },
+      {
+        "year": 2022,
+        "relative_activity": 10
+      },
+      {
+        "year": 2023,
+        "relative_activity": 9.5
+      },
+      {
+        "year": 2024,
+        "relative_activity": 8.5
+      },
+      {
+        "year": 2025,
+        "relative_activity": 8
+      },
+      {
+        "year": 2026,
+        "relative_activity": 7.5
+      }
     ],
-    "method_notes": "The trajectory is anchored to dated milestones, not measured Google Trends or Reddit data: Radboud TV coverage (2011); website and Academy (2013); the PNAS paper and app launch (2014); Vice and Rogan #712 (2015); Carney's book (2017); the NeuroImage study (2018); Hof's book, Goop Lab and the COVID home-practice surge (2020); BBC Freeze the Fear and the cold-plunge boom (2022); and the 2023-24 coverage of deaths and abuse. The modest decline after 2024 is an assumption. Reach combines company claims, App Store rating counts (ratings are assumed to be 1-2% of installs) and YouTube subscriber counts (3.15M, verified at fact-check). Subreddit sizes and download counts were not verified. A second Rogan appearance, often cited for 2018, could not be verified."
+    "method_notes": "The trajectory is anchored to dated milestones, not measured Google Trends or Reddit data: Radboud TV coverage (2011); website and Academy (2013); the PNAS paper and app launch (2014); Vice and Rogan #712 (2015); Rogan #865 (2016); Carney's book (2017); the NeuroImage study (2018); Hof's book, Goop Lab and the COVID home-practice surge (2020); BBC Freeze the Fear and the cold-plunge boom (2022); and the 2023-24 coverage of deaths and abuse. The modest decline after 2024 is an assumption. Reach combines company claims, App Store rating counts (ratings are assumed to be 1-2% of installs) and YouTube subscriber counts (3.15M, verified at fact-check). Google Play downloads (1M+) and YouTube video views (118M) were verified 2026-10-13. Reddit is small (r/WimHof about 11.4K members in a May 2025 archive capture); live subreddit counts could not be read because Reddit blocks scripted requests. The second Rogan appearance is #865 (24 Oct 2016), not 2018."
   },
   "sources": [
     "https://www.wimhofmethod.com/",
@@ -193,6 +317,11 @@
     "https://www.wimhofmethod.com/academy",
     "https://www.wimhofmethod.com/breathing-exercises",
     "https://www.wimhofmethod.com/wim-hof-method-mobile-app",
+    "https://www.wimhofmethod.com/elearning",
+    "https://play.google.com/store/apps/details?id=nl.deckeron.apps.innerfire",
+    "https://www.youtube.com/watch?v=tybOi4hjZFQ",
+    "https://www.tatlerasia.com/power-purpose/leadership/wim-hof-ice-man",
+    "https://web.archive.org/web/20250509160857/https://www.reddit.com/r/WimHof/",
     "https://apps.apple.com/us/app/wim-hof-method-breathwork/id890471578",
     "https://www.youtube.com/@wimhof1",
     "https://en.wikipedia.org/wiki/Wim_Hof",

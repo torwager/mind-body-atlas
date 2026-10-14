@@ -1,16 +1,16 @@
 # Dynamic Neural Retraining System (DNRS)
 
-*Compiled 2026-10-12 from retrainingthebrain.com (Home, The Program, FAQ, "Can DNRS work for my condition", Long Haul COVID, Annie Hopper, Scientific Research, 2025 Client Outcomes, Physician Endorsements), ClinicalTrials.gov (NCT06933173), PubMed and Europe PMC. Content paraphrased; site wording quoted only where marked. The live web-search quota ran out during research, so a few background details (marked "per secondary accounts") could not be re-verified against a second source. Do not confuse the program with dnrsystem.com, an unrelated domain.*
+*Compiled 2026-10-12 from retrainingthebrain.com (Home, The Program, FAQ, "Can DNRS work for my condition", Long Haul COVID, Annie Hopper, Scientific Research, 2025 Client Outcomes, Physician Endorsements), ClinicalTrials.gov (NCT06933173), PubMed and Europe PMC. Content paraphrased; site wording quoted only where marked. Founder history and 2016 formats/prices were checked against Wayback Machine captures of the site (2016, 2021), and practice dose against podcast show notes. Do not confuse the program with dnrsystem.com, an unrelated domain.*
 
 ## At a glance
 | Field | |
 |---|---|
 | Website | https://www.retrainingthebrain.com/ |
-| Founder(s) | **Annie Hopper**, Canada (British Columbia). The site gives no degrees or clinical licence and calls her a speaker on "limbic system impairment" and neuroplasticity. Per secondary accounts and her book, she had a counselling background and became ill with multiple chemical sensitivity (MCS), fibromyalgia and electromagnetic hypersensitivity (EHS) after a toxic exposure in the mid-2000s, then recovered using the self-designed brain-retraining practice she later built into DNRS. Company: Dynamic Neural Retraining Systems Ltd. |
+| Founder(s) | **Annie Hopper**, Canada (British Columbia). The site gives no degrees or clinical licence and calls her a speaker on "limbic system impairment" and neuroplasticity. The site's 2016 history page says she fell ill in 2004 while working as a "core belief counselor", newspaper columnist and media guest on emotional wellness (one podcast host calls her a journalist). After a car accident, mould and chemical exposures she developed multiple chemical sensitivity (MCS), fibromyalgia and electromagnetic hypersensitivity (EHS), diagnosed as "toxic overload"; after almost 4 years, including a period of homelessness, she recovered using the self-designed brain-retraining practice she then built into DNRS. Company: Dynamic Neural Retraining Systems Ltd. |
 | Founded | **2008**: the site says DNRS has been offered "since 2008". Book *Wired for Healing* published 2014 (Open Library). DNRS 2.0 was relaunched around 2022 with long-COVID positioning. |
 | Format / delivery | Self-directed online streaming video course (13 h of instruction plus an online manual), with daily practice for at least 6 months. Add-ons: 1:1 coaching with certified DNRS coaches, a 12-week group coaching program, "Share-a-Laugh" classes and a global community forum. Earlier formats were multi-day in-person instructional seminars and a DVD series. Subtitled in 8 languages besides English. |
 | Business model | Commercial, with a 21-day free trial. |
-| Direct cost | (USD, site, Oct 2026) DNRS 2.0 video program **$349.95** for 1 year of access, then $20/month to extend. Jump Start bundle with one 60-min coaching session (normally $170): $439.95. Support bundle with 12-week group coaching, 6 months of classes and premium forum access: $569.95. Printed manual/transcript/book package $105.95; *Wired for Healing* $24.95. The refund is conditional: after 6 months of daily practice, less a 15% fee. |
+| Direct cost | (USD, site, Oct 2026) DNRS 2.0 video program **$349.95** for 1 year of access, then $20/month to extend. For comparison, in 2016 the 8-disc DVD set cost $249.95–$315.95 and the 5-day in-person seminar CAD 2,995–3,295 including lodging (Wayback captures). Jump Start bundle with one 60-min coaching session (normally $170): $439.95. Support bundle with 12-week group coaching, 6 months of classes and premium forum access: $569.95. Printed manual/transcript/book package $105.95; *Wired for Healing* $24.95. The refund is conditional: after 6 months of daily practice, less a 15% fee. |
 | Conditions claimed | Condition pages: ME/CFS, fibromyalgia, MCS, EHS, food sensitivities, mast cell activation syndrome (MCAS), mould illness, "chronic Lyme", long COVID, POTS, anxiety, PTSD. The FAQ adds depression and "others". |
 | Mainstream adoption | Limited. It has no guideline endorsement (NICE, CDC, etc.). Referrals come from individual physicians, mostly environmental, integrative and functional medicine; the site claims ">1,000 doctors refer". One university-sponsored RCT is under way (University of Alberta, MILES). |
 | Insurance reimbursable | No. The site says nothing about insurance, and the product is a direct-to-consumer course. Coaching is not delivered by licensed clinicians. |
@@ -34,12 +34,12 @@
 **Structure and dose**
 - About 13 h of video instruction (older versions about 12–14 h), a student manual and a workbook.
 - **Daily neuroplasticity training for a minimum of 6 months.** The MILES protocol describes the course as about 14 h online.
-- Historically the practice has been described as about 1 h a day of "rounds" (per secondary accounts and the book). The current site does not state the daily minutes.
+- About 1 h a day of exercises plus use of the techniques through the day, for at least 6 months (Hopper's own description in 2017 podcast show notes). The current site and FAQ do not state the daily minutes.
 - The refund guarantee requires 6 months of daily practice.
 
 **Components.** The registry lists them as CBT, mindfulness-based cognitive restructuring, "emotional restructuring therapy", neuro-linguistic programming (NLP), incremental training and behaviour-modification therapy.
 1. **Psychoeducation** on neuroplasticity, the limbic system and the stress response. On the site this is organised as the "Five Pillars of Recovery" (not itemised publicly).
-2. **Pattern interruption.** When a symptom, trigger or limbic-driven thought shows up, the participant interrupts it firmly (a verbal or mental "stop"). Per the book and secondary accounts, they then step through a scripted sequence of steps.
+2. **Pattern interruption.** When a symptom, trigger or limbic-driven thought shows up, the participant interrupts it firmly (a verbal or mental "stop"). They then step through a set sequence of visual, spatial, movement, language and emotional-restructuring exercises (as the 2016 site described them; the exact script is taught only in the paid course).
 3. **Visualisation and emotional elevation.** Participants rehearse vivid positive memories and future scenes of being well, building elevated positive emotion (joy, gratitude, laughter) to "rewire" away from threat circuits. The "Share-a-Laugh" classes extend this.
 4. **Incremental training.** This is graded exposure to previously avoided triggers (scents, foods, environments, activity), paired with the retraining steps.
 5. **Emotional and cognitive restructuring.** Participants change their self-talk and limit symptom-focused talk and symptom monitoring.
@@ -61,12 +61,12 @@ The program does not prescribe diet, supplements or medical tests. Participants 
 ## 5. Mainstream adoption and insurance
 
 - **No guideline endorsement.** NICE (ME/CFS 2021), CDC and US/Canadian ME/CFS guidance do not recommend DNRS.
-- **Uptake comes through individual clinicians**, mainly in environmental, integrative and functional medicine and mould/CIRS-oriented practice. The site names Neil Nathan, Cynthia Li, Sunjya Schweig (California Center for Functional Medicine), Margaret Christensen, Ric Arseneau and Cecilia Söderberg-Nauclér, among others. It claims more than 1,000 referring doctors (unverified).
+- **Uptake comes through individual clinicians**, mainly in environmental, integrative and functional medicine and mould/CIRS-oriented practice. The site names Neil Nathan, Cynthia Li, Sunjya Schweig (California Center for Functional Medicine), Margaret Christensen, Ric Arseneau and Cecilia Söderberg-Nauclér, among others. It claims more than 1,000 referring doctors; this is a company claim with no published list or audit.
 - **Academic interest.**
   - The MILES RCT is sponsored by the University of Alberta and co-led by Sunita Vohra and Eleanor Stein (University of Calgary). The College of Physicians and Surgeons of Alberta is listed as collaborator.
   - Jacques (2024, *Brain Sci*, MCS clinical review) cites DNRS testimonials and the unpublished McMaster cohort.
   - Tate et al. (2023, *Int J Mol Sci*, ME/CFS–long COVID review) describe a single patient anecdote.
-- **Insurance:** not reimbursable. It is sold direct to consumers, and coaches are DNRS-certified rather than licensed clinicians. Some participants may claim the costs against a health spending account (not documented on the site).
+- **Insurance:** not reimbursable. It is sold direct to consumers, and coaches are DNRS-certified rather than licensed clinicians. The site and FAQ make no mention of insurance, HSA/FSA eligibility or receipts for reimbursement (checked Oct 2026).
 
 ## 6. Evidence base
 
@@ -82,7 +82,7 @@ The program does not prescribe diet, supplements or medical tests. Participants 
   - Primary outcome: SF-36 physical function. The registry lists investigator and outcomes-assessor masking; participants cannot be blinded.
   - Exploratory aims: fatigue, pain, mood, steps, HRV, sleep, metabolomics and microbiome.
   - Dates: start 2025-07-10, primary completion est. 2027-12.
-  - Co-PI Eleanor Stein's clinical practice is reported to favour limbic/brain-retraining approaches (not re-verified in this check). Both PIs (Stein, Vohra) also co-authored the Khanpour Ardestani 2021 review below. The investigators are independent of the company, but not necessarily of advocacy.
+  - Co-PI Eleanor Stein runs her own neuroplasticity courses for patients ("Healing Through Neuroplasticity", "Rewiring Your Brain for Better Health") and hosted a February 2026 clinician session with Ashok Gupta on "brain retraining" approaches (eleanorsteinmd.ca). Both PIs (Stein, Vohra) also co-authored the Khanpour Ardestani 2021 review below. The investigators are independent of the company, but not necessarily of advocacy.
 
 **Related but not DNRS**
 - Toussaint et al. 2012, *Explore* 8:92–98 (PMID 22385563) is a Mayo Clinic RCT of **"amygdala retraining"** (the Gupta Program) plus standard care vs. standard care in fibromyalgia/CFS. 44 were randomised and only 21 completed (7 in the intervention arm, 14 in standard care). The intervention was a 2.5-h course plus a home video course. It is often cited by limbic-retraining advocates but tested a **different branded program**.
@@ -98,12 +98,12 @@ The program does not prescribe diet, supplements or medical tests. Participants 
 ## 7. Popularity and trajectory
 
 - **2008:** DNRS launched as in-person seminars, founded on Hopper's own recovery narrative. It spread through MCS/EHS and environmental-illness networks.
-- **About 2011–2013:** a DVD home-study version extended its reach beyond Canada (per secondary accounts).
-- **2014:** *Wired for Healing* published; the site says >65,000 copies have been sold. Workshops ran in North America, the UK, Scandinavia and Australia.
+- **By 2016:** an 8-disc, 14-h DVD home-study set (subtitled in 8 languages, shipped from Michigan) sat alongside 5-day residential seminars in Canada, extending reach beyond Canada. The DVD's first release date is not published; the earliest Wayback capture of the site is from 2016. The site stated then that no streaming version existed.
+- **2014:** *Wired for Healing* published. The site claimed >25,000 copies sold in Nov 2021 (Wayback) and >65,000 in 2026; Goodreads lists 327 ratings (Oct 2026). Workshops ran in North America, the UK, Scandinavia and Australia.
 - **2016:** the McMaster seminar cohort (N=102). The program was promoted in functional-medicine and mould/CIRS circles; Neil Nathan's *Toxic* (2018) recommends limbic retraining.
 - **2020–2022:** the shift to fully online streaming, the long-COVID surge and the DNRS 2.0 relaunch (about 2022). There are now long-COVID, MCAS and POTS condition pages.
 - **2025:** the client survey (430 respondents) and the start of the MILES RCT in Alberta.
-- **Community:** a global forum (paid premium tier), a Facebook page, Instagram (@official_dnrs), many recovery-story videos on YouTube, and frequent debate threads on Reddit (r/DNRS, r/cfs, r/LongCovid, r/MCAS, r/ChronicPain). Subscriber counts could not be retrieved this session.
+- **Community:** a global forum (paid premium tier), a Facebook page, Instagram (@official_dnrs), many recovery-story videos on YouTube, and frequent debate threads on Reddit (r/DNRS, r/cfs, r/LongCovid, r/MCAS, r/ChronicPain). The official YouTube channel (@Dnrsystem) has 13.6K subscribers and 147 videos (Oct 2026). Reddit member counts are not available: reddit.com blocks automated access (about.json, api.reddit.com and page HTML all returned 403 or a block page on 2026-10-13).
 - **Reach estimate:** tens of thousands of purchasers. This is consistent with 65k books, "thousands helped", and Nathan alone claiming >1,000 referred patients.
 
 ## 8. Controversies / criticisms
@@ -134,5 +134,12 @@ The program does not prescribe diet, supplements or medical tests. Participants 
 - Jacques L. 2024, Brain Sci 14(12):1261, doi:10.3390/brainsci14121261: https://pubmed.ncbi.nlm.nih.gov/39766460/
 - Tate WP et al. 2023, Int J Mol Sci 24(6):5124, doi:10.3390/ijms24065124: https://pubmed.ncbi.nlm.nih.gov/36982194/
 - Open Library record, *Wired for Healing* (Hopper, 2014): https://openlibrary.org/search?q=wired+for+healing+hopper
+- Wayback captures of the DNRS site, 2016 (history, team, DVD series, seminars, how the program works): https://web.archive.org/web/20160807230429/https://retrainingthebrain.com/history/ ; https://web.archive.org/web/2016/https://retrainingthebrain.com/meet-the-dnrs-team/ ; https://web.archive.org/web/2016/https://retrainingthebrain.com/instructional-dvd-series/ ; https://web.archive.org/web/2016/https://retrainingthebrain.com/interactive-training-seminars/ ; https://web.archive.org/web/2016/https://retrainingthebrain.com/how-the-program-works/
+- Wayback capture of the founder page, Nov 2021 (">25,000" book copies): https://web.archive.org/web/20211106200511/https://retrainingthebrain.com/annie-hopper/
+- Phoenix Helix podcast ep. 104, show notes (1 h daily practice): https://www.phoenixhelix.com/episode-104-dnrs-with-annie-hopper/
+- Better Health Guy podcast ep. 42 (2017): https://betterhealthguy.libsyn.com/website/episode-42-dnrs-with-annie-hopper
+- Eleanor Stein MD, courses and live sessions: https://www.eleanorsteinmd.ca/live ; https://www.eleanorsteinmd.ca/symptom-emotions
+- YouTube channel @Dnrsystem: https://www.youtube.com/@Dnrsystem
+- Goodreads, *Wired for Healing*: https://www.goodreads.com/book/show/25501198
 
-*Fact-checked 2026-10-12; corrections: MILES arm includes a 12-week group support program and investigator+assessor masking; Toussaint 2012 completers by arm added; MILES PIs' co-authorship of the 2021 review noted; Stein advocacy claim softened (unverified); speculative roots (Christian Science, vipassana) dropped from the structured data. Prices, founder/2008 date, 65k book sales, >1,000 doctors claim, 2025 survey figures, McMaster figures and NCT06933173 details all verified against the primary sources. A PubMed/Europe PMC search confirms there is still no peer-reviewed DNRS outcome study. Web-search quota was exhausted, so independent press and Reddit checks were not possible.*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: founder background and 2004 illness onset (2016 site history page); 1 h/day practice dose; 2016 DVD/seminar formats and prices; Stein's neuroplasticity courses and Gupta session; YouTube (13.6K) and Goodreads metrics; 2021 book-sales claim (>25k); PubMed and ClinicalTrials.gov rechecked (still only NCT06933173). Still unknown: DVD first-release year, Reddit member counts (reddit.com blocks automated access), independent press coverage (search quota exhausted).*

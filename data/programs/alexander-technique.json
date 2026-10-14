@@ -18,8 +18,8 @@
     "book"
   ],
   "business_model": "clinician-delivered (fee-for-service)",
-  "cost_summary": "Independent certified teachers (at least 1,600 h of training over 3 years, per AmSAT). Approx. (unverified) US $60-150 or UK £40-80 per lesson; a typical course of 10-30 lessons costs roughly $1,000-3,000. In trials: £596 for 24 lessons plus exercise (ATEAM, 2008 costing), and an incremental cost of £667 per patient (ATLAS).",
-  "cost_usd_typical": 1500,
+  "cost_summary": "Independent certified teachers (at least 1,600 h of training over 3 years, per AmSAT) set their own fees; no fee schedule is published. Sampled 2025-26 listings: US about $70-85 per 45-min lesson; UK about £40-65 per lesson. A typical course of 10-30 lessons costs roughly $700-2,500, and group courses are cheaper (e.g. a 24-week group series at $840). In trials: £596 for 24 lessons plus exercise (ATEAM, 2008 costing), and an incremental cost of £667 per patient (ATLAS).",
+  "cost_usd_typical": 1200,
   "conditions_claimed": [
     "chronic back/neck pain",
     "chronic pain (general)",
@@ -60,9 +60,9 @@
     "course of 6-30 lessons, 30-60 min each"
   ],
   "mainstream_adoption": "moderate",
-  "mainstream_notes": "Tested in two large UK primary-care RCTs led by academic GPs/health-services researchers: ATEAM (funded by MRC and NHS R&D) and ATLAS (Arthritis Research UK). The NHS says lessons may be offered for Parkinson's-related balance or movement problems; the 2006 NICE PD guideline (CG35) said AT may be offered (status in NG71 not verified). Some NHS pain-clinic services have been evaluated (McClean 2015), but AT is not routinely commissioned for back pain. Embedded in many performing-arts conservatoires and drama schools. NCCIH classes it as a complementary approach. It is not a licensed or regulated health profession.",
+  "mainstream_notes": "Tested in two large UK primary-care RCTs led by academic GPs/health-services researchers: ATEAM (funded by MRC and NHS R&D) and ATLAS (Arthritis Research UK). The NHS says lessons may be offered for Parkinson's-related balance or movement problems; NICE NG71 (2017) recommendation 1.7.4 says to consider AT for people with Parkinson's who have balance or motor function problems (carried over from CG35, 2006). Some NHS pain-clinic services have been evaluated (McClean 2015), but AT is not routinely commissioned for back pain. Embedded in many performing-arts conservatoires and drama schools (e.g. Juilliard Drama Division, RCM Junior Department, RADA). NCCIH classes it as a complementary approach. It is not a licensed or regulated health profession.",
   "insurance": "sometimes/indirect",
-  "insurance_notes": "Generally not covered. Aetna CPB 0388 lists it as experimental, investigational or unproven (verified). Australia excluded it from private health insurance rebates from 1 April 2019 after the 2015 Natural Therapies Review; it was re-evaluated in the 2024 review (outcome for AT not verified). Occasional NHS-funded services exist, and reimbursement via flexible spending or supplementary insurance is possible in some countries (not verified).",
+  "insurance_notes": "Generally not covered. Aetna CPB 0388 lists it as experimental, investigational or unproven. Australia excluded it from private health insurance rebates from 1 April 2019; after the 2024 Natural Therapies Review it was made rebate-eligible again from 1 July 2025 (cover at each insurer's discretion). In Switzerland, Helsana's supplementary insurance recognises AT given by EMR-certified teachers (list dated 1 Jan 2026), though recognition varies by insurer. Occasional NHS-funded services exist. US FSA/HSA eligibility was not checked.",
   "evidence_level": "multiple RCTs",
   "key_trials": [
     {
@@ -139,8 +139,8 @@
         "year": 2026
       },
       {
-        "metric": "STAT founding / largest professional society",
-        "value": "founded 1958; self-described oldest/largest society (not independently verified)",
+        "metric": "STAT founding / self-described largest professional society",
+        "value": "founded 1958; describes itself as 'the largest professional association of Alexander Technique Teachers worldwide' (no member count published)",
         "source": "alexandertechnique.co.uk",
         "year": 2026
       },
@@ -161,6 +161,12 @@
         "value": "Tinbergen 1973 Nobel lecture praised AT",
         "source": "historical record",
         "year": 1973
+      },
+      {
+        "metric": "r/Alexandertechnique subscribers",
+        "value": "948",
+        "source": "Wayback Machine capture of reddit.com/r/Alexandertechnique (2025-04-04)",
+        "year": 2025
       }
     ],
     "reach_estimate": "Roughly a few million people cumulatively over about 120 years (order of magnitude). Thousands of teachers worldwide, each teaching hundreds of pupils over a career, plus mass performing-arts curricula and book readership.",
@@ -231,7 +237,7 @@
         "relative_activity": 5
       }
     ],
-    "method_notes": "Web search quota was exhausted during compilation, so popularity relies on the society websites, PubMed counts, and historical milestones (STAT 1958, Tinbergen 1973, AmSAT 1987, ATEAM 2008, ATLAS 2015). The trajectory is a qualitative within-program index: growth through professionalisation and performing-arts adoption in the 1970s-90s, a peak of medical and media attention around the 2008 ATEAM trial, and then flat to slowly declining consumer interest (an impression of Google Trends patterns, not freshly queried) as brain-retraining programs and yoga/Pilates dominate. Reach is an order-of-magnitude guess from teacher counts multiplied by pupils per career. Fact-check 2026-10-12: AmSAT '>500 teachers' confirmed on site; STAT size claim and reach estimate not independently verified."
+    "method_notes": "Popularity relies on the society websites, PubMed counts, and historical milestones (STAT 1958, Tinbergen 1973, AmSAT 1987, ATEAM 2008, ATLAS 2015). The trajectory is a qualitative within-program index: growth through professionalisation and performing-arts adoption in the 1970s-90s, a peak of medical and media attention around the 2008 ATEAM trial, and then flat to slowly declining consumer interest (an impression of Google Trends patterns; Trends was not queried because it has no accessible public API) as brain-retraining programs and yoga/Pilates dominate. Reach is an order-of-magnitude guess from teacher counts multiplied by pupils per career. Fact-check 2026-10-12: AmSAT '>500 teachers' confirmed on site; STAT's 'largest' wording confirmed as a self-description (no member count). Open items 2026-10-13: Reddit subscriber count taken from a Wayback capture because the live API was blocked; reach is still an order-of-magnitude estimate."
   },
   "sources": [
     "https://alexandertechniqueusa.org/",
@@ -256,6 +262,21 @@
     "https://pubmed.ncbi.nlm.nih.gov/39717699/",
     "https://pubmed.ncbi.nlm.nih.gov/25027444/",
     "https://www.aetna.com/cpb/medical/data/300_399/0388.html",
-    "https://www.nhmrc.gov.au/health-advice/public-health/complementary-medicines/natural-therapies-review"
+    "https://www.nhmrc.gov.au/health-advice/public-health/complementary-medicines/natural-therapies-review",
+    "https://www.nice.org.uk/guidance/ng71/chapter/Recommendations",
+    "https://csp.org.uk/node/1128440",
+    "https://www.health.gov.au/topics/private-health-insurance/reforms/natural-therapies-review",
+    "https://www.health.gov.au/news/phi-circulars/phi-5125-private-health-insurance-legislation-amendment-rules-no-5-2025",
+    "https://www.westernsydney.edu.au/nicmhri/news/natural-therapies",
+    "https://www.helsana.ch/anerkannte-therapiemethoden-komplementaermedizin",
+    "https://oda-kt.ch/fileadmin/user_upload/pdf/D/Merkblaetter/250127_Status_KK_Anerkennung_BZ_ED.pdf",
+    "https://ofa.fas.harvard.edu/people/marie-stroud",
+    "https://dynamic-balance.net/alexander-technique/",
+    "https://events.dartmouth-hitchcock.org/event/alexander-technique/2023-01-24",
+    "https://francesborden.com/alexander-technique-in-wellington-somerset/",
+    "https://www.juilliard.edu/node/19687",
+    "https://www.rcm.ac.uk/junior/currentstudents/alexanderandaural/",
+    "https://www.rada.ac.uk/short-courses/alexander-technique-workshop",
+    "http://web.archive.org/web/20250404014038/https://www.reddit.com/r/Alexandertechnique/"
   ]
 }

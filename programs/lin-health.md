@@ -1,21 +1,21 @@
 # Lin Health
 
-*Compiled 2026-10-12 from lin.health (Home, About, Evidence/Science, For Patients, Providers, Pricing, Mayo Clinic landing page, press releases), the 2023 Lin Health Medical Group white paper (PDF), Anthem (2023) and PR Newswire (2022) releases, Pulse 2.0 coverage of the 2025 Series A, rethinkpain.lin.health, Trustpilot, and PubMed/Europe PMC. Content paraphrased. The session's web-search budget ran out partway through, so Reddit, Google Trends and Wayback snapshots could not be checked.*
+*Compiled 2026-10-12 from lin.health (Home, About, Evidence/Science, For Patients, Providers, Pricing, Mayo Clinic landing page, press releases), the 2023 Lin Health Medical Group white paper (PDF), Anthem (2023) and PR Newswire (2022) releases, Pulse 2.0 coverage of the 2025 Series A, rethinkpain.lin.health, Trustpilot, and PubMed/Europe PMC. Content paraphrased. Open items rechecked 2026-10-13 via Lin partner pages, Blue Cross MN, Digital Health Hub Foundation, Wayback Machine captures (2021–2026), the ClinicalTrials.gov API and PubMed; Reddit and Google Trends refused automated access.*
 
 ## At a glance
 | Field | |
 |---|---|
 | Website | https://www.lin.health/ ; free resource site https://rethinkpain.lin.health/ |
 | Founder(s) | **Yehuda Kogan**, CEO and co-founder (Israeli health-tech entrepreneur; says he lived with chronic pain for about a decade). **Shahar Elias**, CTO and co-founder. The About page (Oct 2026) names only these two as co-founders. Dr. Abigail Hirsch (psychologist) represented Lin publicly as a clinical lead around 2022 (podcast, Jan 2022), but she is not a co-founder; her name now appears only in leftover image alt-text on the About page. |
-| Founded | 2021, as stated in all company press releases. Trustpilot profile claimed Dec 2021. Offices in Tel Aviv and Denver (2022); HQ in Denver. |
+| Founded | 2021, as stated in all company press releases; the earliest Wayback capture of lin.health is 13 Apr 2021. Trustpilot profile claimed Dec 2021. Offices in Tel Aviv and Denver (2022); HQ in Denver. |
 | Format / delivery | Virtual specialty medical practice ("Lin Health Medical Group"). A physician reviews each case, then a pain recovery coach delivers weekly live sessions plus in-app messaging. App lessons and "care kits" support this. Also offered as a referral or collaborative-care partner to clinics and health systems; in-person in Portland, Maine (2023). |
 | Business model | Commercial. Insurance-billed, with a self-pay option. B2B partnerships with payers and health systems. VC-backed (≈$26M raised in total). Free content funnel (rethinkpain). |
-| Direct cost | Self-pay prices on the pricing page as accessed Oct 2026: "Intensive" (4 live 30-min coaching sessions/mo) **US$269/mo** (list $378); "Core" (2 × 30 min/mo) $159/mo (list $189); a 12-installment financing option is offered. Also commitment plans: $129/mo month-to-month (first month $99), $109/mo billed per 6 months, or $984/yr (≈$82/mo). HSA/FSA eligible. A 33% discount for Mayo-referred patients was reported by the researcher but was not re-verified. With insurance, cost is the usual specialist/behavioral-health copay. |
+| Direct cost | Self-pay prices on the pricing page as accessed Oct 2026: "Intensive" (4 live 30-min coaching sessions/mo) **US$269/mo** (list $378); "Core" (2 × 30 min/mo) $159/mo (list $189); a 12-installment financing option is offered. Also commitment plans: $129/mo month-to-month (first month $99), $109/mo billed per 6 months, or $984/yr (≈$82/mo). HSA/FSA eligible. Wayback captures show the $378→$269 and $189→$159 "limited-time offer" prices unchanged from May 2023 to Feb 2026. The $129/$109 commitment plans date from 2022. The "33% discount" offered to Mayo-referred (and Lowell Pain Center-referred) patients works out to the same $269/mo as the standing Intensive price. With insurance, cost is the usual specialist/behavioral-health copay. |
 | Conditions claimed | Chronic primary pain broadly. About 50 ICD-10-coded conditions are listed: back/neck pain, sciatica, migraine and tension headache, TMJ, fibromyalgia, CRPS, IBS, chronic abdominal and pelvic pain, endometriosis, IC, vulvodynia, repetitive strain injury, tendonitis, plantar fasciitis, frozen shoulder, POTS, inappropriate sinus tachycardia, CFS/ME, chronic hives, tinnitus, dizziness, globus, GERD, chronic cough, paresthesias, sensory "hypersensitivity syndromes," and "pseudoseizures" (FND). Long COVID is also named (2023). |
-| Mainstream adoption | Moderate for a startup. Mayo Clinic is an investor and collaborator (Fibromyalgia Treatment Program transition care, Rochester; primary care, Arizona; 2024). In network with Anthem BCBS Maine (2023) and BCBS Minnesota (behavioral health network). Referral partners reportedly include WellSpan and Lowell Pain Center/Tufts Medicine (BCBS MN and these partners not re-verified). It does not appear in clinical guidelines. |
-| Insurance reimbursable | **Yes.** Billed as an in-network medical/behavioral practice. Payers named (2024): Aetna, Anthem BCBS, BCBS Texas, Cigna, Harvard Pilgrim, Humana, **Medicare**, UnitedHealthcare. The company reports 27M covered lives in Oct 2024 and 60M in Dec 2025. The pricing FAQ still lists only TX, CO and ME. |
-| Evidence (peer-reviewed trials) | **No peer-reviewed trial of the Lin program itself.** Lin's claims rest on the PRT RCT (Ashar et al. 2022; first author Ashar disclosed personal fees from Lin Health), on EAET trials, and on in-house uncontrolled outcome reports. |
-| Popularity signals | 1,045 patients in Jun 2022–Jan 2023 (white paper). The company projected >1M "care interventions" by end of 2024. 613 Trustpilot reviews averaging 4.9/5 (Oct 2026). HLTH 2024 Digital Health Hub "Consumer Wellness Rising Star" award (company-reported; not re-verified). $11M Series A in Dec 2025. |
+| Mainstream adoption | Moderate for a startup. Mayo Clinic is an investor and collaborator (Fibromyalgia Treatment Program transition care, Rochester; primary care, Arizona; 2024). In network with Anthem BCBS Maine (2023) and BCBS Minnesota (behavioral-health network, commercial members, Feb 2026). Referral partners with Lin partner pages: WellSpan and Lowell Pain Center (MA). A Mayo–Lin RCT in fibromyalgia was completed in Jul 2026. It does not appear in clinical guidelines. |
+| Insurance reimbursable | **Yes.** Billed as an in-network medical/behavioral practice. Payers named (2024): Aetna, Anthem BCBS, BCBS Texas, Cigna, Harvard Pilgrim, Humana, **Medicare**, UnitedHealthcare; BCBS Minnesota added Feb 2026. The company reports 27M covered lives in Oct 2024 and 60M in Dec 2025. The pricing FAQ still lists only TX, CO and ME. |
+| Evidence (peer-reviewed trials) | **No peer-reviewed trial of the Lin program itself.** Lin's claims rest on the PRT RCT (Ashar et al. 2022; first author Ashar disclosed personal fees from Lin Health), on EAET trials, and on in-house uncontrolled outcome reports. One Mayo–Lin RCT (NCT06988761, fibromyalgia, n = 218) was completed in Jul 2026, but no results had been posted or published as of Oct 2026. |
+| Popularity signals | 1,045 patients in Jun 2022–Jan 2023 (white paper). The company projected >1M "care interventions" by end of 2024 (company projection only; no outcome figure published). 613 Trustpilot reviews averaging 4.9/5 (Oct 2026). 2024 Digital Health Hub Foundation "Consumer Wellness Rising Star" award at HLTH (confirmed on the Foundation's winners page; also a finalist in 2023). $11M Series A in Dec 2025. |
 
 ## 1. Proposed mechanism(s)
 - **Nervous-system / brain-generated pain.** Lin's model is "brain-first." Most chronic pain is framed as *chronic primary pain* (the ICD-11 category MG30.0): pain out of proportion to tissue findings, generated or amplified by an over-sensitised pain-signalling system. The site's analogy is an alarm that sounds for a candle, or for no fire at all, and it says that "all pain is ultimately mediated by the brain." The ICD-11 framing is reinforced by advisor Shaheen Lakhan (MD, PhD), described as part of the WHO chronic-pain classification effort.
@@ -71,17 +71,20 @@
 ## 5. Mainstream adoption and insurance
 - **Payers:**
   - **Anthem BCBS Maine** statewide network, from Mar 2023.
-  - **BCBS Minnesota** behavioral-health provider network (date not confirmed).
+  - **BCBS Minnesota** behavioral-health provider network, for commercial members (Blue Cross MN release, 12 Feb 2026).
   - By Oct 2024 the company reported access via Aetna, Anthem, BCBS TX, Cigna, Harvard Pilgrim, Humana, Medicare and UHC, covering 27M people. By Dec 2025 it claimed 60M covered Americans.
   - The pricing FAQ is older and lists coverage only in TX, CO and ME. Coverage likely varies by state and plan.
 - **Health systems:**
   - **Mayo Clinic** is both investor and collaborator (press release 22 Oct 2024). Lin provides post-discharge transition care for Mayo Rochester's Fibromyalgia Treatment Program, with planned expansion to Mayo Arizona primary care. Mayo has a financial interest.
-  - Other referral partners: WellSpan, and Lowell Pain Center/Tufts Medicine (a pain-physician case study).
+  - Other referral partners: WellSpan and Lowell Pain Center (MA), each with a Lin partner landing page; Lowell-referred patients get the same "33% discount" as Mayo patients. No direct tie to Tufts Medicine was found: Lowell Pain Center shares a referral phone number with Lowell General Hospital's pain center, part of Tufts Medicine, but neither page states an affiliation.
+  - **Mayo–Lin RCT** (NCT06988761; PI Elizabeth Wight, Mayo Clinic): Mayo usual care plus Lin vs usual care alone for fibromyalgia. N = 218, unblinded; primary outcome FIQR at 3 months. Ran Jun 2025–Jul 2026 and is completed; no results posted.
 - **Leadership:** In 2025 Lin appointed a neurologist CMO, Eric Anderson (MD, PhD, ex-Synapticure). Its clinical advisors (2022) included Yoni Ashar, Antje Barreveld, Pavel Goldstein and Shaheen Lakhan, and Sherry Dubester (ex-Beacon, Anthem) joined the board.
 - **Guidelines and agencies:** No CMS national coverage determination, NICE or guideline endorsement of Lin specifically. Lin bills as a provider practice, not as an FDA-cleared digital therapeutic. It markets itself as aligned with national non-opioid pain guidelines.
 
 ## 6. Evidence base
-**Trials of the branded Lin program:** None found in PubMed or Europe PMC as of Oct 2026. A "New study: virtual pain care helps reduce healthcare utilization & improve work productivity" item on Lin's site has no journal, authors or link, and could not be verified as peer-reviewed.
+**Trials of the branded Lin program:** None published. PubMed (all-fields search for "Lin Health", 51 hits) returns only COI disclosures, mostly Ashar's.
+- **Unpublished RCT:** Mayo Clinic–Lin Health RCT, NCT06988761. Fibromyalgia, usual care ± Lin, n = 218, FIQR at 3 months. Completed Jul 2026; no results posted as of Oct 2026.
+- **Conference poster:** Lin's "New study: virtual pain care helps reduce healthcare utilization" item is a poster (Butler S, … Courtney R, Birlea M; AAPM PainConnect, 7 Mar 2026). It is an uncontrolled before/after self-report survey with N not stated, and it has not appeared in a journal. Reported results: 47–63% reduced ED, hospital, specialist or procedure use; 68% reduced pain-medication use (29% stopped); 79% reported less absenteeism or presenteeism.
 
 **In-house, uncontrolled data (not peer-reviewed):**
 
@@ -116,7 +119,7 @@
 
 **Gaps:**
 - The core trials used licensed psychotherapists. Lin delivers PRT-style care mainly through coaches, a dose and fidelity difference that has not been tested.
-- There is no randomized or independent evaluation of the Lin platform.
+- No randomized or independent evaluation of the Lin platform has been published. The Mayo–Lin RCT is completed but unreported, and Mayo is a Lin investor.
 - The program's evidence for non-pain conditions it lists (POTS, CFS, hives, tinnitus, FND) is absent.
 
 ## 7. Popularity and trajectory
@@ -126,10 +129,10 @@
 | 2022 | Free podcast/media presence (Jan 2022). Board and advisor appointments, with service claimed in all 50 states (Mar 2022, PR Newswire). Telehealth via SteadyMD. |
 | 2023 | Anthem BCBS Maine in-network (Mar). White paper on 1,045 patients (Jun 2022–Jan 2023). In network in TX, CO, ME. |
 | 2024 | $5.2M round (total $15.4M), with investors aMoon, Mayo Clinic, Saban, Shoni and Viola. Mayo collaboration (Oct). 27M covered lives including Medicare. HLTH Rising Star award. Projected >1M care interventions. |
-| 2025 | CMO hire. **$11M Series A** (Dec 9; Proofpoint Capital lead, plus Osage and NewHealth). 60M covered lives. |
-| 2026 | 613 Trustpilot reviews (4.9/5), 165 of them in the past 12 months. Continued payer expansion. |
+| 2025 | Mayo–Lin fibromyalgia RCT starts (Jun). CMO hire. **$11M Series A** (Dec 9; Proofpoint Capital lead, plus Osage and NewHealth). 60M covered lives. |
+| 2026 | BCBS Minnesota network (Feb). PainConnect utilization poster (Mar). Mayo–Lin RCT completed (Jul). 613 Trustpilot reviews (4.9/5), 165 of them in the past 12 months. |
 
-Rough cumulative reach is in the low tens of thousands of treated patients. The basis: about 1,000 patients in 8 months by early 2023, growing payer coverage, and the >1M "interventions" figure, which is message- and session-level. Free-content reach (webinars, rethinkpain) is probably larger. Public Reddit discussion appears modest compared with Curable or the Gordon/Sarno communities; this could not be verified in this session.
+Rough cumulative reach is in the low tens of thousands of treated patients. The basis: about 1,000 patients in 8 months by early 2023, growing payer coverage, and the >1M "interventions" figure, which is message- and session-level. Free-content reach (webinars, rethinkpain) is probably larger. Reddit volume is unknown: Reddit's JSON and API endpoints blocked automated requests (Oct 2026), and a web search for Reddit discussion of Lin returned only Trustpilot pages. That suggests little indexed Reddit discussion compared with Curable or the Gordon/Sarno communities. Google Trends also refused automated queries (HTTP 429).
 
 ## 8. Controversies / criticisms
 - **Outcome marketing:** Headline statistics (92%, 98%, 76%, 45%, 47%) come from uncontrolled self-report or are borrowed from the PRT RCT. Some site pages show placeholder "0%" figures, and the symptom-duration criteria are inconsistent (3 vs 6 months).
@@ -164,5 +167,13 @@ Rough cumulative reach is in the low tens of thousands of treated patients. The 
 - https://pubmed.ncbi.nlm.nih.gov/34586357/ (Ashar 2022)
 - https://pubmed.ncbi.nlm.nih.gov/40736996/ (Ashar 2025, 5-yr follow-up)
 - https://pubmed.ncbi.nlm.nih.gov/40973446/ (Sturgeon 2025)
+- https://clinicaltrials.gov/study/NCT06988761 (Mayo–Lin fibromyalgia RCT)
+- https://lin.health/case-study/virtual-pain-care-helps-reduce-healthcare-utilization-improve-work-productivity (PainConnect 2026 poster)
+- https://www.bluecrossmn.com/news/blue-cross-and-blue-shield-minnesota-adds-innovative-pain-management-solution-its-behavioral
+- https://www.lin.health/partner/wellspan
+- https://www.lin.health/partner/lowell-pain-center
+- https://www.digitalhealthhub.org/awards/2024/2024-winners
+- https://www.digitalhealthhub.org/news-press/finalists-for-the-6th-annual-digital-health-hub-foundation-awards-announced
+- https://web.archive.org/web/2020*/lin.health/pricing (captures May 2022–Feb 2026)
 
-*Fact-checked 2026-10-12; corrections: Ashar is the only PRT-trial author who disclosed Lin fees (not "several authors"); Hirsch is not a co-founder (About page names only Kogan and Elias); session length (30 min) and Core list price ($189) added; the unverified Mayo 33% discount is flagged; Sturgeon pilot completers and COI added; the HLTH award, BCBS MN and referral partners are flagged as not re-verified. Verified: founders, 2021 founding, prices, Mayo press release (Oct 22 2024; $15.4M; 27M lives; payer list), Series A (Dec 9 2025; $11M; 60M lives), Anthem Maine (Mar 20 2023), white-paper figures, Trustpilot (613; 4.9), and PubMed citations. No peer-reviewed trial of Lin found.*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: Mayo 33% discount verified (equals the standing $269 promo price; prices unchanged in Wayback 2023–2026); BCBS MN confirmed (Feb 12 2026); WellSpan and Lowell Pain Center partner pages confirmed (no Tufts tie found); HLTH 2024 Rising Star confirmed; Mayo–Lin RCT NCT06988761 found (completed, unreported); "new study" identified as PainConnect 2026 poster; Wayback supports 2021 founding; Reddit and Google Trends blocked automated access, so their volume remains unknown.*

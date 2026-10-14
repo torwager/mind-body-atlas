@@ -7,15 +7,15 @@
 |---|---|
 | Website | https://painguide.com (live, checked 2026-10-12; © 2025 Regents of the University of Michigan). Mirrors: painguide.med.umich.edu and bacpac.painguide.med.umich.edu (© 2022). fibroguide.med.umich.edu is still live, but it now carries PainGuide branding. Symptom tracker at app.painguide.com (login). |
 | Founder(s) | **David A. Williams, PhD**: clinical psychologist; Professor of Anesthesiology, Medicine, Psychiatry and Psychology at U-Michigan; lead developer. **Daniel J. Clauw, MD**: rheumatologist; directs the U-M Chronic Pain and Fatigue Research Center (CPFRC); leading proponent of the "centralized"/nociplastic pain construct. The PainGuide "About" page also lists Daniel Whibley, Afton Hassett and Anna Kratz as executive contributors, with an advisory group of clinicians and researchers. Technical build by Michigan Creative/Michigan Media. |
-| Founded | **Lineage dates:** (1) face-to-face 6-session fibromyalgia (FM) CBT protocol, J Rheumatol 2002. (2) Website "Living Well with Fibromyalgia", built for the RCT run c. 2005–2009 and published 2010. (3) Public "FibroGuide" website and later app, c. 2010–2015; it was in clinical use by the 2015 pilot. (4) "PainGuide", a broadened all-chronic-pain successor, live by c. 2019–2021 (estimate: used in BACPAC protocols from about 2020; earliest dated footer seen is © 2022). |
+| Founded | **Lineage dates:** (1) face-to-face 6-session fibromyalgia (FM) CBT protocol, J Rheumatol 2002. (2) Website "Living Well with Fibromyalgia", built for the RCT run c. 2005–2009 and published 2010. (3) Public "FibroGuide" website (fibroguide.med.umich.edu, Flash-based, © 2014), first archived by the Wayback Machine on 2014-11-20 and in clinical use by the 2015 pilot; earlier public availability (c. 2010–2014) is not documented. (4) "PainGuide", a broadened all-chronic-pain successor: first archived at painguide.com on 2021-03-08 (© 2021, "Site by Michigan Creative"; the domain was parked in 2018–2019), and the FibroGuide URL began redirecting in 2019. Exact launch date not published. |
 | Format / delivery | Free, self-guided website with smartphone-friendly pages. Contents: pain-science education, about 12 self-care skill modules, information on professional treatments, and a symptom/activity tracker. In trials it is delivered as one module per week, sometimes coached by medical assistants or paired with tailored messaging and a Fitbit. |
-| Business model | Free, academic and non-commercial. Developed with grant money (NIAMS R01-AR050044, verified on PubMed; the 2010 trial was also Department of Defense-sponsored, grant number not verified; NIH HEAL/BACPAC). The PainGuide About page lists the Stoltz Family as a sponsor. Clauw has reportedly described it in lectures as a public service (not independently verified). **COI note:** in the 2026 PRISM-CBT paper, Williams and Hassett disclose royalties from Tonix Pharmaceuticals for "a digital pain self-management tool"; Williams consults for Swing Therapeutics (Stanza app); Clauw consults for several pharma and digital-therapeutics companies. PainGuide itself is free, but its developers are not without commercial ties to the digital pain field. |
+| Business model | Free, academic and non-commercial. Developed with grant money (NIAMS R01-AR050044 and Department of Defense DAMD 17-00-2-0018 for the 2010 trial, per its acknowledgments; NIH HEAL/BACPAC). The PainGuide About page lists the Stoltz Family as a sponsor. In a Psychopharmacology Institute lecture Clauw says of PainGuide: "This is free. We don't get anything for this", and that the group develops such websites "as a public service". **COI note:** in the 2026 PRISM-CBT paper, Williams and Hassett disclose royalties from Tonix Pharmaceuticals for "a digital pain self-management tool"; Williams consults for Swing Therapeutics (Stanza app); Clauw consults for several pharma and digital-therapeutics companies. PainGuide itself is free, but its developers are not without commercial ties to the digital pain field. |
 | Direct cost | USD 0 (no registration fee; a free account is needed only for the tracker). |
 | Conditions claimed | Originally fibromyalgia. PainGuide covers chronic pain generally: COPCs (fibromyalgia, low back pain, IBS, TMD, migraine/tension-type headache, urologic chronic pelvic pain/IC, endometriosis, vulvodynia, chronic fatigue syndrome) plus CRPS, osteoarthritis, rheumatoid arthritis, MS pain, sickle-cell pain, cancer-related pain, lipedema, and pediatric and geriatric pain (condition pages verified 2026-10-12; only fibromyalgia and low back pain have their own COPC pages, the other COPCs, including CFS, are listed under them). Derivative sites have targeted chemotherapy neuropathy and breast-cancer symptoms. |
-| Mainstream adoption | Moderate within academic medicine. It serves as the self-management arm, run-in or comparator in NIH HEAL BACPAC trials (BEST, about 1,014–1,019 enrolled and 805 randomized; the U-M mechanistic SMART), in the Tailored PainGuide RCT (target n = 550), and in U-M clinical care. The International Pelvic Pain Society lists it as a patient resource. It is not a named guideline intervention, but it delivers CBT and exercise content that FM and low-back-pain guidelines recommend. |
+| Mainstream adoption | Moderate within academic medicine. It serves as the self-management arm, run-in or comparator in NIH HEAL BACPAC trials (BEST, about 1,014–1,019 enrolled and 805 randomized; the U-M mechanistic SMART, in which 494 people started the PainGuide run-in), in the Tailored PainGuide RCT (target n = 550), and in U-M clinical care. The International Pelvic Pain Society lists it as a patient resource. It is not a named guideline intervention, but it delivers CBT and exercise content that FM and low-back-pain guidelines recommend. |
 | Insurance reimbursable | Not applicable, since the service is free. Clinician time spent coaching it could be billed under ordinary behavioural or medical codes; there is no specific code or coverage policy. |
 | Evidence (peer-reviewed trials) | One positive RCT of the original website (Williams 2010, N = 118, fibromyalgia). Positive small pilots of adapted versions. A 2026 three-arm RCT (N = 299) used FibroGuide modules as the CBT platform. Large BACPAC trials using PainGuide have published no peer-reviewed primary outcomes yet, but registry-posted BEST results show the PainGuide-based self-care arm had the numerically worst 24-week pain score of the four first-stage arms (see §6). All controlled trials were run by the developers' group. |
-| Popularity signals | Low public visibility. There is no app-store presence with large download counts, essentially no Reddit or social-media discussion, and no published user numbers. Its influence comes mainly through academic citation and Clauw's lectures, not consumer reach. |
+| Popularity signals | Low public visibility. There is no native app on the Apple App Store or Google Play (searched 2026-10-13; the tracker is web-only), no published user numbers, and no Reddit discussion was found in web searches (Reddit's own search and API blocked automated access on 2026-10-13, so thread counts are unverified). Its influence comes mainly through academic citation and Clauw's lectures, not consumer reach. |
 
 ## 1. Proposed mechanism(s)
 - **Three pain types (PainGuide "About Pain"):**
@@ -88,7 +88,7 @@
 - **Academic home.** Fully academic, created and hosted by a major U.S. medical school and used in U-M's own clinical services.
 - **NIH HEAL Back Pain Consortium (BACPAC):**
   - It is the self-care arm of the multisite BEST SMART trial (NCT05396014): 1,019 enrolled per the 2025 papers (1,014 on the registry) and 805 randomized (205 to self-care); the BEST design paper (Mauck et al. 2025) confirms the ESC modules are labelled "PainGuide", with enhanced self-care compared against ACT, exercise/manual therapy and duloxetine.
-  - It is the 4-week run-in for the U-M interventional-response phenotyping SMART. The protocol (Hassett et al., Pain Med 2023) expected 10–20% to respond to PainGuide alone.
+  - It is the 4-week run-in for the U-M interventional-response phenotyping SMART (NCT04870957). The protocol (Hassett et al., Pain Med 2023) expected 10–20% to respond to PainGuide alone. On the registry, 494 started the PainGuide run-in, 417 completed it, and 402 were then randomized to MBSR, PT/exercise, acupressure or duloxetine (study completed April 2025).
 - **Derivatives:**
   - PROSPECT (chemotherapy-induced neuropathy), adapted from FibroGuide.
   - The U-M breast-cancer symptom self-management site (Henry et al. 2018).
@@ -137,7 +137,8 @@ Antecedent (face-to-face, not the website):
 Ongoing or unpublished:
 - **BEST trial (NCT05396014):** completed 2024; results posted to the registry in July 2025. Design and baseline papers appeared in Pain Med 2025; no peer-reviewed primary-outcome paper was located. **Registry-posted primary outcome (PEG change score, LS mean at 24 weeks, higher = worse):** ESC/PainGuide 4.72 (95% CI 4.30–5.14; n = 205) vs ACT 4.16, duloxetine 3.86, exercise/manual therapy 3.57 (3.15–3.99). So the PainGuide-based self-care arm did numerically worst and its CI does not overlap that of exercise/manual therapy. These are unpublished, un-peer-reviewed registry data; interpret cautiously.
 - **Tailored PainGuide RCT (NCT05843890):** target n = 550, PI Clauw, recruiting since Aug 2023; primary completion expected Feb 2028. It compares structured/tailored PainGuide with standard PainGuide, so it has no non-PainGuide control.
-- **U-M interventional-response phenotyping SMART:** protocol published in Pain Med 2023.
+- **U-M interventional-response phenotyping SMART (NCT04870957):** protocol published in Pain Med 2023; completed April 2025 with results posted to the registry (494 entered the PainGuide run-in). The posted outcomes cover only the post-run-in randomized treatments, not PainGuide itself, and no peer-reviewed outcome paper was found.
+- **Peer-review status checked 2026-10-13:** PubMed searches ("PainGuide OR FibroGuide"; BACPAC/BEST 2025–2026) found no primary-outcome paper for BEST or the U-M SMART.
 
 **Gaps and critiques:**
 - Only one adequately controlled efficacy RCT of the website, and it is 16 years old.
@@ -151,18 +152,17 @@ Ongoing or unpublished:
 
 ## 7. Popularity and trajectory
 - **2002–2010:** research phase. Face-to-face protocol (2002), NIAMS/DoD-funded web trial, *Pain* 2010 publication.
-- **c. 2010–2016:** FibroGuide offered free to the public. Clauw promoted it in lectures as matching approved FM drugs in effect size for function. It was used in at least one independent nurse-practitioner implementation (2015) and listed by patient-resource directories. One UNLV thesis describes an interactive DVD-ROM version, which suggests several formats existed.
-- **c. 2019–2022:** PainGuide relaunch, broadened to all chronic pain and COPCs, with a BACPAC-specific mirror (© 2022). Adopted as the self-care backbone of NIH HEAL back-pain trials.
+- **c. 2010–2016:** FibroGuide offered free to the public (Wayback captures from November 2014; the Flash-only site stayed unchanged until 2019). Clauw promoted it in lectures as matching approved FM drugs in effect size for function. It was used in at least one independent nurse-practitioner implementation (2015) and listed by patient-resource directories. One UNLV thesis describes an interactive DVD-ROM version, which suggests several formats existed.
+- **2019–2022:** PainGuide relaunch, broadened to all chronic pain and COPCs. The FibroGuide URL redirected from 2019, painguide.com was live with © 2021 by March 2021, and a BACPAC-specific mirror followed (© 2022). Adopted as the self-care backbone of NIH HEAL back-pain trials.
 - **2023–2026:**
   - Tailored PainGuide RCT recruiting (2023–).
   - PRISM-CBT RCT published (2026).
-  - FibroGuide URL redirected to the PainGuide brand.
   - Site maintained (© 2025 footer).
 - **Public footprint is small:**
-  - No Reddit threads were found discussing PainGuide or FibroGuide.
-  - No consumer app-store listing with substantial downloads was found.
+  - No Reddit threads were found in web searches discussing PainGuide or FibroGuide. Reddit's own search and API were blocked to automated access, so this could not be confirmed directly.
+  - No Apple App Store or Google Play listing exists under either name (searched 2026-10-13).
   - No published usage statistics.
-  - Its reach is via clinicians, trial enrolment (several thousand participants across trials) and Clauw's lectures and grand rounds.
+  - Its reach is via clinicians, trial enrolment (about 2,000 participants across BEST, the U-M SMART, PRISM-CBT and the pilots, with up to 550 more in Tailored PainGuide) and Clauw's lectures and grand rounds.
 - **Indirect influence is large.** The scientific framework behind it (nociplastic pain and COPCs; Clauw JAMA 2014, Lancet 2021) is widely cited and borrowed by commercial programs.
 
 ## 8. Controversies / criticisms
@@ -189,7 +189,11 @@ Ongoing or unpublished:
 - https://clinicaltrials.gov/study/NCT05843890 (Tailored PainGuide)
 - https://clinicaltrials.gov/study/NCT05396014 (BEST); Hassett et al. Pain Med 2023;24(Suppl 1):S126 (PMC10403311); Mauck et al. Pain Med 2025 (PMC12405758)
 - https://www.pelvicpain.org/public/resources/educational-resources/websites/5-painguide
-- https://psychopharmacologyinstitute.com/?p=1203366 (Clauw lecture describing FibroGuide/PainGuide as free)
+- https://psychopharmacologyinstitute.com/?p=1203366 (Clauw lecture: PainGuide free, "public service")
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC2972378/ (Williams 2010 acknowledgments: R01-AR050044, DAMD 17-00-2-0018)
+- https://clinicaltrials.gov/study/NCT04870957 (U-M BACPAC SMART; PainGuide run-in n = 494)
+- https://web.archive.org/web/20141120234441/http://fibroguide.med.umich.edu/ ; https://web.archive.org/web/20210308113943/http://painguide.com/ (Wayback first captures)
+- https://itunes.apple.com/search?term=painguide&entity=software ; https://play.google.com/store/search?q=painguide%20michigan&c=apps (no app listing)
 - https://clinicaltrials.gov/study/NCT03304613 (PRISM-CBT registration)
 
-*Fact-checked 2026-10-12; corrections: added registry-posted BEST results (PainGuide self-care arm numerically worst); added developer COI disclosures (Tonix royalties, Swing/pharma consulting); DoD grant number unverified and removed; BEST enrollment 1,014 (registry) vs 1,019 (papers); clarified PRISM-CBT BPI effects (0.88 to 1.42) and null primary; Tailored PainGuide RCT has no non-PainGuide control; Williams 2010 setting and PGIC denominators added; Clauw 'earn nothing' quote softened as unverified; condition list verified (lipedema/pediatric/geriatric added; insomnia removed from conditions).*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: DoD grant number found (DAMD 17-00-2-0018); Clauw "public service" quote verified; FibroGuide (first archived Nov 2014) and PainGuide (by Mar 2021) dates dated from Wayback; U-M SMART PainGuide run-in (n = 494) added; app stores checked (none); no BEST primary-outcome paper on PubMed; Reddit thread counts unverifiable (blocked).*

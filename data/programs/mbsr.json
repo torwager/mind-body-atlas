@@ -67,9 +67,9 @@
     "stress reaction vs response psychoeducation"
   ],
   "mainstream_adoption": "substantial",
-  "mainstream_notes": "Offered in hundreds of academic medical centers, VA and Kaiser facilities, cancer centers and workplaces worldwide, with nearly 1,000 certified teachers in more than 30 countries. The ACP 2017 low back pain guideline (Qaseem et al., Ann Intern Med 2017;166:514-30, PMID 28192789; verified) names MBSR among initial non-drug treatments for chronic low back pain. MBSR is the basis of MBCT, which NICE recommends for recurrent depression. NICE NG193 does not list mindfulness among its recommended therapies for chronic primary pain (NICE statements not re-verified).",
+  "mainstream_notes": "Offered in hundreds of academic medical centers, VA and Kaiser facilities, cancer centers and workplaces worldwide, with nearly 1,000 certified teachers in more than 30 countries. The ACP 2017 low back pain guideline (Qaseem et al., Ann Intern Med 2017;166:514-30, PMID 28192789; verified) names MBSR among initial non-drug treatments for chronic low back pain. AHRQ comparative-effectiveness reviews (CER 209, 2018, PMID 30179389; CER 227, 2020, PMID 32338846) found that MBSR improved chronic low back pain at short term (SOE moderate) and intermediate term (small effect, SOE low). MBSR is the basis of MBCT, which NICE NG222 (2022) recommends for depression relapse prevention; NG222 also lists group mindfulness and meditation for less severe depression. NICE NG193 (chronic primary pain, 2021) recommends ACT or CBT and does not mention mindfulness (verified Oct 2026).",
   "insurance": "sometimes/indirect",
-  "insurance_notes": "The course is usually self-pay. UMass gives Harvard Pilgrim/Tufts members a 15% discount. Some employer and health-plan wellness benefits cover it, it can be paid from an FSA/HSA when medically indicated, and licensed clinicians sometimes bill MBSR-based groups as group psychotherapy. There is no dedicated Medicare benefit.",
+  "insurance_notes": "The course is usually self-pay; US health insurers generally do not cover MBSR (Frank et al. 2024, Mindfulness, PMID 38817538; Albanese et al. 2025, PMID 40557683). UMass gives Harvard Pilgrim/Tufts members a 15% discount. Some employer and health-plan wellness benefits cover it, and licensed clinicians sometimes bill MBSR-based groups as group psychotherapy. FSA/HSA payment with a letter of medical necessity is commonly cited, but no primary source was found. There is no dedicated Medicare benefit.",
   "evidence_level": "systematic reviews/meta-analyses",
   "key_trials": [
     {
@@ -214,6 +214,12 @@
         "value": "USD 650",
         "source": "UMass Memorial CFM tuition page",
         "year": 2026
+      },
+      {
+        "metric": "Reddit r/Mindfulness weekly active users (r/Meditation members shown as related community)",
+        "value": "~45,700 weekly active (r/Mindfulness); ~3.55M members (r/Meditation)",
+        "source": "Wayback Machine capture of reddit.com/r/Mindfulness, 2026-08-06",
+        "year": 2026
       }
     ],
     "reach_estimate": "~1-3 million people have completed a formal 8-week MBSR course (the CFM says 'hundreds of thousands' have completed the program; ~1,000 certified teachers plus many uncertified ones worldwide over 45 years). Exposure through books, Palouse and derived programs is in the tens of millions.",
@@ -284,7 +290,7 @@
         "relative_activity": 8
       }
     ],
-    "method_notes": "Trajectory is anchored on: 1979 clinic founding; 1982/1985 pain papers; 1990 Full Catastrophe Living; 1993 Moyers PBS series; 1995 CFM founding and teacher training; PubMed annual MBSR counts (E-utilities, 2005-2025, rising from 10 to ~200/yr and plateauing after ~2019); the cultural mindfulness peak around 2014 (TIME cover, corporate programs); the 2019 institutional move to UMass Memorial and Brown; the COVID-era shift to Zoom; and app-based mindfulness partly displacing formal MBSR in the 2020s. Google Trends and social-media metrics could not be retrieved because the web-search quota was exhausted, so popularity relies on publication counts, registry counts and documented milestones. Reach is an order-of-magnitude estimate from the CFM claim and teacher counts. Fact-check 2026-10-12 re-ran PubMed (1,947) and ClinicalTrials.gov (1,142) counts and confirmed the CFM 'hundreds of thousands' claim and USD 650 tuition."
+    "method_notes": "Trajectory is anchored on: 1979 clinic founding; 1982/1985 pain papers; 1990 Full Catastrophe Living; 1993 Moyers PBS series; 1995 CFM founding and teacher training; PubMed annual MBSR counts (E-utilities, 2005-2025, rising from 10 to ~200/yr and plateauing after ~2019); the cultural mindfulness peak around 2014 (TIME cover, corporate programs); the 2019 institutional move to UMass Memorial and Brown; the COVID-era shift to Zoom; and app-based mindfulness partly displacing formal MBSR in the 2020s. Google Trends could not be retrieved (rate-limited, HTTP 429) and Reddit's JSON API blocked direct queries. Reddit activity was taken from an Aug 2026 Wayback capture of r/Mindfulness, which has no MBSR-specific subreddit capture. Popularity therefore relies mainly on publication counts, registry counts and documented milestones. Reach is an order-of-magnitude estimate from the CFM claim and teacher counts. Fact-check 2026-10-12 re-ran PubMed (1,947) and ClinicalTrials.gov (1,142) counts and confirmed the CFM 'hundreds of thousands' claim and USD 650 tuition. Open items completed 2026-10-13 (AHRQ, NICE, insurance coverage, Reddit)."
   },
   "sources": [
     "https://www.ummhealth.org/services-treatments/center-mindfulness",
@@ -317,6 +323,13 @@
     "https://pubmed.ncbi.nlm.nih.gov/28192789/",
     "https://pubmed.ncbi.nlm.nih.gov/29016274/",
     "https://pubmed.ncbi.nlm.nih.gov/35174010/",
-    "https://pubmed.ncbi.nlm.nih.gov/25818837/"
+    "https://pubmed.ncbi.nlm.nih.gov/25818837/",
+    "https://pubmed.ncbi.nlm.nih.gov/30179389/",
+    "https://pubmed.ncbi.nlm.nih.gov/32338846/",
+    "https://www.nice.org.uk/guidance/ng222/chapter/Recommendations",
+    "https://www.nice.org.uk/guidance/ng193/chapter/Recommendations",
+    "https://pubmed.ncbi.nlm.nih.gov/38817538/",
+    "https://pubmed.ncbi.nlm.nih.gov/40557683/",
+    "https://web.archive.org/web/20260806050123/https://www.reddit.com/r/Mindfulness/"
   ]
 }

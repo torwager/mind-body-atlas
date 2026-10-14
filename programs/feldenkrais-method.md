@@ -1,21 +1,21 @@
 # Feldenkrais Method (Awareness Through Movement / Functional Integration)
 
-*Compiled 2026-10-12. Sources: Wikipedia (method history, evidence, criticism); PubMed records and abstracts (retrieved via NCBI E-utilities), including the IQWiG HTA report (2023), Hillier & Worley 2015, Berland 2022 and Buchanan 2014; and the UK Guild and IFF websites. The Feldenkrais Guild of North America site (feldenkrais.com) blocked automated access. Web search was unavailable this session (the shared budget was used up), so some background facts below come from established biographical sources and are marked "approx." where not re-verified. Content paraphrased.*
+*Compiled 2026-10-12. Sources: Wikipedia (method history, evidence, criticism); PubMed records and abstracts (retrieved via NCBI E-utilities), including the IQWiG HTA report (2023), Hillier & Worley 2015, Berland 2022 and Buchanan 2014; the UK Guild, IFF and FGNA websites; and, for open items checked 2026-10-13, web search, the Union of International Associations yearbook and US practitioner/program price listings. Content paraphrased.*
 
 ## At a glance
 | Field | |
 |---|---|
 | Website | https://feldenkrais.com/ (Feldenkrais Guild of North America, FGNA). Also https://feldenkrais-method.org/ (International Feldenkrais Federation, IFF) and national guilds, e.g. https://www.feldenkrais.co.uk/ |
-| Founder(s) | **Moshé Feldenkrais** (1904–1984). Born in the Russian Empire (now Ukraine) and emigrated to Mandate Palestine as a teenager. Trained as an engineer and physicist in Paris (D.Sc., Sorbonne) and was an early European judo black belt. He developed the method after a chronic knee injury. Taught in Tel Aviv from the 1950s, including well-known work with David Ben-Gurion. Professional bodies came later: FGNA (founded approx. 1977, after the first US training cohort) and the IFF (federation of national guilds). |
-| Founded | Method developed **approx. 1940s–1950s**. *Body and Mature Behavior* (1949) is the first theoretical book; regular Tel Aviv classes ran from the 1950s. First practitioner training was in Tel Aviv (approx. 1969–71). Large US trainings ran in San Francisco (1975–78) and Amherst, MA (1980–84). |
+| Founder(s) | **Moshé Feldenkrais** (1904–1984). Born in the Russian Empire (now Ukraine) and emigrated to Mandate Palestine as a teenager. Trained as an engineer and physicist in Paris (D.Sc., Sorbonne) and was an early European judo black belt. He developed the method after a chronic knee injury. Taught in Tel Aviv from the 1950s, including well-known work with David Ben-Gurion. Professional bodies came later: the Feldenkrais Guild, established by Feldenkrais himself in 1977 and renamed FGNA in 1997, and the IFF (federation of national guilds, founded in Paris in 1992). |
+| Founded | Method developed **1940s–1950s**. *Body and Mature Behavior* (1949) is the first theoretical book; regular Tel Aviv classes ran from the 1950s. First practitioner training was in Tel Aviv (1969–71, 13 teachers per Wikipedia). Large US trainings ran in San Francisco (1975–78) and Amherst, MA (1980–83 per FGNA; Wikipedia gives 1980–84). |
 | Format / delivery | Two formats. (1) **Awareness Through Movement (ATM)**: verbally guided group lessons, usually lying on the floor, 30–60 min, now widely offered online and as audio. (2) **Functional Integration (FI)**: one-to-one, hands-on, non-invasive guided movement, client clothed. Also workshops, books and recordings. |
 | Business model | Clinician- or practitioner-delivered, fee-for-service. Trademarked and certified through guilds. Plenty of free material exists (YouTube, free ATM archives), so access in practice is a hybrid. |
-| Direct cost | IQWiG (Germany, 2023): about **€10–20 per group session and €60–90 per individual session**, normally self-paid. US prices are commonly about $15–35 per group class and about $80–200 per FI session (typical market range, not verified for this file). Practitioner training runs roughly 160 days over 3–4 years and costs tens of thousands of USD (approx.). |
+| Direct cost | IQWiG (Germany, 2023): about **€10–20 per group session and €60–90 per individual session**, normally self-paid. US listings checked in 2026: group ATM classes about $15–20 drop-in (e.g. $18, Phoenixville PA recreation program; series discounts) and private FI sessions about $90–125 (e.g. $120 for 50–75 min, Napa Valley Somatic Institute; $100–125 for 75 min, City of Boulder). Prices are set by individual practitioners; there is no standard rate. Practitioner training is about 800 hours over 160 days in ~4 years; one Washington State-listed US program charges $25,000 tuition. |
 | Conditions claimed | Not organised around disorders. Guild sites cite pain (back and neck), posture, injury, neurological problems (stroke, MS, Parkinson's, cerebral palsy), ageing and balance, performing-arts and sports performance, child development, plus general wellbeing and "ease." Individual practitioners extend this to fibromyalgia, chronic pain in general, and stress/anxiety. |
 | Mainstream adoption | **Limited.** Used by some physiotherapists and occupational therapists, some multidisciplinary pain rehabilitation programs (e.g. in Sweden), performing-arts conservatories, and some integrative medicine centres. Not in major clinical guidelines. Excluded by the Australian government's natural-therapies review. Germany's IQWiG HTA (2023) found only "hints" of benefit (Parkinson's; chronic low back pain vs some comparators), all from high-risk-of-bias RCTs. |
 | Insurance reimbursable | **Generally no.** About two-thirds of US clients pay directly (Buchanan 2014). Indirect coverage is possible when a licensed PT or OT delivers it as billable therapeutic exercise or neuromuscular re-education. Removed from Australian private health insurance rebates from 2019, following a 2015 review. Not covered by German statutory insurance. |
 | Evidence (peer-reviewed trials) | About 20+ small RCTs, mostly at high risk of bias. The most consistent finding is modest improvement in balance and mobility in older adults. Results for chronic low back and neck pain are mixed or comparable to other exercise. There are no adequately powered trials in ME/CFS, fibromyalgia, IBS or similar conditions. |
-| Popularity signals | Buchanan 2014 invited 1,287 US Guild-certified teachers. Guilds and IFF member associations exist in about 20+ countries. Feldenkrais's *Awareness Through Movement* (1972) has stayed in print for 50+ years. Norman Doidge's bestseller *The Brain's Way of Healing* (2015) gave the method a long chapter. Online ATM classes expanded during COVID (2020–21). |
+| Popularity signals | Buchanan 2014 invited 1,287 US Guild-certified teachers. FGNA states there are over 10,000 practitioners worldwide. Guilds and IFF member associations exist in about 20+ countries. Feldenkrais's *Awareness Through Movement* (1972) has stayed in print for 50+ years. Norman Doidge's bestseller *The Brain's Way of Healing* (2015) gave the method a long chapter. Online ATM classes expanded during COVID (2020–21). |
 
 ## 1. Proposed mechanism(s)
 - **Sensorimotor learning and self-image.** Feldenkrais held that action is organised by a person's "self-image," made up of movement, sensation, feeling and thought. Habitual, inefficient or protective patterns are learned, so they can be unlearned by improving awareness and differentiation of movement. Pain and dysfunction are read largely as products of poorly organised habitual action, such as excess effort, parasitic co-contraction or protective guarding, more than as fixed structural damage.
@@ -27,7 +27,7 @@
 **Transdiagnostic, single framework.** The method has no disease taxonomy. All presentations are approached as problems of how the person organises action, attention and self-image. Practitioners adapt lesson content to the presenting complaint (e.g. lessons for the spine, jaw, breathing or eyes), but the mechanism is the same. It makes **no claims specific to ME/CFS, POTS, MCS, EHS, Lyme or mould**. It is closer to a general somatic-education practice than a disorder-targeted program.
 
 ## 3. Treatments and self-care strategies
-- **ATM lessons.** Feldenkrais is said to have created over 1,000 ATM lessons, and the Alexander Yanai archive holds several hundred (counts are practitioner-community claims, not verified). Each lesson is a verbally guided sequence of slow, small movements, often lying down, varied systematically. It asks the learner to:
+- **ATM lessons.** Feldenkrais created a large corpus of ATM lessons. The Alexander Yanai collection (recorded weekly Tel Aviv classes, early 1950s to late 1970s) is published in numbered volumes that run past lesson #200. Total counts (often given as "over 1,000") have no published source; the IFF catalogue and lesson index pages were checked but are not machine-readable. Each lesson is a verbally guided sequence of slow, small movements, often lying down, varied systematically. It asks the learner to:
   - attend to how the movement is done and to sensation, rather than stretch or strengthen;
   - reduce effort ("do less") and rest often;
   - stay out of pain;
@@ -43,9 +43,9 @@
 
 ## 4. Roots and influences
 - **Judo and martial arts.** Feldenkrais studied with Jigoro Kano's school, co-founded the Jiu-Jitsu Club de France, and wrote early judo books. He took from judo its ideas of balance, effortless efficiency and the centre of gravity.
-- **Émile Coué / autosuggestion.** Feldenkrais translated Coué into Hebrew (1929, with added chapters of his own) (approx.).
+- **Émile Coué / autosuggestion.** In 1929 Feldenkrais published a Hebrew translation of Coué's *The Practice of Autosuggestion*, adding two chapters of his own (later republished as *Thinking and Doing*).
 - **Physics, engineering and mechanics**, along with cybernetics and early neurophysiology (Sherrington, Pavlov-era reflex physiology), and Freudian psychoanalysis. He discussed anxiety and sexuality in *Body and Mature Behavior*.
-- **Somatic education contemporaries.** He was aware of F.M. Alexander's technique, and the Gindler/Jacoby lineage is often cited (approx.). Feldenkrais is a core strand of the 1970s "somatics" movement (Thomas Hanna, Esalen).
+- **Somatic education contemporaries.** He was aware of F.M. Alexander's technique, He also studied the work of Elsa Gindler and travelled to Switzerland to study with Heinrich Jacoby (Wikipedia). Feldenkrais is a core strand of the 1970s "somatics" movement (Thomas Hanna, Esalen).
 - **Downstream influence.** Hanna Somatics, Anat Baniel Method (NeuroMovement), Jeremy Krauss's Feldenkrais-based approaches, Basic Body Awareness Therapy cross-talk in Scandinavia, and elements of modern pain-science movement therapy and dance/movement pedagogy.
 
 ## 5. Mainstream adoption and insurance
@@ -92,15 +92,15 @@ Only studies verified in PubMed are listed. All are trials of the **Feldenkrais 
 - **1970s–1980s growth.**
   - *Awareness Through Movement* (Harper & Row, 1972).
   - Esalen and the US human-potential movement.
-  - San Francisco training (1975–78, about 60+ graduates, approx.) and Amherst training (1980–84, about 230 graduates, approx.). Wikipedia says "several hundred" were certified across these two trainings.
-  - FGNA formed (approx. 1977).
+  - San Francisco training (1975–78, 65 teachers trained) and Amherst training (235 students began in 1980; ended 1983 per FGNA). FGNA says about 300 practitioners were trained in total across Feldenkrais's three trainings.
+  - Feldenkrais Guild established by Feldenkrais in 1977 (renamed FGNA in 1997).
   - Feldenkrais died in 1984.
-- **1990s–2000s.** Steady expansion through accredited training programs in North America, Europe, Israel, Australia and Japan. IFF founded (approx. 1992). Peak academic-review interest came around 2004–2006 (several *Phys Med Rehabil Clin N Am* overviews).
+- **1990s–2000s.** Steady expansion through accredited training programs in North America, Europe, Israel, Australia and Japan. IFF founded in Paris in 1992. Peak academic-review interest came around 2004–2006 (several *Phys Med Rehabil Clin N Am* overviews).
 - **2014.** About 1,287 US Guild-certified teachers (Buchanan 2014). Most worked part-time and saw fewer than 10 individual and fewer than 10 group students per week. The main reason students came was pain.
 - **2015.** Norman Doidge's *The Brain's Way of Healing* (NYT bestseller) gave the method a long chapter in a neuroplasticity frame, which likely boosted interest. The Australian negative review came the same year.
 - **2020–2021.** COVID moved ATM classes online, through Zoom classes and recorded-lesson subscription platforms, increasing reach.
 - **2020s.** Steady stream of RCTs, including from Iran and Spain. IQWiG HTA in 2023.
-- **Online presence.** Many ATM lessons on YouTube. An r/Feldenkrais subreddit exists, but its size could not be checked (Reddit blocked automated access).
+- **Online presence.** Many ATM lessons on YouTube. An r/Feldenkrais subreddit has existed since at least 2014 (Wayback capture, July 2014). Its member count is unknown: Reddit's about.json, api.reddit.com and third-party stats sites blocked or returned nothing, and the Wayback CDX service was offline on 2026-10-13. Google Trends was not checked (no machine-readable access).
 - **Overall.** Interest is long and steady and has stayed niche relative to yoga or mindfulness.
 
 ## 8. Controversies / criticisms
@@ -111,7 +111,17 @@ Only studies verified in PubMed are listed. All are trials of the **Feldenkrais 
 - **For a fair reading.** The method makes fairly modest, non-disease-specific claims compared with limbic-retraining programs. It does not promise cures for ME/CFS-type illness.
 
 ## Sources (URLs)
-- https://feldenkrais.com/ (FGNA; automated access blocked)
+- https://feldenkrais.com/ (FGNA)
+- https://feldenkrais.com/feldenkrais-guild-of-north-america/ (Guild established 1977; renamed 1997)
+- https://feldenkrais.com/about-moshe-feldenkrais/ (trainings 1969–71, 1975–78, 1980–83; ~300 trained; >10,000 practitioners worldwide)
+- https://uia.org/s/or/en/1100048932 (IFF founded 1992, Paris)
+- https://en.wikipedia.org/wiki/Mosh%C3%A9_Feldenkrais (training cohort sizes; Gindler, Jacoby)
+- https://opencourser.com/book/s6r835/thinking-and-doing (1929 Coué translation)
+- https://phoenixville.org/2915/The-Feldenkrais-Method (group class price)
+- https://nvsi.abmp.com/services-and-rates (FI price)
+- https://bouldercolorado.gov/feldenkrais-private-sessions (FI price)
+- https://careerbridge.wa.gov/learn/program/4993 (US training tuition)
+- http://web.archive.org/web/20140715025335/http://www.reddit.com:80/r/Feldenkrais (subreddit, 2014)
 - https://feldenkrais-method.org/ (IFF)
 - https://www.feldenkrais.co.uk/ (UK Guild)
 - https://en.wikipedia.org/wiki/Feldenkrais_Method
@@ -128,4 +138,4 @@ Only studies verified in PubMed are listed. All are trials of the **Feldenkrais 
 - https://pubmed.ncbi.nlm.nih.gov/21419355/ (Öhman 2011, group Feldenkrais for chronic pain, qualitative)
 - https://pubmed.ncbi.nlm.nih.gov/15865501/ (Mehling 2005, bias in bodywork trials)
 
-*Fact-checked 2026-10-12; corrections: IQWiG HTA found hints of benefit in 2 indications (Parkinson's and CLBP vs some comparators), not only Parkinson's; Malmgren-Olsson 2002 was consecutive allocation, not randomised; Berland 2022 TUG estimate duplicates Hillier 2015 (overlapping data); ATM lesson counts softened to unverified claims; added Buchanan 2014 caseload and pain as main reason for seeking lessons; JSON founders list limited to Moshé Feldenkrais (guilds are not founders); PubMed count replaced with verified total (109 records for 'feldenkrais', Oct 2026). All 22 cited PMIDs confirmed to exist with the stated authors/year/journal. FGNA (approx. 1977) and IFF (approx. 1992) founding dates and US price ranges could not be verified (web search budget exhausted; official sites blocked automated fetches).*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: FGNA founded 1977 (renamed 1997) and IFF founded 1992 confirmed; training dates and cohort sizes confirmed (Amherst end year 1983 per FGNA); US class/session prices and training tuition sourced from listings; Coué 1929 translation and Gindler/Jacoby study confirmed; added FGNA's >10,000 practitioners claim; r/Feldenkrais existence confirmed (2014) but member count and Google Trends remain unavailable; total ATM lesson count remains unsourced. Earlier corrections: IQWiG HTA found hints of benefit in 2 indications (Parkinson's and CLBP vs some comparators); Malmgren-Olsson 2002 not randomised; Berland 2022 TUG estimate overlaps Hillier 2015; all 22 cited PMIDs confirmed; PubMed total 109 records (Oct 2026).*

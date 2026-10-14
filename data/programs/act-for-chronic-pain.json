@@ -10,7 +10,7 @@
     "Rikard Wicksell (pain application)"
   ],
   "founded_year": 1999,
-  "founded_year_range": "ACT origins early 1980s ('comprehensive distancing'); manual 1999; chronic-pain application ~2004-2005 (Dahl et al. and McCracken books, 2005); Stanza app (Swing Therapeutics) FDA De Novo DEN220083, 9 May 2023",
+  "founded_year_range": "ACT origins early 1980s ('comprehensive distancing'); manual 1999; chronic-pain application 2005 (Dahl, Wilson, Luciano & Hayes, Context Press; McCracken, IASP Press); ACBS formed 2005; Stanza app (Swing Therapeutics) FDA De Novo DEN220083, 9 May 2023",
   "category": "psychological/neuroplastic-pain therapy (third-wave CBT; mainstream comparator)",
   "delivery": [
     "clinician-delivered",
@@ -22,7 +22,7 @@
     "book"
   ],
   "business_model": "clinician-delivered (fee-for-service)",
-  "cost_summary": "Non-proprietary model, free to use. US clinician delivery is roughly USD 100-250 per session (~USD 800-2,500 for 8-12 sessions out of pocket; typical market range, estimate), usually insurance-covered. Free at point of use in NHS pain services. Self-help books ~USD 15-25. Stanza (Swing Therapeutics) requires a prescription and is offered through clinical partners in 8 US states; its price is not publicly listed.",
+  "cost_summary": "Non-proprietary model, free to use. US clinician delivery is roughly USD 100-250 per session (~USD 800-2,500 for 8-12 sessions out of pocket; typical market range, estimate), usually insurance-covered. Free at point of use in NHS pain services. Self-help books ~USD 15-25. Stanza (Swing Therapeutics) requires a prescription and is offered through clinical partners in 8 US states; no price is published (checked Swing's Stanza page and coverage news, Oct 2026). Highmark covers it for commercial members in PA, WV, DE and NY. Swing was acquired by XRHealth in July 2026.",
   "cost_usd_typical": 1200,
   "conditions_claimed": [
     "chronic pain (general)",
@@ -71,9 +71,9 @@
     "12-week smartphone daily lessons (Stanza)"
   ],
   "mainstream_adoption": "substantial",
-  "mainstream_notes": "NICE NG193 (April 2021), recommendation 1.2.3, says to consider ACT or CBT for chronic primary pain in people aged 16 and over (verified). ACBS reports that these were the only psychological therapies NICE recommended. NICE NG155 (2020) also lists ACT as an option for tinnitus. APA Division 12 rated ACT for chronic pain 'Strong' under its original EST criteria, but its page now lists the treatment as pending re-evaluation under the 2015 criteria. ACT is a core model in NHS specialist pain services such as the Bath Centre for Pain Services (current status not re-verified), and VA trials and manuals exist. Swing Therapeutics' ACT app Stanza received FDA De Novo authorization (DEN220083) on 9 May 2023, the first for fibromyalgia symptoms.",
+  "mainstream_notes": "NICE NG193 (April 2021), recommendation 1.2.3, says to consider ACT or CBT for chronic primary pain in people aged 16 and over (verified). ACBS reports that these were the only psychological therapies NICE recommended. NICE NG155 (2020) also lists ACT as an option for tinnitus. APA Division 12 rated ACT for chronic pain 'Strong' under its original EST criteria, but its page now lists the treatment as pending re-evaluation under the 2015 criteria. ACT is a core model in NHS specialist pain services such as the Bath Centre for Pain Services (still running national programmes at the RUH in 2026). VA trials exist, and VA stepped-care clinics run ACT groups; the early Vowles & Sorrell manual (2007) came from Bath/VA Palo Alto, but no official VA-published ACT-for-pain manual was found. Swing Therapeutics' ACT app Stanza received FDA De Novo authorization (DEN220083) on 9 May 2023, the first for fibromyalgia symptoms. XRHealth acquired Swing Therapeutics in July 2026.",
   "insurance": "yes",
-  "insurance_notes": "In the US, licensed clinicians bill ACT under standard psychotherapy and health-behaviour CPT codes (90832-90837, 96156-96159); there is no ACT-specific code. In the UK it is NHS-funded. Stanza needs a prescription and is offered via clinical partners (Swing Care, Southwest Medical, UPMC); payer coverage and price are not verified.",
+  "insurance_notes": "In the US, licensed clinicians bill ACT under standard psychotherapy and health-behaviour CPT codes (90832-90837, 96156-96159); there is no ACT-specific code. In the UK it is NHS-funded. Stanza needs a prescription and is offered via clinical partners (Swing Care, Southwest Medical, UPMC); Highmark covers it for commercial members in PA, WV, DE and NY (Feb 2025). Medicare does not (as of Jul 2026), and CMS DMHT codes G0552-G0554 cover only 21 CFR 882.5801/882.5803 devices, not Stanza (882.5804). Partner clinics bill insurers for the clinical visits. No price is published.",
   "evidence_level": "systematic reviews/meta-analyses",
   "key_trials": [
     {
@@ -214,26 +214,77 @@
         "value": "PROSPER-FM, N=275",
         "source": "Lancet 2024;404:364",
         "year": 2024
+      },
+      {
+        "metric": "YouTube views, Hayes TEDx talk on psychological flexibility",
+        "value": "~1.14M",
+        "source": "https://www.youtube.com/watch?v=o79_gmO5ppg",
+        "year": 2026
+      },
+      {
+        "metric": "r/ChronicPain members (general chronic pain forum where ACT is discussed)",
+        "value": "~160-170K",
+        "source": "https://thehiveindex.com/communities/r-chronicpain/",
+        "year": 2026
       }
     ],
     "reach_estimate": "Roughly 10^5.5-10^6 people with chronic pain have received ACT for pain cumulatively. This is an order-of-magnitude guess based on several thousand trial participants, ~20 years of routine use in NHS and US VA/academic pain services, internet programmes, Stanza users and self-help book sales. ACT across all conditions reaches far more people.",
     "reach_log10": 5.7,
     "trajectory": [
-      {"year": 1999, "relative_activity": 1},
-      {"year": 2002, "relative_activity": 1.5},
-      {"year": 2005, "relative_activity": 2.5},
-      {"year": 2008, "relative_activity": 3.5},
-      {"year": 2011, "relative_activity": 4.5},
-      {"year": 2014, "relative_activity": 5.5},
-      {"year": 2017, "relative_activity": 6.5},
-      {"year": 2019, "relative_activity": 7},
-      {"year": 2021, "relative_activity": 8},
-      {"year": 2023, "relative_activity": 8.5},
-      {"year": 2024, "relative_activity": 9},
-      {"year": 2025, "relative_activity": 9},
-      {"year": 2026, "relative_activity": 9}
+      {
+        "year": 1999,
+        "relative_activity": 1
+      },
+      {
+        "year": 2002,
+        "relative_activity": 1.5
+      },
+      {
+        "year": 2005,
+        "relative_activity": 2.5
+      },
+      {
+        "year": 2008,
+        "relative_activity": 3.5
+      },
+      {
+        "year": 2011,
+        "relative_activity": 4.5
+      },
+      {
+        "year": 2014,
+        "relative_activity": 5.5
+      },
+      {
+        "year": 2017,
+        "relative_activity": 6.5
+      },
+      {
+        "year": 2019,
+        "relative_activity": 7
+      },
+      {
+        "year": 2021,
+        "relative_activity": 8
+      },
+      {
+        "year": 2023,
+        "relative_activity": 8.5
+      },
+      {
+        "year": 2024,
+        "relative_activity": 9
+      },
+      {
+        "year": 2025,
+        "relative_activity": 9
+      },
+      {
+        "year": 2026,
+        "relative_activity": 9
+      }
     ],
-    "method_notes": "The trajectory is anchored on documented milestones: the 1999 ACT manual; the 2005 pain books and Bath programme; the 2008 first pain process-outcome study; RCT accumulation (11 RCTs in the 2017 meta-analysis, 21-33 by 2023); NICE NG193 in 2021; Stanza's FDA De Novo in May 2023 and Lancet publication in 2024; and ACBS's count of 1,450+ RCTs in 2026. It reflects professional and research activity more than consumer social-media buzz, which is modest compared with consumer brain-retraining programmes. Reach is an order-of-magnitude guess, not a published figure. The web-search budget was exhausted, so Google Trends, Reddit counts, book sales and Stanza pricing/coverage were not quantified."
+    "method_notes": "The trajectory is anchored on documented milestones: the 1999 ACT manual; the 2005 pain books and Bath programme; the 2008 first pain process-outcome study; RCT accumulation (11 RCTs in the 2017 meta-analysis, 21-33 by 2023); NICE NG193 in 2021; Stanza's FDA De Novo in May 2023 and Lancet publication in 2024; and ACBS's count of 1,450+ RCTs in 2026. It reflects professional and research activity more than consumer social-media buzz, which is modest compared with consumer brain-retraining programmes. Reach is an order-of-magnitude guess, not a published figure. Added 2026-10-13: Hayes TEDx ~1.14M YouTube views; r/ChronicPain ~160-170K members (third-party tracker; Reddit API blocked). Book sales and Stanza user numbers are not published. Google Trends was not quantified."
   },
   "sources": [
     "https://contextualscience.org/",
@@ -261,6 +312,15 @@
     "https://doi.org/10.1016/j.pain.2008.11.006",
     "https://doi.org/10.1097/ajp.0000000000000203",
     "https://doi.org/10.1097/ajp.0b013e318219a933",
-    "https://doi.org/10.1037/0022-006X.76.3.397"
+    "https://doi.org/10.1037/0022-006X.76.3.397",
+    "https://www.businesswire.com/news/home/20250204913543/en/",
+    "https://www.bostonglobe.com/2026/07/15/business/swing-therapeutics-medical-vr-xrhealth/",
+    "https://www.cms.gov/files/document/mm14315-medicare-physician-fee-schedule-final-rule-summary-cy-2026.pdf",
+    "https://contextualscience.org/publications/dahl_et_al_2005",
+    "https://contextualscience.org/files/CP_Acceptance_Manual_09.2008.pdf",
+    "https://en.wikipedia.org/wiki/Association_for_Contextual_Behavioral_Science",
+    "https://www.ruh.nhs.uk/For_Clinicians/departments_ruh/BCPS/referral.asp?menu_id=3",
+    "https://www.youtube.com/watch?v=o79_gmO5ppg",
+    "https://thehiveindex.com/communities/r-chronicpain/"
   ]
 }

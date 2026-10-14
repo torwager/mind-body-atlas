@@ -6,7 +6,7 @@
     "Peter A. Levine, PhD (biophysics, UC Berkeley; psychology, International University)"
   ],
   "founded_year": 1970,
-  "founded_year_range": "1969-1994. The 1969 origin case is followed by method development in the 1970s (SIBAM model; Levine met Porges in 1978). The trademark was registered in 1989. The Foundation for Human Enrichment (now SEI) dates to about 1994, which the SEI 2020 annual report implies by referring to 'the Institute's 26 years'.",
+  "founded_year_range": "1969-1994. The 1969 origin case is followed by method development in the 1970s (SIBAM model; Levine met Porges in 1978). The trademark was registered in 1989. The Foundation for Human Enrichment (now d/b/a SEI) was incorporated in Colorado on 28 April 1994 (Colorado Secretary of State), with IRS 501(c)(3) status from 1997.",
   "category": "trauma/emotion-focused therapy",
   "delivery": [
     "clinician-delivered",
@@ -70,7 +70,7 @@
     "brief/single-session and group adaptations (Trauma Resiliency Model)"
   ],
   "mainstream_adoption": "limited",
-  "mainstream_notes": "Widely used by licensed therapists and in disaster response. SEI trained about 6-7k students per year (2019-2020); Levine's site claims 30,000+ trained in 42+ countries, and somaticexperiencing.com says training is available in 54 countries / 42 languages. SE is not in NICE, VA/DoD, APA or ISTSS PTSD guidelines; Bisson et al. 2020 rate it 'emerging evidence' (based on one trial, GRADE very uncertain), not for routine use. It has been tested in Danish public spine-centre and Israeli trauma-centre trials. SEI regained NBCC continuing-education provider approval in May 2026 for select modules.",
+  "mainstream_notes": "Widely used by licensed therapists and in disaster response. SEI trained about 6-7k students per year (2019-2020); Levine's site claims 30,000+ trained in 42+ countries, and somaticexperiencing.com says training is available in 54 countries / 42 languages; SEI's own About page (Oct 2026) says 40 countries. SE is not in NICE, VA/DoD, APA or ISTSS PTSD guidelines; Bisson et al. 2020 rate it 'emerging evidence' (based on one trial, GRADE very uncertain), not for routine use. It has been tested in Danish public spine-centre and Israeli trauma-centre trials. SEI regained NBCC continuing-education provider approval in May 2026 for select modules.",
   "insurance": "sometimes/indirect",
   "insurance_notes": "There is no SE-specific billing code. Sessions are reimbursable only when a licensed clinician bills standard psychotherapy CPT codes. Sessions with non-licensed SEPs (bodyworkers, coaches) are self-pay.",
   "evidence_level": "multiple RCTs",
@@ -90,7 +90,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/28680540/"
     },
     {
-      "citation": "Andersen TE, et al. Somatic Experiencing for patients with low back pain and comorbid posttraumatic stress symptoms - a randomised controlled trial. Eur J Psychotraumatol 2020;11:1797306",
+      "citation": "Andersen TE, et al. Somatic Experiencing for patients with low back pain and comorbid posttraumatic stress symptoms - a randomised controlled trial. Eur J Psychotraumatol 2020;11:1797306 (NCT03244046)",
       "design": "RCT, SE (up to 12) + physiotherapy vs physiotherapy alone, 6- and 12-month follow-up",
       "n": 114,
       "finding": "Null: no between-group differences on disability (primary) or any secondary outcome.",
@@ -141,15 +141,15 @@
       },
       {
         "metric": "Countries offering training",
-        "value": "38 (2021); 54 countries / 42 languages (2026 Levine site)",
-        "source": "SEI 2021 Annual Report; somaticexperiencing.com",
+        "value": "38 (2021); 40 (SEI About page, 2026); 54 countries / 42 languages (2026 Levine site)",
+        "source": "SEI 2021 Annual Report; traumahealing.org/about-us; somaticexperiencing.com",
         "year": 2026
       },
       {
         "metric": "SEI annual revenue",
-        "value": "$5.42M (2019); ~$5.06M (2021)",
-        "source": "SEI Annual Reports",
-        "year": 2021
+        "value": "$5.42M (2019), $5.26M (2020), $6.49M (2021), $6.43M (2022), $7.71M (2023) per IRS Form 990; annual reports give ~$5.06M for 2021",
+        "source": "ProPublica Nonprofit Explorer (EIN 84-1360261); SEI Annual Reports",
+        "year": 2023
       },
       {
         "metric": "Waking the Tiger sales",
@@ -165,9 +165,27 @@
       },
       {
         "metric": "Trademark / training institute",
-        "value": "SE trademark 1989; institute ~1994",
-        "source": "Wikipedia; SEI 2020 annual report",
+        "value": "SE trademark 1989; Foundation for Human Enrichment incorporated 1994-04-28 (CO); 501(c)(3) ruling 1997",
+        "source": "Wikipedia; Colorado Secretary of State; IRS via ProPublica",
         "year": 1994
+      },
+      {
+        "metric": "Reddit r/SomaticExperiencing members",
+        "value": "25,845",
+        "source": "Wayback Machine capture 2025-08-05 of reddit.com/r/SomaticExperiencing",
+        "year": 2025
+      },
+      {
+        "metric": "English Wikipedia pageviews, 'Somatic experiencing' (per year)",
+        "value": "54k (2017), 80k (2019), 78k (2023), 140k (2024), 117k (2025), 51k (Jan-Sep 2026)",
+        "source": "Wikimedia REST pageviews API",
+        "year": 2026
+      },
+      {
+        "metric": "English Wikipedia pageviews, 'Peter A. Levine' (per year)",
+        "value": "10k (2022), 16k (2023), 31k (2024), 24k (2025), 11k (Jan-Sep 2026)",
+        "source": "Wikimedia REST pageviews API",
+        "year": 2026
       }
     ],
     "reach_estimate": "~1 million (order of magnitude). Levine's site claims 30,000+ people trained; SEI trains ~6-7k per year recently. Each practitioner treats many clients, so clients plausibly number in the hundreds of thousands to ~1 million. Waking the Tiger alone has sold more than 250k copies, plus other titles. Reach also extends through derivative programs and social-media 'somatic' content.",
@@ -270,7 +288,7 @@
         "relative_activity": 9.5
       }
     ],
-    "method_notes": "Trajectory is anchored to documented milestones: the 1969 origin case, the 1989 trademark, the institute around 1994, Waking the Tiger in 1997, Healing Trauma in 2005, books in 2010, 2012 and 2015, The Body Keeps the Score (2014) driving body-trauma interest, the first RCTs in 2017, SEI training volume of about 6-7k per year in 2019-2020, and expansion to 54 countries by 2026. The 2022-2025 rise reflects the widely observed social-media 'somatic healing / nervous system regulation' boom; it was not directly quantified (no Google Trends or Reddit counts) and should be treated as an estimate. PubMed counts come from an NCBI E-utilities query (re-verified at fact-check). Reach is an order-of-magnitude estimate from claimed cumulative trainees (30k+) x clients per practitioner, plus book sales."
+    "method_notes": "Trajectory is anchored to documented milestones: the 1969 origin case, the 1989 trademark, the institute around 1994, Waking the Tiger in 1997, Healing Trauma in 2005, books in 2010, 2012 and 2015, The Body Keeps the Score (2014) driving body-trauma interest, the first RCTs in 2017, SEI training volume of about 6-7k per year in 2019-2020, and expansion to 54 countries by 2026. The 2022-2025 rise reflects the social-media 'somatic healing / nervous system regulation' boom. Google Trends was blocked (HTTP 429), so Wikipedia pageviews serve as the proxy: they nearly doubled from 2023 to a 2024 peak and are declining in 2026. r/SomaticExperiencing had ~26k members in Aug 2025. PubMed counts come from an NCBI E-utilities query (re-verified at fact-check). Reach is an order-of-magnitude estimate from claimed cumulative trainees (30k+) x clients per practitioner, plus book sales."
   },
   "sources": [
     "https://traumahealing.org/",
@@ -300,6 +318,14 @@
     "https://pubmed.ncbi.nlm.nih.gov/29535648/",
     "https://pubmed.ncbi.nlm.nih.gov/37510644/",
     "https://pubmed.ncbi.nlm.nih.gov/41428713/",
-    "https://clinicaltrials.gov/study/NCT02298764"
+    "https://clinicaltrials.gov/study/NCT02298764",
+    "https://osf.io/h8gmw",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11823315/",
+    "https://clinicaltrials.gov/study/NCT03244046",
+    "https://clinicaltrials.gov/study/NCT06549777",
+    "https://projects.propublica.org/nonprofits/organizations/841360261",
+    "https://data.colorado.gov/resource/4ykn-tg5h.json",
+    "https://pageviews.wmcloud.org/?pages=Somatic_experiencing|Peter_A._Levine",
+    "https://web.archive.org/web/20250805234441/https://www.reddit.com/r/SomaticExperiencing/"
   ]
 }

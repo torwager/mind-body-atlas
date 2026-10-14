@@ -1,21 +1,21 @@
 # Reveri (self-hypnosis app)
 
-*Compiled 2026-10-12 from reveri.com (Home, Science, Pricing, About), Tran et al. 2025 (npj Digital Medicine, full text via Europe PMC), Saperia et al. 2026 preprint (Research Square), and the Huberman Lab episode page (Feb 2022). Content paraphrased. Note: the web-search budget ran out during compilation, so news, Reddit and app-store metrics could not be checked and are marked "not verified".*
+*Compiled 2026-10-12 from reveri.com (Home, Science, Pricing, About), Tran et al. 2025 (npj Digital Medicine, full text via Europe PMC), Saperia et al. 2026 preprint (Research Square), and the Huberman Lab episode page (Feb 2022). Open items completed 2026-10-13 from the Apple App Store and Google Play listings, ClinicalTrials.gov and PubMed. Content paraphrased.*
 
 ## At a glance
 | Field | |
 |---|---|
 | Website | https://www.reveri.com/ (Reveri Health, Inc.) |
-| Founder(s) | **David Spiegel, MD**: Stanford psychiatrist, Associate Chair of Psychiatry, Director of the Center on Stress and Health, and a hypnosis researcher for about 50 years (co-developer of the Hypnotic Induction Profile). **Ariel Poler**: Silicon Valley internet entrepreneur and investor. Spiegel is listed as co-founder and scientific advisor; third-party company listings give his title as Chief Scientific Officer. The company is Reveri Health, Inc.; a third-party listing reports a $1.8M seed round in Feb 2022 (not independently verified). |
-| Founded | **c. 2020** (range 2017–2020). Press coverage dates the company's start to 2020, beginning as a stop-smoking prototype. The precursor was a Stanford open pilot of an automated self-hypnosis program run on Amazon Alexa and later the Reveri app (NCT03931772, started Sept 2017). By Feb 2022 the app was on iOS and Android was still waitlisted. In-app data in the published studies begin in Nov–Dec 2021. The site gives no founding year. |
+| Founder(s) | **David Spiegel, MD**: Stanford psychiatrist, Associate Chair of Psychiatry, Director of the Center on Stress and Health, and a hypnosis researcher for about 50 years (co-developer of the Hypnotic Induction Profile). **Ariel Poler**: Silicon Valley internet entrepreneur and investor. Spiegel is listed as co-founder and scientific advisor; third-party company listings give his title as Chief Scientific Officer. The company is Reveri Health, Inc.; a third-party listing reports a $1.8M seed round in Feb 2022. No primary source confirms it: Crunchbase and PitchBook block access, and the company site gives no funding information. |
+| Founded | **c. 2020** (range 2017–2020). Press coverage dates the company's start to 2020, beginning as a stop-smoking prototype. The precursor was a Stanford open pilot of an automated self-hypnosis program run on Amazon Alexa and later the Reveri app (NCT03931772, started Sept 2017). The iOS app was first released on 9 Mar 2021 (App Store listing). By Feb 2022 Android was still waitlisted. In-app data in the published studies begin in Nov–Dec 2021. The site gives no founding year. |
 | Format / delivery | Smartphone app (iOS, later Android). Guided audio self-hypnosis sessions of about 10 minutes, with brief 1–5 minute refreshers. It includes a built-in hypnotizability test and "interactive" sessions in which the user speaks or taps to respond. Since about 2025–26 it is marketed as an AI that delivers "Dr. Spiegel's method" and personalizes each session. |
 | Business model | Commercial subscription with a 7-day free trial. "Reveri for Good" gives free memberships to people who apply on hardship grounds. |
 | Direct cost | US pricing page, accessed Oct 2026: **$149.99/yr**, $44.95/mo, or **$449 lifetime**. Regional pricing applies; there is a 7-day refund window after a charge. |
 | Conditions claimed | Stress/anxiety, sleep/insomnia, chronic pain, migraine, smoking cessation and other habits, eating/weight, focus/performance, confidence. The site disclaims that it is a "general wellness" product that does not diagnose or treat disease. |
 | Mainstream adoption | Limited for the app itself. The underlying method (Spiegel's clinical hypnosis) is used in academic medicine, including Stanford. No health-system, payer or guideline adoption of Reveri was found. |
 | Insurance reimbursable | No for the app (direct-to-consumer subscription). Clinical hypnosis delivered by a licensed clinician as part of psychotherapy can sometimes be billed. |
-| Evidence (peer-reviewed trials) | **No RCT of the app.** There is one peer-reviewed uncontrolled retrospective analysis of user data (stress; N = 84,395) and a 2026 preprint on pain (N = 19,063), both co-authored by the co-founder. The brand leans on a large generic hypnosis literature. |
-| Popularity signals | Featured on Huberman Lab (Feb 2022), with endorsements from Huberman, Tim Ferriss and Rich Roll. An Aug 2023 rebrand article reported more than 300,000 registered users. By Jan 2025 the app had logged about 283k stress sessions from about 84k users (stress module only). A careers-page claim of more than 1.2M installs, reported in search snippets, could not be confirmed on the live page. App-store figures were not verified. |
+| Evidence (peer-reviewed trials) | **No RCT of the app for a chronic symptom.** One small independent randomized crossover pilot used a single Reveri track for balance in chronic ankle instability (N = 24; modest effect). There is one peer-reviewed uncontrolled retrospective analysis of user data (stress; N = 84,395) and a 2026 preprint on pain (N = 19,063), both co-authored by the co-founder. The brand leans on a large generic hypnosis literature. |
+| Popularity signals | Featured on Huberman Lab (Feb 2022), with endorsements from Huberman, Tim Ferriss and Rich Roll. An Aug 2023 rebrand article reported more than 300,000 registered users. By Jan 2025 the app had logged about 283k stress sessions from about 84k users (stress module only). A claim of more than 1.2M installs, reported in search snippets, is not on the live careers page (checked Oct 2026). App stores, Oct 2026: iOS 4.5★ (4,487 ratings); Google Play 4.1★ (1.75K reviews, 100K+ downloads). |
 
 ## 1. Proposed mechanism(s)
 - **Hypnosis as a distinct brain state.** Reveri's science page rests on Jiang et al. 2017 (fMRI, N = 57, high vs. low hypnotizables), which reports three changes during hypnosis:
@@ -54,7 +54,7 @@
 - **Consumer meditation apps.** Board and advisors have Headspace backgrounds, per the About page.
 
 ## 5. Mainstream adoption and insurance
-- **The app** is a direct-to-consumer wellness subscription with no FDA clearance. No payer coverage, employer or health-system deployment, or clinical-guideline mention was found (search limited).
+- **The app** is a direct-to-consumer wellness subscription with no FDA clearance. No payer coverage, employer or health-system deployment, or clinical-guideline mention was found on the company site, ClinicalTrials.gov or PubMed. A broader news search for employer deals was not possible.
 - **Hypnosis in general** has mainstream footing:
   - Gut-directed hypnotherapy is guideline-endorsed for IBS (e.g., by the ACG and British Society of Gastroenterology).
   - Procedural hypnosis is used in some hospitals.
@@ -62,7 +62,7 @@
   - Those endorsements are for clinician-delivered or other hypnotherapy, not Reveri.
 
 ## 6. Evidence base
-**App-specific (all observational, co-founder involved):**
+**App-specific (mostly observational and co-founder involved; item 3 is independent):**
 1. Tran N, Saperia C, Neri E, Jo B, ... Maldonado J, Spiegel D. Effects of app delivered self hypnosis on stress management. *npj Digital Medicine* 2025 (published online 18 Dec 2025); DOI 10.1038/s41746-025-02182-0; PMID 41413254.
    - **Design:** retrospective, uncontrolled analysis of in-app ratings, Nov 2021–Jan 2025.
    - **Sample:** 282,893 sessions by 84,395 users.
@@ -76,10 +76,13 @@
    - **Session-1 breakdown:** 22.5% had >50% reduction; 29.1% had 30–50%; 18.7% had no change; 6.6% got worse.
    - **No cumulative change** across sessions.
    - **Design:** uncontrolled, immediate pre-post self-report. Expectancy, demand and regression effects cannot be excluded.
-3. Stanford open pilot NCT03931772, "Online Automated Self-Hypnosis Program" (PI Spiegel).
+3. Caggiano L, Karayannis NV, Collins C, Grooms D, Simon JE. A brief hypnosis intervention improves single-limb dynamic balance in people with chronic ankle instability: a crossover experimental pilot study. *Int J Clin Exp Hypn* 2025;73(2):181–197 (PMID 40020194; NCT06390072). This independent study (Ohio University) used an 8-min Reveri track, "Hypnosis Prep for Workout".
+   - **Design:** randomized crossover pilot comparing the track with an 8-min ankle-education video. N = 24, unblinded.
+   - **Result:** a modest improvement in lateral dynamic balance only. This is a single-session performance outcome, not a pain or symptom outcome.
+4. Stanford open pilot NCT03931772, "Online Automated Self-Hypnosis Program" (PI Spiegel).
    - **Design:** non-randomized, single-group trial with smoking-cessation and pain arms, delivered via Amazon Alexa or the Reveri app.
    - **Status:** N = 152 enrolled; completed Feb 2022. No results posted, and no publication found.
-4. Spiegel D. Tranceformation: digital dissemination of hypnosis. *Neuron* 2024;112(3):340–341 (PMID 38262415). A commentary arguing for app-based delivery; not a trial.
+5. Spiegel D. Tranceformation: digital dissemination of hypnosis. *Neuron* 2024;112(3):340–341 (PMID 38262415). A commentary arguing for app-based delivery; not a trial.
 
 **Generic hypnosis evidence the brand cites (not Reveri):**
 - Lang EV, Benotsch EG, Fick LJ, ... Spiegel D. Adjunctive non-pharmacological analgesia for invasive medical procedures: a randomised trial. *Lancet* 2000;355:1486–1490 (PMID 10801169).
@@ -90,22 +93,23 @@
 - The broader hypnosis literature includes meta-analyses for pain (e.g., Thompson et al. 2019; Milling and colleagues), RCTs of gut-directed hypnotherapy for IBS, and procedural and analgesic hypnosis studies. This supports hypnosis as a technique, not the app.
 
 **Gaps.**
-- No randomized or active-controlled trial of Reveri for any condition.
+- No randomized or active-controlled trial of Reveri for any chronic condition. The only randomized use is the single-session ankle-balance pilot (N = 24).
 - No follow-up beyond the session.
 - No clinical populations (fibromyalgia, migraine, chronic low back pain) studied as such.
 - "Pain reduction 30–42% across clinical studies" on the site refers to non-app hypnosis studies.
 - Internal claims such as "77% feel better in one session" are unsourced.
-- ClinicalTrials.gov (checked Oct 2026) lists only the uncontrolled pilot above for Reveri; it has no results posted.
+- ClinicalTrials.gov (checked Oct 2026) lists two Reveri studies: the uncontrolled Stanford pilot (no results posted) and the Ohio ankle-balance crossover (NCT06390072).
 - For contrast, an RCT of a *different* self-hypnotic relaxation app (Lang et al. 2021, *Int J Clin Exp Hypn* 69:277–295, PMID 33724898) found modest and inconsistent advantages over a control app. This shows that app-delivered hypnosis does not automatically reproduce in-person effects.
 
 ## 7. Popularity and trajectory
-- **2017–2020:** Stanford pilot of an Alexa-delivered automated self-hypnosis program (from 2017); company start c. 2020; then iOS app.
+- **2017–2021:** Stanford pilot of an Alexa-delivered automated self-hypnosis program (from 2017); company start c. 2020; iOS app released 9 Mar 2021.
 - **Feb 2022:** Huberman Lab episode with Spiegel, featuring a Reveri promotion and Huberman's personal endorsement. This was the main amplification event; the stress-module user base begins rising in the Nov 2021–2022 data.
 - **2022–2024:** Android release (after Feb 2022), plus podcast endorsements (Tim Ferriss, Rich Roll) and press (the Financial Times is quoted on the site).
 - **Aug 2023:** UK-market rebrand (Mother Design) and quit-vaping content (May 2023). Press reported more than 300k registered users.
 - **Through Jan 2025:** at least 84,395 users completed at least one stress session, of whom 40.5% were paying members. The pain cohort had at least 19,063 users. Total registered users were probably 300k–1M by 2025–26 (inference from the 2023 press figure).
 - **2025–26:** Rebranded around an AI-personalized "Dr. Spiegel's method", alongside the Dec 2025 npj publication and the Sept 2026 pain preprint.
-- **Not verified:** app-store ratings and counts, Reddit volume, Google Trends.
+- **App stores (Oct 2026):** iOS 4.5★ from 4,487 ratings; Google Play 4.1★ from 1.75K reviews, 100K+ downloads. Both apps were updated in Oct 2026, so the product is actively maintained.
+- **Not available:** Reddit volume (Reddit search and JSON endpoints blocked automated access in Oct 2026) and Google Trends (no programmatic access).
 
 ## 8. Controversies / criticisms
 - **Founder-conflicted, uncontrolled evidence.** It is marketed with "science settled" rhetoric, and the large-N retrospective data are pre-post single-item ratings with no comparator.
@@ -131,6 +135,10 @@
 - https://clinicaltrials.gov/study/NCT03931772
 - https://pubmed.ncbi.nlm.nih.gov/33724898/
 - https://lbbonline.com/news/self-hypnosis-app-reveri-launches-major-rebrand
+- https://apps.apple.com/us/app/reveri-relief-in-minutes/id1547020650
+- https://play.google.com/store/apps/details?id=com.reveri.reverihealth
+- https://pubmed.ncbi.nlm.nih.gov/40020194/
+- https://clinicaltrials.gov/study/NCT06390072
 - https://www.hubermanlab.com/episode/dr-david-spiegel-using-hypnosis-to-enhance-mental-and-physical-health-and-performance
 
-*Fact-checked 2026-10-12; corrections: founding range widened to 2017–2020 (Stanford Alexa/app pilot NCT03931772 started 2017; press dates the company to 2020); added the omitted uncontrolled pilot NCT03931772 (N = 152, unpublished); added preprint details (posted 9 Sep 2026, 59,147 sessions, Dec 2021–Jul 2025); corrected the stress-session count (about 283k, not 290k); added the 2023 press figure of more than 300k registered users and raised the reach estimate; noted Spiegel's CSO title and the $1.8M seed (third-party); replaced the 'ClinicalTrials.gov not checked' note; added a contrast RCT of a different hypnosis app (Lang 2021). Founders, prices, the npj study, the Lang 2000 Lancet trial and the Huberman date (21 Feb 2022) were verified.*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: added app-store metrics (iOS 4.5★/4,487 ratings, first released 9 Mar 2021; Google Play 4.1★/1.75K reviews/100K+ downloads); found and added an independent randomized crossover pilot that used a Reveri track (Caggiano 2025, NCT06390072, N = 24); ClinicalTrials.gov and PubMed re-checked; the 1.2M-installs claim is not on the live careers page; $1.8M seed remains third-party only (Crunchbase/PitchBook blocked); the LBB >300k-user article returns HTTP 403 (figure kept as a press snippet); Reddit and Google Trends are not accessible.*

@@ -1,6 +1,6 @@
 # Breathworks: Mindfulness-Based Pain Management (MBPM) / Mindfulness for Health
 
-*Compiled 2026-10-12 from breathworks-mindfulness.org.uk (home, About, Research & Academic Studies, Mindfulness for Health course listing, Long COVID page), Wikipedia (Vidyamala Burch), PubMed records, Crossref and ClinicalTrials.gov. Content paraphrased. The web-search quota ran out partway through, so popularity indicators are thinner than for other entries.*
+*Compiled 2026-10-12 from breathworks-mindfulness.org.uk (home, About, Research & Academic Studies, Mindfulness for Health course listing, Long COVID page), Wikipedia (Vidyamala Burch), PubMed records, Crossref, ClinicalTrials.gov and a Reddit archive (Pullpush). Content paraphrased.*
 
 ## At a glance
 | Field | |
@@ -12,9 +12,9 @@
 | Business model | Charity selling paid courses, with concessions, bursaries and pay-what-you-can places. Free tasters, a free weekly "Space to Breathe" session and free resources. In practice **freemium/hybrid**. |
 | Direct cost | Online Mindfulness for Health course (Jan–Mar 2027 cohort, as listed Oct 2026): **£330 standard, £260 concession, £400–419 if paid by an organisation**. Book about £10–15. Free taster resources. Independent licensed teachers set their own fees. |
 | Conditions claimed | Chronic pain of any kind (back pain, fibromyalgia, arthritis, neuropathic/spinal cord injury pain, cancer-related pain), chronic illness and long-term conditions, fatigue, **long COVID** (adapted course developed with UCL). Its sister course, Mindfulness for Stress, targets stress, anxiety and low mood. |
-| Mainstream adoption | Moderate in the UK. The site says NHS Trusts and the British Pain Society endorse it. NHS-commissioned service in Jersey (Government of Jersey pain service). *Mindfulness for Health* is on the NHS-backed **Reading Well Books on Prescription** list and won the 2014 BMA Medical Book Award (Popular Medicine). Founding member of BAMBA, the UK mindfulness teacher accreditation body. |
+| Mainstream adoption | Moderate in the UK. The site says NHS Trusts and the British Pain Society endorse it. NHS-commissioned service in Jersey (Government of Jersey pain service). *Mindfulness for Health* was selected in 2017 for the **Reading Well Books on Prescription** long-term conditions list, run by The Reading Agency with public libraries. Its current status is unclear: the Reading Agency site (Oct 2026) no longer shows a long-term conditions list, and the book is not on the current mental health list. It also won the 2014 BMA Medical Book Award (Popular Medicine). Founding member of BAMBA, the UK mindfulness teacher accreditation body. |
 | Insurance reimbursable | No direct billing. Indirect coverage only, where an NHS or public pain service commissions courses or an employer pays. |
-| Evidence (peer-reviewed trials) | Small trials of the branded programme (about 4 controlled, 1 RCT of reasonable size, N=90). Benefits mainly in pain acceptance, mood and catastrophising, with smaller and less consistent effects on pain intensity. Much of the evidence is uncontrolled service evaluation. |
+| Evidence (peer-reviewed trials) | Small trials of the branded programme (about 5 controlled; largest RCT N=90; a 2026 German RCT, N=40, missed its primary outcome). Benefits mainly in pain acceptance, mood and catastrophising, with smaller and less consistent effects on pain intensity. Much of the evidence is uncontrolled service evaluation. |
 | Popularity signals | Claims 100,000+ people helped since 2001, 700+ teachers trained since 2010, and teachers in 41 countries. The book is a widely translated bestseller (co-authored with Danny Penman of *Mindfulness: Finding Peace in a Frantic World*). |
 
 ## 1. Proposed mechanism(s)
@@ -65,9 +65,9 @@ Condition-specific emphasis is limited to delivery:
 ## 5. Mainstream adoption and insurance
 - Mainly UK. Courses are commissioned or used by NHS pain services and the Government of Jersey's pain service, which ran a 239-patient service evaluation and a registered RCT.
 - The site says NHS Trusts and the British Pain Society endorse it.
-- The book is on the Reading Well Books on Prescription list, so GPs and libraries can "prescribe" it.
+- The book was added to the Reading Well long-term conditions list in 2017, so GPs and libraries could "prescribe" it. The Reading Agency's site no longer shows that list (checked Oct 2026), so whether the book is still listed is unclear.
 - Teacher accreditation through BAMBA.
-- Respira Vida Breathworks offers the programme in Spain and Latin America (project started 2007; nonprofit since 2012). The 2022 RCT was sponsored by the University of the Basque Country. Routine delivery within Osakidetza was not verified. There is also a presence in Brazil and Germany (University of Duisburg-Essen trial).
+- Respira Vida Breathworks offers the programme in Spain and Latin America (project started 2007; nonprofit since 2012). The 2022 RCT was sponsored by the University of the Basque Country, and its registry lists the university (San Sebastián) as the only site. No Osakidetza involvement is listed, and no evidence of routine delivery in the Basque public health service was found. There is also a presence in Brazil and Germany (Mindfulness Institute Ruhr; University of Duisburg-Essen trial).
 - **NICE NG193 (2021, chronic primary pain)** recommends exercise, CBT/ACT and acupuncture. It does not recommend mindfulness programmes specifically, so Breathworks is not guideline-mandated.
 - There is no CPT or insurance pathway. In the US, a course would be paid out of pocket unless delivered by a licensed clinician billing generic group psychotherapy codes.
 
@@ -78,30 +78,36 @@ Trials of the **branded Breathworks MBPM / Mindfulness for Health** programme (v
 |---|---|---|---|
 | Cusens B, Duggan GB, Thorne K, Burch V. *Clin Psychol Psychother* 2010;17:63–78. doi:10.1002/cpp.653 | Pilot, intervention vs comparison (TAU) group; non-randomised as far as the abstract shows. Founder is a co-author. | Small (N not given in abstract) | Improved depression, catastrophising, pain self-efficacy; large effect on pain acceptance; higher MAAS score. No change in sustained attention. |
 | Brown CA, Jones AKP. *Clin J Pain* 2013;29:233–44. doi:10.1097/AJP.0b013e31824c5d9f | RCT, MBPM vs TAU, with EEG during anticipation of laser pain. Independent academic group (Manchester). | 28 | Better mental health, linked to greater perceived control. **No reduction in clinical or experimental pain ratings.** Altered anticipatory activity in dlPFC and somatosensory cortex. |
-| Pérez-Fernández JI, Salaberria K, Ruiz de Ocenda Á. *Mindfulness* 2022;13:3153–65. doi:10.1007/s12671-022-02023-1. NCT03992612 (Univ. of the Basque Country). | RCT, MBPM vs wait-list, chronic pain with and without fibromyalgia. Authors are not Breathworks UK staff, but their links to the Spanish Breathworks affiliate (Respira Vida) were not verified. | 90 (50/40) | Abstract checked: moderate-to-large effects favouring MBPM on pain management and acceptance, analgesic use, psychopathology, negative thoughts, self-blame, mental-health QoL and resilience. The abstract lists **no pain-intensity effect**. **Non-fibromyalgia patients benefited significantly more than fibromyalgia patients.** |
+| Pérez-Fernández JI, Salaberria K, Ruiz de Ocenda Á. *Mindfulness* 2022;13:3153–65. doi:10.1007/s12671-022-02023-1. NCT03992612 (Univ. of the Basque Country). | RCT, MBPM vs wait-list (registry says usual care), chronic pain with and without fibromyalgia. None of the three authors is a Breathworks UK staff member, and none is on Respira Vida's published trainer list (checked Oct 2026). Who delivered the sessions is not stated in the registry, and the full text is paywalled. | 90 (50/40) | Abstract checked: moderate-to-large effects favouring MBPM on pain management and acceptance, analgesic use, psychopathology, negative thoughts, self-blame, mental-health QoL and resilience. The abstract lists **no pain-intensity effect**. **Non-fibromyalgia patients benefited significantly more than fibromyalgia patients.** |
 | Salaberria K, Pérez-Fernández JI, Ruiz de Ocenda Á. *J Contemp Psychother* 2025;55:351–9. doi:10.1007/s10879-025-09698-2 | Uncontrolled longitudinal pre/post study with 6- and 12-month follow-up. The abstract does not say this is the RCT sample. | 65 | Improvements in pain intensity, acceptance, psychopathological symptoms, pain-related negative thoughts and physical QoL, largely maintained at 12 months. (The abstract does not specifically report sleep or catastrophising.) |
 | Aygün O, Mohr E, Duff C, Matthew S, Schoenberg P. *Life (Basel)* 2024;14:253. doi:10.3390/life14020253 | Mechanistic study, MBPM vs patient wait-list (not clearly randomised), with healthy controls. Two co-authors are affiliated with the Breathworks Foundation, yet the paper declares no conflict of interest. | 65 (50 patients + 15 HC) | Salivary oxytocin rose after MBPM. IL-1b, IL-6, IL-8, TNF-a and DHEA-S fell but not significantly. Pain perception and mood improved. |
 | Hearn JH, Finlay KA. *Spinal Cord* 2018;56:750–61. doi:10.1038/s41393-018-0090-2 | Randomised feasibility trial, 8-week online mindfulness vs online psychoeducation, in spinal cord injury. Breathworks lists this as its online course; the abstract does not name it. | 67 | Less depression after treatment and at 3 months; less anxiety, catastrophising and pain unpleasantness. 10/36 dropped out of mindfulness. |
 | Henriksson J, Wasara E, Rönnlund M. *Psychol Rep* 2016;119:586–607. doi:10.1177/0033294116675086 | RCT, 8-week web mindfulness vs online pain forum. Listed by Breathworks as its online course; the abstract does not name it. | 107 (77 completers) | Pain intensity d=0.47–0.82, acceptance d=0.66, affective distress d=0.67, life satisfaction d=0.54. The authors call the control "less than ideal". No long-term follow-up. |
 | Pizutti LT et al. *J Clin Psychol* 2019;75:970–84. doi:10.1002/jclp.22749 | Quasi-experimental, Mindfulness for Stress vs relaxation vs wait-list, in 84 Brazilian primary care staff. **Stress course, not pain.** The first author appears to be the Leandro Pizzutti whom Respira Vida Breathworks lists as a teacher trainer in Brazil. | 84 | Less depression, psychiatric symptoms and negative affect; more self-compassion. |
+| Cramer H, Krstić S, … Meibert P, Meibert J, Anheyer D, Haller H. *Front Med (Lausanne)* 2026;13:1911807. doi:10.3389/fmed.2026.1911807. NCT05199805 (Duisburg-Essen / Tübingen). | RCT, MBPM (8 × 150 min) plus usual care vs wait-list, chronic musculoskeletal pain. Two co-authors are from the Mindfulness Institute Ruhr, the German teaching centre; no COI declared. | 40 (20/20) | **Primary outcome (pain acceptance, CPAQ, week 8) not significant** (MD 7.9, p=0.063). Higher self-compassion at week 8 and mindful awareness at week 26. No difference in pain intensity, disability or QoL. No intervention-related adverse events. |
 
 **Uncontrolled, service and qualitative evidence:**
 - Agostinis et al. 2022, *Pain News* (British Pain Society magazine, not a peer-reviewed journal). Jersey service data, N=239: 41% reported ≥30% less pain intensity, 57% ≥30% less interference; 84% completed. Cost per patient said to be 82% lower than 1:1 care.
 - Doran 2014, *Qual Health Res* (qualitative, N=16, back pain).
 - Long et al. 2016, *J Adv Nurs* (grounded theory; Breathworks cites N=41).
-- Breathworks also lists studies that were not verified here: Vesa et al. 2016 (described as an RCT of the online taster in N=70 stressed adults; journal not identified), Phillips, Duff & Burch 2021 (pre/post), Llácer & Ramos-Campos 2018, and Cotzias & Panagioti 2019 (workplace pilot, N=20).
+- Gray, Jones, Agostinis & Morris 2024, *Br J Pain* 18:337–53 (qualitative IPA, N=8, Jersey; compassion practice felt both valuable and distressing).
+- Other studies Breathworks lists, located via Crossref and PubMed:
+  - Vesa & Liedberg 2016, *Int J Neurorehabilitation* (doi:10.4172/2376-0281.1000209). A 2-week web-based RCT in stressed adults (Breathworks gives N=70). The journal is an OMICS title and is not indexed in PubMed.
+  - Alonso Llácer & Ramos-Campos 2018, *RIECS* (doi:10.37536/riecs.2018.3.2.101). Pre/post MBPM in oncology patients; Spanish-language.
+  - Bu, Cotzias & Panagioti 2019, *Pilot Feasibility Stud* 5:61. Uncontrolled 6-week "Mindfulness in the Workplace" course for 20 foundation doctors. Stress fell (p=.04), but only 35% completed the course.
+  - Phillips, Duff & Burch 2021 is a research poster (pre/post, 3- and 12-month follow-up). No journal publication was found in PubMed.
 - **Naming caution:** "mindfulness-based pain management" is also a generic term. Andersen & Vægter 2016 (*Clin Pract Epidemiol Ment Health*, 13-week CBT plus mindfulness, Denmark) and Day et al. 2014 (*J Pain*, theory) use the phrase but are **not** Breathworks programmes.
-- Lopes et al. 2018 (nurses, pre/post).
+- Lopes et al. 2019, *Pain Manag Nurs* 20:32–8 (adapted MfH programme, open pre/post, N=64 nursing technicians, Brazil): less musculoskeletal pain, anxiety, depression and catastrophising at 8 and 12 weeks.
 
 **Registered trials:**
-- NCT05498454 (Government of Jersey with Breathworks CIC and LJMU): randomised comparison of online Health vs Stress courses vs wait-list, N≈96. Status unknown, no results posted.
-- NCT05199805 (University of Duisburg-Essen): MBPM for chronic musculoskeletal pain RCT, N=40, completed Nov 2022. No PubMed publication found as of Oct 2026.
+- NCT05498454 (Government of Jersey with Breathworks CIC and LJMU): randomised comparison of online Health vs Stress courses vs wait-list, N≈96 (estimated). Started Dec 2022, with completion estimated for June 2023. The registry status is "Unknown": it was last updated June 2023 and no results are posted. No PubMed publication was found as of Oct 2026.
+- NCT05199805 (University of Duisburg-Essen): completed Nov 2022 and published as Cramer et al. 2026 (above). The primary outcome was null.
 - NCT03992612: the Basque RCT above (enrolment 112, randomised 90).
 
 **Gaps and critiques:**
-- Trials are small, mostly wait-list or TAU controls, with no active-control RCT and no blinding. In the largest RCT, people with fibromyalgia benefited less.
+- Trials are small, mostly wait-list or TAU controls, with no active-control RCT and no blinding. In the largest RCT, people with fibromyalgia benefited less. The only independent registered RCT with a pre-specified primary outcome (Cramer 2026) was null on that outcome.
 - Founder or organisation co-authorship in Cusens 2010 and Aygün 2024. Aygün 2024 declared no COI despite this. Affiliate-linked authorship is likely in Pizutti 2019.
-- Effects on pain intensity are inconsistent: Brown & Jones found none. The most robust effects are on acceptance and mood.
+- Effects on pain intensity are inconsistent: Brown & Jones and Cramer 2026 found none. The most robust effects are on acceptance and mood.
 - The wider literature on mindfulness for chronic pain (e.g. Hilton et al. 2017 meta-analysis, MBSR trials such as Cherkin 2016 JAMA) supports small effects on pain and moderate effects on depression and QoL. That literature covers **generic MBIs, not Breathworks specifically.**
 
 ## 7. Popularity and trajectory
@@ -109,12 +115,12 @@ Trials of the **branded Breathworks MBPM / Mindfulness for Health** programme (v
 - **2004:** Breathworks organisation founded.
 - **2008:** *Living Well with Pain and Illness* published; US edition (Sounds True) 2010.
 - **2009–10:** charity registered; teacher training begins; first peer-reviewed evaluation (Cusens 2010).
-- **2013:** *Mindfulness for Health* (Burch & Penman, Piatkus) published. **2014:** BMA Medical Book Award (Popular Medicine). The book has been translated into many languages, which broadened reach during the UK "mindfulness boom" (2013–2016).
+- **2013:** *Mindfulness for Health* (Burch & Penman, Piatkus) published. **2014:** BMA Medical Book Award (Popular Medicine). **2017:** selected for Reading Well Books on Prescription (long-term conditions list). The book has been translated into many languages, which broadened reach during the UK "mindfulness boom" (2013–2016).
 - **2016:** *Mindfulness for Women* (Burch & Irvin).
 - **2020–21:** courses move online during COVID; long COVID course developed with UCL.
 - **2022:** Vidyamala Burch awarded OBE; RCT published in *Mindfulness*; Jersey service data.
-- **2026:** the site claims 100,000+ people reached, 700+ teachers, 41 countries; regular online cohorts are scheduled into 2027.
-- **Social media:** small compared with commercial programmes. Reddit discussion appears mainly in r/ChronicPain and r/Meditation as a book recommendation. No dedicated subreddit was found (search quota limited verification).
+- **2026:** the site claims 100,000+ people reached, 700+ teachers, 41 countries; regular online cohorts are scheduled into 2027. The German RCT (Cramer et al.) is published with a null primary outcome.
+- **Social media:** small compared with commercial programmes. A Pullpush Reddit-archive search (Oct 2026) found comments naming "Vidyamala" or "Mindfulness for Health" mostly in **r/cfs**, r/ChronicPain, r/Meditation, r/Buddhism, r/Fibromyalgia and r/covidlonghaulers, usually as a book or course recommendation. Each query returned at least 100 comments from 2023–2026. No dedicated Breathworks subreddit appears in the archive results. Reddit's own about.json API returned 403. Google Trends and book-sales figures are not publicly available in a usable form and were not obtained.
 - Breathworks is not an app company; its reach comes through the book, licensed teachers and NHS settings.
 
 ## 8. Controversies / criticisms
@@ -143,6 +149,17 @@ Trials of the **branded Breathworks MBPM / Mindfulness for Health** programme (v
 - https://pubmed.ncbi.nlm.nih.gov/27174075/ (Long 2016)
 - https://clinicaltrials.gov/study/NCT05498454
 - https://clinicaltrials.gov/study/NCT05199805
+- https://pubmed.ncbi.nlm.nih.gov/42865511/ (Cramer 2026 RCT)
+- https://clinicaltrials.gov/study/NCT03992612
+- https://pubmed.ncbi.nlm.nih.gov/39092208/ (Gray 2024)
+- https://pubmed.ncbi.nlm.nih.gov/29779791/ (Lopes 2019)
+- https://pubmed.ncbi.nlm.nih.gov/31061716/ (Bu, Cotzias & Panagioti 2019)
+- https://doi.org/10.4172/2376-0281.1000209 (Vesa & Liedberg 2016)
+- https://doi.org/10.37536/riecs.2018.3.2.101 (Alonso Llácer & Ramos-Campos 2018)
+- https://www.breathworks-mindfulness.org.uk/blog/reading-well-endorsement
+- https://readingagency.org.uk/get-reading/our-programmes-and-campaigns/reading-well/reading-well-for-mental-health/
+- https://respiravida.info/nosotros/
+- https://api.pullpush.io/reddit/search/comment/?q=vidyamala (Reddit archive)
 - https://researchportal.bath.ac.uk/en/publications/evaluation-of-the-breathworks-mindfulness-based-pain-management-p/
 
-*Fact-checked 2026-10-12; corrections: Basque RCT details added (vol/pages, NCT03992612; no pain-intensity effect in abstract; fibromyalgia patients benefited less; 'independent' softened); 2025 follow-up outcomes corrected to the abstract (no sleep or catastrophising; not stated to be the RCT sample); Aygün 2024 no-COI declaration noted; Pizutti 2019 affiliate authorship flagged; non-Breathworks 'MBPM' papers flagged; unverified Breathworks-listed studies noted; long COVID course is free and UCL-developed (per site). Founders, OBE 2022, charity no., prices, 100k/700/41-country claims, and the other PubMed trials were confirmed. Web search quota was exhausted, so Reading Well, BMA award year and Respira Vida links to the Basque authors were not independently verified.*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: Reading Well listing confirmed for 2017 (long-term conditions list), but current status is unclear because the list is no longer on the Reading Agency site and library PDFs returned 403; BMA 2014 Popular Medicine award confirmed via Wikipedia and the Breathworks site (BMA's own archive unreachable); Duisburg RCT now published (Cramer 2026, null primary); Jersey RCT NCT05498454 still unpublished, status unknown; Basque authors not on Respira Vida trainer list, single university site, no Osakidetza link found; Vesa, Llácer, Cotzias and Lopes studies located; Phillips 2021 is a poster only; Reddit mentions profiled via Pullpush; Cusens 2010 N not in abstract (full text paywalled).*

@@ -1,21 +1,21 @@
 # Vital-Side (Rewire brain-retraining membership)
 
-*Compiled 2026-10-12 from vital-side.com (Home, About Us, Rewire membership page, Elevate, Private & Group Sessions, FAQs), Wayback Machine captures (2018–2026), Apple Podcasts metadata and PubMed/ClinicalTrials.gov searches. Content paraphrased. Note: this session's web-search quota ran out, so news, Reddit and social-media coverage could not be surveyed systematically.*
+*Compiled 2026-10-12 from vital-side.com (Home, About Us, Rewire membership page, Elevate, Private & Group Sessions, FAQs), Wayback Machine captures (2018–2026), Apple Podcasts metadata, the site's Shopify product feed, public Instagram/Facebook profile metadata and PubMed/ClinicalTrials.gov searches. Content paraphrased. Reddit and news coverage could not be surveyed systematically (see §7).*
 
 ## At a glance
 | Field | |
 |---|---|
 | Website | https://www.vital-side.com/ |
-| Founder(s) | Lindsay Mitchell, PA-C (founder/CEO). BS Biology (Univ. of Nevada) and a Master of Physician Assistant Studies, per the About page. The awarding institution (reported as MCPHS), "certified since 2016" and an internal-medicine background were not confirmed on the current About page. Also a practitioner of NLP, EFT and Thought Field Therapy (TFT). She is a former patient who describes recovering from "chronic Lyme," parasites, systemic candida and co-infections. Co-creator of Elevate/Regulation Station: Bianca Spears (laughter-wellness/life coach). |
+| Founder(s) | Lindsay Mitchell, PA-C (founder/CEO). BS Biology (Univ. of Nevada) and a Master of Physician Assistant Studies from the Massachusetts College of Pharmacy and Health Sciences (MCPHS), per the About page. The About page gives no certification year or clinical specialty, so the earlier "certified since 2016" and internal-medicine claims are unsupported and have been dropped. Also a practitioner of NLP, EFT and Thought Field Therapy (TFT). She is a former patient who describes recovering from "chronic Lyme," parasites, systemic candida and co-infections. Co-creator of Elevate/Regulation Station: Bianca Spears (laughter-wellness/life coach). |
 | Founded | Conceived in 2017, officially launched in 2018. The first Wayback capture of vital-side.com is dated 6 Aug 2018. |
 | Format / delivery | Self-paced online video course, guidebook and audio meditations. Adds a private online community, direct messaging with staff, roughly monthly group "Fireside/Vital Connect" coach calls, paid 90-min "Deep Dive" group calls and paid 1:1 coaching. Also a podcast. Coaching for children aged 6 and up. |
 | Business model | Commercial: auto-renewing annual membership with paid add-ons. A short Reset intro course is sold as a low-cost subscription. |
-| Direct cost | Rewire: **USD 397/year**, auto-renewing (site, Oct 2026), with a 20%-off code (REWIRE20) shown on the banner. Elevate: **USD 99 per 3 months**. Private sessions, Deep Dives and Reset are priced at checkout only. Historical price: USD 279, with a USD 139 sale price, in Sept 2020 (Wayback). No refunds. |
+| Direct cost | Rewire: **USD 397/year**, auto-renewing (site, Oct 2026), with a 20%-off code (REWIRE20) shown on the banner. Elevate: **USD 99 per 3 months**. Store prices (Shopify feed, Oct 2026): Deep Dive calls USD 35 each (USD 99 for a 3-part series), Reset USD 15, Regulation Station USD 30, Reboot USD 96, Incremental Progress Plan USD 59, and stand-alone limbic meditations USD 30 each. Private 1:1 session prices are not published; they are booked through an Acuity scheduler, and the session pages list none. Historical price: USD 279, with a USD 139 sale price, in Sept 2020 (Wayback). No refunds. |
 | Conditions claimed | Top diagnoses: ME/CFS, fibromyalgia, long COVID, "chronic Lyme," MCAS, mould illness/CIRS, MCS, POTS, GI disorders and "hormonal imbalance." Testimonials add anxiety, depression, insomnia, OCD, chronic pain, interstitial cystitis and rheumatoid arthritis. The site says protocols have been "applied to" more than 50 conditions. |
 | Mainstream adoption | None found. Used within the patient community and the integrative/functional-medicine milieu. |
 | Insurance reimbursable | No. The site makes no insurance or HSA claims. |
 | Evidence (peer-reviewed trials) | None. There are no PubMed or ClinicalTrials.gov records for the program. Its outcome claims (e.g. "92% see a massive transformation") are self-reported and unverified. |
-| Popularity signals | Claims more than 10,000 participants since 2018. *Rewire* podcast (Apple ID 1589835033, started about 2021) had 180 episodes by Oct 2025. Active Instagram (@myvitalside), YouTube and Facebook accounts. Elevate is marketed to graduates of DNRS, Gupta, Lightning Process and similar programs. |
+| Popularity signals | Claims more than 10,000 participants since 2018. *Rewire* podcast (Apple ID 1589835033, started about 2021) had 180 episodes by Oct 2025; the latest was 2025-10-07. Instagram @myvitalside: about 62K followers and 1,062 posts (Oct 2026). Facebook (Vital-Side, Austin TX): about 1.6K followers. There is also a YouTube channel; its subscriber count could not be retrieved. Elevate is marketed to graduates of DNRS, Gupta, Lightning Process and similar programs. |
 
 ## 1. Proposed mechanism(s)
 - **Conditioned chronic stress response.** Chronic symptoms are said to come from a nervous system stuck in fight-flight-freeze, or "survival mode." The sympathetic system stays "ON," which blocks the parasympathetic "rest-and-digest / growth-and-repair" state. From 2020 to 2022 the site's tagline was a shift from "fight-or-flight to growth-and-repair."
@@ -67,7 +67,7 @@
 I found no hospital, health-system, guideline (NICE, CDC, etc.) or payer adoption. The program is sold direct-to-consumer. The founder's PA-C credential gives it clinical framing, but the program is explicitly "not medical advice" and coaching is non-clinical. It is not insurance reimbursable, and the site does not mention HSA/FSA.
 
 ## 6. Evidence base
-- **Branded program.** A PubMed search ("vital-side" OR "Lindsay Mitchell" with brain retraining) returned 0 records, and ClinicalTrials.gov has no registered trial. No case series, cohort or outcome audit has been published.
+- **Branded program.** PubMed searches for "vital-side" or "vital side" with brain retraining returned 0 records (re-run 2026-10-13). A broader author search on Mitchell L with brain retraining returned 9 records, none relevant. ClinicalTrials.gov has no registered trial (API query, 0 studies, 2026-10-13). No case series, cohort or outcome audit has been published.
 - **Company claims.** "Over 10,000 people" helped and "92% of members see a massive transformation." No method, denominator or follow-up is given; these are presumably member self-reports. Evidence presented is testimonials, practitioner endorsements, the founder's own recovery and podcast interviews.
 - **Related generic techniques.** Trials of these do not test Vital-Side itself. Among peer limbic-retraining programs, DNRS has only uncontrolled or observational data, Gupta has a small pilot RCT, and the Lightning Process has one contested RCT in adolescents with CFS (SMILE; Crawley et al., 2018). Graded exposure and CBT-type approaches for MCS/IEI and functional disorders have a modest RCT base. EFT and NLP have contested evidence. No data exist on the specific 7-Steps protocol.
 - **Gap.** There is no independent or investigator-initiated evaluation. The no-refund, auto-renewing model, plus outcome claims without data, means efficacy is unknown.
@@ -77,7 +77,7 @@ I found no hospital, health-system, guideline (NICE, CDC, etc.) or payer adoptio
 - **2020–2022.** Moved to Shopify. Marketed as an "individualized, self-directed, non-pharmaceutical brain retraining program." Price was USD 279 in Sept 2020. Growth probably accelerated with long COVID: the team now includes a coach who recovered from long COVID and ME/CFS.
 - **About 2021 onward.** The *Rewire* podcast, later called *The Vital Side Podcast*, reached 180 episodes by Oct 2025.
 - **2023–2026.** Product line expanded (Elevate, Reset, Reboot, Regulation Station, children's coaching). Price rose to USD 397/year. More than 10,000 participants claimed cumulatively.
-- **Relative size.** It sits in the mid tier of the brain-retraining market: smaller than DNRS or Gupta and larger than one-coach outfits. It is regularly mentioned alongside DNRS, Gupta and Primal Trust in MCAS, mould and long-COVID patient forums. I could not quantify this in this session because the search quota was exhausted.
+- **Relative size.** It sits in the mid tier of the brain-retraining market: smaller than DNRS or Gupta and larger than one-coach outfits. Its roughly 62K Instagram followers (Oct 2026) are the best hard indicator of reach. Its large Instagram following contrasts with a small Facebook page (about 1.6K). The program is mentioned alongside DNRS, Gupta and Primal Trust in MCAS, mould and long-COVID patient forums, but Reddit could not be quantified. Reddit's JSON endpoints returned HTTP 403 for every subreddit queried, and web search was unavailable.
 
 ## 8. Controversies / criticisms
 - Claims to address organic diseases (Lyme, RA, MCAS, mould/CIRS, "hormonal imbalance") and 50+ conditions with a single brain-retraining model, without outcome data.
@@ -94,9 +94,14 @@ I found no hospital, health-system, guideline (NICE, CDC, etc.) or payer adoptio
 - https://vital-side.com/pages/private-and-group-sessions
 - https://vital-side.com/pages/faqs
 - https://vital-side.com/pages/reset-7-day-course
+- https://vital-side.com/pages/private-sessions (session types; no prices)
+- https://vital-side.com/products.json (Shopify product feed with prices, accessed 2026-10-13)
+- https://www.instagram.com/myvitalside/ (about 62K followers, 2026-10-13)
+- https://www.facebook.com/vitalside/ (about 1,579 followers, 2026-10-13)
+- https://itunes.apple.com/lookup?id=1589835033 (180 episodes; latest 2025-10-07)
 - http://web.archive.org/cdx/search/cdx?url=vital-side.com (first capture 2018-08-06)
 - http://web.archive.org/web/20200928030037/https://vital-side.com/ (2020 tagline and pricing)
 - https://podcasts.apple.com/us/podcast/rewire-the-podcast/id1589835033
-- PubMed E-utilities search (0 hits); ClinicalTrials.gov search (no relevant records)
+- PubMed E-utilities search (0 hits for "vital-side"; 9 non-relevant hits for the Mitchell L author search); ClinicalTrials.gov API v2 (0 studies)
 
-*Fact-checked 2026-10-12; corrections: the MPAS institution, the 2016 certification date and the internal-medicine background are flagged as unverified; Bianca Spears is clarified as co-founder of Elevate/Regulation Station only, not of Vital-Side; the peer-program evidence wording is made more precise (Gupta pilot RCT, Lightning Process SMILE RCT); prices, founding year, the 10,000+ claim, the podcast count and the absence of PubMed trials were all re-verified. Web search was exhausted, so Reddit and social-media popularity remain unverified.*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: MCPHS degree confirmed on the About page, and the unsupported 2016-certification and internal-medicine claims dropped; add-on prices added from the Shopify feed (private-session prices are unpublished); Instagram (about 62K) and Facebook (about 1.6K) follower counts added; PubMed and ClinicalTrials.gov re-run (0 hits) and the two hit counts reconciled. Reddit, YouTube subscriber and Google Trends data are still unavailable: Reddit returned 403, the YouTube page would not render and web search was unavailable.*

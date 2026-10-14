@@ -3,7 +3,7 @@
   "name": "Mindfulness-Oriented Recovery Enhancement (MORE)",
   "url": "https://drericgarland.com/about-m-o-r-e",
   "founders": [
-    "Eric L. Garland, PhD, LCSW (formerly University of Utah; now UC San Diego Dept. of Psychiatry / Sanford Institute)"
+    "Eric L. Garland, PhD, LCSW (formerly University of Utah; now Endowed Professor, Sanford Institute for Empathy and Compassion, and Professor of Psychiatry, UC San Diego)"
   ],
   "founded_year": 2008,
   "founded_year_range": "2007-2008. The first pilot RCT ran in 2008 (Garland et al. 2010, J Psychoactive Drugs). The name MORE was in print by 2012, and the NASW Press manual was published in 2013.",
@@ -73,16 +73,16 @@
     "brief variants: One MORE single session, MORE-VR, wearable just-in-time prompts"
   ],
   "mainstream_adoption": "moderate",
-  "mainstream_notes": "MORE is embedded in academic and health-system care. Essentia Health has offered MORE as an insurance-reimbursable group-medical-visit service since Jan 2021 (developer site). The developer's site lists Johns Hopkins, Mount Sinai, Kaiser Permanente (WA), the Philadelphia VAMC and the Ralph H. Johnson VAMC as institutions where clinicians were trained; routine delivery at each is not documented. The site also reports >1,100 clinicians trained. MORE is funded by NIH HEAL/NCCIH/NIDA and DoD, including large military SMART trials (N=749-850). Garland held a VA Salt Lake City Whole Health Flagship affiliation. The developer claims VA \"recognition\" (Oct 2025), but the cited VA Whole Health Meditation page does not name MORE (checked Oct 2026). MORE is not named in VA/DoD, NICE or CDC guidelines; those endorse mindfulness/CBT generically.",
+  "mainstream_notes": "MORE is embedded in academic and health-system care. Essentia Health has offered MORE as an insurance-reimbursable group-medical-visit service since Jan 2021 (developer site). The developer's site lists Johns Hopkins, Mount Sinai, Kaiser Permanente (WA), the Philadelphia VAMC and the Ralph H. Johnson VAMC as institutions where clinicians were trained; routine delivery at each is not documented. The site also reports >1,100 clinicians trained. MORE is funded by NIH HEAL/NCCIH/NIDA and DoD, including large military SMART trials (N=749-850). Garland held a VA Salt Lake City Whole Health Flagship affiliation. The VA Whole Health \"Meditation\" professional-resources page listed MORE by name among structured mindfulness-based interventions (Wayback captures May 2024-Sept 2025), which the developer described as VA \"recognition\" (Oct 2025); the page was revised in Jan 2026 and no longer lists named programs. MORE is not named in VA/DoD, NICE or CDC guidelines; those endorse mindfulness/CBT generically.",
   "insurance": "sometimes/indirect",
-  "insurance_notes": "There is no MORE-specific code. It is billed under generic group/individual psychotherapy, group medical visit or Health Behavior Assessment & Intervention (CPT 96156-96171) codes, depending on setting and licensure. Essentia Health has offered it as insurance-reimbursable since 2021. A developer-co-authored economic evaluation (Wilson & Garland, Value Health 2026) reports ~USD 116 per averted case of opioid misuse and a 12:1 benefit-to-cost ratio; these figures were not re-verified beyond the PubMed record.",
+  "insurance_notes": "There is no MORE-specific code. It is billed under generic group/individual psychotherapy, group medical visit or Health Behavior Assessment & Intervention (CPT 96156-96171) codes, depending on setting and licensure. Essentia Health has offered it as insurance-reimbursable since 2021. A developer-co-authored economic evaluation (Wilson & Garland, Value Health 2026) reports ~USD 116 per averted case of opioid misuse and a 12:1 benefit-to-cost ratio; figures confirmed in the PubMed abstract.",
   "evidence_level": "systematic reviews/meta-analyses",
   "key_trials": [
     {
       "citation": "Garland EL, Hanley AW, Nakamura Y, et al. JAMA Intern Med 2022;182(4):407-417",
       "design": "Stage-2 RCT in 6 Utah primary-care clinics, adults on long-term opioids with misuse, MORE vs supportive group psychotherapy, 8x2h, 9-mo follow-up (NCT02602535)",
       "n": 250,
-      "finding": "Opioid misuse reduced (OR 2.06, 95% CI 1.17-3.61); at 9 mo 45.0% vs 24.4% were no longer misusing. Between-group effects in BPI points were 0.49 for pain severity and 1.07 for interference. Opioid dose reduction was greater, and emotional distress and craving were lower. 36.8% discontinued by 9 mo.",
+      "finding": "Opioid misuse reduced (OR 2.06, 95% CI 1.17-3.61); at 9 mo 45.0% vs 24.4% were no longer misusing. Between-group effects in BPI points were 0.49 for pain severity and 1.07 for interference. Opioid dose reduction was greater (35.5% vs 15.9% cut dose by >=50% at 9 mo), and emotional distress and craving were lower. 36.8% discontinued by 9 mo.",
       "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2789279"
     },
     {
@@ -123,8 +123,8 @@
     {
       "citation": "Wexler RS, Fox DJ, ZuZero D, ... Pickworth CK. Pain Rep 2024;9(2):e1132 (developer not an author)",
       "design": "RCT, virtually delivered MORE vs TAU for 8 wk, lumbosacral radiculopathy (sciatica), National University of Natural Medicine/OHSU",
-      "n": null,
-      "finding": "Daily pain intensity reduced (p=.002). No significant effect on disability (primary, p=.09), depression or quality of life. N is not stated in the abstract (~60 per original compilation, unverified).",
+      "n": 71,
+      "finding": "Daily pain intensity reduced (p=.002). No significant effect on disability (primary, p=.09), depression or quality of life. 39% dropout/lost to follow-up.",
       "url": "https://doi.org/10.1097/pr9.0000000000001132"
     },
     {
@@ -137,15 +137,15 @@
     {
       "citation": "Parisi A, Hudak J, Froeliger B, Garland EL. Nat Ment Health 2023;1:489-500",
       "design": "Secondary analysis of the JAMA IM 2022 RCT, PTSD outcomes",
-      "n": null,
-      "finding": "Greater reduction in post-traumatic stress than control, via reappraisal; this mediated the effect on opioid misuse. The N≈241 in the original compilation was not verified.",
+      "n": 241,
+      "finding": "Greater reduction in post-traumatic stress than control, via reappraisal; this mediated the effect on opioid misuse. 104 of 241 met PTSD criteria; 59% of these showed clinically significant reductions with MORE.",
       "url": "https://doi.org/10.1038/s44220-023-00084-2"
     },
     {
       "citation": "Li W, Garland EL, McGovern P, et al. Psychol Addict Behav 2017;31(4):393-402",
       "design": "Stage-1 RCT, internet gaming disorder, MORE vs support group",
       "n": 30,
-      "finding": "Greater reductions in gaming disorder symptoms and craving (N from original compilation).",
+      "finding": "Greater reductions in gaming disorder criteria, craving and maladaptive gaming cognitions, maintained at 3 mo.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/28437120/"
     },
     {
@@ -156,24 +156,24 @@
       "url": "https://doi.org/10.1016/j.jpainsymman.2025.12.024"
     }
   ],
-  "controversy": "There is no public controversy. The scholarly caveats are: (1) developer allegiance, since nearly all RCTs, the meta-analysis and the economic evaluation include Garland or close collaborators, and the main independent RCT (sciatica, Pain Rep 2024) was null on its primary disability outcome; (2) comparators are mostly supportive groups or usual care rather than strong active treatments (the exception is group CBT in 2016); (3) attrition is ~35-40% and self-report outcomes are unblinded; (4) results are mixed on some primary outcomes (misuse not different overall in AJP 2024; JAMA Psychiatry 2024 effects significant only after covariate adjustment); (5) marketing claims exceed the data. \"Nearly three times as effective as standard therapy\" is tied to a 45.0% vs 24.4% misuse-remission difference, about 1.8-fold. The site cites \"more than 16 clinical trials\" and VA \"recognition\", the latter not visible on the cited VA page.",
+  "controversy": "There is no public controversy. The scholarly caveats are: (1) developer allegiance, since nearly all RCTs, the meta-analysis and the economic evaluation include Garland or close collaborators, and the main independent RCT (sciatica, Pain Rep 2024) was null on its primary disability outcome; (2) comparators are mostly supportive groups or usual care rather than strong active treatments (the exception is group CBT in 2016); (3) attrition is ~35-40% and self-report outcomes are unblinded; (4) results are mixed on some primary outcomes (misuse not different overall in AJP 2024; JAMA Psychiatry 2024 effects significant only after covariate adjustment); (5) marketing claims exceed the data. \"Nearly three times as effective as standard therapy\" is tied to a 45.0% vs 24.4% misuse-remission difference, about 1.8-fold. The site cites \"more than 16 clinical trials\" and VA \"recognition\", which was a listing on an informational VA web page (removed in a Jan 2026 revision), not a guideline endorsement.",
   "popularity": {
     "indicators": [
       {
         "metric": "Peer-reviewed papers with MORE in title",
-        "value": "58 (2012-2026); per year rising from 1 (2012) to 6 (2019), 8 (2024), 8 (2026). Not re-run at fact-check.",
+        "value": "58 Europe PMC (55 PubMed) (2012-2026); per year rising from 1 (2012) to 6 (2019), 8 (2024), 8 (2026). Re-run 2026-10-13.",
         "source": "Europe PMC TITLE search",
         "year": 2026
       },
       {
         "metric": "Full-text literature mentions",
-        "value": "352 (not re-run at fact-check)",
+        "value": "355 (re-run 2026-10-13)",
         "source": "Europe PMC",
         "year": 2026
       },
       {
         "metric": "ClinicalTrials.gov registered studies",
-        "value": "38 (not re-run at fact-check)",
+        "value": "38 (re-run 2026-10-13)",
         "source": "ClinicalTrials.gov API v2",
         "year": 2026
       },
@@ -203,9 +203,15 @@
       },
       {
         "metric": "Consumer/social media presence",
-        "value": "Negligible (no subreddit or consumer product; little forum discussion)",
-        "source": "qualitative assessment; no systematic sweep (web-search quota exhausted)",
+        "value": "Negligible. Only app-store product is the free iOS 'MORE Therapy' companion app (More Science Institute, released May 2026; 3 ratings, Oct 2026). Reddit not systematically checked (automated requests blocked).",
+        "source": "Apple App Store API; qualitative assessment",
         "year": 2026
+      },
+      {
+        "metric": "VA Whole Health Meditation page listing",
+        "value": "MORE listed by name among mindfulness-based interventions (2024-Sept 2025); removed in Jan 2026 page revision",
+        "source": "web.archive.org captures of va.gov/wholehealth/professional-resources/Meditation.asp",
+        "year": 2025
       }
     ],
     "reach_estimate": "~10,000-30,000 people (Fermi estimate). Trial participants total roughly 2,000-3,000. More than 1,100 trained clinicians, each running perhaps a few groups of 6-12 patients, could add roughly 10k-25k patients.",
@@ -280,7 +286,7 @@
         "relative_activity": 10
       }
     ],
-    "method_notes": "The trajectory is anchored on annual counts of MORE-titled publications (Europe PMC), ClinicalTrials.gov registrations, clinicians trained (developer claims) and milestone events: 2013 manual, 2021 Essentia billing, 2022 JAMA IM, 2024 AJP/JAMA Psychiatry and Guilford book, 2025 media, 2026 online certification institute. Reach is a Fermi estimate. No consumer metrics (Reddit, Google Trends, app downloads) were gathered because the web-search quota was exhausted. Literature and registry counts come from the original compilation and were not re-run during fact-check."
+    "method_notes": "The trajectory is anchored on annual counts of MORE-titled publications (Europe PMC), ClinicalTrials.gov registrations, clinicians trained (developer claims) and milestone events: 2013 manual, 2021 Essentia billing, 2022 JAMA IM, 2024 AJP/JAMA Psychiatry and Guilford book, 2025 media, 2026 online certification institute. Reach is a Fermi estimate. Literature and registry counts were re-run 2026-10-13. App Store ratings were checked (companion app, 3 ratings); Reddit returned 403 to automated queries and Google Trends was not checked."
   },
   "sources": [
     "https://drericgarland.com/about-m-o-r-e",
@@ -310,6 +316,11 @@
     "https://pubmed.ncbi.nlm.nih.gov/42492812/",
     "https://doi.org/10.1038/s44220-023-00084-2",
     "https://clinicaltrials.gov/",
-    "https://www.ebi.ac.uk/europepmc/"
+    "https://www.ebi.ac.uk/europepmc/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8886485/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10948133/",
+    "https://profiles.ucsd.edu/eric.garland",
+    "https://web.archive.org/web/20250911221523/https://www.va.gov/wholehealth/professional-resources/Meditation.asp",
+    "https://apps.apple.com/us/app/more-therapy/id6761741739"
   ]
 }

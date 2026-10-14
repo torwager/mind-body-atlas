@@ -22,7 +22,7 @@
     "nurse-led home rehabilitation"
   ],
   "business_model": "clinician-delivered (fee-for-service)",
-  "cost_summary": "Free on the NHS and covered by Dutch basic insurance; private UK CBT is typically about GBP 80-150 per session, so a 12-16-session course costs roughly GBP 1,000-2,400 (USD ~1,300-3,000). NHS delivery cost in PACE was roughly GBP 1,000 per patient per therapy (approximate estimate).",
+  "cost_summary": "Free on the NHS and covered by Dutch basic insurance; private UK CBT is typically about GBP 80-150 per session, so a 12-16-session course costs roughly GBP 1,000-2,400 (USD ~1,300-3,000). In PACE (McCrone et al. 2012, 2009/10 prices) mean therapy cost per patient was GBP 1,198 for CBT and GBP 935 for GET (~13 sessions).",
   "cost_usd_typical": 1500,
   "conditions_claimed": [
     "ME/CFS",
@@ -214,7 +214,7 @@
       },
       {
         "metric": "Critical media series",
-        "value": "Tuller 'Trial By Error' (Virology Blog), ~15,000-word 2015 exposé plus many follow-up posts",
+        "value": "Tuller 'Trial By Error' (Virology Blog), ~15,000-word 2015 exposé plus many follow-up posts; open letters to The Lancet grew from 6 signatories (2015) and 42 (2016) to ~114 individuals, 10 MPs and ~68 organisations (Aug 2018)",
         "source": "virology.ws",
         "year": 2015
       },
@@ -235,9 +235,15 @@
         "value": "n=1,298 pooled from 8 RCTs of the Dutch CBT protocol",
         "source": "Kuut et al. 2023/2024 Psychol Med",
         "year": 2024
+      },
+      {
+        "metric": "NHS specialist-service volume",
+        "value": "~8,000 adult CFS/ME patients treated per year in England",
+        "source": "Collin & Crawley 2017 BMC Health Serv Res",
+        "year": 2017
       }
     ],
-    "reach_estimate": "~100k-300k patients treated directly with CBT/GET for CFS (order-of-magnitude only). The basis is an unverified estimate of ~8-10k new UK specialist-service patients a year for ~15 years, plus the Dutch centres and a few thousand trial participants. Indirect reach through GP advice and guidelines is far larger.",
+    "reach_estimate": "~100k-300k patients treated directly with CBT/GET for CFS (order-of-magnitude only). The basis is ~8,000 adult patients a year in NHS specialist services in England (Collin & Crawley 2017) for ~15 years, plus the Dutch centres and a few thousand trial participants. Indirect reach through GP advice and guidelines is far larger.",
     "reach_log10": 5.3,
     "trajectory": [
       {
@@ -341,7 +347,7 @@
         "relative_activity": 3
       }
     ],
-    "method_notes": "There is no website, user count or Google Trends signal for a branded product. The trajectory is a qualitative composite of documented milestones: the 1989 model paper, the 1996-97 first RCTs, Prins 2001, the 2002 CMO report, NICE CG53 (2007), PACE publication (2011 peak), Tuller's 2015 exposé, the 2016 tribunal, CDC removal (2017), the Cochrane amendment (2019), NICE NG206 (2021 spike) and ReCOVer (2023). Activity mixes clinical use (high 2007-2020, declining after 2021) with attention and controversy, which peaked in 2011, 2015-16 and 2021. Reach is estimated from approximate NHS specialist-service referral volumes plus trial totals and is order-of-magnitude only. UK referral volumes were not verified against an official source."
+    "method_notes": "There is no website, user count or Google Trends signal for a branded product. The trajectory is a qualitative composite of documented milestones: the 1989 model paper, the 1996-97 first RCTs, Prins 2001, the 2002 CMO report, NICE CG53 (2007), PACE publication (2011 peak), Tuller's 2015 exposé, the 2016 tribunal, CDC removal (2017), the Cochrane amendment (2019), NICE NG206 (2021 spike) and ReCOVer (2023). Activity mixes clinical use (high 2007-2020, declining after 2021) with attention and controversy, which peaked in 2011, 2015-16 and 2021. Reach is estimated from the published NHS specialist-service volume (~8,000 adults/year; Collin & Crawley 2017; no official NHS activity statistic found) plus trial totals and is order-of-magnitude only."
   },
   "sources": [
     "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(11)60096-2/fulltext",
@@ -369,6 +375,12 @@
     "https://ueaeprints.uea.ac.uk/id/eprint/79794",
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC2126868",
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC1711569/",
-    "https://meassociation.org.uk/2021/08/bmj-article-about-nice-committee-resignations/"
+    "https://meassociation.org.uk/2021/08/bmj-article-about-nice-committee-resignations/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC3411573/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC5513420/",
+    "https://virology.ws/2016/02/10/open-letter-lancet/",
+    "https://virology.ws/2018/08/13/trial-by-error-open-letter-to-the-lancet-version-3-0/",
+    "https://virology.ws/2019/03/11/trial-by-error-kaiser-permanente-changes-course/",
+    "http://web.archive.org/web/20180305235702/http://www.wolfson.qmul.ac.uk/current-projects/pace-trial"
   ]
 }

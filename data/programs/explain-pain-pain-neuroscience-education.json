@@ -8,7 +8,7 @@
     "Adriaan Louw (PT, PhD; independent parallel US line, Therapeutic Neuroscience Education / Why You Hurt, ISPI; not an NOI founder)"
   ],
   "founded_year": 2003,
-  "founded_year_range": "2002-2003 (Moseley's first PNE RCT 2002; Explain Pain book 2003). NOI itself dates from the early 1990s; offshoots ~2013-2021",
+  "founded_year_range": "2002-2003 (Moseley's first PNE RCT 2002; Explain Pain book 2003). NOI itself dates from the early 1990s (exact year not published); offshoots 2013-2019 (Louw TNE 2013, Pain Revolution and Tame the Beast 2017, Flippin' Pain Sept 2019)",
   "category": "physio/pain-education approach",
   "delivery": [
     "clinician-delivered",
@@ -172,26 +172,32 @@
       },
       {
         "metric": "Flippin' Pain reach",
-        "value": "180,000+ people in UK",
-        "source": "flippinpain.co.uk",
+        "value": "180,000+ people in UK (home page); 280,000 'engaged', 10,300 at live events, 146,500 YouTube event views (our-approach page)",
+        "source": "flippinpain.co.uk; flippinpain.co.uk/our-approach",
         "year": 2026
       },
       {
         "metric": "Moseley TEDxAdelaide 'Why things hurt'",
-        "value": "Widely viewed lay talk (view count not verified)",
-        "source": "YouTube/TEDx (unverified)",
-        "year": 2011
+        "value": "~1.6 million YouTube views (1,611,284 on 2026-10-13; uploaded 21 Nov 2011)",
+        "source": "https://www.youtube.com/watch?v=gwd-wLdIHjs",
+        "year": 2026
       },
       {
         "metric": "Peer-reviewed literature",
         "value": "~112 Europe PMC records with 'pain neuroscience/science education' plus RCT or meta-analysis in the title, 2022-2026 alone",
         "source": "Europe PMC search at fact-check",
         "year": 2026
+      },
+      {
+        "metric": "Tame the Beast video views",
+        "value": "~780,000 YouTube views (776,781 on 2026-10-13; uploaded 26 Jul 2017)",
+        "source": "https://www.youtube.com/watch?v=ikUzvSph7Z4",
+        "year": 2026
       }
     ],
     "reach_estimate": "~1-5 million people. Basis: decades of PNE delivery in physio practice worldwide (tens of thousands of trained clinicians), book sales, 180k Flippin' Pain, 20k Pain Revolution, plus video audiences. Excludes indirect exposure via apps. Rough estimate.",
     "reach_log10": 6.3,
-    "method_notes": "Indicators come from directly fetched official sites (noigroup, painrevolution, flippinpain) and Europe PMC literature counts. The trajectory reflects milestones: NOI courses (1990s), Explain Pain book (2003), TEDx (2011), 2nd ed. and Louw books (2013), Supercharged/Pain Revolution/Tame the Beast (~2017), major trials and meta-analyses (2018-2019), Flippin' Pain and the PRT-era surge (2021-2022). Plateau thereafter. Google Trends and Reddit counts were not retrieved; dates for Flippin' Pain and Tame the Beast are approximate.",
+    "method_notes": "Indicators come from directly fetched official sites (noigroup, painrevolution, flippinpain) and Europe PMC literature counts. The trajectory reflects milestones: NOI courses (1990s), Explain Pain book (2003), TEDx (2011), 2nd ed. and Louw books (2013), Supercharged/Pain Revolution/Tame the Beast (~2017), major trials and meta-analyses (2018-2019), Flippin' Pain (2019) and the PRT-era surge (2021-2022). Plateau thereafter. YouTube view counts fetched 2026-10-13. Flippin' Pain start (Sept 2019) dated from its first news post; Tame the Beast from its YouTube upload date. Reddit subscriber counts could not be retrieved (Reddit JSON endpoints blocked automated access); Google Trends not retrieved.",
     "trajectory": [
       {
         "year": 1995,
@@ -283,6 +289,12 @@
     "Huysmans et al., Br J Anaesth 2023;131(3):572-585",
     "Wood & Hendrick, Eur J Pain 2019;23(2):234-249",
     "Watson et al., J Pain 2019;20(10):1140.e1-e22",
-    "Siddall et al., Pain 2022;163(1):e20-e30"
+    "Siddall et al., Pain 2022;163(1):e20-e30",
+    "https://painrevolution.org/mission-vision-history/",
+    "https://www.flippinpain.co.uk/news/pain-do-you-get-it-comes-to-boston",
+    "https://www.flippinpain.co.uk/our-approach",
+    "https://www.youtube.com/watch?v=gwd-wLdIHjs",
+    "https://www.youtube.com/watch?v=ikUzvSph7Z4",
+    "https://openlibrary.org/isbn/9780648022701"
   ]
 }

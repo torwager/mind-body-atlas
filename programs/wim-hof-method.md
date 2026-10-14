@@ -1,21 +1,21 @@
 # Wim Hof Method (WHM)
 
-*Compiled 2026-10-12 from these sources: wimhofmethod.com (home, Science, FAQ, Breathing Exercises, Courses and App pages); the Apple App Store listing; Wikipedia ("Wim Hof", "Wim Hof Method"); and primary trial records verified by DOI/PMID via Europe PMC. Content is paraphrased. Note: the session's web-search budget ran out early, so the popularity figures rest on the official site, the App Store and Wikipedia, and course prices could not be re-verified (see the Cost row).*
+*Compiled 2026-10-12 from these sources: wimhofmethod.com (home, Science, FAQ, Breathing Exercises, Courses and App pages); the Apple App Store listing; Wikipedia ("Wim Hof", "Wim Hof Method"); and primary trial records verified by DOI/PMID via Europe PMC. Content is paraphrased. Open items (course prices, Rogan episodes, app downloads, YouTube views, subreddit sizes, Enahm Hof's role) were checked on 2026-10-13 against the site's checkout pages, Apple/Google app stores, YouTube, Apple Podcasts and the Wayback Machine.*
 
 ## At a glance
 | Field | |
 |---|---|
 | Website | https://www.wimhofmethod.com/ |
-| Founder(s) | **Wim Hof** (b. 1959, Sittard, NL). Known as "The Iceman"; extreme-cold athlete with several Guinness records (ice-swim, prolonged ice contact); former karateka. No medical or scientific training. His son **Enahm Hof** is reported to co-run the business (Innerfire BV, NL); this role was not independently verified at fact-check. The app is published by WHM Services, Unipessoal Lda (PT), which was verified on the App Store. |
+| Founder(s) | **Wim Hof** (b. 1959, Sittard, NL). Known as "The Iceman"; extreme-cold athlete with several Guinness records (ice-swim, prolonged ice contact); former karateka. No medical or scientific training. His eldest son **Enahm Hof** heads the business, Innerfire BV (NL); a Jan 2026 *Tatler Asia* profile says Innerfire is "helmed by his son Enahm Hof", and Hof says they clash over its commercial focus. The app is published by WHM Services, Unipessoal Lda (PT), which was verified on the App Store. |
 | Founded | Hof's personal practice dates from the late 1970s; he says he first entered icy water at 17, around 1976–77. The branded commercial method dates from **~2010–2013**: wimhofmethod.com was first archived in May 2013, the Radboud research began in 2011, the instructor Academy says "since 2013", and the iOS app launched in Sept 2014. |
 | Format / delivery | Self-guided online video courses: free Mini Class, Fundamentals, Classic 10-Week, Power of the Mind. Subscription app. In-person workshops, retreats and expeditions (Poland, Spain, Kilimanjaro). A network of certified instructors (~1,200+). Books. |
 | Business model | Freemium/hybrid commercial: free mini-class, YouTube and guided breathing videos; paid courses, app subscription, workshops, retreats, instructor certification, branded ice-plunge tubs. |
-| Direct cost | App (US App Store, verified 2026-10): free tier; "Supporter" $5.99/mo or $42.99/yr; 30-Day Audio Challenge $26.99. The Fundamentals course includes 1 year of premium app access. Course prices are no longer shown publicly; historically the Fundamentals course cost ~US$60–100 and the Classic 10-Week ~US$200 (approximate, unverified this session). Retreats and Academy certification run to thousands of euros (prices given only on request). |
+| Direct cost | App (US App Store, verified 2026-10): free tier; "Supporter" $5.99/mo or $42.99/yr; 30-Day Audio Challenge $26.99. The Fundamentals course includes 1 year of premium app access. Course prices appear only at checkout (US checkout, verified 2026-10-13): Classic Video Course $119 (or 3 × $40); Fundamentals $299 (or 3 × $99); Power of the Mind $469 (or 3 × $160); Instructor Video Course $1,699. Frequent promotions (e.g., 35–50% off) apply. Retreats and in-person Academy certification run to thousands of euros (prices given only on request). |
 | Conditions claimed | General stress, energy and resilience; immune and inflammatory function ("influence your immune system"); site testimonials and Hof's media statements mention rheumatoid arthritis, MS, axial spondyloarthritis, psoriasis, chronic anxiety and depression, sleep, pain. Hof has also mentioned cancer in media, which his own researchers disavowed. The site states that testimonials are "not medical claims". |
 | Mainstream adoption | Limited. Academic research centres (Radboud, AMC Amsterdam, UCSF, Wayne State) run research collaborations, and some rehabilitation pilots use it (spinal-cord injury, MS). It is in no clinical guideline. Cardiology bodies (AHA, BHF) have issued cautions about cold immersion. |
 | Insurance reimbursable | No. |
 | Evidence (peer-reviewed trials) | ~10+ small RCTs/pilots, mostly in healthy volunteers. A robust lab finding is acute epinephrine rise plus blunted endotoxin response, from Radboud (independent academic team, but Hof trained participants in early studies). Clinical trials show mixed or small effects, and there are no trials in ME/CFS, fibromyalgia or functional disorders. A 2024 systematic review rated the overall quality "very low". |
-| Popularity signals | Very high name recognition. Wim Hof YouTube channel (@wimhof1) has 3.15M subscribers (checked 2026-10-12); the separate @wimhofmethod channel has ~32K. Instagram 3.5M+ (site claim). iOS app 13.5k ratings at 4.86★. Joe Rogan #712 (Oct 2015; a later appearance is often cited but was not verified); Vice documentary (2015); Netflix *The Goop Lab* episode (2020); BBC *Freeze the Fear with Wim Hof* (2022); bestselling book *The Wim Hof Method* (2020); Scott Carney's *What Doesn't Kill Us* (2017). Central to the 2020s "cold plunge" trend. |
+| Popularity signals | Very high name recognition. Wim Hof YouTube channel (@wimhof1) has 3.15M subscribers (checked 2026-10-12); the separate @wimhofmethod channel has ~32K. Instagram 3.5M+ (site claim). iOS app 13.5k ratings at 4.86★; Google Play 1M+ downloads, 41.3K reviews at 4.9★. The "Guided Wim Hof Method Breathing" YouTube video has 118M views. Joe Rogan #712 (Oct 2015) and #865 (Oct 2016); Vice documentary (2015); Netflix *The Goop Lab* episode (2020); BBC *Freeze the Fear with Wim Hof* (2022); bestselling book *The Wim Hof Method* (2020); Scott Carney's *What Doesn't Kill Us* (2017). Central to the 2020s "cold plunge" trend. |
 
 ## 1. Proposed mechanism(s)
 WHM is **not framed as a disorder model**. It is a "hormetic" self-regulation practice: deliberate, brief, voluntary stressors are claimed to train the autonomic, immune and stress systems.
@@ -116,8 +116,9 @@ Trials of WHM-branded protocols, verified by DOI/PMID. All are small, unblinded 
 - **~2013:** wimhofmethod.com live; instructor Academy starts.
 - **2014:** PNAS paper gets global coverage; iOS app launched in Sept.
 - **2015:** Vice documentary *The Iceman*; Joe Rogan podcast #712. A major inflection.
+- **2016:** second Joe Rogan appearance, #865 (24 Oct 2016).
 - **2017:** Scott Carney, *What Doesn't Kill Us* (NYT bestseller).
-- **2018:** NeuroImage "Brain over body" study (a second Rogan appearance is often cited but was not verified).
+- **2018:** NeuroImage "Brain over body" study.
 - **2020:** *The Wim Hof Method* book (Sounds True/Rider), a bestseller; Netflix *Goop Lab* episode; COVID-era home-practice surge.
 - **2022:** BBC One *Freeze the Fear with Wim Hof* (celebrity reality series). The cold-plunge boom peaks in 2022–23, with Huberman-podcast amplification of deliberate cold exposure.
 - **2023–24:** a wave of safety and deaths coverage, Carney's critical documentary, and a de Volkskrant exposé about Hof's family.
@@ -125,10 +126,10 @@ Trials of WHM-branded protocols, verified by DOI/PMID. All are small, unblinded 
   - ~1,200+ certified instructors on "every continent"
   - YouTube: Wim Hof channel 3.15M subscribers (@wimhof1, checked 2026-10-12)
   - Instagram 3.5M+ (homepage claim)
-  - iOS app 13.5k ratings at 4.86★
+  - iOS app 13.5k ratings at 4.86★ (released 14 Sept 2014); Google Play 1M+ downloads, 41.3K reviews at 4.9★ (checked 2026-10-13)
   - "Practiced by millions" (homepage banner), but the same page also says "thousands of people ... practice every day" (company claims)
-  - The guided-breathing YouTube videos have tens of millions of views (not re-verified this session).
-- **r/BeyondWimHof / r/WimHof** communities exist; their sizes could not be retrieved this session.
+  - The single "Guided Wim Hof Method Breathing" video (Nov 2019) has 118M views (checked 2026-10-13).
+- **Reddit:** r/WimHof had ~11.4K members (Wayback capture, May 2025); small relative to the brand. Live counts could not be read (Reddit's API returns 403 to scripts), and r/BeyondWimHof has no Wayback captures, so its size is unknown.
 
 ## 8. Controversies / criticisms
 - **Drowning and deaths.** Shallow-water blackout risk from hyperventilation followed by breath-hold underwater. Carney's 2023 documentary linked 13 deaths to the method, and his public spreadsheet of deaths and incident reports listed 32 alleged deaths as of March 2024 (alleged; causation mostly unestablished). Four drownings in 2015–16 prompted family warnings. A US$67M wrongful-death suit (Metzger, 2022, over a 17-year-old's pool drowning) was dismissed in July 2024 on causation. The company later strengthened its "never in water" warnings.
@@ -143,6 +144,12 @@ Trials of WHM-branded protocols, verified by DOI/PMID. All are small, unblinded 
 - https://www.wimhofmethod.com/breathing-exercises
 - https://www.wimhofmethod.com/courses
 - https://www.wimhofmethod.com/wim-hof-method-mobile-app
+- https://www.wimhofmethod.com/elearning (course pages; prices from linked checkout pages at activities.wimhofmethod.com)
+- https://play.google.com/store/apps/details?id=nl.deckeron.apps.innerfire
+- https://www.youtube.com/watch?v=tybOi4hjZFQ (Guided Wim Hof Method Breathing)
+- https://podcasts.apple.com (The Joe Rogan Experience, "#865 - Wim Hof", 24 Oct 2016)
+- https://www.tatlerasia.com/power-purpose/leadership/wim-hof-ice-man (Enahm Hof's role, Jan 2026)
+- https://web.archive.org/web/20250509160857/https://www.reddit.com/r/WimHof/
 - https://apps.apple.com/us/app/wim-hof-method-breathwork/id890471578
 - https://en.wikipedia.org/wiki/Wim_Hof
 - https://en.wikipedia.org/wiki/Wim_Hof_Method
@@ -161,4 +168,4 @@ Trials of WHM-branded protocols, verified by DOI/PMID. All are small, unblinded 
 - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286933 (Almahayni & Hammond 2024 systematic review)
 - Wayback Machine CDX: earliest capture of wimhofmethod.com is 2013-05-15
 
-*Fact-checked 2026-10-12; corrections: YouTube count corrected to 3.15M (@wimhof1); second Rogan appearance flagged as unverified; deaths tally clarified (13 in Carney's 2023 film; 32 alleged in his March 2024 spreadsheet); 2012 conviction details and Volkskrant date added; Blades 2024 and Epel 2025 findings refined; Enahm Hof's role flagged as unverified; company 'millions' claim contrasted with 'thousands daily'. All 11 trials and the systematic review were verified via Europe PMC. App prices were verified on the US App Store; course prices remain unverified.*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: course prices verified at checkout (Classic $119, Fundamentals $299, Power of the Mind $469); second Rogan appearance confirmed as #865 (Oct 2016, not 2018); Enahm Hof's role confirmed (Tatler Asia 2026); Google Play 1M+ downloads and 118M-view guided-breathing video added; r/WimHof ~11.4K (May 2025), r/BeyondWimHof size unknown (Reddit API blocked, no archive captures).*

@@ -2,49 +2,247 @@
   "slug": "physio4fmd-fnd-physiotherapy",
   "name": "Specialist physiotherapy for functional motor disorder (Physio4FMD / Nielsen protocol)",
   "url": "https://www.isrctn.com/ISRCTN56136713",
-  "founders": ["Glenn Nielsen (physiotherapist, PhD; UCL/NHNN, St George's University of London)", "Mark J. Edwards (neurologist; UCL, St George's, King's College London)", "Jon Stone (neurologist, Edinburgh)", "Alan Carson (neuropsychiatrist, Edinburgh)", "Kate Holt (physiotherapist, manual/workbook co-author)"],
+  "founders": [
+    "Glenn Nielsen (physiotherapist, PhD; UCL/NHNN, St George's University of London)",
+    "Mark J. Edwards (neurologist; UCL, St George's, King's College London)",
+    "Jon Stone (neurologist, Edinburgh)",
+    "Alan Carson (neuropsychiatrist, Edinburgh)",
+    "Kate Holt (physiotherapist, manual/workbook co-author)"
+  ],
   "founded_year": 2015,
-  "founded_year_range": "2012-2018. Theoretical model in Edwards et al. 2012 (Brain); consensus recommendations 2014 online / 2015 print (JNNP); 5-day cohort 2015; feasibility RCT (NCT02275000, started 2014) published 2016/17; 'Physio4FMD' phase 3 trial name ~2018 (recruitment from Oct 2018)",
+  "founded_year_range": "2012-2018. Theoretical model in Edwards et al. 2012 (Brain); consensus recommendations 2014 online / 2015 print (JNNP); 5-day cohort 2015; feasibility RCT (NCT02275000, started 2014) published 2016/17; 'Physio4FMD' phase 3 trial name from ISRCTN registration (assigned 27 Mar 2018; NIHR HTA 16/31/63; recruitment Sep/Oct 2018-Jan 2022)",
   "category": "physio/pain-education approach",
-  "delivery": ["clinician-delivered", "outpatient physiotherapy (9 sessions over 3 weeks or 5-day intensive)", "patient workbook", "therapist manual and 5-day training"],
+  "delivery": [
+    "clinician-delivered",
+    "outpatient physiotherapy (9 sessions over 3 weeks or 5-day intensive)",
+    "patient workbook",
+    "therapist manual and 5-day training"
+  ],
   "business_model": "clinician-delivered (fee-for-service)",
-  "cost_summary": "Free at point of use on the NHS. The trial costed the intervention at GBP 646 per patient vs GBP 272 for usual community physio (Hunter et al. 2025). Privately it is billed as standard physiotherapy sessions (price varies by clinic; rough estimate tens to low hundreds of GBP/USD per session). The manual and workbook are free (CC BY 4.0) on SGUL figshare.",
+  "cost_summary": "Free at point of use on the NHS. The trial costed the intervention at GBP 646 per patient vs GBP 272 for usual community physio (Hunter et al. 2025). Privately it is billed as standard physiotherapy sessions; UK benchmark Nuffield Health GBP 72-79 initial and GBP 49-52 follow-up (2026), i.e. roughly GBP 470-550 for a 9-session course. No FND-specific private price list found. The manual and workbook are free (CC BY 4.0) on SGUL figshare.",
   "cost_usd_typical": 820,
-  "conditions_claimed": ["FND"],
-  "conditions_primary": ["FND"],
+  "conditions_claimed": [
+    "FND"
+  ],
+  "conditions_primary": [
+    "FND"
+  ],
   "differentiation": "mostly unified with condition-specific emphasis",
-  "mechanisms": ["neuroplastic/learned pain (brain-generated danger signal / predictive processing)", "attention & interoception / hypervigilance", "sensorimotor / movement patterns / body schema", "fear-avoidance / catastrophizing / cognitive appraisal", "conditioning / classical learning"],
+  "mechanisms": [
+    "neuroplastic/learned pain (brain-generated danger signal / predictive processing)",
+    "attention & interoception / hypervigilance",
+    "sensorimotor / movement patterns / body schema",
+    "fear-avoidance / catastrophizing / cognitive appraisal",
+    "conditioning / classical learning"
+  ],
   "mechanism_summary": "Functional motor disorder is modelled as a software (not structural) problem of motor control. An abnormally precise, non-voluntary expectation of abnormal movement, shaped by illness beliefs and often seeded by a trigger (injury, illness, panic/dissociation at onset), combines with self-focused attention on the body to produce involuntary symptoms with reduced sense of agency (Edwards et al. 2012 Bayesian/predictive-processing account). The model is biopsychosocial: predisposing factors, precipitating triggers, and perpetuating factors (attention, beliefs, habitual movement patterns, reinforcement, deconditioning). It is specific to motor FND, with phenotype-tailored tactics for weakness, gait, tremor and dystonia, and makes no cross-disorder claims.",
-  "roots": ["gate control / neuromatrix pain science", "CBT (Beck/Ellis)", "behaviorism / classical conditioning", "predictive coding / Bayesian brain (Friston)", "Charcot/Janet hysteria and dissociation", "motor learning theory (external focus / implicit learning)", "Mayo motor-retraining and inpatient FND rehabilitation programs"],
-  "techniques": ["positive diagnosis explanation by neurologist", "education on attention/expectation model with demonstration of patient's own positive signs", "collaborative biopsychosocial formulation", "movement retraining with external focus of attention (implicit motor learning)", "distraction and dual-tasking", "rhythm/metronome/music, altered speed, novel movements (walking backwards/sideways)", "motor imagery/visualisation", "tremor entrainment", "weaning walking aids and splints; avoiding reinforcement of abnormal patterns", "workbook with daily reflections", "self-management and setback plan", "pacing, sleep and fatigue/pain management advice", "graded return to activity and goal setting"],
+  "roots": [
+    "gate control / neuromatrix pain science",
+    "CBT (Beck/Ellis)",
+    "behaviorism / classical conditioning",
+    "predictive coding / Bayesian brain (Friston)",
+    "Charcot/Janet hysteria and dissociation",
+    "motor learning theory (external focus / implicit learning)",
+    "Mayo motor-retraining and inpatient FND rehabilitation programs"
+  ],
+  "techniques": [
+    "positive diagnosis explanation by neurologist",
+    "education on attention/expectation model with demonstration of patient's own positive signs",
+    "collaborative biopsychosocial formulation",
+    "movement retraining with external focus of attention (implicit motor learning)",
+    "distraction and dual-tasking",
+    "rhythm/metronome/music, altered speed, novel movements (walking backwards/sideways)",
+    "motor imagery/visualisation",
+    "tremor entrainment",
+    "weaning walking aids and splints; avoiding reinforcement of abnormal patterns",
+    "workbook with daily reflections",
+    "self-management and setback plan",
+    "pacing, sleep and fatigue/pain management advice",
+    "graded return to activity and goal setting"
+  ],
   "mainstream_adoption": "substantial",
-  "mainstream_notes": "The leading mainstream FND rehabilitation approach. The 2015 consensus (~268 Europe PMC citations) is the standard international reference for FND physiotherapy. It is delivered in NHS neurology/neurorehab (the trial ran at 11 NHS sites), and NHS Scotland and Wales FND pathways call for FND-specific physiotherapy. It is widely cited by FND services internationally (specific institutional adoption not verified) and promoted by the FND Society and patient charities. There is no NICE FND guideline.",
+  "mainstream_notes": "The leading mainstream FND rehabilitation approach. The 2015 consensus (~268 Europe PMC citations) is the standard international reference for FND physiotherapy. It is delivered in NHS neurology/neurorehab (the trial ran at 11 NHS sites), and NHS Scotland and Wales FND pathways call for FND-specific physiotherapy. Documented international adopters include MGH outpatient PT (Maggio 2020), Spaulding inpatient PT (Geary 2022), a Milan/Verona telemedicine adaptation (Demartini 2020) and the Children's Hospital at Westmead, Sydney; it is and promoted by the FND Society and patient charities. There is no NICE FND guideline.",
   "insurance": "yes",
   "insurance_notes": "NHS-funded in the UK. Elsewhere it is reimbursed as standard physiotherapy (e.g., US PT CPT codes such as neuromuscular re-education), subject to payer medical-necessity criteria; there is no dedicated code. Cost-utility (Hunter 2025): GBP 4,133/QALY with 86% probability of being cost-effective at GBP 20k; dominant from a societal perspective; QALY difference not significant.",
   "evidence_level": "multiple RCTs",
   "key_trials": [
-    {"citation": "Nielsen G, Buszewicz M, Stevenson F, et al., Edwards MJ. Randomised feasibility study of physiotherapy for patients with functional motor symptoms. J Neurol Neurosurg Psychiatry 2017;88(6):484-490. doi:10.1136/jnnp-2016-314408", "design": "Single-centre randomised feasibility trial vs treatment as usual, 6-month follow-up (NCT02275000)", "n": 60, "finding": "57 analysed; 72% vs 18% rated themselves improved; SF-36 PF adjusted difference 19.8 (95% CI 10.2-29.5); d=0.46-0.79 on 3 of 8 SF-36 domains; GBP 12,087/QALY; 32% of screened FMS patients eligible", "url": "https://pubmed.ncbi.nlm.nih.gov/27694498/"},
-    {"citation": "Nielsen G, Stone J, Lee TC, et al., Edwards MJ. Specialist physiotherapy for functional motor disorder in England and Scotland (Physio4FMD): a pragmatic, multicentre, phase 3 RCT. Lancet Neurol 2024;23(7):675-686. doi:10.1016/S1474-4422(24)00135-2", "design": "Pragmatic multicentre phase 3 RCT (11 sites), specialist physio vs community neuro-physio TAU; assessor-masked, participant-unblinded; ISRCTN56136713", "n": 355, "finding": "Primary outcome null: SF-36 PF at 12 mo adjusted difference 3.5 (95% CI -2.3 to 9.3; p=0.23; powered for 9 points). 241 analysed after 89 COVID exclusions (imbalanced: 27 intervention vs 62 TAU). Secondary CGI-I improved 59% vs 38% (OR 2.3, 1.4-3.9); nominal gains on SF-36 mental health, diagnostic confidence, IPQ-R control/coherence. No treatment-related serious adverse events.", "url": "https://pubmed.ncbi.nlm.nih.gov/38768621/"},
-    {"citation": "Nielsen G et al. Outcomes of specialist physiotherapy for functional motor disorder: the Physio4FMD RCT. Health Technol Assess 2025;29(34):1-28. doi:10.3310/MKAC9495; and Hunter RM et al. Cost utility of specialist physiotherapy for FMD (Physio4FMD). Neurol Clin Pract 2025;15(3):e200465", "design": "Full HTA report and cost-utility analysis of the phase 3 RCT", "n": 355, "finding": "Confirms null primary outcome with several secondary outcomes favouring the intervention at 6 and 12 mo; ICER GBP 4,133/QALY (QALY difference 0.030, NS), 86% probability cost-effective; dominant from a societal perspective", "url": "https://pubmed.ncbi.nlm.nih.gov/40754987/"},
-    {"citation": "Nielsen G, Ricciardi L, Demartini B, Hunter R, Joyce E, Edwards MJ. Outcomes of a 5-day physiotherapy programme for functional (psychogenic) motor disorders. J Neurol 2015;262(3):674-81", "design": "Prospective uncontrolled cohort", "n": 47, "finding": "65% much/very much improved at end of treatment, 55% at 3 mo; improved SF-36 physical domains, Berg balance and 10-m walk; mental health unchanged", "url": "https://pubmed.ncbi.nlm.nih.gov/25557282/"},
-    {"citation": "Jordbru AA, Smedstad LM, Klungsoyr O, Martinsen EW. Psychogenic gait disorder: a randomized controlled trial of physical rehabilitation with one-year follow-up. J Rehabil Med 2014;46(2):181-7 (related generic rehab, not this protocol)", "design": "Randomised crossover vs 4-week wait list, 3-week inpatient program", "n": 60, "finding": "FIM +8.4 and FMS +6.9 units vs no treatment; gains maintained at 1 year", "url": "https://pubmed.ncbi.nlm.nih.gov/24248149/"}
+    {
+      "citation": "Nielsen G, Buszewicz M, Stevenson F, et al., Edwards MJ. Randomised feasibility study of physiotherapy for patients with functional motor symptoms. J Neurol Neurosurg Psychiatry 2017;88(6):484-490. doi:10.1136/jnnp-2016-314408",
+      "design": "Single-centre randomised feasibility trial vs treatment as usual, 6-month follow-up (NCT02275000)",
+      "n": 60,
+      "finding": "57 analysed; 72% vs 18% rated themselves improved; SF-36 PF adjusted difference 19.8 (95% CI 10.2-29.5); d=0.46-0.79 on 3 of 8 SF-36 domains; GBP 12,087/QALY; 32% of screened FMS patients eligible",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27694498/"
+    },
+    {
+      "citation": "Nielsen G, Stone J, Lee TC, et al., Edwards MJ. Specialist physiotherapy for functional motor disorder in England and Scotland (Physio4FMD): a pragmatic, multicentre, phase 3 RCT. Lancet Neurol 2024;23(7):675-686. doi:10.1016/S1474-4422(24)00135-2",
+      "design": "Pragmatic multicentre phase 3 RCT (11 sites), specialist physio vs community neuro-physio TAU; assessor-masked, participant-unblinded; ISRCTN56136713",
+      "n": 355,
+      "finding": "Primary outcome null: SF-36 PF at 12 mo adjusted difference 3.5 (95% CI -2.3 to 9.3; p=0.23; powered for 9 points). 241 analysed after 89 COVID exclusions (imbalanced: 27 intervention vs 62 TAU). Secondary CGI-I improved 59% vs 38% (OR 2.3, 1.4-3.9); nominal gains on SF-36 mental health, diagnostic confidence, IPQ-R control/coherence. No treatment-related serious adverse events.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38768621/"
+    },
+    {
+      "citation": "Nielsen G et al. Outcomes of specialist physiotherapy for functional motor disorder: the Physio4FMD RCT. Health Technol Assess 2025;29(34):1-28. doi:10.3310/MKAC9495; and Hunter RM et al. Cost utility of specialist physiotherapy for FMD (Physio4FMD). Neurol Clin Pract 2025;15(3):e200465",
+      "design": "Full HTA report and cost-utility analysis of the phase 3 RCT",
+      "n": 355,
+      "finding": "Confirms null primary outcome with several secondary outcomes favouring the intervention at 6 and 12 mo; ICER GBP 4,133/QALY (QALY difference 0.030, NS), 86% probability cost-effective; dominant from a societal perspective",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40754987/"
+    },
+    {
+      "citation": "Nielsen G, Ricciardi L, Demartini B, Hunter R, Joyce E, Edwards MJ. Outcomes of a 5-day physiotherapy programme for functional (psychogenic) motor disorders. J Neurol 2015;262(3):674-81",
+      "design": "Prospective uncontrolled cohort",
+      "n": 47,
+      "finding": "65% much/very much improved at end of treatment, 55% at 3 mo; improved SF-36 physical domains, Berg balance and 10-m walk; mental health unchanged",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25557282/"
+    },
+    {
+      "citation": "Jordbru AA, Smedstad LM, Klungsoyr O, Martinsen EW. Psychogenic gait disorder: a randomized controlled trial of physical rehabilitation with one-year follow-up. J Rehabil Med 2014;46(2):181-7 (related generic rehab, not this protocol)",
+      "design": "Randomised crossover vs 4-week wait list, 3-week inpatient program",
+      "n": 60,
+      "finding": "FIM +8.4 and FMS +6.9 units vs no treatment; gains maintained at 1 year",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24248149/"
+    }
   ],
-  "controversy": "The phase 3 Physio4FMD trial missed its primary outcome (SF-36 PF), and both arms remained substantially disabled (SF-36 PF ~37). COVID exclusions were imbalanced (62 TAU vs 27 intervention). Critics (David Tuller, Virology Blog, Apr 2025) argue positive secondaries reflect unblinded subjective reporting, attentive care and multiple uncorrected comparisons; Tuller also sought a correction (May 2025) of the Hunter et al. claim that CGI-I was the recommended primary outcome. Proponents argue SF-36 PF is a poor outcome for FMD and the active physio comparator narrowed differences. All protocol trials were run by the developers, several of whom disclose medicolegal expert-witness work in FND (and Edwards holds shares in a private rehab provider). The functional label is contested by some ME/CFS and long COVID patient communities. Only about a third of FMD clinic patients met eligibility in the feasibility trial.",
+  "controversy": "The phase 3 Physio4FMD trial missed its primary outcome (SF-36 PF), and both arms remained substantially disabled (SF-36 PF ~37). COVID exclusions were imbalanced (62 TAU vs 27 intervention). Critics (David Tuller, Virology Blog, Apr 2025) argue positive secondaries reflect unblinded subjective reporting, attentive care and multiple uncorrected comparisons; Tuller also sought a correction (May 2025) of the Hunter et al. claim that CGI-I was the recommended primary outcome; no correction was indexed as of Oct 2026. Proponents argue SF-36 PF is a poor outcome for FMD and the active physio comparator narrowed differences. All protocol trials were run by the developers, several of whom disclose medicolegal expert-witness work in FND (and Edwards declares shares in Brain & Mind, a private neuropsychiatric rehab provider treating FND). The functional label is contested by some ME/CFS and long COVID patient communities. Only about a third of FMD clinic patients met eligibility in the feasibility trial.",
   "popularity": {
     "indicators": [
-      {"metric": "Europe PMC citations, 2015 JNNP consensus recommendations", "value": "268", "source": "Europe PMC", "year": 2026},
-      {"metric": "Europe PMC citations, 2017 feasibility RCT", "value": "166", "source": "Europe PMC", "year": 2026},
-      {"metric": "Europe PMC citations, Lancet Neurol 2024 Physio4FMD", "value": "48", "source": "Europe PMC", "year": 2026},
-      {"metric": "Europe PMC citations, Edwards 2012 Bayesian account of hysteria", "value": "592", "source": "Europe PMC", "year": 2026},
-      {"metric": "Trial sites", "value": "11 NHS hospitals in England and Scotland; 355 randomised", "source": "Lancet Neurol 2024", "year": 2024},
-      {"metric": "Open release of intervention manual and workbook", "value": "Manual and Workbook 2024 v2 posted April 2024 on SGUL figshare (CC BY 4.0)", "source": "sgul.figshare.com / figshare API", "year": 2024}
+      {
+        "metric": "Europe PMC citations, 2015 JNNP consensus recommendations",
+        "value": "268",
+        "source": "Europe PMC",
+        "year": 2026
+      },
+      {
+        "metric": "Europe PMC citations, 2017 feasibility RCT",
+        "value": "166",
+        "source": "Europe PMC",
+        "year": 2026
+      },
+      {
+        "metric": "Europe PMC citations, Lancet Neurol 2024 Physio4FMD",
+        "value": "48",
+        "source": "Europe PMC",
+        "year": 2026
+      },
+      {
+        "metric": "Europe PMC citations, Edwards 2012 Bayesian account of hysteria",
+        "value": "592",
+        "source": "Europe PMC",
+        "year": 2026
+      },
+      {
+        "metric": "Trial sites",
+        "value": "11 NHS hospitals in England and Scotland; 355 randomised",
+        "source": "Lancet Neurol 2024",
+        "year": 2024
+      },
+      {
+        "metric": "Open release of intervention manual and workbook",
+        "value": "Manual and Workbook 2024 v2 posted April 2024 on SGUL figshare (CC BY 4.0)",
+        "source": "sgul.figshare.com / figshare API",
+        "year": 2024
+      },
+      {
+        "metric": "r/FND subreddit members (general FND community, not protocol-specific; created Dec 2016)",
+        "value": "~8,343",
+        "source": "Wayback Machine capture of reddit.com/r/FND",
+        "year": 2025
+      }
     ],
     "reach_estimate": "~10^4-10^5 patients cumulatively, assuming dozens of UK and international specialist FND physio services each treating tens to low hundreds of patients per year since ~2015. Rough estimate; no registry.",
     "reach_log10": 4.5,
     "trajectory": [
-      {"year": 2012, "relative_activity": 1}, {"year": 2013, "relative_activity": 1.5}, {"year": 2014, "relative_activity": 2.5}, {"year": 2015, "relative_activity": 3.5}, {"year": 2016, "relative_activity": 4}, {"year": 2017, "relative_activity": 5}, {"year": 2018, "relative_activity": 5.5}, {"year": 2019, "relative_activity": 6}, {"year": 2020, "relative_activity": 5.5}, {"year": 2021, "relative_activity": 6}, {"year": 2022, "relative_activity": 6.5}, {"year": 2023, "relative_activity": 7}, {"year": 2024, "relative_activity": 8.5}, {"year": 2025, "relative_activity": 8}, {"year": 2026, "relative_activity": 7.5}
+      {
+        "year": 2012,
+        "relative_activity": 1
+      },
+      {
+        "year": 2013,
+        "relative_activity": 1.5
+      },
+      {
+        "year": 2014,
+        "relative_activity": 2.5
+      },
+      {
+        "year": 2015,
+        "relative_activity": 3.5
+      },
+      {
+        "year": 2016,
+        "relative_activity": 4
+      },
+      {
+        "year": 2017,
+        "relative_activity": 5
+      },
+      {
+        "year": 2018,
+        "relative_activity": 5.5
+      },
+      {
+        "year": 2019,
+        "relative_activity": 6
+      },
+      {
+        "year": 2020,
+        "relative_activity": 5.5
+      },
+      {
+        "year": 2021,
+        "relative_activity": 6
+      },
+      {
+        "year": 2022,
+        "relative_activity": 6.5
+      },
+      {
+        "year": 2023,
+        "relative_activity": 7
+      },
+      {
+        "year": 2024,
+        "relative_activity": 8.5
+      },
+      {
+        "year": 2025,
+        "relative_activity": 8
+      },
+      {
+        "year": 2026,
+        "relative_activity": 7.5
+      }
     ],
     "method_notes": "Academic/clinical protocol with no consumer marketing, so activity is proxied by publication milestones (2012 model, 2015 consensus and cohort, 2017 feasibility RCT, 2019 protocol, 2024 Lancet Neurol, 2025 HTA and economics), Europe PMC citation counts (re-verified 2026-10-12 via Europe PMC REST API), spread of NHS/international FND services, FND Society founding (2019), and rising FND social-media visibility (2020-21). The 2020 dip reflects the COVID trial recruitment pause (Mar 2020-Aug 2021). Reach is an order-of-magnitude estimate from service volumes, not a measured figure."
   },
-  "sources": ["https://www.isrctn.com/ISRCTN56136713", "https://pubmed.ncbi.nlm.nih.gov/38768621/", "https://pubmed.ncbi.nlm.nih.gov/40754987/", "https://pubmed.ncbi.nlm.nih.gov/40190588/", "https://pubmed.ncbi.nlm.nih.gov/39952010/", "https://pubmed.ncbi.nlm.nih.gov/31638942/", "https://pubmed.ncbi.nlm.nih.gov/27694498/", "https://pubmed.ncbi.nlm.nih.gov/25433033/", "https://pubmed.ncbi.nlm.nih.gov/25557282/", "https://pubmed.ncbi.nlm.nih.gov/22641838/", "https://pubmed.ncbi.nlm.nih.gov/24248149/", "https://pubmed.ncbi.nlm.nih.gov/22113131/", "https://clinicaltrials.gov/study/NCT02275000", "https://openaccess.sgul.ac.uk/116506/25/1-s2.0-S1474442224001352-main.pdf", "https://sgul.figshare.com/articles/online_resource/Physio4FMD_Intervention_Manual/23967156", "https://sgul.figshare.com/articles/online_resource/Physio4FMD_Workbook_2024_v2/25586739", "https://www.hra.nhs.uk/planning-and-improving-research/application-summaries/research-summaries/rct-of-specialist-physiotherapy-for-functional-motor-disorder/", "https://rightdecisions.scot.nhs.uk/neurology-pathways/functional-neurological-disorder-fnd", "https://neurosymptoms.org/treatment-2/physiotherapy-exercise", "https://virology.ws/?p=19968", "https://virology.ws/2025/05/13/trial-by-error-a-letter-seeking-a-correction-in-fmd-physiotherapy-paper/", "https://keoghs.co.uk/keoghs-insight/recent-trial-study-highlights-positives-of-specialist-physiotherapy-for-functional-motor-disorder"]
+  "sources": [
+    "https://www.isrctn.com/ISRCTN56136713",
+    "https://pubmed.ncbi.nlm.nih.gov/38768621/",
+    "https://pubmed.ncbi.nlm.nih.gov/40754987/",
+    "https://pubmed.ncbi.nlm.nih.gov/40190588/",
+    "https://pubmed.ncbi.nlm.nih.gov/39952010/",
+    "https://pubmed.ncbi.nlm.nih.gov/31638942/",
+    "https://pubmed.ncbi.nlm.nih.gov/27694498/",
+    "https://pubmed.ncbi.nlm.nih.gov/25433033/",
+    "https://pubmed.ncbi.nlm.nih.gov/25557282/",
+    "https://pubmed.ncbi.nlm.nih.gov/22641838/",
+    "https://pubmed.ncbi.nlm.nih.gov/24248149/",
+    "https://pubmed.ncbi.nlm.nih.gov/22113131/",
+    "https://clinicaltrials.gov/study/NCT02275000",
+    "https://openaccess.sgul.ac.uk/116506/25/1-s2.0-S1474442224001352-main.pdf",
+    "https://sgul.figshare.com/articles/online_resource/Physio4FMD_Intervention_Manual/23967156",
+    "https://sgul.figshare.com/articles/online_resource/Physio4FMD_Workbook_2024_v2/25586739",
+    "https://www.hra.nhs.uk/planning-and-improving-research/application-summaries/research-summaries/rct-of-specialist-physiotherapy-for-functional-motor-disorder/",
+    "https://rightdecisions.scot.nhs.uk/neurology-pathways/functional-neurological-disorder-fnd",
+    "https://neurosymptoms.org/treatment-2/physiotherapy-exercise",
+    "https://virology.ws/?p=19968",
+    "https://virology.ws/2025/05/13/trial-by-error-a-letter-seeking-a-correction-in-fmd-physiotherapy-paper/",
+    "https://keoghs.co.uk/keoghs-insight/recent-trial-study-highlights-positives-of-specialist-physiotherapy-for-functional-motor-disorder",
+    "https://www.isrctn.com/api/query/format/default?q=ISRCTN56136713",
+    "https://www.nuffieldhealth.com/physiotherapy",
+    "https://pubmed.ncbi.nlm.nih.gov/31564236/",
+    "https://pubmed.ncbi.nlm.nih.gov/35213330/",
+    "https://pubmed.ncbi.nlm.nih.gov/31078400/",
+    "https://pubmed.ncbi.nlm.nih.gov/32861224/",
+    "http://web.archive.org/web/20250816163018/https://www.reddit.com/r/FND/"
+  ]
 }

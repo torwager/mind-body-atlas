@@ -9,12 +9,31 @@
   "founded_year": 1995,
   "founded_year_range": "1995-2003. Wise and Anderson began collaborating in the mid-1990s, and their 2018 meta-analysis dates the 'new paradigm' to 1995. The protocol was developed over about 8 years at Stanford. The book's first edition was self-published in 2003, and the 6-day clinics ran from the mid-2000s.",
   "category": "physio/pain-education approach (pelvic-floor myofascial release + relaxation)",
-  "delivery": ["book", "clinician-delivered", "intensive in-person clinic (group + private)", "device (internal trigger point wand, external Genie)", "audio course", "home program (prescription)", "podcast"],
+  "delivery": [
+    "book",
+    "clinician-delivered",
+    "intensive in-person clinic (group + private)",
+    "device (internal trigger point wand, external Genie)",
+    "audio course",
+    "home program (prescription)",
+    "podcast"
+  ],
   "business_model": "clinician-delivered (fee-for-service)",
-  "cost_summary": "No prices on the site ('contact for eligibility and cost'). A single 2014 patient-forum report put the 6-day clinic at about USD 3,000-4,000, excluding travel; the yearlong audio course was included. This figure is unverified and likely out of date, and the current format is 2-day. Book about USD 20-30. Prices for the wand and the 60-day home program are not published. The clinic is self-pay; the pre-clinic urology evaluation may be billed to insurance.",
+  "cost_summary": "No prices have ever been published on the site; Wayback captures from 2011 to 2025 and the 2026 pages say only 'contact for eligibility and cost.' Patient-forum reports (ucpps.men) consistently put the 6-day clinic at about USD 3,000-4,000, excluding travel: '$3,XXX' (2012), '$3-4k' (2014, yearlong audio course included) and '$3500+' (2021). One 2016 post gave close to USD 7,000 for a 7-9 day stay, probably including the evaluation. No price was found for the current 2-day format. Book about USD 20-30. Prices for the wand and the 60-day home program are not published. The clinic is self-pay; the pre-clinic urology evaluation may be billed to insurance.",
   "cost_usd_typical": 3500,
-  "conditions_claimed": ["pelvic pain/endometriosis/vulvodynia/IC", "chronic prostatitis/CPPS", "levator ani syndrome", "pudendal neuralgia", "coccydynia", "sexual pain/dysfunction", "anxiety"],
-  "conditions_primary": ["chronic prostatitis/CPPS", "pelvic pain/endometriosis/vulvodynia/IC"],
+  "conditions_claimed": [
+    "pelvic pain/endometriosis/vulvodynia/IC",
+    "chronic prostatitis/CPPS",
+    "levator ani syndrome",
+    "pudendal neuralgia",
+    "coccydynia",
+    "sexual pain/dysfunction",
+    "anxiety"
+  ],
+  "conditions_primary": [
+    "chronic prostatitis/CPPS",
+    "pelvic pain/endometriosis/vulvodynia/IC"
+  ],
   "differentiation": "mostly unified with condition-specific emphasis",
   "mechanisms": [
     "sensorimotor / movement patterns / body schema",
@@ -48,38 +67,214 @@
   "insurance_notes": "The clinic, devices and home program are self-pay. The pre-clinic medical evaluation (Stanford or a participating urologist) may be billed to insurance. Generic pelvic-floor PT and psychotherapy are commonly reimbursed.",
   "evidence_level": "case reports/observational only",
   "key_trials": [
-    {"citation": "Anderson RU, Wise D, Sawyer T, Chan C. J Urol 2005;174:155-60 (PMID 15947608)", "design": "Retrospective uncontrolled case series, refractory CP/CPPS, MFRT + paradoxical relaxation >=1 mo", "n": 138, "finding": "72% moderately or markedly improved on GRA; scores fell by a median of 8 points when >=25% improvement was first observed (median 5 sessions)", "url": "https://pubmed.ncbi.nlm.nih.gov/15947608/"},
-    {"citation": "Anderson RU, Wise D, Sawyer T, Chan CA. J Urol 2006;176:1534-8 (PMID 16952676)", "design": "Uncontrolled case series, sexual dysfunction outcomes, ~5-mo follow-up", "n": 146, "finding": "70% GRA responders, with NIH-CPSI decreases of 9 and 7 points; improved ejaculatory pain, libido and erectile/ejaculatory function", "url": "https://pubmed.ncbi.nlm.nih.gov/16952676/"},
-    {"citation": "Anderson RU, Wise D, Sawyer T, Glowe P, Orenberg EK. J Urol 2011;185:1294-9 (PMID 21334027)", "design": "Uncontrolled case series of the 6-day intensive clinic, self-referred men", "n": 116, "finding": "Of 200 enrolled, 116 followed for a median of 6 mo. NIH-CPSI -30% (baseline 26); 60% improved >=6 points; 82% GRA improved (59% moderate/marked)", "url": "https://pubmed.ncbi.nlm.nih.gov/21334027/"},
-    {"citation": "Anderson R, Wise D, Sawyer T, Nathanson BH. Clin J Pain 2011;27:764-8 (PMID 21613956)", "design": "Open-label pilot of the internal trigger point wand", "n": 157, "finding": "113 completed 6 mo (44 withdrew, none for adverse events); trigger point sensitivity 7.5 to 4; no serious adverse events", "url": "https://pubmed.ncbi.nlm.nih.gov/21613956/"},
-    {"citation": "Anderson RU, Harvey RH, Wise D, Nevin Smith J, Nathanson BH, Sawyer T. Appl Psychophysiol Biofeedback 2015;40:45-52 (PMID 25708131)", "design": "Single-arm cohort (6-day clinic + 6 mo self-treatment), Oct 2008-May 2011", "n": 374, "finding": "374 of 396 eligible. Medication use 63.6% to 40.1% at 6 mo (complete case); -22.7% in mITT", "url": "https://pubmed.ncbi.nlm.nih.gov/25708131/"},
-    {"citation": "Anderson RU, Wise D, Sawyer T, Nathanson BH, Nevin Smith J. Appl Psychophysiol Biofeedback 2016;41:215-24 (PMID 26721470)", "design": "Retrospective gender analysis of the same single-arm open-label trial (2008-2011)", "n": 393, "finding": "314 men, 79 women; median 3-point reduction in trigger point sensitivity in both sexes", "url": "https://pubmed.ncbi.nlm.nih.gov/26721470/"},
-    {"citation": "Anderson RU, Wise D, Nathanson BH. Urology 2018;120:23-9 (PMID 30056195)", "design": "Developer-authored meta-analysis of uncontrolled pre-post PT/biofeedback/CBT studies (includes the developers' own 2011 series)", "n": 280, "finding": "8 studies; weighted NIH-CPSI reduction of 8.8 points (95% CI 7.5-11.1), exceeding the 6-point MCID; no control arms", "url": "https://pubmed.ncbi.nlm.nih.gov/30056195/"},
-    {"citation": "FitzGerald MP, Anderson RU, Potts J, et al. J Urol 2009;182:570-80 (PMID 19535099) [generic myofascial PT, not branded]", "design": "6-centre NIH feasibility RCT, myofascial PT vs global therapeutic massage, UCPPS (men and women)", "n": 47, "finding": "GRA responders 57% vs 21% (p=0.03)", "url": "https://pubmed.ncbi.nlm.nih.gov/19535099/"},
-    {"citation": "FitzGerald MP, Payne CK, Lukacz ES, et al. J Urol 2012;187:2113-8 (PMID 22503015) [generic myofascial PT, not branded]", "design": "11-centre RCT, myofascial PT vs global massage, women with IC/PBS + pelvic floor tenderness", "n": 81, "finding": "GRA responders 59% vs 26% (p=0.0012); pain, urgency, frequency and O'Leary-Sant scores not different between arms", "url": "https://pubmed.ncbi.nlm.nih.gov/22503015/"}
+    {
+      "citation": "Anderson RU, Wise D, Sawyer T, Chan C. J Urol 2005;174:155-60 (PMID 15947608)",
+      "design": "Retrospective uncontrolled case series, refractory CP/CPPS, MFRT + paradoxical relaxation >=1 mo",
+      "n": 138,
+      "finding": "72% moderately or markedly improved on GRA; scores fell by a median of 8 points when >=25% improvement was first observed (median 5 sessions)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15947608/"
+    },
+    {
+      "citation": "Anderson RU, Wise D, Sawyer T, Chan CA. J Urol 2006;176:1534-8 (PMID 16952676)",
+      "design": "Uncontrolled case series, sexual dysfunction outcomes, ~5-mo follow-up",
+      "n": 146,
+      "finding": "70% GRA responders, with NIH-CPSI decreases of 9 and 7 points; improved ejaculatory pain, libido and erectile/ejaculatory function",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16952676/"
+    },
+    {
+      "citation": "Anderson RU, Wise D, Sawyer T, Glowe P, Orenberg EK. J Urol 2011;185:1294-9 (PMID 21334027)",
+      "design": "Uncontrolled case series of the 6-day intensive clinic, self-referred men",
+      "n": 116,
+      "finding": "Of 200 enrolled, 116 followed for a median of 6 mo. NIH-CPSI -30% (baseline 26); 60% improved >=6 points; 82% GRA improved (59% moderate/marked)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21334027/"
+    },
+    {
+      "citation": "Anderson R, Wise D, Sawyer T, Nathanson BH. Clin J Pain 2011;27:764-8 (PMID 21613956)",
+      "design": "Open-label pilot of the internal trigger point wand",
+      "n": 157,
+      "finding": "113 completed 6 mo (44 withdrew, none for adverse events); trigger point sensitivity 7.5 to 4; no serious adverse events",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21613956/"
+    },
+    {
+      "citation": "Anderson RU, Harvey RH, Wise D, Nevin Smith J, Nathanson BH, Sawyer T. Appl Psychophysiol Biofeedback 2015;40:45-52 (PMID 25708131)",
+      "design": "Single-arm cohort (6-day clinic + 6 mo self-treatment), Oct 2008-May 2011",
+      "n": 374,
+      "finding": "374 of 396 eligible. Medication use 63.6% to 40.1% at 6 mo (complete case); -22.7% in mITT",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25708131/"
+    },
+    {
+      "citation": "Anderson RU, Wise D, Sawyer T, Nathanson BH, Nevin Smith J. Appl Psychophysiol Biofeedback 2016;41:215-24 (PMID 26721470)",
+      "design": "Retrospective gender analysis of the same single-arm open-label trial (2008-2011)",
+      "n": 393,
+      "finding": "314 men, 79 women; median 3-point reduction in trigger point sensitivity in both sexes",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26721470/"
+    },
+    {
+      "citation": "Anderson RU, Wise D, Nathanson BH. Urology 2018;120:23-9 (PMID 30056195)",
+      "design": "Developer-authored meta-analysis of uncontrolled pre-post PT/biofeedback/CBT studies (includes the developers' own 2011 series)",
+      "n": 280,
+      "finding": "8 studies; weighted NIH-CPSI reduction of 8.8 points (95% CI 7.5-11.1), exceeding the 6-point MCID; no control arms",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30056195/"
+    },
+    {
+      "citation": "FitzGerald MP, Anderson RU, Potts J, et al. J Urol 2009;182:570-80 (PMID 19535099) [generic myofascial PT, not branded]",
+      "design": "6-centre NIH feasibility RCT, myofascial PT vs global therapeutic massage, UCPPS (men and women)",
+      "n": 47,
+      "finding": "GRA responders 57% vs 21% (p=0.03)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19535099/"
+    },
+    {
+      "citation": "FitzGerald MP, Payne CK, Lukacz ES, et al. J Urol 2012;187:2113-8 (PMID 22503015) [generic myofascial PT, not branded]",
+      "design": "11-centre RCT, myofascial PT vs global massage, women with IC/PBS + pelvic floor tenderness",
+      "n": 81,
+      "finding": "GRA responders 59% vs 26% (p=0.0012); pain, urgency, frequency and O'Leary-Sant scores not different between arms",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22503015/"
+    },
+    {
+      "citation": "Li AS, Van Niekerk L, Wong ALY, Matthewson M, Garry M. Scand J Pain 2022;23:25-39 (PMID 35938980) [independent systematic review, not branded]",
+      "design": "Systematic review of psychological interventions for CP/CPPS (RCTs, cohorts, case series)",
+      "n": 7,
+      "finding": "7 studies; cognitive therapy, CBT and paradoxical relaxation training reported effective, but all had high risk of bias",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35938980/"
+    }
   ],
-  "controversy": "All outcome data on the branded protocol come from uncontrolled single-centre series by the developers, who sell the clinic, wand, audio and home program. Wise is the wand's inventor and is affiliated with New Pelvic Pain Technologies, the patent assignee. The same 2008-2011 cohort is reused across papers, attrition is high, the main outcome is the GRA, and patients are self-referred and self-paying. The developers' supportive meta-analysis pools uncontrolled pre-post studies, including their own. There is no sham or RCT test of the protocol, EPR or the wand. Safety data on internal self-treatment come from one open-label pilot. The Cochrane review of non-pharmacological CP/CPPS treatments (Franco 2018) rated evidence for physical and psychological therapies as mostly low certainty. Pricing is not published. The model fits only the muscle-tenderness phenotype, and the clinic acknowledges that it cannot help everyone. A patient forum reports that Wise retired at the end of 2024; the official site does not mention this and still advertises 2-day intensives in 2026.",
+  "controversy": "All outcome data on the branded protocol come from uncontrolled single-centre series by the developers, who sell the clinic, wand, audio and home program. Wise is the wand's inventor and is affiliated with New Pelvic Pain Technologies, the patent assignee. The same 2008-2011 cohort is reused across papers, attrition is high, the main outcome is the GRA, and patients are self-referred and self-paying. The developers' supportive meta-analysis pools uncontrolled pre-post studies, including their own. There is no sham or RCT test of the protocol, EPR or the wand, and no branded trial is registered on ClinicalTrials.gov. A 2022 systematic review rated all CP/CPPS psychological-treatment studies, including the paradoxical-relaxation ones, at high risk of bias. Safety data on internal self-treatment come from one open-label pilot. The Cochrane review of non-pharmacological CP/CPPS treatments (Franco 2018) rated evidence for physical and psychological therapies as mostly low certainty. Pricing is not published. The model fits only the muscle-tenderness phenotype, and the clinic acknowledges that it cannot help everyone. A patient forum reports that Wise retired at the end of 2024; the official site does not mention this and still advertises 2-day intensives in 2026.",
   "popularity": {
     "indicators": [
-      {"metric": "Book editions", "value": "1st ed. 2003 (self-published), several revised editions, Harmony/PRH Definitive Edition 2018 plus audiobook", "source": "bookshare.org; rightsdesk.com", "year": 2018},
-      {"metric": "Amazon reviews of A Headache in the Pelvis", "value": "almost 500 reviews, 4.4/5 (self-reported on official site)", "source": "pelvicpainhelp.com home page", "year": 2026},
-      {"metric": "Translations", "value": "9 languages (Russian, Portuguese, Japanese, Italian, German, Chinese, Greek, Spanish, French)", "source": "pelvicpainhelp.com", "year": 2026},
-      {"metric": "Clinic capacity", "value": "<=14 patients per clinic; 8 clinics listed for 2017 and 10 for 2024", "source": "pelvicpainhelp.com clinic page; ucpps.men", "year": 2024},
-      {"metric": "Largest published clinic cohort", "value": "396 enrolled 2008-2011", "source": "Anderson 2015 Appl Psychophysiol Biofeedback", "year": 2015},
-      {"metric": "Founder status", "value": "David Wise reported retired end of 2024 (forum only; unconfirmed by official site)", "source": "ucpps.men forum", "year": 2024},
-      {"metric": "Pelvic Pain Podcast", "value": "active 2017-2026", "source": "pelvicpainhelp.libsyn.com / Apple Podcasts", "year": 2026}
+      {
+        "metric": "Book editions",
+        "value": "1st ed. 2003 (self-published), several revised editions, Harmony/PRH Definitive Edition 2018 plus audiobook",
+        "source": "bookshare.org; rightsdesk.com",
+        "year": 2018
+      },
+      {
+        "metric": "Amazon reviews of A Headache in the Pelvis",
+        "value": "almost 500 reviews, 4.4/5 (self-reported on official site)",
+        "source": "pelvicpainhelp.com home page",
+        "year": 2026
+      },
+      {
+        "metric": "Translations",
+        "value": "9 languages (Russian, Portuguese, Japanese, Italian, German, Chinese, Greek, Spanish, French)",
+        "source": "pelvicpainhelp.com",
+        "year": 2026
+      },
+      {
+        "metric": "Clinic capacity",
+        "value": "<=14 patients per clinic; 8 clinics listed for 2017 and 8 for 2024 (plus 2 in late 2023)",
+        "source": "pelvicpainhelp.com clinic page; ucpps.men",
+        "year": 2024
+      },
+      {
+        "metric": "Largest published clinic cohort",
+        "value": "396 enrolled 2008-2011",
+        "source": "Anderson 2015 Appl Psychophysiol Biofeedback",
+        "year": 2015
+      },
+      {
+        "metric": "Founder status",
+        "value": "ucpps.men says David Wise retired at the end of 2024 (a separate undated forum note says he 'no longer runs his clinic'). Unconfirmed: the official site (Dec 2024, Aug 2025, 2026) still describes him in the present tense.",
+        "source": "ucpps.men forum",
+        "year": 2024
+      },
+      {
+        "metric": "Pelvic Pain Podcast",
+        "value": "active 2017-2026",
+        "source": "pelvicpainhelp.libsyn.com / Apple Podcasts",
+        "year": 2026
+      },
+      {
+        "metric": "Reddit r/Prostatitis members",
+        "value": "about 18,800",
+        "source": "Wayback capture of reddit.com/r/Prostatitis (2025-07-25)",
+        "year": 2025
+      },
+      {
+        "metric": "Reddit r/CPPS members",
+        "value": "about 216",
+        "source": "Wayback capture of reddit.com/r/CPPS (2025-08-02)",
+        "year": 2025
+      },
+      {
+        "metric": "ucpps.men FAQ thread 'What is the Wise-Anderson Protocol?' views",
+        "value": "about 21,500",
+        "source": "ucpps.men",
+        "year": 2026
+      }
     ],
     "reach_estimate": "About 10^5. There have been roughly 2-3k clinic attendees in total since the mid-2000s. Book and audiobook readership is probably in the tens of thousands to about 100k+ (Penguin Random House edition, ~500 Amazon reviews, 9 languages). There is wider indirect influence through pelvic PTs.",
     "reach_log10": 5,
     "trajectory": [
-      {"year": 1995, "relative_activity": 1}, {"year": 1998, "relative_activity": 2}, {"year": 2001, "relative_activity": 3},
-      {"year": 2003, "relative_activity": 5}, {"year": 2005, "relative_activity": 6}, {"year": 2007, "relative_activity": 7},
-      {"year": 2009, "relative_activity": 7}, {"year": 2011, "relative_activity": 8}, {"year": 2013, "relative_activity": 8},
-      {"year": 2015, "relative_activity": 8}, {"year": 2016, "relative_activity": 8}, {"year": 2018, "relative_activity": 9},
-      {"year": 2020, "relative_activity": 7}, {"year": 2022, "relative_activity": 6}, {"year": 2024, "relative_activity": 5},
-      {"year": 2025, "relative_activity": 4}, {"year": 2026, "relative_activity": 4}
+      {
+        "year": 1995,
+        "relative_activity": 1
+      },
+      {
+        "year": 1998,
+        "relative_activity": 2
+      },
+      {
+        "year": 2001,
+        "relative_activity": 3
+      },
+      {
+        "year": 2003,
+        "relative_activity": 5
+      },
+      {
+        "year": 2005,
+        "relative_activity": 6
+      },
+      {
+        "year": 2007,
+        "relative_activity": 7
+      },
+      {
+        "year": 2009,
+        "relative_activity": 7
+      },
+      {
+        "year": 2011,
+        "relative_activity": 8
+      },
+      {
+        "year": 2013,
+        "relative_activity": 8
+      },
+      {
+        "year": 2015,
+        "relative_activity": 8
+      },
+      {
+        "year": 2016,
+        "relative_activity": 8
+      },
+      {
+        "year": 2018,
+        "relative_activity": 9
+      },
+      {
+        "year": 2020,
+        "relative_activity": 7
+      },
+      {
+        "year": 2022,
+        "relative_activity": 6
+      },
+      {
+        "year": 2024,
+        "relative_activity": 5
+      },
+      {
+        "year": 2025,
+        "relative_activity": 4
+      },
+      {
+        "year": 2026,
+        "relative_activity": 4
+      }
     ],
-    "method_notes": "The trajectory is anchored on documented events: 1995 founding; late-1990s forum spread as the 'Stanford Protocol'; 2003 first edition of the book; 2005-2011 J Urol publications and news coverage; Nov 2012 FDA De Novo grant for the wand; 2015-16 press releases and podcast (from 2017); 2018 Penguin Random House definitive edition (peak); shortened clinic formats in the 2020s (4-day in 2023-24, 2-day in 2026); Wise's reported retirement end-2024, with the clinic and podcast apparently continuing. Reach is estimated from clinic capacity (<=14 per clinic x ~8-10/yr x ~20 yr) plus book signals (~500 Amazon reviews, typically roughly 1 review per 100-300 buyers, and 9 translations). No Google Trends or Reddit numbers were retrieved, so the scores are judgement-based."
+    "method_notes": "The trajectory is anchored on documented events: 1995 founding; late-1990s forum spread as the 'Stanford Protocol'; 2003 first edition of the book; 2005-2011 J Urol publications and news coverage; Nov 2012 FDA De Novo grant for the wand; 2015-16 press releases and podcast (from 2017); 2018 Penguin Random House definitive edition (peak); shortened clinic formats in the 2020s (4-day in 2023-24, 2-day in 2026); Wise's reported retirement end-2024, with the clinic and podcast apparently continuing. Reach is estimated from clinic capacity (<=14 per clinic x ~8/yr x ~20 yr) plus book signals (~500 Amazon reviews, typically roughly 1 review per 100-300 buyers, and 9 translations). Subreddit sizes come from mid-2025 Wayback captures; the live Reddit API was blocked and Google Trends was not accessible, so the trajectory scores are judgement-based."
   },
   "sources": [
     "https://pelvicpainhelp.com/",
@@ -106,6 +301,12 @@
     "https://bookshare.org/browse/book/2275669",
     "https://finance.yahoo.com/news/wise-anderson-protocol-trigger-point-162724970.html",
     "https://www.urologytimes.com/view/two-pronged-approach-relieves-refractory-cpps-pain-0",
-    "https://pelvicpainhelp.libsyn.com/"
+    "https://pelvicpainhelp.libsyn.com/",
+    "https://ucpps.men/search.php?keywords=wise+clinic+cost&terms=all&sf=all&sr=posts",
+    "https://web.archive.org/web/20250823161607/https://pelvicpainhelp.com/",
+    "https://clinicaltrials.gov/study/NCT07404397",
+    "https://pubmed.ncbi.nlm.nih.gov/35938980/",
+    "https://web.archive.org/web/20250725184236/https://www.reddit.com/r/Prostatitis/",
+    "https://web.archive.org/web/20250802153725/https://www.reddit.com/r/CPPS/"
   ]
 }

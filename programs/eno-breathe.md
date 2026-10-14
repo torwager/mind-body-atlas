@@ -9,13 +9,13 @@
 | Founder(s) | English National Opera's Learning and Participation department (then ENO Baylis, now "Engage"), with Imperial College Healthcare NHS Trust. Key people: **Jenny Mollica** (then Director, ENO Baylis), who started the collaboration and accepted the 2021 RPS award; **Beth Warnock** (Director of ENO Engage as of 2026); **Suzi Zumpe** (singer and vocal educator; Creative Director and co-designer); **Dr Sarah Elkin** (consultant respiratory physician, Imperial; medical lead). **Dr Keir Philip** (respiratory clinical lecturer, NHLI) and **Prof. Nicholas Hopkinson** (respiratory medicine; medical director of Asthma + Lung UK) led the evaluations. |
 | Founded | Designed in summer 2020. A 12-person pilot ran from **September 2020**, and the national rollout began **January/February 2021**. |
 | Format / delivery | Free, live, online group programme over 6 weeks. There is one 1-hour Zoom session per week, led by ENO vocal specialists, plus recorded resources (breathing exercises, lullaby tracks) and an optional fortnightly alumni "Twilight" session. Entry is by referral from an NHS long-COVID clinic only. |
-| Business model | Free to participants. It is charity-funded (trusts, foundations, private donors, Big Give match campaigns, a Bloomberg Philanthropies Digital Accelerator grant). The research was funded by Imperial College London. We could not verify whether any NHS money funds delivery. It is not NHS-commissioned, and ENO's 2025 Big Give appeal said 91% of NHS partners had no alternative provision. |
+| Business model | Free to participants. It is charity-funded (trusts, foundations, private donors, Big Give match campaigns, a Bloomberg Philanthropies Digital Accelerator grant). The research was funded by Imperial College London. Delivery has received no NHS funding to date (Social Prescribing Academy case study, March 2025), and Big Give listings describe it as free "to patients or the NHS." It is not NHS-commissioned, and ENO's 2025 Big Give appeal said 91% of NHS partners had no alternative provision. |
 | Direct cost | **£0** to participants. No per-participant cost is published. The 2025 Big Give campaign raised £41,093 against a £30,000 target. |
 | Conditions claimed | Long COVID with persistent breathlessness, with or without anxiety. It is now also open to "similar post-viral symptoms." A 2026–27 pilot adapts it for COPD and asthma in London and Greater Manchester. It makes no claims for ME/CFS, pain or other functional syndromes. |
 | Mainstream adoption | **Moderate.** It is substantial within the UK long-COVID niche but UK-only, philanthropically funded and not commissioned. Referrals come from 85–89 NHS partner services in England. It is listed as a social-prescribing option and is a flagship "creative health" case. It is not part of NICE guidance. |
 | Insurance reimbursable | Not applicable. It is free, and access is through NHS referral. There is no insurer billing. |
 | Evidence (peer-reviewed trials) | **One RCT** (n=150; better mental-health QoL and breathlessness while running, no change in physical QoL) plus **one large uncontrolled cohort** (n=1,413). Both were done by the developing team. |
-| Popularity signals | More than 4,829 completers by May 2026 (about 300 by 2021 per a press feature; more than 4,000 by March 2025; ENO's Bloomberg page says more than 4,400). It won the RPS Impact Award in 2021 and had international press coverage (Smithsonian, AP/AFP syndication, NewsNation). Social-media presence is small, and no Reddit community discussion was found. |
+| Popularity signals | More than 4,829 completers by May 2026 (about 300 by November 2021 per classical-music.com; more than 4,000 by March 2025; ENO's Bloomberg page says more than 4,400). It won the RPS Impact Award in 2021 and had international press coverage (Smithsonian, AP/AFP syndication, NewsNation). Social-media presence is small, and no Reddit community discussion was found. |
 
 ## 1. Proposed mechanism(s)
 - **Problem targeted:** persistent breathlessness after COVID-19 in patients whose scans are normal. The rationale is largely **dysfunctional or disordered breathing**: upper-chest over-breathing and hyperventilation, which are coupled with anxiety and a "fight-or-flight" state. The programme does not claim to reverse any viral, immune or lung pathology.
@@ -51,7 +51,7 @@ It is focused on a single symptom rather than offering a unified theory of disea
 ## 5. Mainstream adoption and insurance
 - **NHS integration:** the referral pathway is embedded in NHS England's long-COVID services. Nearly every specialist post-COVID clinic in England (51 at the time of the trial; 85–89 partner services by 2025–26) can refer. Imperial College Healthcare NHS Trust co-developed it and provides the medical lead.
 - It is cited as an exemplar by the Social Prescribing Academy (NASP) and in UK creative-health policy discussions. It is part of the Greater Manchester Creative Health Place Partnership (NHS Greater Manchester / GMCA) for the 2026–27 respiratory pilot.
-- **Funding:** it has not been NHS-commissioned. Whether any NHS money funds delivery could not be verified. It is funded largely through ENO philanthropy (which has itself faced Arts Council funding cuts since 2022–23).
+- **Funding:** it has not been NHS-commissioned and, as of March 2025, had received no NHS funding (Social Prescribing Academy); the Social Prescribing Academy names this as a barrier to embedding it in NHS frameworks. It is funded largely through ENO philanthropy (which has itself faced Arts Council funding cuts since 2022–23).
 - **Guidelines:** it is not named in NICE NG188 (the COVID-19 rapid guideline on long-term effects). There is no insurance billing because the service is free.
 - **Recognition:** Royal Philharmonic Society Impact Award (2021).
 
@@ -86,8 +86,8 @@ It is focused on a single symptom rather than offering a unified theory of disea
 
 ## 7. Popularity and trajectory
 - **2020:** designed over the summer; 12-person pilot in September; early press coverage.
-- **2021:** national launch in January/February. About 300 participants by spring/summer 2021. RCT recruited April–May. RPS Impact Award. Smithsonian and BBC Music Magazine features.
-- **2022:** RCT published in *Lancet Resp Med* (online April 2022), with wide international syndication (AFP, AP, NewsNation, Free Malaysia Today). A claim of funding for about 1,000 patients could not be verified.
+- **2021:** national launch in January/February. About 300 participants by November 2021, with funding then in place for up to 1,000 patients (classical-music.com, 24 Nov 2021). RCT recruited April–May. RPS Impact Award. Smithsonian and BBC Music Magazine features.
+- **2022:** RCT published in *Lancet Resp Med* (online April 2022), with wide international syndication (AFP, AP, NewsNation, Free Malaysia Today).
 - **2023–24:** steady referrals; more than 4,000 helped. ENO institutional turmoil (Arts Council cuts, planned move to Greater Manchester).
 - **2025:** 89 NHS partners. Big Give match campaign raised £41k. Bloomberg Digital Accelerator selection.
 - **2026:** *Lancet Digital Health* cohort paper (7 May), with a press spike (Imperial, EMJ, OperaWire, theatre press). 4,829 or more completers. COPD/asthma pilot launched in London and Manchester.
@@ -113,6 +113,7 @@ It is focused on a single symptom rather than offering a unified theory of disea
 - https://clinicaltrials.gov/study/NCT04830033
 - https://www.classical-music.com/features/articles/eno-breathe-how-the-english-national-opera-helped-covid-19-sufferers-find-their-breath
 - https://socialprescribingacademy.org.uk/resources/eno-breathe-case-study
+- https://socialprescribingacademy.org.uk/resources/eno-breathe-supporting-people-with-long-covid-through-breathing-and-singing-techniques/ (March 2025; funding status)
 - https://www.imperial.nhs.uk/about-us/news/royal-philharmonic-society-award-win-for-eno-breathe
 - https://royalphilharmonicsociety.org.uk/awards/rps_music_awards/winners-to-date/impact/2021-impact
 - https://www.planethugill.com/2021/02/launch-of-eno-breathe-with-partnership.html
@@ -120,4 +121,4 @@ It is focused on a single symptom rather than offering a unified theory of disea
 - https://www.emjreviews.com/respiratory/news/online-singing-programme-eases-long-covid-symptoms/
 - https://www.eno.org/news/eno-selected-to-join-bloomberg-philanthropies-digital-accelerator-program-for-eno-breathe/
 
-*Fact-checked 2026-10-12; corrections: both trials verified via PubMed (added p-values, cohort VAS results, COI details, Lancet Comment); noted that the press release says 1,438 participants vs 1,413 in the paper; added Beth Warnock as current Engage director; softened the unverifiable "no NHS funding" claim; removed the unverified "~1,000 funded by 2022"; downgraded mainstream adoption to moderate; reclassified pranayama as an analogy, not a root.*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: NHS funding status confirmed (no NHS funding as of March 2025, Social Prescribing Academy); ~300 participants dated to November 2021 and the "funding for up to 1,000 patients" claim confirmed (classical-music.com, 24 Nov 2021).*

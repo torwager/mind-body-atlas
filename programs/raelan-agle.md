@@ -1,18 +1,18 @@
 # Raelan Agle: Brain Retraining 101 and recovery-story channel
 
-*Compiled 2026-10-12 from raelanagle.com (home, about-me, brain-retraining-101, free starter course, cheat sheets, research), the Teachable course page, recoveryispossible.info, the YouTube channel metadata, and the Buzzsprout/Apple podcast feed. Content paraphrased. Web search quota ran out partway through this review, so Reddit, news and book-sales data were not checked.*
+*Compiled 2026-10-12 from raelanagle.com (home, about-me, brain-retraining-101, free starter course, cheat sheets, research), the Teachable course page, recoveryispossible.info, the YouTube channel metadata, and the Buzzsprout/Apple podcast feed. Open items completed 2026-10-13 from Wayback Machine captures, the full podcast RSS feed, PubMed and ClinicalTrials.gov. Content paraphrased.*
 
 ## At a glance
 | Field | |
 |---|---|
 | Website | https://www.raelanagle.com/ (course hosted on Teachable) |
 | Founder(s) | Raelan Agle (Austin, TX; Raelan Agle LLC). MSW, former clinical social worker in medical settings. Reports 10 years of ME/CFS followed by full recovery; her mother also had ME/CFS. No formal neuroscience or medical training. |
-| Founded | YouTube channel joined Sep 2019, and her book *Finding Freedom* came out at about the same time (late 2019). Her own recovery-story video dates to about 2020, and guest recovery interviews to about 2021. Podcast first episode 21 Aug 2024. Brain Retraining 101 likely about 2023–24 (estimate; not verified by an archive). |
+| Founded | YouTube channel joined Sep 2019, and her book *Finding Freedom* came out at about the same time (late 2019). Her own recovery-story video dates to about 2020, and guest recovery interviews to about 2021. Podcast first episode 21 Aug 2024. Brain Retraining 101 launched in early 2024: it is absent from the site's Dec 2023 navigation (Wayback), course graphics were uploaded in Mar 2024, and the Teachable school was first archived in Jun 2024. |
 | Format / delivery | YouTube interview archive (~300 recovery interviews; 1.1K uploads including shorts); podcast (235 episodes); free 5-day email starter course; free weekly "cheat sheets"; paid self-paced video course with group coaching calls; book *Finding Freedom: Escaping From the Prison of Chronic Fatigue Syndrome* (self-published Kindle, about Dec 2019; Amazon ASIN B0818DGN2D); YouTube channel memberships ($4/month) |
 | Business model | Freemium/hybrid: large free content funnel leading to a paid monthly subscription course |
-| Direct cost | Brain Retraining 101: US$197/month, cancel anytime, 14-day refund (site, Oct 2026). $50-off codes reportedly circulate via podcast guests (not verified). Optional YouTube channel membership costs $4/month. YouTube, podcast, starter course and cheat sheets are free. |
+| Direct cost | Brain Retraining 101: US$197/month, cancel anytime, 14-day refund (site, Oct 2026). A $50-off code (BJORNFIFTY, tied to coach Björn Borgers) appears in 2026 podcast show notes. Optional YouTube channel membership costs $4/month. YouTube, podcast, starter course and cheat sheets are free. |
 | Conditions claimed | ME/CFS and long COVID primarily; also chronic pain, POTS, MCAS and fibromyalgia ("often neuroplastic"); PPPD in interviews. The Teachable course page says the course "is not intended for individuals experiencing mental health conditions" and excludes diagnoses and diagnoses outside "neuroplastic conditions." |
-| Mainstream adoption | None. Interview guests reportedly include clinicians such as Howard Schubiner, Alan Gordon, Paul Garner and David Mickel (individual episodes not re-verified at fact-check), but there is no health-system uptake. |
+| Mainstream adoption | None. Podcast guests include clinicians: Howard Schubiner (eps 94, 184, 224), Alan Gordon, Paul Garner (ep 183) and David Mickel (eps 128, 229). There is no health-system uptake. |
 | Insurance reimbursable | No |
 | Evidence (peer-reviewed trials) | None. The only "research" is a non-peer-reviewed qualitative report (Cefai, Goldsmiths, Jul 2026) on 75 self-selected YouTube recovery narratives. |
 | Popularity signals | YouTube ~81K subscribers and ~11M total views (Oct 2026; the site says 70K+ and 8M+); 235 podcast episodes since Aug 2024; claims to reach "millions of viewers each year" |
@@ -65,7 +65,7 @@ Extras: 7 guided meditations (4–6 min each, including self-compassion) and an 
 No integration into clinical guidelines, health systems or payers. Delivered as a direct-to-consumer subscription by a non-medical LLC with lay and peer coaches. Not reimbursable. NICE (2021) advises against GET- or Lightning-Process-type approaches for ME/CFS, which places this style of programme outside guideline care for ME/CFS.
 
 ## 6. Evidence base
-- **No trials.** No RCT, cohort or pre-post outcome study of Brain Retraining 101 was found. The course page offers six testimonials and a claim that "hundreds" have improved.
+- **No trials.** No RCT, cohort or pre-post outcome study of Brain Retraining 101 was found. PubMed ("Raelan Agle"; "brain retraining" with chronic fatigue or long COVID) and ClinicalTrials.gov returned nothing relevant (Oct 2026). The course page offers six testimonials and a claim that "hundreds" have improved.
 - **Cefai S. "Recovery Report: What 75 YouTube Interviews Say About Recovery from Chronic Fatigue Syndrome and/or Related Illnesses."** Goldsmiths, University of London, July 2026. The author is Dr Sarah Cefai. The report is hosted on recoveryispossible.info (Goldsmiths branding, research.gold.ac.uk repository links) and promoted on raelanagle.com/research.
   - **Design:** Qualitative thematic and narrative analysis (cultural-studies framing) of 75 interviews from Agle's channel; mostly women.
   - **Reported findings:** 77% described themselves as fully recovered; 95% said mind-body ideas helped; 84% said nervous-system regulation helped. These figures are as summarised on raelanagle.com/research; the recoveryispossible.info landing page frames the study as qualitative and does not headline them. The researcher's further "100% researched/learning" figure could not be verified and was removed. No single method worked for everyone.
@@ -77,9 +77,10 @@ No integration into clinical guidelines, health systems or payers. Delivered as 
 - **About 2020:** Agle's own "How I completely recovered from CFS" video (about 6 years old as of 2026).
 - **About 2021–2022:** Guest recovery-story interviews begin. Several high-view stories date to that period ("5y ago"), with growth driven by long COVID.
 - **2024:** Podcast launched (Aug 2024); 235 episodes by Sep 2026.
-- **Late 2024–2025:** Branded course and coaching team expand.
+- **Early 2024:** Brain Retraining 101 launched on Teachable (Wayback: absent Dec 2023, graphics Mar 2024, school archived Jun 2024).
+- **Late 2024–2025:** Coaching team expands.
 - **2026:** About 81K YouTube subscribers, about 11M lifetime views and about 1.1K uploads. The Goldsmiths report (Jul 2026) is promoted on the site.
-- **Context:** One of the largest single archives of ME/CFS and long-COVID "recovery stories." It is often cited in mind-body recovery circles and contested in patient forums such as r/cfs, though forum discussion was not directly sampled here.
+- **Context:** One of the largest single archives of ME/CFS and long-COVID "recovery stories." It is often cited in mind-body recovery circles and contested in patient forums such as r/cfs. Forum sentiment could not be sampled: Reddit blocks automated access (search pages and JSON endpoints were refused in Oct 2026), and news coverage could not be searched.
 - **Not available:** Paid enrolment numbers are not disclosed.
 
 ## 8. Controversies / criticisms
@@ -87,6 +88,7 @@ No integration into clinical guidelines, health systems or payers. Delivered as 
 - **Survivorship bias.** The recovery-interview format shows only successes, and the Goldsmiths analysis inherits that selection.
 - **Business model.** The open-ended $197/month subscription with lay coaches and no outcome data raises consumer-protection concerns.
 - **Credentials.** The "neuroplasticity research" framing is not supported by programme-specific data, and the founder's credentials are in social work rather than medicine or neuroscience.
+- **Cross-promotion.** Episode notes include affiliate-style codes for guests' paid programmes, such as 10% off Mickel Therapy with code RAELAN. Financial ties to promoted methods are not otherwise disclosed.
 - **Balancing points.** The programme explicitly asks for medical evaluation first, positions itself as complementary to medical care, and excludes primary psychiatric conditions.
 
 ## Sources (URLs)
@@ -102,5 +104,8 @@ No integration into clinical guidelines, health systems or payers. Delivered as 
 - https://rss.buzzsprout.com/2393184.rss (podcast feed; first episode 21 Aug 2024)
 - https://castbox.fm/channel/6262817
 - https://www.nice.org.uk/guidance/ng206 (NICE ME/CFS guideline, context)
+- https://web.archive.org/web/20231216235219/https://raelanagle.com/about/ (Dec 2023 site: no course in navigation)
+- https://web.archive.org/web/20240606210436/https://raelan-agle-s-school1.teachable.com/ (first Teachable school capture, Jun 2024)
+- https://www.amazon.com/dp/B0818DGN2D (book)
 
-*Fact-checked 2026-10-12; corrections: book confirmed (Finding Freedom, ~Dec 2019) and $4/mo channel membership added; guest lessons 6+1, not 8; Cefai first name added and figures attributed to raelanagle.com/research, unverifiable 100% figure removed; $50 codes and named clinician guests flagged unverified; mental-health exclusion sourced to Teachable page. Price ($197/mo, 14-day refund), coaches, YouTube stats (81.2K subs, 10,971,251 views, joined 4 Sep 2019), podcast (235 eps, first 21 Aug 2024) and MSW/Austin credentials verified. Web search quota was exhausted, so PubMed/Reddit/criticism searches were not possible; no peer-reviewed trials are known.*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: course launch dated to early 2024 (Wayback); $50 code (BJORNFIFTY) and clinician guest episodes confirmed in the podcast RSS; "nearly 300" interviews confirmed on the homepage; PubMed and ClinicalTrials.gov show no trials; Mickel affiliate code noted. Still unknown: Reddit sentiment (automated access blocked), news coverage (web search unavailable), book sales and paid enrolment (not published).*

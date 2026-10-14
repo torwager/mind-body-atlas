@@ -1,6 +1,6 @@
 # Lightning Process (LP)
 
-*Compiled 2026-10-12 from lightningprocess.com (home, "What is the LP", Phil Parker bio, FAQ, suitability, research pages), PubMed records (25 hits for "lightning process", 22 relevant), NICE NG206, and English and Norwegian Wikipedia (LP, Recovery Norge, Live Landmark). Content is paraphrased. Note: the shared web-search budget ran out during compilation, so the Norwegian guideline and the ASA details below could not be checked against primary documents (flagged inline).*
+*Compiled 2026-10-12 from lightningprocess.com (home, "What is the LP", Phil Parker bio, FAQ, suitability, research pages), PubMed records (25 hits for "lightning process", 22 relevant), NICE NG206, and English and Norwegian Wikipedia (LP, Recovery Norge, Live Landmark). Content is paraphrased. ASA rulings, the NTNU trial (registry, NTNU page, NEM decision) and the Norwegian draft guideline were checked against primary documents on 2026-10-13.*
 
 ## At a glance
 | Field | |
@@ -9,13 +9,13 @@
 | Founder(s) | Phil Parker (UK). Registered osteopath, NLP practitioner, hypnotherapist and coach. Self-described PhD in "the psychology of health" (institution not stated on the site). Runs the Phil Parker Training Institute and has written 5 books, including *An Introduction to the Lightning Process* (2010). |
 | Founded | 1999. The FAQ says Parker created LP in 1999; Wikipedia says "late 1990s". The name is trademarked. |
 | Format / delivery | (1) Part 1: ~4 h self-study audio, partly free. (2) The seminar: 3 consecutive half-days of 3–5 h each (~12 h total), taught by a licensed practitioner in a small group or 1:1, online or in person. (3) ~3 h of post-course follow-up support. |
-| Business model | Commercial. Licensed practitioner network; practitioners train with Parker's institute (the ≥13-month training length is from the researcher and was not re-verified) and pass part of their fees to the trademark holder. |
+| Business model | Commercial. Licensed practitioner network; practitioners train with Parker's institute (at least 13 months of clinical training at the Phil Parker Training Institute: Ericksonian psychotherapy, NLP and coaching, then advanced approaches, then LP practitioner training with written and practical exams; licensing requires supervision and CPD) and pass part of their fees to the trademark holder. |
 | Direct cost | UK: about £900 on average for the 3-day course plus follow-up (FAQ, 2026), described as ~£50/h, and the FAQ says prices vary by country and practitioner; with some hardship discounts. Norway: about NOK 21,000 (no.wikipedia). |
 | Conditions claimed | ME/CFS (core), long COVID, chronic pain, fibromyalgia, anxiety, depression, post-cancer fatigue, MS (pilot), "many other conditions." The related "Rediscovery Process" targets alcohol/addiction. |
 | Mainstream adoption | Limited and contested. **NICE NG206 (2021), rec. 1.12.27: "Do not offer the Lightning Process, or therapies based on it, to people with ME/CFS."** Not available on the NHS. In Norway, NAV has sometimes part-funded it, and LP-affiliated people are active in Norwegian fatigue research and debate. |
 | Insurance reimbursable | No. Self-pay. There is occasional ad hoc welfare or employer funding (e.g. NAV in Norway). |
 | Evidence (peer-reviewed trials) | One RCT (SMILE; paediatric CFS/ME; n=100; open-label; subjective primary outcome; corrected in 2019 for outcome switching and retrospective registration). Otherwise only uncontrolled pilots, case reports, qualitative studies and a founder-authored systematic review. |
-| Popularity signals | Site claims ">75,000" people trained. UK media peak 2008–2012. Large Norwegian following ("several thousand" ME/CFS patients). SMILE trial 2017–2019. Resurgence with long COVID marketing from 2022. Strong organised opposition from ME patient charities. A 2026 petition against a planned Canadian LP trial gathered >1,700 signatures. |
+| Popularity signals | Site claims ">75,000" people trained. UK media peak 2008–2012. Large Norwegian following ("several thousand" ME/CFS patients). SMILE trial 2017–2019. Resurgence with long COVID marketing from 2022. Strong organised opposition from ME patient charities. A 2026 petition against a planned Canadian LP trial gathered >1,700 signatures. English Wikipedia article: ~16–22k views/yr 2016–2024, falling to ~12k in 2025. |
 
 ## 1. Proposed mechanism(s)
 - **The "Physical Emergency Response" (PER).** The model centres on the PER, LP's term for the fight-or-flight / stress system. If the PER stays switched on for months or years, the resulting "allostatic load" is said to impair sleep, immunity, healing and energy.
@@ -55,15 +55,23 @@
   - Not available on the NHS.
   - The SMILE trial was run inside an NHS paediatric CFS/ME service in Bath, with University of Bristol involvement. The NHS has not adopted LP.
   - **NICE NG206 (Oct 2021) explicitly says not to offer LP or therapies based on it** for ME/CFS.
-- **Advertising.** Following a 2011 Hampshire Trading Standards referral, the UK Advertising Standards Authority upheld 2 of 4 challenges to lightningprocess.com claims, judging the evidence (uncontrolled studies) insufficient, and the site was amended (per Wikipedia; primary ruling not retrieved).
+- **Advertising.** Two ASA rulings against Phil Parker Group Ltd followed Hampshire Trading Standards complaints:
+  - **22 Aug 2012 (A11-158035), lightningprocess.com.** 2 of 4 issues upheld: the CFS/ME survey claim ("81.3%" of clients free of their issues by day 3) and the condition-specific pages, both because the self-assessed, uncontrolled studies were not robust evidence. Not upheld: "completely unique" and the NHS references.
+  - **27 Mar 2013 (A12-210374), Parker's personal site lightningprocess.co.uk.** Upheld: it implied LP could treat ME/CFS, MS, depression, anxiety, chronic pain and eating disorders. The claims had been removed in Feb 2013.
 - **Patient bodies.** The World ME Alliance (2022) declined to endorse it, and the UK and Norwegian ME associations advise against it.
 - **Norway.** This is where LP has had the most institutional traction:
   - NAV (the labour and welfare agency) has at times recommended and partly paid for courses.
   - **Recovery Norge** was started by physician-researcher Henrik Vogt (network Jan 2017; organisation Jan 2018). It gathers people who say they recovered through mental and behavioural techniques. Most of its recovery stories involve LP, and many LP instructors are members.
-  - **Live Landmark** is an LP instructor, holds a PhD in psychology from NTNU (thesis defended May 2026, per no.wikipedia) and is the author of a 2009 recovery memoir. She was among Recovery Norge's founders and a PhD candidate on the NTNU trial of a 3-day CFS/ME intervention (Kennair group, funded by the Research Council of Norway in 2020). The intervention draws on LP, but whether it is the branded LP was not verified.
-  - That trial's ethics approval was overturned in 2021 over her financial conflict of interest, then re-approved in 2022 (no.wikipedia gives 13 July 2022 on one page and February 2022 on another), with Recovery Norge providing user involvement. About 100 patients are planned, recruited with municipalities in Viken. The 2023 recruitment start was not verified.
+  - **Live Landmark** is an LP instructor, holds a PhD in psychology from NTNU (thesis defended May 2026, per no.wikipedia) and is the author of a 2009 recovery memoir. She was among Recovery Norge's founders and a PhD candidate on the NTNU trial of a 3-day CFS/ME intervention (Kennair group, funded by the Research Council of Norway in 2020). The intervention is the branded LP: NTNU's study page says the study "will use the Lightning Process course," and the registry says it is built on Parker's 2013 LP manual.
+  - **Ethics history.** REK midt approved the first version on 16 Nov 2020. NEM overturned that approval in spring 2021 over her financial conflict of interest. REK midt approved a revised application on 31 Jan 2022. NEM rejected complaints from ME organisations on 13 Jul 2022 and added conditions, which settles the "February vs July 2022" discrepancy in no.wikipedia. Recovery Norge provides user involvement.
+  - **Trial design (NCT05236465).** Adults with CFS/ME (Canadian criteria) are randomised to the course or a 10-week wait-list. Target n=100; primary outcome is physical function at 10 weeks.
+  - **Status.** The registry gives an actual start date of 21 Mar 2022 and was still "recruiting" at its Nov 2025 update; primary completion is estimated for Jan 2027.
+  - **Recruitment.** The course is free to participants, and residents of participating Viken municipalities get priority.
   - Helsenorge.no linked to Recovery Norge. In December 2019 a lawyer objected publicly that the government site was promoting quackery.
-  - The scope note says Recovery Norge also shaped Norway's recent fatigue / ME-CFS guidance. **I could not verify the specifics against Helsedirektoratet documents** (pages unavailable, search budget exhausted). Treat this as a lead to check.
+  - **National guideline.** Helsedirektoratet's draft national guideline on long-lasting fatigue incl. ME/CFS (draft published 3–4 Feb 2026; consultation closed 4 May 2026; final expected 15 Dec 2026) had a 21-member working group.
+    - Recovery Norge held 2 of the 4 user-representative seats (Ann Kristin Grøntjernet, Hannah Sagstad). The other two were Norges ME-forening and Norsk Covidforening; ME-foreldrene had a parent seat.
+    - Four professional members filed dissents.
+    - The draft's background page and Helsedirektoratet's announcement do not mention LP. Consultation responses criticised Recovery Norge's share of the user seats.
 - **Insurance.** No insurer or CMS coverage. Purely self-pay.
 
 ## 6. Evidence base
@@ -111,7 +119,7 @@
   - 2010 book.
   - ME Association survey (2010).
   - Rapid Norwegian uptake; Landmark's memoir appeared in 2009.
-  - 2011–12 ASA ruling.
+  - ASA rulings (Aug 2012, Mar 2013).
   - Norwegian controversy, including a November 2011 NRK report of a 13-year-old's breakdown and suicide attempt after a course.
 - **2013–2016:** SMILE feasibility and protocol papers (2013). Norwegian debate in *Tidsskriftet* (2016).
 - **2017–2019:** SMILE results (Sept 2017) bring a surge of UK coverage and criticism, followed by the 2019 correction. Recovery Norge is founded (2017–18).
@@ -119,14 +127,15 @@
 - **2023–2026:**
   - Long COVID case reports and audits (2024–25).
   - BBC *File on 4* investigation (2024).
-  - The NTNU trial is under way.
+  - The NTNU trial (NCT05236465) has been recruiting since 2022.
+  - Recovery Norge holds 2 user seats on Norway's draft fatigue guideline (2026).
   - 2026: the McMaster FALCON long COVID trial (planned) draws a petition and media criticism.
   - The site claims >75,000 people trained over "27 years."
 - **Overall pattern:** a persistent niche business with high visibility relative to its size, driven largely by controversy.
 
 ## 8. Controversies / criticisms
 - **Trial integrity.** SMILE was retrospectively registered, had outcome switching and included feasibility-phase participants, and was corrected rather than retracted in 2019.
-- **Regulation.** ASA upheld complaints about misleading efficacy claims (2011–12). NICE recommends against LP (2021).
+- **Regulation.** ASA upheld complaints about misleading efficacy claims (Aug 2012; Mar 2013). NICE recommends against LP (2021).
 - **Harms.**
   - Patient-organisation surveys in the UK and Norway report substantial rates of deterioration.
   - Participants report feeling blamed when the method fails, and report secrecy rules.
@@ -162,6 +171,12 @@
 - https://no.wikipedia.org/wiki/Recovery_Norge
 - https://no.wikipedia.org/wiki/Live_Landmark
 - https://pubmed.ncbi.nlm.nih.gov/37114822/ (Kielland 2023 survey)
+- https://www.asa.org.uk/rulings/phil-parker-group-ltd-a11-158035.html (ASA 2012) ; https://www.asa.org.uk/rulings/phil-parker-group-ltd-a12-210374.html (ASA 2013)
+- https://lightningprocess.com/lightning-process-practitioners-qualifications-training/ (practitioner training)
+- https://www.ntnu.no/psykologi/kurs-for-cfs-me ; https://clinicaltrials.gov/study/NCT05236465 (NTNU trial)
+- https://www.forskningsetikk.no/globalassets/dokumenter/1-uttalelser-og-vedtak/nem/vedtak-i-klagesaker/2022-32-et-3-dagers-kurs-for-kronisk-utmattelsessyndrom--myalgisk-encefalopati-klager-me-foreningen.pdf (NEM decision, 13 Jul 2022)
+- https://www.helsedirektoratet.no/retningslinjer/utmattelse-langvarig-utmattelse-inkl.me-cfs-horingsutkast/bakgrunn-metode-og-prosess ; https://www.helsedirektoratet.no/horinger/nasjonal-faglig-retningslinje-for-langvarig-utmattelse-inkl.me-cfs (Norwegian draft guideline)
+- https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/The_Lightning_Process/monthly/2016010100/2026093000 (Wikipedia pageviews)
 - https://thesicktimes.org/2026/09/22/people-with-long-covid-demand-pause-of-mcmaster-university-clinical-trial/ (FALCON trial, NCT07697261)
 
-*Fact-checked 2026-10-12; corrections: founding year set to 1999 (FAQ); suicide-attempt case re-dated to Nov 2011 (NRK, age 13); unverified >6,000-signature petition removed; Norwegian ME Association n=1,096 corrected to all respondents, not LP users; Landmark 2016 article re-described and unverifiable comment PMIDs removed; Landmark PhD (NTNU, 2026) and NTNU trial re-approval date corrected; SMILE editor's note added; Kielland 2023 survey and the McMaster FALCON trial (NCT07697261) added; site's inconsistent 17 vs 18 studies claim noted.*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: ASA rulings verified (Aug 2012 lightningprocess.com, 2 of 4 upheld; Mar 2013 lightningprocess.co.uk, upheld); ≥13-month practitioner training confirmed on site; NTNU trial confirmed as branded LP, ethics dates reconciled (REK 31 Jan 2022, NEM 13 Jul 2022), start Mar 2022, still recruiting; Recovery Norge's 2 user seats on the 2026 Norwegian draft guideline confirmed (draft does not mention LP); Wikipedia pageviews added. Reddit was blocked (no LP subreddit confirmed); Google Trends could not be retrieved.*

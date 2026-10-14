@@ -1,21 +1,21 @@
 # Gut-directed hypnotherapy (Manchester and North Carolina protocols; Regulora)
 
-*Compiled 2026-10-12 from PubMed abstracts and full texts (via NCBI E-utilities), the ACG 2021 and BSG 2021 IBS guidelines, NICE CG61, ishhypnosis.org and metamehealth.com. Content paraphrased. Web search was unavailable during compilation (session quota exhausted). All trials listed below were therefore verified directly against PubMed records. Prices and some adoption details rest on prior knowledge and are flagged where unverified.*
+*Compiled 2026-10-12 from PubMed abstracts and full texts (via NCBI E-utilities), the ACG 2021 and BSG 2021 IBS guidelines, NICE CG61, ishhypnosis.org and metamehealth.com. Content paraphrased. All trials were verified directly against PubMed records. Regulora's regulatory status, price and protocol licensing were checked on 2026-10-13 against openFDA, SingleCare, Wayback captures of regulora.com and metaMe press coverage.*
 
 ## At a glance
 | Field | |
 |---|---|
 | Website | No single program site. Umbrella body: International Society of Hypnosis (ishhypnosis.org). Clinical unit: Neurogastroenterology Unit, Wythenshawe Hospital, Manchester. Digital variant: metamehealth.com (Regulora). Palsson's former home-program site ibshypnosis.com now redirects to an unrelated domain, i.e. the domain has lapsed. |
 | Founder(s) | **Peter J. Whorwell**, MD, gastroenterologist and Professor of Medicine and Gastroenterology at the University of Manchester / Wythenshawe Hospital, UK. He published the first controlled trial in 1984. **Olafur S. Palsson**, PsyD, clinical psychologist at the UNC Center for Functional GI & Motility Disorders, Chapel Hill. He led development of the fully scripted 7-session "North Carolina protocol" (~mid-1990s) with the UNC team, including William E. Whitehead (Palsson & van Tilburg 2015 attribute the protocols to "a North Carolina research team"). Key later contributors include W. Gonsalkorale, V. Miller and D. Vasant (Manchester); M. Simrén and P. Lindfors (Gothenburg); G. Moser (Vienna); A. Vlieger and M. Benninga (paediatrics, Netherlands); S. Peters and P. Gibson (Monash, which co-developed the Nerva app); L. Keefer; and metaMe Health (Regulora). |
-| Founded | 1984 (Whorwell, Prior & Faragher, *Lancet*). Manchester clinical service ~1990s; its first 250-patient audit appeared in 2002. North Carolina scripted protocol ~1995–1998 (Palsson & van Tilburg 2015 call it "20 years" old; first trial report 2002). Regulora FDA De Novo authorization reported for late 2021 (secondary/company reports; no record found in the FDA De Novo database during fact-check, and the metaMe site does not state it, so treat as unverified). |
+| Founded | 1984 (Whorwell, Prior & Faragher, *Lancet*). Manchester clinical service ~1990s; its first 250-patient audit appeared in 2002. North Carolina scripted protocol ~1995–1998 (Palsson & van Tilburg 2015 call it "20 years" old; first trial report 2002). Regulora was FDA-**cleared via 510(k)** (K211463; received 11 May 2021, cleared 24 Nov 2021; Class II, product code QMY, 21 CFR 876.5960). It was not a De Novo: that classification was created by the 2020 De Novo for Mahana's Parallel (DEN200029). |
 | Format / delivery | Clinician-delivered hypnosis: individual or group sessions, in person or by video, plus daily home practice with audio recordings. Fully automated audio/app versions also exist (Regulora; the Nerva app, covered in its own entry; paediatric CDs). |
 | Business model | Clinician-delivered (fee-for-service or publicly funded). Regulora is a commercial prescription digital therapeutic. |
-| Direct cost | Varies by country and provider (unverified estimates). UK NHS: free at the point of care where commissioned. Private practice: roughly £80–150 or US$120–250 per session, so ~US$800–2,500 for a 6–12-session course. Regulora pricing is not posted on the current company site. |
+| Direct cost | Varies by country and provider. UK NHS: free at the point of care where commissioned. Private practice: roughly £80–150 or US$120–250 per session, so ~US$800–2,500 for a 6–12-session course. These private fees are estimates; only the US upper bound is sourced (Mindset Health 2023: in-person "can cost up to US$250 per session"). No authoritative UK private fee survey was found. Regulora: cash price ~US$942 per prescription package (the 12-week program) (SingleCare listing, Oct 2026; ~US$786 with discount card); no price on metamehealth.com. |
 | Conditions claimed | Primarily IBS (all subtypes, adults and children) and paediatric functional abdominal pain. Also trialled in functional dyspepsia, non-cardiac chest pain, functional heartburn, functional bloating, quiescent ulcerative colitis, and IBS-type symptoms in quiescent IBD. |
 | Mainstream adoption | **Substantial.** Recommended in guidelines: NICE CG61 (2008; for IBS refractory to drugs after 12 months), ACG 2021 (suggests "gut-directed psychotherapy" for global IBS symptoms), BSG 2021 (gut-directed hypnotherapy for refractory IBS) and the Rome Foundation. NHS-funded hypnotherapy units exist, and US academic GI psychology services offer it. |
-| Insurance reimbursable | Sometimes or indirectly. NHS-funded in the UK and publicly funded in parts of the Netherlands and Sweden. In the US it is usually billed by licensed psychologists under health-behaviour or psychotherapy codes; hypnosis-specific coverage varies. Regulora is a prescription device with no verified dedicated Medicare coverage. |
+| Insurance reimbursable | Sometimes or indirectly. NHS-funded in the UK and publicly funded in parts of the Netherlands and Sweden. In the US it is usually billed by licensed psychologists under health-behaviour or psychotherapy codes; hypnosis-specific coverage varies. Regulora is a prescription device dispensed through pharmacies; coverage is plan-by-plan formulary, and no Medicare or major-payer coverage policy was found. |
 | Evidence (peer-reviewed trials) | Strong for an IBS behavioural therapy: 12+ RCTs and multiple meta-analyses and network meta-analyses. Efficacy over waitlist/usual care is consistent, but certainty is low to moderate (no trials at low risk of bias, publication bias, few credible sham controls). |
-| Popularity signals | Guideline-endorsed. Manchester audit of 1,000 patients (2015). Large trials (N = 354, 362, 448). Google Trends interest rose after ~2018 with app marketing (Nerva) and TikTok/Instagram "gut-brain" content (qualitative; not quantified). |
+| Popularity signals | Guideline-endorsed. Manchester audit of 1,000 patients (2015). Large trials (N = 354, 362, 448). Google Trends interest rose after ~2018 with app marketing (Nerva) and TikTok/Instagram "gut-brain" content (qualitative; not quantified). No dedicated subreddit; it is discussed within r/IBS (Reddit API blocked from this environment, so the subscriber count was not retrieved). |
 
 ## 1. Proposed mechanism(s)
 - **Framework:** IBS is treated as a *disorder of gut–brain interaction* (Rome IV). Symptoms arise from bidirectional dysregulation between CNS and gut: visceral hypersensitivity, altered motility, heightened attention and threat-appraisal toward gut sensations, and stress reactivity. Hypnosis is proposed to give top-down control over gut sensation and function.
@@ -60,8 +60,8 @@ The approach is explicitly *organ-directed*. It does not claim to treat ME/CFS, 
 - 6 therapist sessions over 3 months, or a home CD used ≥5 times per week for 3 months (Rutten 2017).
 
 **Regulora (metaMe Health)**
-- Prescription smartphone app delivering self-administered gut-directed hypnotherapy over 12 weeks, with sessions roughly weekly plus daily breathing/relaxation practice.
-- Described as Palsson-style scripted hypnosis; Palsson's involvement with metaMe was not confirmed (not stated on metamehealth.com or in the Berry 2023 author list).
+- Prescription smartphone app delivering self-administered gut-directed hypnotherapy: 7 sessions of ~30 min every other week over 12 weeks (regulora.com, 2022 capture), plus daily breathing/relaxation practice.
+- metaMe licensed the North Carolina protocol from Palsson, and the app follows it (MATTER startup spotlight, May 2022). Palsson is not a Berry 2023 author, and no other formal role was found.
 - The pivotal trial compared it with a digital muscle-relaxation app.
 
 **Self-care across protocols**
@@ -86,7 +86,7 @@ The approach is explicitly *organ-directed*. It does not claim to treat ME/CFS, 
 - **Insurance:**
   - UK: NHS-funded where commissioned, though access is patchy.
   - US: covered when billed as health-behaviour or psychotherapy services by licensed clinicians; hypnosis-only CPT coding is often not reimbursed.
-  - Regulora: prescription-only; payer coverage unclear or limited (not verified).
+  - Regulora: prescription-only, filled at retail pharmacies (cash ~US$942); formulary coverage varies by plan. No Medicare or major-payer coverage policy was found.
 
 ## 6. Evidence base
 Trials of the **specific Manchester or North Carolina protocols** are marked **[M]** or **[NC]**. Others are generic gut-directed hypnotherapy, usually Manchester-derived.
@@ -135,7 +135,7 @@ Trials of the **specific Manchester or North Carolina protocols** are marked **[
 - **1984–1990s:** Single centre (Manchester). Small RCTs and follow-ups in 1987–1989; the hypnotherapy unit was established and staffed by six therapists (described in the 2002 audit).
 - **2002–2008:** UNC scripted protocol published (2002). Manchester audits (250 in 2002; 204 long-term in 2003). NICE CG61 (2008) gives first guideline recognition.
 - **2011–2019:** Replication across Sweden, Austria, Netherlands (paediatric) and Australia. Group and nurse delivery. Large Dutch IMAGINE trial (2019).
-- **2018–2026:** Digital wave (Nerva ~2018/19; Regulora De Novo 2021). Endorsement by ACG and BSG (2021). Video delivery spread during the COVID era (Noble 2022 reports patient satisfaction with remote delivery). Several network meta-analyses (2020, 2024, 2025, 2026). The ISH ran a 2026 feature asking whether gut-directed hypnotherapy "should be the treatment of choice." Social-media "gut-brain" content raised lay awareness.
+- **2018–2026:** Digital wave (Nerva ~2018/19; Regulora 510(k) clearance Nov 2021). Endorsement by ACG and BSG (2021). Video delivery spread during the COVID era (Noble 2022 reports patient satisfaction with remote delivery). Several network meta-analyses (2020, 2024, 2025, 2026). The ISH ran a 2026 feature asking whether gut-directed hypnotherapy "should be the treatment of choice." Social-media "gut-brain" content raised lay awareness.
 - **Quantitative anchors:** Manchester audit 1,000 patients (2015). Trials enrolled >3,000 participants in total (Thakur 2025 counts 1,507 adults across 12 trials, excluding paediatric and digital trials). Clinical reach of therapist-delivered gut-directed hypnotherapy is likely tens of thousands worldwide; digital programs add more (see Nerva).
 
 ## 8. Controversies / criticisms
@@ -149,6 +149,13 @@ Trials of the **specific Manchester or North Carolina protocols** are marked **[
 ## Sources
 - https://www.ishhypnosis.org/
 - https://metamehealth.com/
+- https://api.fda.gov/device/510k.json?search=k_number:K211463 (Regulora 510(k) K211463)
+- https://www.regdatalab.com/510k/K211463 (QMY product code; DEN200029 Parallel)
+- https://www.singlecare.com/prescription/regulora (Regulora cash price, Oct 2026)
+- https://web.archive.org/web/20220601/https://www.regulora.com/ (7 x 30-min sessions over 12 weeks)
+- https://matter.health/posts/matter-startup-spotlight-metame/ (metaMe licensed Palsson's NC protocol)
+- https://medcitynews.com/2019/08/metame-raises-3-8m-to-create-a-hypnosis-based-dtx-for-your-ibs/
+- https://start.nervahealth.com/post/hypnotherapy-for-ibs-how-to-get-started (in-person cost up to US$250/session)
 - https://pubmed.ncbi.nlm.nih.gov/6150275/ (Whorwell 1984)
 - https://pubmed.ncbi.nlm.nih.gov/12452403/ (Palsson 2002 Dig Dis Sci)
 - https://pubmed.ncbi.nlm.nih.gov/12003432/ (Gonsalkorale 2002 audit)
@@ -186,4 +193,4 @@ Trials of the **specific Manchester or North Carolina protocols** are marked **[
 - https://www.nice.org.uk/guidance/cg61 (NICE IBS guideline)
 - https://pubmed.ncbi.nlm.nih.gov/36912647/ (Palsson 2023 international hypnosis survey)
 
-*Fact-checked 2026-10-12; corrections: Moser 2013 control arm (supportive talks + medical treatment, not usual care alone); Rutten 2017 post-treatment inferiority of CD added; Lowén 2013 design and N clarified (women; not clearly randomized; insula effect in both arms); Flik N clarified; Berry 2023 industry affiliation specified; Whitehead added as NC co-developer; Regulora De Novo date and Palsson-metaMe link flagged unverified. All cited PMIDs confirmed to exist with correct author, year and journal; prices remain unverified estimates (web search quota exhausted).*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: Regulora corrected from De Novo to 510(k) K211463 (cleared 24 Nov 2021); Regulora cash price (~US$942) and plan-by-plan coverage added; Palsson protocol licensed to metaMe confirmed; Regulora session schedule (7 x 30 min over 12 weeks) added; US per-session upper bound sourced. Still unknown: authoritative UK/US private session fees, Reddit/Google Trends metrics (Reddit API blocked; search budget exhausted).*

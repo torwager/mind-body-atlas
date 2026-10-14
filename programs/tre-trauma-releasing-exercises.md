@@ -1,16 +1,16 @@
 # TRE (Tension & Trauma Releasing Exercises)
 
-*Compiled 2026-10-12 from treglobal.org (home, What is TRE, FAQ, Get Certified, certification payment page, workshops listing, Recommended Reading, Research page); PubMed/Europe PMC records; ClinicalTrials.gov; Wikipedia; Science-Based Medicine (Hall 2020); Internet Archive CDX index. Content paraphrased. Note: the session's web-search quota ran out partway through, so popularity figures rely on the official site, literature databases and Wikipedia rather than on independent news or social-media metrics.*
+*Compiled 2026-10-12 from treglobal.org (home, What is TRE, FAQ, Get Certified, certification payment page, workshops listing, Recommended Reading, Research page); PubMed/Europe PMC records; ClinicalTrials.gov; Wikipedia; Science-Based Medicine (Hall 2020); Internet Archive CDX index; Berceli's 2009 ASU dissertation PDF; provider booking pages; YouTube; OpenAlex. Content paraphrased. Reddit and Google Trends figures could not be retrieved (see §7).*
 
 ## At a glance
 | Field | |
 |---|---|
 | Website | https://treglobal.org/ (run by TRE For All, Inc., a US 501(c)(3) nonprofit). The legacy domain traumaprevention.com now 301-redirects there. |
-| Founder(s) | **David Berceli, PhD.** He worked in trauma intervention and relief in conflict zones (Lebanon, Sudan and others) and took a PhD in social work at Arizona State University in 2009. Per Hall (2020), he dates his core observation to a 1979 Lebanon bomb shelter, where children shook and adults suppressed the shaking. |
+| Founder(s) | **David Berceli, PhD.** He worked in trauma intervention and relief in conflict zones (Lebanon, Sudan and others) and took a PhD at Arizona State University in 2009 (dissertation dated 8 March 2009, written with an asu.edu address; he co-authored ASU social-work papers, e.g. Okamoto et al. 2006). Wikipedia gives the field as social work. Per Hall (2020), he dates his core observation to a 1979 Lebanon bomb shelter, where children shook and adults suppressed the shaking. |
 | Founded | **Early 2000s** (est. 2002–2005). The traumaprevention.com site has captures from January 2004. The first book, *Trauma Releasing Exercises*, appeared in 2005, and the method was formalised in his 2009 ASU dissertation. TRE For All, Inc. is the later nonprofit vehicle; treglobal.org dates from about 2024. |
 | Format / delivery | A short sequence of body exercises (6–7) that fatigue the legs and psoas, followed by lying supine and letting involuntary "neurogenic" tremors run. It is taught in-person or online by certified Providers, 1:1 or in groups (including large-group and agency rollouts), then practised alone at home. Books and YouTube demos are also available. Variants include Neurogenic Yoga™ and Total Release Experience® (TRE UK). |
 | Business model | Hybrid. The exercises are freely described in books and videos, and the nonprofit runs certification. Instruction comes from independent fee-charging Providers. Commercial, mostly small-practitioner. |
-| Direct cost | treglobal.org publishes no workshop prices; Providers and Trainers set their own fees. The one listed fee is the **TRE Certification Trainer fee of US$250** (2026). Certification also needs a one-time Enrollee membership fee (amount not shown) plus the Trainer's training fees. Books cost about US$15–20. Typical intro workshop and session fees are unverified. |
+| Direct cost | treglobal.org publishes no workshop prices; Providers and Trainers set their own fees. The one listed fee is the **TRE Certification Trainer fee of US$250** (2026). Certification also needs a one-time **Enrollee membership fee of US$35** (treglobal.org/enroll, 2025–26) plus the Trainer's own training fees. Books cost about US$15–20. Sample Provider prices (Oct 2026): a 2-hour live online intro workshop **US$88**, a private session **US$111**, online group refresher **US$25** (letgoofstress.com); online group shakes **€15** (trehealing.com); a 3-day online in-depth intro course **US$950** (US$690 reduced); TRE UK's BRONZE programme **£250**. |
 | Conditions claimed | Stress, anxiety, PTSD/trauma, vicarious trauma/burnout, insomnia, chronic pain and old injuries, fatigue ("energy and endurance"), anger/interpersonal conflict. The site disclaims any intent to diagnose, treat, cure or prevent disease. Practitioner-led studies cover MS, Parkinson's, fibromyalgia, restless legs, arthritis and hypertension. |
 | Mainstream adoption | Limited. It has a fringe-to-moderate presence in NGO, humanitarian, military-wellbeing and occupational-stress settings: the US DCoE 2011 mind-body review, Australian veteran advocacy, Danish MS and arthritis societies, South African NGOs, and a Beijing psychiatric hospital report. It is not in NICE, APA or VA/DoD guidelines. |
 | Insurance reimbursable | No, as a distinct service. It is reimbursed only indirectly if a licensed clinician folds it into a billable session. |
@@ -62,11 +62,11 @@
 
 **Reviews and protocols:**
 - Roos, van Niekerk & Tönsing 2026, *Occup Ther Health Care* (PMID 42713778): JBI scoping review of 22 studies (24 records). Studies were mostly in stress- and trauma-exposed groups; possible benefits on mood, anxiety-related sleep and cognition; designs "not consistently rigorous." This grew out of Roos's 2023 University of Pretoria thesis.
-- Zhao et al. 2024, *BMC Complement Med Ther* 24:403 (PMID 39574118): protocol for a 140-dyad mother-adolescent RCT of TRE plus medication versus medication alone (ChiCTR2100044553). Results not yet located.
+- Zhao et al. 2024, *BMC Complement Med Ther* 24:403 (PMID 39574118): protocol for a 140-dyad mother-adolescent RCT of TRE plus medication versus medication alone (ChiCTR2100044553). No results paper found in PubMed or OpenAlex (checked Oct 2026).
 - ClinicalTrials.gov NCT07242651 (Cairo University, Faculty of Physical Therapy, Egypt): TRE 3×/week for 8 weeks plus usual antihypertensive care versus usual care alone, outcomes quality of life and sleep. Women aged 50–65, estimated N=40. Listed as not yet recruiting (estimated start 2025-11-18); no results.
-- Wikipedia also cites a 2023 scoping review of 18 studies ("preliminary and tentative"), probably the Roos University of Pretoria thesis that preceded the 2026 paper. It is not PubMed-indexed.
+- Wikipedia also cites a 2023 scoping review of 18 studies ("preliminary and tentative"). Its citation confirms this is Roos's 2023 University of Pretoria master's thesis, the precursor of the 2026 paper; it is not PubMed-indexed.
 
-**Other (non-PubMed or grey):** Heath & Beattie 2019 veteran PTSD case report (*J Mil Veterans Health*); Herold 2015 small Ukrainian samples; Oh & Shin 2021 anxiety pilot (Korean journal); Parker et al. 2024 East African refugees (*Psychology*, an open-access SCIRP journal); Fiol et al. 2025 MS (*J Yoga Physiother*); plus many master's and PhD theses (Berceli 2009; Atterbury 2019 on Parkinson's; Plajh 2023 on fibromyalgia) and ISTSS posters (Davis 2018).
+**Other (non-PubMed or grey):** Heath & Beattie 2019 veteran PTSD case report (*J Mil Veterans Health*); Herold 2015 small Ukrainian samples; Oh & Shin 2021 anxiety pilot (Korean journal); Parker et al. 2024 East African refugees (*Psychology*, an open-access SCIRP journal); Fiol et al. 2025 MS (*J Yoga Physiother*); plus many master's and PhD theses (Berceli 2009: non-randomised controlled pilot in 61 students, STAI anxiety reduced after 6 sessions over 2 weeks, HRV changes "in the desired direction"; Atterbury 2019 on Parkinson's; Plajh 2023 on fibromyalgia) and ISTSS posters (Davis 2018).
 
 **Gaps:** There are no adequately powered, blinded or active-controlled trials and no trials in the target chronic-overlapping-pain or fatigue syndromes. The two RCTs were in neurological conditions and were essentially null on primary outcomes. Much of the literature is produced by Providers or the founder. No mechanistic studies (EMG, HRV, cortisol) have been peer-reviewed. Tremor has never been tested against the same exercises without tremor, or against generic relaxation.
 
@@ -75,7 +75,7 @@
 - **2009–2015: institutionalisation.** The PhD came in 2009, followed by the DCoE mention (2011) and early spread to Europe (Denmark, Germany, Netherlands, Slovenia, Finland), Brazil, South Africa and Australia. *Shake It Off Naturally* (with Scaer) appeared in 2015, and the 2013 Spanish edition was one of many translations.
 - **2016–2020: European clinical interest.** MS pilots (presented 2019, published 2021), the restless legs RCT (2018), and a Science-Based Medicine critique (Hall, April 2020), which signals mainstream visibility.
 - **2020–2026: social-media growth.** TRE rode the pandemic-era "somatic" and "nervous-system regulation" wave, including "shaking" content on Instagram, TikTok and YouTube. That content is often not branded TRE but cites Berceli. The nonprofit was rebranded as TRE For All / treglobal.org around 2024. Wikipedia reports more than 1,000 certified Providers. A Wikipedia article was created around 2025–26, and a peer-reviewed scoping review appeared in 2026. The site listed 65 scheduled events for Oct 2026–May 2027.
-- **Unverified:** Exact subreddit, YouTube and Google Trends figures could not be retrieved (search quota exhausted; Reddit API blocked).
+- **Social metrics.** David Berceli's YouTube channel (@davidberceli) has about 48.2K subscribers and 375 videos (Oct 2026); the official TRE For All channel has 14 subscribers. OpenAlex indexes about 150 works mentioning "trauma releasing exercises"; PubMed has 3 with the phrase in title/abstract. No Reddit subscriber count or Google Trends series could be retrieved: Reddit's JSON endpoints (www and old.reddit) returned empty/blocked responses, and Google Trends is not accessible without a browser session.
 
 ## 8. Controversies / criticisms
 - **Implausible mechanism.** Hall (Science-Based Medicine, 2020) argues that "stored trauma energy" and the psoas-as-trauma-store are Reichian, untested and biologically implausible. On this view the tremors are normal fatigue tremor, and the animal-shaking story (e.g., the bear) is anecdote at best. Hall judges it probably safe and possibly relaxing but no better than other relaxation methods, and says "I can't recommend TRE." (Her statement that no scientific studies had evaluated its clinical benefits overlooked the 2018 restless legs RCT, which was itself null.)
@@ -89,6 +89,14 @@
 - https://treglobal.org/frequently-asked-questions/
 - https://treglobal.org/get-certified/
 - https://treglobal.org/certification/ (Certification Trainer fee US$250)
+- https://treglobal.org/enroll/ (Enrollee membership US$35, one-time)
+- https://www.letgoofstress.com/learntre (intro workshop US$88, private US$111, refresher US$25)
+- https://trehealing.com/online-tre-group-sessions/ (€15 group session)
+- https://oppmerksombevegelse.no/tre-online-introduction-course/ (US$950 3-day online course)
+- https://treuk.com/bronze-2/ (£250 BRONZE programme)
+- https://treuk.com/wp-content/uploads/2014/05/ASU-Revised-disssertation-for-publication.pdf (Berceli 2009 ASU dissertation)
+- https://pubmed.ncbi.nlm.nih.gov/16534658/ (Okamoto…Berceli 2006, ASU social-work group)
+- https://www.youtube.com/@davidberceli (48.2K subscribers, Oct 2026)
 - https://treglobal.org/open-workshops-classes/
 - https://treglobal.org/recommended-reading/
 - https://treglobal.org/research/
@@ -106,4 +114,4 @@
 - https://openlibrary.org/search.json?author=Berceli (book dates 2005, 2008, 2013, 2015)
 - Internet Archive CDX index for traumaprevention.com (earliest capture 2004-01-04) and treglobal.org (earliest 2024-07-29)
 
-*Fact-checked 2026-10-12; corrections: all 4 trials, the scoping review, the Zhao protocol and NCT07242651 verified against PubMed/ClinicalTrials.gov (details added for NCT07242651); evidence level downgraded from 'multiple RCTs' to pilot-level (two exploratory RCTs, N=18 and N=28); 1,000+ Provider figure flagged as self-reported; 'hypertension (research use)' added to conditions; Hall quote corrected. Berceli's ASU 2009 PhD rests on Wikipedia and secondary sources (web-search quota exhausted) and was not independently confirmed.*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: Berceli 2009 ASU PhD confirmed from dissertation PDF; Enrollee fee (US$35) and sample Provider prices added; YouTube metrics added; 2023 review confirmed as Roos thesis; Zhao RCT results still unpublished; Reddit/Google Trends not retrievable.*

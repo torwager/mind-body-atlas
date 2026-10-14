@@ -7,12 +7,12 @@
 |---|---|
 | Website | Manual: en.auh.dk (PDF linked above); clinic: Department of Functional Disorders / Research Clinic for Functional Disorders and Psychosomatics, Aarhus University Hospital (auh.dk; formerly functionaldisorders.dk) |
 | Founder(s) | **Per Fink** (psychiatrist, professor, PhD, DMSc; founded and led the Aarhus Research Clinic for Functional Disorders); **Andreas Schröder** (psychiatrist, research fellow, later consultant/associate professor; PI of the STreSS trial); **Emma Rehfeld** (psychiatrist, consultant, manual co-author). Academic, publicly funded hospital unit. |
-| Founded | Clinic 1999 (set up by Aarhus County). BDS construct published 2007 to 2010. STreSS trial began 2005 (NCT00132197); manual dated 2009; main RCT published 2012. |
+| Founded | Clinic spring 1999 (set up by Aarhus County and Aarhus University Hospital; patients treated since 2005). BDS construct published 2007 to 2010. STreSS trial began 2005 (NCT00132197); manual dated 2009; main RCT published 2012. |
 | Format / delivery | Hospital outpatient **group CBT**, run by two psychiatrists (later psychologists and multidisciplinary staff). 9 modules of 3.5 h over about 4 months, with a later follow-up session. Preceded by a full specialist assessment. Successor formats: group ACT (STreSS-4), adolescent ACT (AHEAD), internet-delivered CBT ("One step at a time"), patient education. |
 | Business model | Clinician-delivered within the Danish public (tax-funded) health system. Manual free for non-commercial use. |
 | Direct cost | None to Danish patients (referral by GP or specialist). No private price published. Manual PDF free. |
 | Conditions claimed | "Bodily distress syndrome" (BDS) and, more recently, "functional somatic disorder": fibromyalgia, chronic fatigue syndrome (ME/CFS), IBS and other functional GI disorders, chronic whiplash, non-cardiac chest pain, hyperventilation syndrome, chronic pain syndromes, somatoform/somatic symptom disorders, multiple chemical sensitivity, tinnitus (the manual's illustration lists these) |
-| Mainstream adoption | Substantial in Denmark: the Danish Health Authority's specialist plan created regional functions for moderate-to-severe functional disorders (including chronic fatigue syndrome), implemented from about 1 November 2021, with Aarhus University Hospital as one provider. These units deliver generic multidisciplinary functional-disorder care, not necessarily the branded STreSS manual. *The full list of approved sites was not independently verified.* Influential in European research (EURONET-SOMA) and in ICD-11's "bodily distress disorder." Limited routine use outside Scandinavia. |
+| Mainstream adoption | Substantial in Denmark: the Danish Health Authority's specialist plan created regional functions for moderate-to-severe functional disorders (including chronic fatigue syndrome), implemented from about 1 November 2021, with Aarhus University Hospital as one provider. These units deliver generic multidisciplinary functional-disorder care, not necessarily the branded STreSS manual. Approved/listed sites in Sundhedsstyrelsen's 2021 planning minutes include Aarhus University Hospital (from 1 Nov 2021), Bispebjerg-Frederiksberg Hospital (implementation pending at the time), Vejle Hospital (Region of Southern Denmark, adult outpatient) and Regionshospitalet Hammel Neurocenter; the complete current national site list could not be retrieved (the specialist-guidance PDF now returns 404 and its Wayback copy and the ft.dk annex are behind bot checks). Influential in European research (EURONET-SOMA) and in ICD-11's "bodily distress disorder." Limited routine use outside Scandinavia. |
 | Insurance reimbursable | Yes, in Denmark, through the public health system. No US/private insurance pathway for the branded program. |
 | Evidence (peer-reviewed trials) | One positive single-centre RCT of STreSS (n=120). A group ACT RCT (n=180) that was positive on its primary outcome (patient global rating) but positive on only 1 of 18 secondary outcomes. A positive drug RCT of low-dose imipramine (n=138), which tests a medication, not the STreSS program. A null adolescent ACT RCT (n=91) and a mindfulness RCT (n=119) that was null against an active comparator. Almost all trials are from the developers' own group. |
 | Popularity signals | Academic and health-system niche. Almost no consumer or social-media presence; most online discussion is critical (ME/CFS advocacy forums). |
@@ -89,7 +89,7 @@
 ## 5. Mainstream adoption and insurance
 
 - **Denmark.**
-  - The Aarhus clinic began as a research clinic in 1999, with Per Fink as its head physician (Lex.dk). Fink was appointed clinical professor in 2009. By 2021 it was a full specialist department, described as "from pioneer to established specialist department." *The figure of about 45 staff could not be independently verified.*
+  - The Aarhus clinic was founded in spring 1999 on the initiative of Aarhus County and Aarhus University Hospital and has received patients for assessment and treatment since 2005 (funktionellelidelser.dk/om-afdelingen), with Per Fink as head physician (Lex.dk). Fink was appointed clinical professor in 2009. By 2021 it was a full specialist department, described as "from pioneer to established specialist department." Staff numbers are not published: the department's "Om afdelingen" page lists only its management team, so the earlier figure of about 45 staff has been dropped.
   - The Danish Health Authority's specialist plan created **regional specialised functions for functional disorders** from 1 November 2021. They are multidisciplinary (internal medicine + psychiatry, nurses, psychologists, physiotherapists, social workers) and anchored in a somatic setting. Aarhus is one provider. Their creation closed the older psychiatric regional function for somatoform disorders.
   - Treatment there is free at point of use (tax-funded public health system).
   - Danish guidance for milder cases relies on GP-level management (TERM-type).
@@ -136,7 +136,7 @@
 - **Consumer and social-media footprint:** essentially nil.
   - No app, influencer or subreddit.
   - Discussion is concentrated on critical forums (Science for ME, dxrevisionwatch, MEAction) and in academic citations.
-- **Reach.** Several hundred patients have been treated in Aarhus trials. Clinical throughput is probably hundreds per year at Aarhus, and more once the six regional units opened.
+- **Reach.** Several hundred patients have been treated in Aarhus trials. Clinical throughput is probably hundreds per year at Aarhus, and more once the regional units opened in 2021. No published annual patient counts were found (checked the department website).
 
 ## 8. Controversies / criticisms
 - **ME/CFS as a functional disorder.**
@@ -166,5 +166,8 @@
 - https://dxrevisionwatch.com/2013/06/19/update-2-human-rights-denied-something-rotten-in-the-state-of-denmark-karina-hansens-story/
 - https://www.s4me.info/threads/me-debate-in-danish-parliament-march-12-2019.7988/page-3
 - https://investinme.org/IIMER-Newslet-190301Danmark.shtml
+- https://funktionellelidelser.dk/om-afdelingen (department history, founded 1999, patients since 2005)
+- https://www.sundhedsstyrelsen.dk/-/media/Viden/Sundhedsvæsen/Sygehusplanlægning/Specialeplanlægning/Rådgivende-udvalg/Referat-fra-66-moede-i-Det-Raadgivende-Udvalg-for-Specialeplanlaegning.ashx (2021 regional-function approvals)
+- https://lex.dk/Per_Fink
 
-*Fact-checked 2026-10-12; corrections: DanFunD BDS paper dated 2020 not 2025; added STreSS-3 OR/NNT/adverse-event figures and flagged it as a drug trial, not of STreSS; added STreSS-4 primary/secondary discrepancy (1 of 18 secondary outcomes); added Fjorback 2013 full citation and end-of-treatment difference; added AHEAD faster-improvement note; Folketing resolution V 82 (14 Mar 2019) specified; regional-unit site list and ~45-staff figure flagged as unverified, and regional units noted as generic functional-disorder care; added 2025 network meta-analysis; insurance recoded to sometimes/indirect.*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: founding confirmed as spring 1999 (Aarhus County + AUH), patients since 2005; regional-unit sites partly confirmed (AUH, Bispebjerg-Frederiksberg, Vejle, Hammel), full list not retrievable; ~45-staff figure dropped (not published); "six regional units" claim removed; annual patient counts not published.*

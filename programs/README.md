@@ -1,6 +1,6 @@
 # Program index
 
-74 programs, grouped by family. Each name links to its review. Columns: founded year, business model, evidence level, insurance, whether one mechanism is claimed across conditions, and estimated cumulative people engaged (order of magnitude; see the Methods tab of `summary/mind_body_atlas.html`).
+74 programs, grouped by family. Each name links to its review. Columns: founded year, business model, evidence level, insurance, whether one mechanism is claimed across conditions, and estimated cumulative people engaged (order of magnitude; see the Methods tab of the atlas).
 
 ## Neuroplastic / mind-body syndrome
 
@@ -25,11 +25,11 @@
 | Program | Founded | Model | Evidence | Insurance | Mechanism scope | Engaged |
 |---|---|---|---|---|---|---|
 | [Lightning Process](lightning-process.md) | 1999 | commercial | pilot or single RCT | no | single unified mechanism | ~63k |
-| [Mickel Therapy](mickel-therapy.md) | 2000 | commercial | none | no | single unified mechanism | ~6k |
+| [Mickel Therapy](mickel-therapy.md) | 2002 | commercial | none | no | single unified mechanism | ~6k |
 | [Optimum Health Clinic](optimum-health-clinic.md) | 2004 | commercial | case reports/observational only | no | mostly unified with condition-specific emphasis | ~25k |
+| [Joe Dispenza](joe-dispenza.md) | 2005 | commercial | case reports/observational only | no | single unified mechanism | ~2.0M |
 | [Gupta Program](gupta-program.md) | 2007 | commercial | multiple RCTs | no | single unified mechanism | ~40k |
 | [DNRS](dnrs.md) | 2008 | commercial | case reports/observational only | no | single unified mechanism | ~40k |
-| [Joe Dispenza](joe-dispenza.md) | 2009 | commercial | case reports/observational only | no | single unified mechanism | ~2.0M |
 | [CFS Health](cfs-health.md) | 2013 | commercial | none | no | single unified mechanism | ~8k |
 | [ANS Rewire](ans-rewire.md) | 2016 | commercial | none | no | mostly unified with condition-specific emphasis | ~6k |
 | [Vital Side](vital-side.md) | 2018 | commercial | none | no | single unified mechanism | ~8k |
@@ -76,14 +76,14 @@
 | Program | Founded | Model | Evidence | Insurance | Mechanism scope | Engaged |
 |---|---|---|---|---|---|---|
 | [Somatic Experiencing](somatic-experiencing.md) | 1970 | clinician-delivered (fee-for-service) | multiple RCTs | sometimes/indirect | single unified mechanism | ~794k |
-| [Hanna Somatics](hanna-somatics.md) | 1975 | freemium/hybrid | case reports/observational only | no | mostly unified with condition-specific emphasis | ~100k |
+| [Hanna Somatics](hanna-somatics.md) | 1975 | freemium/hybrid | case reports/observational only | sometimes/indirect | mostly unified with condition-specific emphasis | ~100k |
 | [IFS](internal-family-systems.md) | 1985 | clinician-delivered (fee-for-service) | multiple RCTs | sometimes/indirect | transdiagnostic / not disorder-focused | ~2.0M |
 | [EMDR](emdr.md) | 1989 | clinician-delivered (fee-for-service) | systematic reviews/meta-analyses | yes | mostly unified with condition-specific emphasis | ~4.0M |
 | [EFT Tapping](eft-tapping.md) | 1993 | freemium/hybrid | systematic reviews/meta-analyses | sometimes/indirect | single unified mechanism | ~2.5M |
 | [Polyvagal-informed therapy](polyvagal-theory-informed-therapy.md) | 1994 | mixed | pilot or single RCT | sometimes/indirect | single unified mechanism | ~1.0M |
 | [TRE](tre-trauma-releasing-exercises.md) | 2004 | freemium/hybrid | pilot or single RCT | no | transdiagnostic / not disorder-focused | ~200k |
-| [Compassionate Inquiry (Maté)](compassionate-inquiry-gabor-mate.md) | 2015 | mixed | none | sometimes/indirect | single unified mechanism | ~25k |
 | [SmartBody SmartMind](smartbody-smartmind-irene-lyon.md) | 2016 | freemium/hybrid | case reports/observational only | no | single unified mechanism | ~25k |
+| [Compassionate Inquiry (Maté)](compassionate-inquiry-gabor-mate.md) | 2018 | mixed | none | sometimes/indirect | single unified mechanism | ~25k |
 
 ## Movement & breath
 
@@ -102,7 +102,7 @@
 |---|---|---|---|---|---|---|
 | [Gut-directed hypnotherapy](gut-directed-hypnotherapy.md) | 1984 | clinician-delivered (fee-for-service) | systematic reviews/meta-analyses | sometimes/indirect | mostly unified with condition-specific emphasis | ~100k |
 | [Nerva](nerva.md) | 2019 | commercial | pilot or single RCT | sometimes/indirect | mostly unified with condition-specific emphasis | ~200k |
-| [Reveri](reveri.md) | 2020 | commercial | case reports/observational only | no | mostly unified with condition-specific emphasis | ~158k |
+| [Reveri](reveri.md) | 2020 | commercial | pilot or single RCT | no | mostly unified with condition-specific emphasis | ~158k |
 
 ## Devices & neuromodulation
 

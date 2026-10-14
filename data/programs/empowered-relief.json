@@ -66,7 +66,7 @@
         "20-min binaural relaxation audio for home practice"
     ],
     "mainstream_adoption": "substantial",
-    "mainstream_notes": "Developed and housed at Stanford Medicine. Program-listed adopters/partners: Stanford Health Care, Cleveland Clinic (standard of care for chronic pain and lumbar spine surgery, launched online c. 2020; Davin et al. 2022), Kaiser Permanente, VA clinics, NHS, Brigham and Women's, Cedars-Sinai, Intermountain, Allegheny Health Network, Lehigh Valley Health Network, Humana. Adopters invoke the 2019 HHS Pain Management Best Practices report's general recommendation of behavioral pain care (a specific citation of ER in that report was not verified). Funded by NIH, PCORI and DoD, including the PROs trial (608 TRICARE beneficiaries). CME accredited for multiple professions.",
+    "mainstream_notes": "Developed and housed at Stanford Medicine. Program-listed adopters/partners: Stanford Health Care, Cleveland Clinic (standard of care for chronic pain and lumbar spine surgery, launched online c. 2020; Davin et al. 2022), Kaiser Permanente, VA clinics, NHS, Brigham and Women's, Cedars-Sinai, Intermountain, Allegheny Health Network, Lehigh Valley Health Network, Humana. The 2019 HHS Pain Management Best Practices report recommends behavioral pain care and twice cites the 2014 pilot of ER's precursor class (ref. 73), but does not name Empowered Relief. Funded by NIH, PCORI and DoD, including the PROs trial (608 TRICARE beneficiaries). CME accredited for multiple professions.",
     "insurance": "sometimes/indirect",
     "insurance_notes": "No ER-specific code or coverage policy. Cleveland Clinic bills it as Health and Behavior Assessment and Intervention services (Davin et al. 2022; CPT 9615x-9616x family) when a licensed clinician delivers it to patients with a medical diagnosis. Some systems offer it free.",
     "evidence_level": "multiple RCTs",
@@ -151,9 +151,9 @@
             },
             {
                 "metric": "Major media coverage",
-                "value": "NYT (Nov 2021), Harvard Health (Dec 2021), PBS documentary (2021), WSJ (Oct 2023), Men's Health (2023), NIH/NCCIH press releases (2021, 2024)",
-                "source": "empoweredrelief.stanford.edu/news (not independently verified)",
-                "year": 2023
+                "value": "NYT Well (9 Nov 2021; ~300 instructors then), Harvard Health (1 Dec 2021), PBS documentary Pain Secrets (Nov 2021), WSJ (1 Oct 2022), Men's Health (11 Apr 2022), NIH/NCCIH press release (Aug 2021) and research spotlight (Feb 2024)",
+                "source": "empoweredrelief.stanford.edu/news; NYT, Harvard Health, WSJ and Men's Health articles checked directly or via Wayback (2026-10-13)",
+                "year": 2022
             },
             {
                 "metric": "Cleveland Clinic usage",
@@ -166,6 +166,12 @@
                 "value": "empoweredrelief.com first archived Jul 2019; Stanford site Aug 2020",
                 "source": "Wayback Machine CDX",
                 "year": 2019
+            },
+            {
+                "metric": "Reddit / Google Trends",
+                "value": "No dedicated subreddit or Wikipedia article; Reddit search JSON and Google Trends blocked automated access (403/429), so not measured",
+                "source": "reddit.com, trends.google.com (checked 2026-10-13)",
+                "year": 2026
             }
         ],
         "reach_estimate": "~10,000-30,000 cumulative patients: 10,000+ reported by the program, plus trial participants and unreported classes at adopting health systems (order of magnitude 10^4)",
@@ -228,7 +234,7 @@
                 "relative_activity": 9
             }
         ],
-        "method_notes": "Web search quota was exhausted during both research and fact-checking, so Reddit, Google Trends and social-media metrics were not collected. Trajectory is based on: (1) program-reported patient, instructor and country counts; (2) Wayback first-capture dates; (3) the dated news listing on the official site (media spike Aug-Dec 2021 after the JAMA Netw Open RCT; health-system rollouts and WSJ coverage 2022-2023); and (4) PubMed publication counts by year (rising sharply 2024-2026 with PCORI/NIH/DoD trials and adaptations). Activity rises steadily because adoption is through clinicians and institutions, not consumer marketing. Consumer and forum visibility is low compared with direct-to-patient programs."
+        "method_notes": "Reddit search JSON and Google Trends returned 403/429 to automated requests (checked 2026-10-13), so forum and search-interest metrics were not collected; media items were verified against the original articles. Trajectory is based on: (1) program-reported patient, instructor and country counts; (2) Wayback first-capture dates; (3) the dated news listing on the official site (media spike Aug-Dec 2021 after the JAMA Netw Open RCT; health-system rollouts and WSJ coverage 2022-2023); and (4) PubMed publication counts by year (rising sharply 2024-2026 with PCORI/NIH/DoD trials and adaptations). Activity rises steadily because adoption is through clinicians and institutions, not consumer marketing. Consumer and forum visibility is low compared with direct-to-patient programs."
     },
     "sources": [
         "https://empoweredrelief.stanford.edu/",
@@ -250,6 +256,12 @@
         "https://pubmed.ncbi.nlm.nih.gov/42542155/",
         "https://pubmed.ncbi.nlm.nih.gov/41712512/",
         "https://pubmed.ncbi.nlm.nih.gov/42834451/",
-        "https://clinicaltrials.gov/study/NCT03167086"
+        "https://clinicaltrials.gov/study/NCT03167086",
+        "https://www.nytimes.com/2021/11/09/well/mind/psychologists-chronic-pain-therapy.html",
+        "https://www.health.harvard.edu/pain/a-single-session-class-offers-chronic-low-back-pain-relief",
+        "https://www.wsj.com/articles/the-power-of-brief-mental-health-therapies-11664596862",
+        "https://www.nccih.nih.gov/news/press-releases/nih-funded-study-suggests-a-single-skills-based-session-on-pain-management-packs-a-punch",
+        "https://web.archive.org/web/2020/https://www.hhs.gov/sites/default/files/pmtf-final-report-2019-05-23.pdf",
+        "https://pubmed.ncbi.nlm.nih.gov/38586594/"
     ]
 }

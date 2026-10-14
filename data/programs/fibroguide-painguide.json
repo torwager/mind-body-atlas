@@ -8,7 +8,7 @@
     "Executive-team contributors listed on PainGuide About page: Afton Hassett PsyD, Daniel Whibley PhD, Anna Kratz PhD"
   ],
   "founded_year": 2010,
-  "founded_year_range": "Lineage: 2002 (face-to-face 6-session FM CBT protocol) -> c.2005-2010 ('Living Well with Fibromyalgia' / WEB-SM website, RCT published 2010) -> c.2010-2015 public FibroGuide (in clinical use by 2015 pilot) -> c.2019-2022 PainGuide relaunch (used as BEST ESC arm from 2022; exact launch date unverified)",
+  "founded_year_range": "Lineage: 2002 (face-to-face 6-session FM CBT protocol) -> c.2005-2010 ('Living Well with Fibromyalgia' / WEB-SM website, RCT published 2010) -> public FibroGuide site (fibroguide.med.umich.edu, (c) 2014; first Wayback capture 2014-11-20; in clinical use by 2015 pilot) -> PainGuide relaunch (FibroGuide URL redirecting from 2019; painguide.com live with (c) 2021 by 2021-03-08 per Wayback; exact launch date not published)",
   "category": "digital app/platform (academic, free web-based CBT self-management)",
   "delivery": [
     "website",
@@ -17,7 +17,7 @@
     "coaching (in research versions: medical-assistant coached)"
   ],
   "business_model": "free",
-  "cost_summary": "Free (USD 0). Grant-funded (NIAMS R01-AR050044 for the 2010 trial, which was also DoD-sponsored; NIH HEAL BACPAC); Stoltz Family listed as sponsor. Free account needed only for the symptom tracker. Developers disclose royalties from a commercial digital pain tool (Tonix) and digital-therapeutics consultancies.",
+  "cost_summary": "Free (USD 0). Grant-funded (NIAMS R01-AR050044 and DoD DAMD 17-00-2-0018 for the 2010 trial; NIH HEAL BACPAC); Stoltz Family listed as sponsor. Free account needed only for the symptom tracker. Developers disclose royalties from a commercial digital pain tool (Tonix) and digital-therapeutics consultancies. Clauw describes PainGuide as free, a 'public service' from which the group gets nothing.",
   "cost_usd_typical": 0,
   "conditions_claimed": [
     "fibromyalgia",
@@ -78,7 +78,7 @@
     "information on professional care (meds, devices, procedures)"
   ],
   "mainstream_adoption": "moderate",
-  "mainstream_notes": "Created and hosted by the University of Michigan and used in U-M care. It is the Enhanced Self-Care arm of the NIH HEAL BACPAC BEST SMART trial (about 1,014-1,019 enrolled, 805 randomized; the design paper names the modules 'PainGuide') and the run-in for the U-M interventional-response phenotyping study (Pain Med 2023 protocol). It is also tested in the Tailored PainGuide RCT (target n=550, NCT05843890; tailored vs standard PainGuide). Derivatives include PROSPECT (chemotherapy neuropathy) and a breast-cancer symptom site. The International Pelvic Pain Society lists it as a patient resource. It is not itself named in guidelines, but it delivers guideline-recommended CBT and exercise content.",
+  "mainstream_notes": "Created and hosted by the University of Michigan and used in U-M care. It is the Enhanced Self-Care arm of the NIH HEAL BACPAC BEST SMART trial (about 1,014-1,019 enrolled, 805 randomized; the design paper names the modules 'PainGuide') and the 4-week run-in for the U-M interventional-response phenotyping SMART (NCT04870957; 494 started the PainGuide run-in, 417 completed it; completed 2025, results posted). It is also tested in the Tailored PainGuide RCT (target n=550, NCT05843890; tailored vs standard PainGuide). Derivatives include PROSPECT (chemotherapy neuropathy) and a breast-cancer symptom site. The International Pelvic Pain Society lists it as a patient resource. It is not itself named in guidelines, but it delivers guideline-recommended CBT and exercise content.",
   "insurance": "no",
   "insurance_notes": "Free, so reimbursement is not applicable. Clinician or medical-assistant coaching around it could be billed under generic codes, but there is no specific coverage policy.",
   "evidence_level": "pilot or single RCT",
@@ -136,32 +136,122 @@
   "controversy": "Little controversy about the program itself: it is non-commercial, makes no cure claims and uses conventional CBT and exercise content. Critiques target the underlying centralized/nociplastic construct: a diagnosis by exclusion without a validated biomarker, which some advocates see as psychologizing illness or overlooking peripheral pathology such as small-fibre neuropathy. Other criticisms: modest effect sizes, low engagement in unguided use, only one adequately controlled efficacy RCT (from 2010) and none with an attention control, and nearly all trials run by the developers, some of whom disclose royalties from a commercial digital pain tool (Tonix) and digital-therapeutics consultancies. The 2026 PRISM-CBT trial missed its primary endpoint. Registry-posted (unpublished) BEST results show the unguided PainGuide self-care arm did worst of four first-line treatments for chronic low back pain.",
   "popularity": {
     "indicators": [
-      {"metric": "RCT publication of web program", "value": "Pain 2010, N=118", "source": "PubMed 20855168", "year": 2010},
-      {"metric": "Independent clinical implementation pilot", "value": "N=35 APRN clinic", "source": "Pain Manag Nurs 2016", "year": 2015},
-      {"metric": "Use as NIH HEAL BACPAC trial arm", "value": "BEST trial: 1,014-1,019 enrolled / 805 randomized (205 to PainGuide self-care)", "source": "ClinicalTrials.gov NCT05396014; Pain Med 2025", "year": 2024},
-      {"metric": "Tailored PainGuide RCT enrollment target", "value": "550", "source": "ClinicalTrials.gov NCT05843890", "year": 2023},
-      {"metric": "Reddit/social media mentions", "value": "essentially none found", "source": "web search", "year": 2026},
-      {"metric": "Site maintenance", "value": "(c) 2025 footer; FibroGuide URL now PainGuide-branded", "source": "painguide.com, fibroguide.med.umich.edu", "year": 2026}
+      {
+        "metric": "RCT publication of web program",
+        "value": "Pain 2010, N=118",
+        "source": "PubMed 20855168",
+        "year": 2010
+      },
+      {
+        "metric": "Independent clinical implementation pilot",
+        "value": "N=35 APRN clinic",
+        "source": "Pain Manag Nurs 2016",
+        "year": 2015
+      },
+      {
+        "metric": "Use as NIH HEAL BACPAC trial arm",
+        "value": "BEST trial: 1,014-1,019 enrolled / 805 randomized (205 to PainGuide self-care)",
+        "source": "ClinicalTrials.gov NCT05396014; Pain Med 2025",
+        "year": 2024
+      },
+      {
+        "metric": "Use as BACPAC U-M SMART run-in",
+        "value": "494 started PainGuide run-in, 417 completed",
+        "source": "ClinicalTrials.gov NCT04870957",
+        "year": 2024
+      },
+      {
+        "metric": "Tailored PainGuide RCT enrollment target",
+        "value": "550",
+        "source": "ClinicalTrials.gov NCT05843890",
+        "year": 2023
+      },
+      {
+        "metric": "Reddit/social media mentions",
+        "value": "none found in web searches; Reddit search/API blocked to automated access, so not directly confirmed",
+        "source": "web search; reddit.com (blocked 2026-10-13)",
+        "year": 2026
+      },
+      {
+        "metric": "Site maintenance",
+        "value": "(c) 2025 footer; FibroGuide URL now PainGuide-branded",
+        "source": "painguide.com, fibroguide.med.umich.edu",
+        "year": 2026
+      },
+      {
+        "metric": "App store presence",
+        "value": "no Apple App Store or Google Play listing for PainGuide/FibroGuide (tracker is web-only)",
+        "source": "iTunes Search API; Google Play search",
+        "year": 2026
+      },
+      {
+        "metric": "Earliest web archive capture",
+        "value": "FibroGuide 2014-11-20; PainGuide (painguide.com) 2021-03-08",
+        "source": "Wayback Machine",
+        "year": 2014
+      }
     ],
-    "reach_estimate": "~10^4-10^5 cumulative users. A few thousand trial participants across U-M, BACPAC and derivative studies; public free use via clinician referral and lectures is unquantified. No published usage figures.",
+    "reach_estimate": "~10^4-10^5 cumulative users. About 2,000 trial participants (plus up to 550 in Tailored PainGuide) across U-M, BACPAC and derivative studies; public free use via clinician referral and lectures is unquantified. No published usage figures.",
     "reach_log10": 4.5,
     "trajectory": [
-      {"year": 2002, "relative_activity": 1},
-      {"year": 2005, "relative_activity": 2},
-      {"year": 2008, "relative_activity": 3},
-      {"year": 2010, "relative_activity": 5},
-      {"year": 2012, "relative_activity": 5},
-      {"year": 2014, "relative_activity": 5},
-      {"year": 2016, "relative_activity": 5},
-      {"year": 2018, "relative_activity": 5},
-      {"year": 2020, "relative_activity": 6},
-      {"year": 2022, "relative_activity": 7},
-      {"year": 2023, "relative_activity": 7},
-      {"year": 2024, "relative_activity": 8},
-      {"year": 2025, "relative_activity": 7},
-      {"year": 2026, "relative_activity": 7}
+      {
+        "year": 2002,
+        "relative_activity": 1
+      },
+      {
+        "year": 2005,
+        "relative_activity": 2
+      },
+      {
+        "year": 2008,
+        "relative_activity": 3
+      },
+      {
+        "year": 2010,
+        "relative_activity": 5
+      },
+      {
+        "year": 2012,
+        "relative_activity": 5
+      },
+      {
+        "year": 2014,
+        "relative_activity": 5
+      },
+      {
+        "year": 2016,
+        "relative_activity": 5
+      },
+      {
+        "year": 2018,
+        "relative_activity": 5
+      },
+      {
+        "year": 2020,
+        "relative_activity": 6
+      },
+      {
+        "year": 2022,
+        "relative_activity": 7
+      },
+      {
+        "year": 2023,
+        "relative_activity": 7
+      },
+      {
+        "year": 2024,
+        "relative_activity": 8
+      },
+      {
+        "year": 2025,
+        "relative_activity": 7
+      },
+      {
+        "year": 2026,
+        "relative_activity": 7
+      }
     ],
-    "method_notes": "Trajectory is inferred from dated milestones: 2002 face-to-face protocol, 2010 RCT and public FibroGuide, 2015-16 pilots, 2018 derivative trials, c.2020-22 PainGuide relaunch and BACPAC adoption (BEST 2022-24), 2023 Tailored PG RCT, 2026 PRISM-CBT publication. Exact launch dates are not verified, and no Google Trends, app-store or Reddit signal was detectable. Activity therefore mainly reflects academic and research use, not consumer popularity. Reach is an order-of-magnitude guess from trial enrolments plus assumed clinic referrals."
+    "method_notes": "Trajectory is inferred from dated milestones: 2002 face-to-face protocol, 2010 RCT and public FibroGuide, 2015-16 pilots, 2018 derivative trials, PainGuide relaunch (FibroGuide URL redirecting 2019, painguide.com live by March 2021 per Wayback) and BACPAC adoption (BEST 2022-24), 2023 Tailored PG RCT, 2026 PRISM-CBT publication. Exact launch dates are not published (Wayback first captures: FibroGuide Nov 2014, PainGuide Mar 2021). There is no app-store listing, and no Reddit signal was found (Reddit search was blocked to automated access). Google Trends was not checked. Activity therefore mainly reflects academic and research use, not consumer popularity. Reach is an order-of-magnitude guess from trial enrolments plus assumed clinic referrals."
   },
   "sources": [
     "https://painguide.com/",
@@ -189,6 +279,11 @@
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC12585105/",
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC10403311/",
     "https://www.pelvicpain.org/public/resources/educational-resources/websites/5-painguide",
+    "https://psychopharmacologyinstitute.com/?p=1203366",
+    "https://clinicaltrials.gov/study/NCT04870957",
+    "https://web.archive.org/web/20141120234441/http://fibroguide.med.umich.edu/",
+    "https://web.archive.org/web/20210308113943/http://painguide.com/",
+    "https://itunes.apple.com/search?term=painguide&entity=software",
     "/Users/f003vz1/Dartmouth College Dropbox/Tor Wager/A10_Mini-Reviews/Mind_Brain_Body_treatments_review/programs/fibroguide-painguide.md"
   ]
 }

@@ -3,21 +3,21 @@
   "name": "Wearable peripheral neuromodulation for migraine and pain (Cefaly, Nerivio, Relivion/Proliv, Quell)",
   "url": "https://www.nerivio.com/",
   "founders": [
-    "Pierre Rigaux and Pierre-Yves Muller (Cefaly / STX-Med SPRL, Belgium; not re-verified)",
+    "Pierre Rigaux and Pierre-Yves Muller (Cefaly / STX-Med SPRL, Liège, Belgium, founded 2004)",
     "Alon Ironi, Ronen Jashek, Shimon Eckhouse (Theranica / Nerivio; Slava Barabash listed by one source); trials led by David Yarnitsky",
-    "Neurolief Ltd (Relivion, Proliv Rx; founders not verified)",
-    "Shai Gozani (NeuroMetrix / Quell; NeuroMetrix now an electroCore subsidiary)"
+    "Shmuel Shany and Amit Dar (Neurolief Ltd; Relivion, Proliv Rx)",
+    "Shai Gozani (NeuroMetrix, founded 1996 / Quell; NeuroMetrix now an electroCore subsidiary)"
   ],
   "founded_year": 2014,
-  "founded_year_range": "2004-2022: STX-Med/Cefaly company c.2004 (unverified); FDA De Novo DEN120019 for Cefaly 11 Mar 2014; Quell cleared as Ascend K140333 3 Jul 2014, Quell K152954 Jan 2016; Theranica founded 2016 (some sources 2015), Nerivio De Novo DEN180059 20 May 2019; Relivion 510(k) K203419 16 Feb 2021; Quell-FM De Novo DEN210046 18 May 2022",
+  "founded_year_range": "2004-2022: STX-Med/Cefaly company founded 2004 (European sales from c.2009); NeuroMetrix 1996; FDA De Novo DEN120019 for Cefaly 11 Mar 2014; Quell cleared as Ascend K140333 3 Jul 2014, Quell K152954 Jan 2016; Theranica founded 2016 (some sources 2015), Nerivio De Novo DEN180059 20 May 2019; Relivion 510(k) K203419 16 Feb 2021; Quell-FM De Novo DEN210046 18 May 2022",
   "category": "device/neuromodulation",
   "delivery": [
     "device",
     "app"
   ],
   "business_model": "commercial",
-  "cost_summary": "Relivion: verified US$200 non-refundable 60-day program fee, then cash purchase 'as low as' $900 (site pricing as of Mar 2026). Nerivio: Rx only via specialty pharmacy or telehealth, 18 x 45-min treatments per unit, no public price, insurance or copay support. Cefaly: OTC and HSA/FSA eligible; about $330-500 plus electrodes (price unverified). Quell: OTC Quell (about $250-300, historical, unverified) appears discontinued; Quell Fibromyalgia is Rx with no public price.",
-  "cost_usd_typical": 400,
+  "cost_summary": "Relivion: verified US$200 non-refundable 60-day program fee, then cash purchase 'as low as' $900 (site pricing as of Mar 2026). Nerivio: Rx only via specialty pharmacy or telehealth, 18 x 45-min treatments per unit, no public price, insurance or copay support. Cefaly: OTC and HSA/FSA eligible; Cefaly Connected $509 plus electrodes $28-36 per 3-pack (US store, Oct 2026). Quell: OTC Quell (historically about $249 starter kit plus about $30/month electrodes) appears discontinued; Quell Fibromyalgia is Rx with no public price.",
+  "cost_usd_typical": 509,
   "conditions_claimed": [
     "headache/migraine",
     "fibromyalgia",
@@ -52,9 +52,9 @@
     "app-based symptom diaries, sleep/activity tracking"
   ],
   "mainstream_adoption": "moderate",
-  "mainstream_notes": "All are FDA-authorized. The Cefaly De Novo (2014) was the first migraine device, followed by 6 Cefaly 510(k)s through 2024. Nerivio has 7 FDA actions (De Novo plus 6 510(k)s, 2019-2025) and is now indicated for ages 8+, acute and preventive. Quell-FM De Novo 2022 for fibromyalgia. Neuromodulation devices are named among options in the 2021 American Headache Society consensus statement. Prescribed in US headache centres. Available to US veterans (VA real-world cohort published 2026); DoD-wide use not verified. Fibromyalgia use is niche.",
+  "mainstream_notes": "All are FDA-authorized. The Cefaly De Novo (2014) was the first migraine device, followed by 6 Cefaly 510(k)s through 2024. Nerivio has 7 FDA actions (De Novo plus 6 510(k)s, 2019-2025) and is now indicated for ages 8+, acute and preventive. Quell-FM De Novo 2022 for fibromyalgia. Neuromodulation devices are named among options in the 2021 American Headache Society consensus statement. Prescribed in US headache centres. Available to US veterans (VA real-world cohort published 2026); No public DoD/TRICARE coverage policy found. Neurolief's Proliv Rx received FDA PMA (P250010) for adjunctive MDD treatment on 31 Dec 2025. Fibromyalgia use is niche.",
   "insurance": "sometimes/indirect",
-  "insurance_notes": "Nerivio says it is 'eligible for insurance coverage', varying by plan, with a copay/support program; Medicaid coverage claims were not found on the current FAQ. The VA covers Relivion per its site, and Nerivio for veterans. Relivion's commercial coverage is not available. Cefaly is OTC and HSA/FSA eligible, mostly out of pocket.",
+  "insurance_notes": "Nerivio says it is 'eligible for insurance coverage', varying by plan, with a copay/support program; DC Medicaid became the first Medicaid plan to cover it (May 2024), and Theranica reported about 130 million covered US lives by Dec 2025, mostly BCBS plans. The VA covers Relivion per its site, and Nerivio for veterans. Relivion's commercial coverage is not available. Cefaly is OTC and HSA/FSA eligible, mostly out of pocket.",
   "evidence_level": "systematic reviews/meta-analyses",
   "key_trials": [
     {
@@ -135,7 +135,7 @@
       "url": "https://doi.org/10.1111/ene.70559"
     }
   ],
-  "controversy": "Nearly all trials are manufacturer-funded with company co-authors; independent replication is scarce. Sham blinding is hard and sham response rates are high (about 37-55% 2-h relief). Pain-freedom gains are modest (7% absolute in TEAM). There are no head-to-head trials against triptans or gepants, and an independent 2026 systematic review notes heterogeneous, guideline-nonadherent endpoints. Quell-FM was authorized despite a null primary endpoint, with marked unblinding. Marketing language ('normalizes the brain's electrical activity') outruns the mechanistic evidence, and CPM engagement by REN is inferred rather than shown in patients. Rx and specialty-pharmacy channels and disposable units create recurring costs. Neurolief's depression claim for Proliv Rx comes from the company and is unverified.",
+  "controversy": "Nearly all trials are manufacturer-funded with company co-authors; independent replication is scarce. Sham blinding is hard and sham response rates are high (about 37-55% 2-h relief). Pain-freedom gains are modest (7% absolute in TEAM). There are no head-to-head trials against triptans or gepants, and an independent 2026 systematic review notes heterogeneous, guideline-nonadherent endpoints. Quell-FM was authorized despite a null primary endpoint, with marked unblinding. Marketing language ('normalizes the brain's electrical activity') outruns the mechanistic evidence, and CPM engagement by REN is inferred rather than shown in patients. Rx and specialty-pharmacy channels and disposable units create recurring costs. Neurolief's Proliv Rx was FDA-approved (PMA) for adjunctive depression treatment on the basis of a single sponsor trial (MOOD, N=124).",
   "popularity": {
     "indicators": [
       {
@@ -173,9 +173,33 @@
         "value": "NeuroMetrix is a wholly owned subsidiary of electroCore (closed c. May 2025)",
         "source": "neurometrix.com; SEC EDGAR 8-K filings",
         "year": 2025
+      },
+      {
+        "metric": "r/migraine weekly visitors / weekly contributions",
+        "value": "~188K / ~8.5K",
+        "source": "Wayback capture of reddit.com/r/migraine (23 Mar 2026)",
+        "year": 2026
+      },
+      {
+        "metric": "US lives with insurance coverage for Nerivio (company-reported)",
+        "value": "~130 million",
+        "source": "Theranica press release, Dec 2025 (via PharmaShots/Owler)",
+        "year": 2025
+      },
+      {
+        "metric": "US Nerivio users (company-reported, undated)",
+        "value": ">50,000",
+        "source": "Theranica PR Newswire release (Italian)",
+        "year": 2023
+      },
+      {
+        "metric": "Cefaly units sold in Europe since 2009",
+        "value": "~80,000",
+        "source": "Futura-Sciences",
+        "year": 2014
       }
     ],
-    "reach_estimate": "Roughly 10^5-10^6 cumulative users across all four brands (highly uncertain). Basis: about 10^4 users in published REN real-world datasets, a 2,313-user Cefaly survey, and sales of Cefaly in Europe and the US since about 2009-2014. Company user and sales totals were not verified.",
+    "reach_estimate": "Roughly 10^5-10^6 cumulative users across all four brands (highly uncertain). Basis: about 10^4 users in published REN real-world datasets, a 2,313-user Cefaly survey, and sales of Cefaly in Europe and the US since about 2009-2014. Company figures: >50,000 US Nerivio users, ~80,000 Cefaly units sold in Europe, ~130M covered lives for Nerivio.",
     "reach_log10": 5.5,
     "trajectory": [
       {
@@ -243,7 +267,7 @@
         "relative_activity": 8
       }
     ],
-    "method_notes": "Trajectory is anchored on FDA decision dates verified via openFDA (Cefaly 2014-2024, Quell 2014/2016/2022, Nerivio 2019-2025, Relivion 2021), on REN publication counts in Europe PMC (accelerating from 2019), and on the 2013 PREMICE/2014 FDA media spike for Cefaly. The 2009 Cefaly European launch is an estimate. Web-search budget was exhausted in both the research and fact-check passes, so Reddit, Google Trends and company user counts could not be checked. Reach is an order-of-magnitude estimate."
+    "method_notes": "Trajectory is anchored on FDA decision dates verified via openFDA (Cefaly 2014-2024, Quell 2014/2016/2022, Nerivio 2019-2025, Relivion 2021), on REN publication counts in Europe PMC (accelerating from 2019), and on the 2013 PREMICE/2014 FDA media spike for Cefaly. The 2009 Cefaly European launch is an estimate. Reddit activity comes from a Wayback capture because the live Reddit JSON returned 403. Company user counts are company-reported. Google Trends was not checked. Reach is an order-of-magnitude estimate."
   },
   "sources": [
     "https://www.nerivio.com/",
@@ -278,6 +302,19 @@
     "https://doi.org/10.1080/13696998.2023.2205751",
     "https://doi.org/10.1111/head.14153",
     "https://doi.org/10.2147/JPR.S156610",
-    "https://doi.org/10.1111/head.14860"
+    "https://doi.org/10.1111/head.14860",
+    "https://api.fda.gov/device/pma.json?search=pma_number:P250010",
+    "https://doi.org/10.1177/0333102416656118",
+    "https://www.cefaly.com/blog/history-of-cefaly-technology/",
+    "https://shop.cefaly.com/products.json",
+    "https://www.biospace.com/dwhp-invests-in-cefaly-technology-sprl",
+    "https://www.rtbf.be/article/dw-healthcare-partners-acquiert-80-de-la-societe-liegeoise-cefaly-technology-10249923",
+    "https://www.futura-sciences.com/sante/actualites/medecine-cefaly-electrodes-externes-migraine-53041/",
+    "https://dealroom.co/companies/neurolief/",
+    "https://www.biospace.com/neurometrix-celebrates-20-year-anniversary",
+    "https://www.consumerreports.org/conditions-treatments/quell-wearable-might-deliver-chronic-pain-relief-without-drugs/",
+    "https://www.neurologylive.com/view/insurance-coverage-migraine-preventive-nerivio-expands-dc-medicaid-plan",
+    "https://pharmashots.com/tag/nerivio/",
+    "https://web.archive.org/web/20260323104419/https://www.reddit.com/r/migraine/"
   ]
 }

@@ -11,14 +11,30 @@
     "Richard J. Davidson / Healthy Minds Innovations, now Humin (Healthy Minds Program)"
   ],
   "founded_year": 2012,
-  "founded_year_range": "2009-2019. Insight Timer started as a timer app about 2009 (not verified). Headspace was founded as an events company in London in May 2010, and its app launched in 2012. Calm was founded on 4 May 2012. The HMP app arrived about 2019 (first RCT ran Oct 2019-Apr 2020). 2012 is used as the modal app-era start.",
+  "founded_year_range": "2009-2019. Insight Timer's iOS app (originally 'Zen Timer') was released 5 Nov 2009; Christopher Plowman and his brother bought it in 2014. Headspace was founded as an events company in London in May 2010, and its iOS app was released 2 Feb 2012. Calm was founded on 4 May 2012; its iOS app was released 22 Feb 2013. The HMP app arrived about 2019 (first RCT ran Oct 2019-Apr 2020). 2012 is used as the modal app-era start.",
   "category": "digital app/platform",
-  "delivery": ["app", "online course", "coaching", "clinician-delivered"],
+  "delivery": [
+    "app",
+    "online course",
+    "coaching",
+    "clinician-delivered"
+  ],
   "business_model": "mixed",
-  "cost_summary": "Headspace: 14-day trial, then a widely reported ~USD 12.99/month or ~69.99/year. Calm: 14-day trial, then ~USD 14.99/month, ~69.99/year or ~399.99 lifetime. Insight Timer: large free library, with MemberPlus at ~USD 60/year. Healthy Minds Program: free (nonprofit; 'up to 600 days of guided practices'). Prices are reported 2024-25 figures and were not re-verified in Oct 2026. Headspace and Calm are often free through employers or health plans.",
+  "cost_summary": "Headspace: 14-day trial, then USD 12.99/month or 69.99/year (US; RecurDash tracking of headspace.com/subscriptions, Oct 2026). Calm: free limited tier; Premium USD 16.99/month, 79.99/year on the web (69.99/year via iOS), 99.99/year family, 499.99 lifetime (RecurDash citing Calm support, Apr 2026; prices vary by country). Insight Timer: large free library, with MemberPlus at USD 59.99/year or 9.99/month. Healthy Minds Program: free (nonprofit; 'up to 600 days of guided practices'). Headspace and Calm are often free through employers or health plans.",
   "cost_usd_typical": 70,
-  "conditions_claimed": ["general stress/wellbeing", "anxiety", "depression", "insomnia", "chronic pain (general)"],
-  "conditions_primary": ["general stress/wellbeing", "anxiety", "insomnia", "depression"],
+  "conditions_claimed": [
+    "general stress/wellbeing",
+    "anxiety",
+    "depression",
+    "insomnia",
+    "chronic pain (general)"
+  ],
+  "conditions_primary": [
+    "general stress/wellbeing",
+    "anxiety",
+    "insomnia",
+    "depression"
+  ],
   "differentiation": "transdiagnostic / not disorder-focused",
   "mechanisms": [
     "mind-wandering / reactivity (mindfulness model)",
@@ -51,7 +67,7 @@
     "Insight Timer user-uploaded tracks incl. yoga nidra, EFT, TMS/mind-body pain content"
   ],
   "mainstream_adoption": "substantial",
-  "mainstream_notes": "The apps are widely adopted as employer, EAP and health-plan wellness benefits. Headspace for Work and Calm Business/Calm Health (launched Oct 2022 after Calm acquired Ripple Health Group in Feb 2022) sell through these channels. Kaiser Permanente lists Calm and Headspace as member self-care apps but states they are not covered health-plan benefits. Headspace was offered free to NHS staff in 2020. Headspace merged with Ginger (announced Aug 2021, closed Oct 2021), which added therapy and psychiatry, and headspace.com now says it is 'part of Sword' (date and terms not verified). No pain or fatigue guideline names these apps; guidelines endorse mindfulness-based interventions generically, not app delivery.",
+  "mainstream_notes": "The apps are widely adopted as employer, EAP and health-plan wellness benefits. Headspace for Work and Calm Business/Calm Health (launched Oct 2022 after Calm acquired Ripple Health Group in Feb 2022) sell through these channels. Kaiser Permanente lists Calm and Headspace as member self-care apps but states they are not covered health-plan benefits. Headspace was offered free to NHS staff in 2020. Headspace merged with Ginger (announced Aug 2021, closed Oct 2021), which added therapy and psychiatry, and in Sept 2026 Sword Health announced a definitive all-cash agreement to acquire Headspace (parent OrangeDot) for up to USD 300M, closing expected early Q4 2026; headspace.com already says it is 'part of Sword'. Kaiser Permanente began offering Calm free to members in May 2020. No Headspace or Calm product has FDA 510(k) clearance. No pain or fatigue guideline names these apps; guidelines endorse mindfulness-based interventions generically, not app delivery.",
   "insurance": "sometimes/indirect",
   "insurance_notes": "Consumer subscriptions are not reimbursable as a medical treatment. Access is often provided free through employers, EAPs and health plans, as a wellness perk rather than a covered benefit (e.g., Kaiser Permanente). Headspace's clinical therapy and psychiatry services can be billed to insurance, and Calm Health is sold to payers and providers.",
   "evidence_level": "systematic reviews/meta-analyses",
@@ -123,40 +139,162 @@
   "controversy": "Company-linked conflicts of interest are common. Half of Headspace RCTs had a company COI, and Headspace co-funded the largest US trial (Radin 2025). Calm's Director of Science led most Calm trials, and HMP trials come from the founder's center. Most trials use waitlist controls, have high attrition and see low real-world engagement. Pain marketing cites MBSR and neuroimaging studies of in-person practice rather than app trials. Branded chronic-pain trials have no published or posted results (NCT03495726, NCT03936088). Corporate issues include therapists' complaints about abrupt appointment cancellations during the July 2023 Headspace layoffs, Calm's AI-cloned James Stewart sleep story (Dec 2023), Calm's ~20% layoffs (Aug 2022) and data-privacy concerns. Insight Timer hosts uncurated content that includes unvetted limbic-retraining, neuroplastic-pain and energy-healing claims.",
   "popularity": {
     "indicators": [
-      {"metric": "Headspace app downloads", "value": "105M+ downloads; '100M+ lives touched'; 200 countries/regions", "source": "headspace.com/about-us", "year": 2026},
-      {"metric": "Calm app downloads", "value": "180M+ downloads; 3M five-star reviews", "source": "calm.com/about", "year": 2026},
-      {"metric": "Calm paid subscribers", "value": "~4 million (Nov 2022)", "source": "Wikipedia, Calm (company)", "year": 2022},
-      {"metric": "Calm valuation", "value": "USD 1B (Feb 2019), USD 116M raised in total", "source": "Wikipedia, Calm (company)", "year": 2019},
-      {"metric": "Calm revenue", "value": "USD 22M (2017); USD 75M run rate", "source": "Wikipedia, Calm (company)", "year": 2017},
-      {"metric": "Headspace-Ginger merger valuation", "value": "~USD 3B", "source": "Wikipedia, Headspace (company)", "year": 2021},
-      {"metric": "Insight Timer users and library", "value": "~30M users; 300,000+ titles; ~20k teachers", "source": "insighttimer.com/about", "year": 2026},
-      {"metric": "Humin/HMP reach", "value": ">1M people in 140 countries", "source": "humin.org", "year": 2026},
-      {"metric": "Apple App of the Year", "value": "Calm, 2017", "source": "calm.com/about", "year": 2017},
-      {"metric": "Published RCTs", "value": "14 Headspace and 1 Calm RCTs by May 2021; dozens more by 2026", "source": "O'Daffer 2022; PubMed", "year": 2021}
+      {
+        "metric": "Headspace app downloads",
+        "value": "105M+ downloads; '100M+ lives touched'; 200 countries/regions",
+        "source": "headspace.com/about-us",
+        "year": 2026
+      },
+      {
+        "metric": "Calm app downloads",
+        "value": "180M+ downloads; 3M five-star reviews",
+        "source": "calm.com/about",
+        "year": 2026
+      },
+      {
+        "metric": "Calm paid subscribers",
+        "value": "~4 million (Nov 2022)",
+        "source": "Wikipedia, Calm (company)",
+        "year": 2022
+      },
+      {
+        "metric": "Calm valuation",
+        "value": "USD 1B (Feb 2019), USD 116M raised in total",
+        "source": "Wikipedia, Calm (company)",
+        "year": 2019
+      },
+      {
+        "metric": "Calm revenue",
+        "value": "USD 22M (2017); USD 75M run rate",
+        "source": "Wikipedia, Calm (company)",
+        "year": 2017
+      },
+      {
+        "metric": "Headspace-Ginger merger valuation",
+        "value": "~USD 3B",
+        "source": "Wikipedia, Headspace (company)",
+        "year": 2021
+      },
+      {
+        "metric": "Insight Timer users and library",
+        "value": "~30M users; 300,000+ titles; ~20k teachers",
+        "source": "insighttimer.com/about",
+        "year": 2026
+      },
+      {
+        "metric": "Humin/HMP reach",
+        "value": ">1M people in 140 countries",
+        "source": "humin.org",
+        "year": 2026
+      },
+      {
+        "metric": "Apple App of the Year",
+        "value": "Calm, 2017",
+        "source": "calm.com/about",
+        "year": 2017
+      },
+      {
+        "metric": "Published RCTs",
+        "value": "14 Headspace and 1 Calm RCTs by May 2021; dozens more by 2026",
+        "source": "O'Daffer 2022; PubMed",
+        "year": 2021
+      },
+      {
+        "metric": "Headspace acquisition by Sword",
+        "value": "Up to USD 300M, all cash (definitive agreement announced Sept 2026)",
+        "source": "HLTH/STAT news, Sept 2026",
+        "year": 2026
+      },
+      {
+        "metric": "US App Store ratings",
+        "value": "Calm ~1.99M (4.8); Headspace ~0.97M (4.8); Insight Timer ~0.45M (4.9)",
+        "source": "iTunes lookup API",
+        "year": 2026
+      },
+      {
+        "metric": "r/Meditation subreddit members",
+        "value": "~3.5M (generic meditation community, not brand-specific)",
+        "source": "gummysearch.com/r/Meditation",
+        "year": 2026
+      }
     ],
     "reach_estimate": "~100-200 million unique people. Combined downloads exceed 300M (Headspace 105M+, Calm 180M+, plus Insight Timer's ~30M users and HMP's ~1M), discounted for repeat installs and overlap between apps. Paid subscribers number in the single-digit millions per app.",
     "reach_log10": 8.2,
     "trajectory": [
-      {"year": 2009, "relative_activity": 0.3},
-      {"year": 2010, "relative_activity": 0.5},
-      {"year": 2011, "relative_activity": 0.8},
-      {"year": 2012, "relative_activity": 1.5},
-      {"year": 2013, "relative_activity": 2.2},
-      {"year": 2014, "relative_activity": 3},
-      {"year": 2015, "relative_activity": 4},
-      {"year": 2016, "relative_activity": 5},
-      {"year": 2017, "relative_activity": 6.5},
-      {"year": 2018, "relative_activity": 7},
-      {"year": 2019, "relative_activity": 7.5},
-      {"year": 2020, "relative_activity": 10},
-      {"year": 2021, "relative_activity": 9},
-      {"year": 2022, "relative_activity": 8},
-      {"year": 2023, "relative_activity": 7.5},
-      {"year": 2024, "relative_activity": 7.5},
-      {"year": 2025, "relative_activity": 7.5},
-      {"year": 2026, "relative_activity": 7}
+      {
+        "year": 2009,
+        "relative_activity": 0.3
+      },
+      {
+        "year": 2010,
+        "relative_activity": 0.5
+      },
+      {
+        "year": 2011,
+        "relative_activity": 0.8
+      },
+      {
+        "year": 2012,
+        "relative_activity": 1.5
+      },
+      {
+        "year": 2013,
+        "relative_activity": 2.2
+      },
+      {
+        "year": 2014,
+        "relative_activity": 3
+      },
+      {
+        "year": 2015,
+        "relative_activity": 4
+      },
+      {
+        "year": 2016,
+        "relative_activity": 5
+      },
+      {
+        "year": 2017,
+        "relative_activity": 6.5
+      },
+      {
+        "year": 2018,
+        "relative_activity": 7
+      },
+      {
+        "year": 2019,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2020,
+        "relative_activity": 10
+      },
+      {
+        "year": 2021,
+        "relative_activity": 9
+      },
+      {
+        "year": 2022,
+        "relative_activity": 8
+      },
+      {
+        "year": 2023,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2024,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2025,
+        "relative_activity": 7.5
+      },
+      {
+        "year": 2026,
+        "relative_activity": 7
+      }
     ],
-    "method_notes": "The trajectory is anchored on documented events. Insight Timer began about 2009 (unverified) and Headspace in 2010 (events), with the Headspace and Calm apps launching in 2012. Calm launched Sleep Stories in Dec 2016 and was App of the Year in 2017 (USD 22M revenue). Calm reached a USD 1B valuation in Feb 2019 and the HMP app launched the same year. 2020 is scored 10 for the COVID surge in downloads, free offers and media coverage. 2021 brought the Netflix series and the USD 3B Ginger merger. Calm reported ~4M subscribers in Nov 2022 and laid off ~20% of staff in Aug 2022. Headspace had layoffs in 2023 and is now described as part of Sword (date unverified), as the consumer market plateaued. Google Trends and Reddit data were not quantified because the web-search budget was exhausted, so the trajectory shape relies on the reported 2020 pandemic peak. Reach is cumulative downloads discounted for overlap."
+    "method_notes": "The trajectory is anchored on documented events. Insight Timer's iOS app was released in Nov 2009 and Headspace in 2010 (events), with the Headspace and Calm apps launching in 2012. Calm launched Sleep Stories in Dec 2016 and was App of the Year in 2017 (USD 22M revenue). Calm reached a USD 1B valuation in Feb 2019 and the HMP app launched the same year. 2020 is scored 10 for the COVID surge in downloads, free offers and media coverage. 2021 brought the Netflix series and the USD 3B Ginger merger. Calm reported ~4M subscribers in Nov 2022 and laid off ~20% of staff in Aug 2022. Headspace had layoffs in 2023 and agreed to be acquired by Sword for up to USD 300M in Sept 2026 (vs ~USD 3B in 2021), as the consumer market plateaued. Google Trends was not quantified (no public API) and Reddit's API blocked direct checks; r/Meditation (~3.5M members) is from a third-party tracker. The trajectory shape relies on the reported 2020 pandemic peak. Reach is cumulative downloads discounted for overlap."
   },
   "sources": [
     "https://www.headspace.com/about-us",
@@ -184,6 +322,21 @@
     "https://pubmed.ncbi.nlm.nih.gov/35899379/",
     "https://pubmed.ncbi.nlm.nih.gov/42284591/",
     "https://clinicaltrials.gov/study/NCT03495726",
-    "https://clinicaltrials.gov/study/NCT03936088"
+    "https://clinicaltrials.gov/study/NCT03936088",
+    "https://apps.apple.com/us/app/id337472899",
+    "https://apps.apple.com/us/app/id493145008",
+    "https://apps.apple.com/us/app/id571800810",
+    "https://web.archive.org/web/20130219163357/https://insighttimer.com/",
+    "https://empoweringchatswithsusanburrell.podbean.com/e/02-20-26-christopher-plowman",
+    "https://recurdash.com/subscription-pricing/headspace",
+    "https://recurdash.com/subscription-pricing/calm",
+    "https://support.calm.com/hc/en-us/articles/360008240934",
+    "https://makeheadway.com/blog/insight-timer-app/",
+    "https://hlth.com/insights/news/sword-to-acquire-headspace-in-deal-worth-up-to-300m",
+    "https://www.statnews.com/2026/08/25/sword-health-to-acquire-headspace-per-regulatory-filing/",
+    "https://www.businesswire.com/news/home/20241010397470/en/Mental-Health-Company-Headspace-Launches-Empathetic-AI-Companion",
+    "https://www.cnbc.com/2020/05/19/calm-meditation-app-free-for-kaiser-permanente-members.html",
+    "https://www.mobihealthnews.com/news/headspace-launches-subsidiary-focus-prescription-meditation-apps-digital-health",
+    "https://gummysearch.com/r/Meditation"
   ]
 }

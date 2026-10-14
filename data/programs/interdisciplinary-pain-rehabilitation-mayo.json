@@ -1,7 +1,7 @@
 {
   "slug": "interdisciplinary-pain-rehabilitation-mayo",
   "name": "Interdisciplinary pain rehabilitation / functional restoration (Mayo Clinic Pain Rehabilitation Center and similar)",
-  "url": "https://www.mayoclinic.org/departments-centers/pain-rehabilitation-center/overview/ovc-20481691",
+  "url": "https://www.mayoclinic.org/departments-centers/pain-rehabilitation-center/sections/overview/ovc-20481691",
   "founders": [
     "Mayo Clinic (institutional; Rochester PRC 1974)",
     "Barbara K. Bruce (led development of Mayo pediatric PRC, 2008)",
@@ -21,7 +21,7 @@
     "2-day educational program"
   ],
   "business_model": "clinician-delivered (fee-for-service)",
-  "cost_summary": "Price not published. KFF Health News/NPR (2017) reported the Mayo 3-week program 'can cost up to $40,000' for patients with complicated medical problems, mostly billed to insurance; very few pay out of pocket. One forum report of ~USD 52k is unverified. Three weeks of travel and lodging are paid by the patient. Typical-cost figure below is an estimate.",
+  "cost_summary": "Price not published. KFF Health News/NPR (2017) reported the Mayo 3-week program 'can cost up to $40,000' for patients with complicated medical problems, mostly billed to insurance; very few pay out of pocket. One Mayo Clinic Connect report of ~USD 52k is anecdotal (page blocked to automated access, no archive). Mayo's PRC costs-and-insurance page (Wayback, Apr 2025) gives no price. Three weeks of travel and lodging are paid by the patient. Typical-cost figure below is an estimate.",
   "cost_usd_typical": 30000,
   "conditions_claimed": [
     "chronic pain (general)",
@@ -80,7 +80,7 @@
     "individual maintenance plan and aftercare"
   ],
   "mainstream_adoption": "substantial",
-  "mainstream_notes": "Archetypal tertiary pain-care model with CARF accreditation standards, Cochrane reviews and NICE NG59 recommendation (combined physical and psychological programme for persistent low back pain with psychosocial obstacles); operationalises CDC/VA nonpharmacological care and opioid tapering. VA CARF programs grew from 2 to 20 (2009-2019; Murphy et al. Pain Med 2021). Widespread in Germany (multimodal pain therapy) and Scandinavia. In US private care, CARF-accredited programs fell from ~205-210 (cited for 1988 or 1998) to 84 (2005) and ~54 (2022), mainly because of reimbursement; some programs dropped accreditation without closing. Pediatric IIPT runs at Mayo, Boston Children's, Cincinnati (FIRST), Stanford and Datteln, among others.",
+  "mainstream_notes": "Archetypal tertiary pain-care model with CARF accreditation standards, Cochrane reviews and NICE NG59 recommendation (combined physical and psychological programme for persistent low back pain with psychosocial obstacles); operationalises CDC/VA nonpharmacological care and opioid tapering. VA CARF programs grew from 2 to 20 (2009-2019; Murphy et al. Pain Med 2021). Widespread in Germany (multimodal pain therapy) and Scandinavia. In US private care, CARF-accredited programs fell from 210 (1998) to 87 (2019) per CARF International data (Murphy et al. 2021; Haun et al. 2025), with other tallies of 84 (2005) and ~54 (2022, presentation), mainly because of reimbursement; some programs dropped accreditation without closing. Pediatric IIPT runs at Mayo, Boston Children's, Cincinnati (FIRST), Stanford and Datteln, among others.",
   "insurance": "yes",
   "insurance_notes": "Commonly covered by commercial insurers and (per patient reports) Medicare as outpatient rehabilitation/psychology services or program per diem, usually with prior authorisation. Denials as \"not medically necessary\" are common, and Mayo's insurance team advocates case by case (KFF Health News 2017). A Mayo Florida-Florida Blue pre-post cost study (Sletten 2015, n=53) reported 64-90% lower medical costs after treatment.",
   "evidence_level": "systematic reviews/meta-analyses",
@@ -187,9 +187,9 @@
       },
       {
         "metric": "CARF-accredited US interdisciplinary pain programs",
-        "value": "~205-210 (1988 or 1998; sources disagree) -> 84 (2005) -> ~54 (2022)",
-        "source": "CARF/VA presentation (Murphy); IntechOpen chapter 2021; PMC8599775",
-        "year": 2022
+        "value": "210 (1998) -> 84 (2005) -> 87 (2019); ~54 (2022) per a CARF/VA presentation",
+        "source": "Murphy et al. Pain Med 2021 (PMC8599775), citing CARF International; Haun et al. JMIR Res Protoc 2025 (PMC12089867); CARF/VA presentation; IntechOpen chapter 2021",
+        "year": 2019
       },
       {
         "metric": "VA CARF interdisciplinary pain programs",
@@ -213,32 +213,95 @@
     "reach_estimate": "Mayo PRCs alone: ~300+/yr in Rochester for ~50 years, plus Florida, Arizona and pediatric programs, giving roughly 20,000-30,000 cumulative patients (log10 ~4.4). The generic interdisciplinary/multimodal model (US peak era, VA, Germany, Scandinavia, pediatric IIPT) has plausibly reached on the order of 1 million people worldwide (log10 ~6); this broader figure is used here but is a rough, unverified extrapolation.",
     "reach_log10": 6,
     "trajectory": [
-      {"year": 1970, "relative_activity": 2},
-      {"year": 1974, "relative_activity": 3},
-      {"year": 1976, "relative_activity": 4},
-      {"year": 1980, "relative_activity": 5},
-      {"year": 1985, "relative_activity": 7},
-      {"year": 1987, "relative_activity": 8},
-      {"year": 1990, "relative_activity": 9},
-      {"year": 1995, "relative_activity": 9},
-      {"year": 1998, "relative_activity": 9},
-      {"year": 2001, "relative_activity": 7},
-      {"year": 2005, "relative_activity": 5},
-      {"year": 2008, "relative_activity": 5},
-      {"year": 2011, "relative_activity": 5},
-      {"year": 2014, "relative_activity": 6},
-      {"year": 2016, "relative_activity": 7},
-      {"year": 2017, "relative_activity": 7},
-      {"year": 2019, "relative_activity": 7},
-      {"year": 2020, "relative_activity": 6},
-      {"year": 2022, "relative_activity": 6},
-      {"year": 2024, "relative_activity": 6},
-      {"year": 2026, "relative_activity": 6}
+      {
+        "year": 1970,
+        "relative_activity": 2
+      },
+      {
+        "year": 1974,
+        "relative_activity": 3
+      },
+      {
+        "year": 1976,
+        "relative_activity": 4
+      },
+      {
+        "year": 1980,
+        "relative_activity": 5
+      },
+      {
+        "year": 1985,
+        "relative_activity": 7
+      },
+      {
+        "year": 1987,
+        "relative_activity": 8
+      },
+      {
+        "year": 1990,
+        "relative_activity": 9
+      },
+      {
+        "year": 1995,
+        "relative_activity": 9
+      },
+      {
+        "year": 1998,
+        "relative_activity": 9
+      },
+      {
+        "year": 2001,
+        "relative_activity": 7
+      },
+      {
+        "year": 2005,
+        "relative_activity": 5
+      },
+      {
+        "year": 2008,
+        "relative_activity": 5
+      },
+      {
+        "year": 2011,
+        "relative_activity": 5
+      },
+      {
+        "year": 2014,
+        "relative_activity": 6
+      },
+      {
+        "year": 2016,
+        "relative_activity": 7
+      },
+      {
+        "year": 2017,
+        "relative_activity": 7
+      },
+      {
+        "year": 2019,
+        "relative_activity": 7
+      },
+      {
+        "year": 2020,
+        "relative_activity": 6
+      },
+      {
+        "year": 2022,
+        "relative_activity": 6
+      },
+      {
+        "year": 2024,
+        "relative_activity": 6
+      },
+      {
+        "year": 2026,
+        "relative_activity": 6
+      }
     ],
-    "method_notes": "Trajectory reflects the generic interdisciplinary model, anchored on Mayo. Rise from Bonica and Fordyce (1968-76) and Mayo 1974; peak in the 1985-1998 functional-restoration/CARF era; decline as CARF-accredited programs fell from ~205-210 to 84 by 2005 and ~54 by 2022 (the year of the 210 figure is given as 1988 in a CARF slide and 1998 elsewhere; an often-repeated '>1000 US clinics' figure could not be verified); partial revival with Mayo expansions (2008-2016), pediatric IIPT and opioid-crisis attention (CDC 2016, KFF/NPR 2017, VA tenfold growth); steady through the 2020s. Reach is a rough order-of-magnitude estimate from Mayo throughput (300+/yr) extrapolated to many programs internationally; it does not count German multimodal therapy separately (no verified figures). Google Trends and Reddit were not used; this is a clinic-based model with little social-media footprint beyond Mayo Clinic Connect threads."
+    "method_notes": "Trajectory reflects the generic interdisciplinary model, anchored on Mayo. Rise from Bonica and Fordyce (1968-76) and Mayo 1974; peak in the 1985-1998 functional-restoration/CARF era; decline as CARF-accredited programs fell from 210 (1998) to 84 by 2005 and 87 by 2019 (peer-reviewed sources date the 210 figure to 1998; a '>1000 US clinics' figure sometimes attributed to Schatman was not found in PubMed, Europe PMC full text or the VA papers and is not used); partial revival with Mayo expansions (2008-2016), pediatric IIPT and opioid-crisis attention (CDC 2016, KFF/NPR 2017, VA tenfold growth); steady through the 2020s. Reach is a rough order-of-magnitude estimate from Mayo throughput (300+/yr) extrapolated to many programs internationally; it does not count German multimodal therapy separately (no verified figures). Google Trends was not used, and Reddit's API blocked automated access (2026-10-13); this is a clinic-based model with little social-media footprint beyond Mayo Clinic Connect threads."
   },
   "sources": [
-    "https://www.mayoclinic.org/departments-centers/pain-rehabilitation-center/overview/ovc-20481691",
+    "https://www.mayoclinic.org/departments-centers/pain-rehabilitation-center/sections/overview/ovc-20481691",
     "https://mayoclinic.org/departments-centers/pain-rehabilitation-center/sections/expertise-ranking/orc-20481742",
     "https://www.mayoclinic.org/departments-centers/pain-rehabilitation-center/sections/conditions-treated/orc-20481885",
     "https://www.mayoclinic.org/departments-centers/pain-rehabilitation-center/sections/core-components/gnc-20481695",
@@ -264,6 +327,9 @@
     "https://pubmed.ncbi.nlm.nih.gov/26983448/",
     "https://pubmed.ncbi.nlm.nih.gov/25645237/",
     "https://pubmed.ncbi.nlm.nih.gov/27584815/",
-    "https://pubmed.ncbi.nlm.nih.gov/34820597/"
+    "https://pubmed.ncbi.nlm.nih.gov/34820597/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC12089867/",
+    "https://www.psychologytoday.com/us/blog/ease-pain/202101/old-pain-treatments-are-new-again",
+    "https://clinicaltrials.gov/study/NCT05676151"
   ]
 }

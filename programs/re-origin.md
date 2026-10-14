@@ -1,13 +1,13 @@
 # re-origin
 
-*Compiled 2026-10-12 from re-origin.com (home, /program, /faqs, /science, /about-us, /group-coaching, /conditions/long-haul-covid, /conditions/limbic-cross-wiring, /press, the profile pages and the sitemaps), Rehab Management (Apr 2022), Bay Area Lyme Foundation's patient-story page, Trustpilot, and PubMed and ClinicalTrials.gov searches. Content paraphrased. Web search quota ran out partway through, so Reddit, Google Trends and Wayback checks were not possible. Where those gaps matter, the text says so.*
+*Compiled 2026-10-12 from re-origin.com (home, /program, /faqs, /science, /about-us, /group-coaching, /conditions/long-haul-covid, /conditions/limbic-cross-wiring, /press, the profile pages and the sitemaps), Rehab Management (Apr 2022), Bay Area Lyme Foundation's patient-story page, Trustpilot, PubMed and ClinicalTrials.gov searches, Wayback Machine captures (2018–2025) and YouTube. Content paraphrased. Reddit and Google Trends could not be checked (see §7).*
 
 ## At a glance
 | Field | |
 |---|---|
 | Website | https://www.re-origin.com/ (operated by re-origin Technologies Inc.; described as a California company in 2022 press) |
-| Founder(s) | **Ben Ahrens**, co-founder and the public face (CEO in 2022 press). He is a former semi-pro surfer, personal trainer and corrective exercise specialist (NY, 2007–09). His credentials are HHP/CPT/CSP and AADP "Board Certified Holistic Health Practitioner," plus certificates in biological medicine and integrative nutrition. He was formerly EVP at Innovative Medicine (NY). He reports being bedridden about 3 years with "chronic neurological Lyme"/CFS from age 25, and gave a TEDx talk on neuroplastic recovery in 2015. **Co-founders** listed on /about-us are Lindsay Alpert and Mo Pritzker, with no credentials given. Current co-CEOs are Natalie Rivans and Cherrie West. **Science advisory "Brain Trust":** Ken Gorfinkle PhD (medical psychology; formerly NY-Presbyterian/Columbia), Kelly Kent PhD (neuroscience; PhD on stroke-recovery mechanisms), Martin Alpert MD (family medicine), and Brian Plante ND (naturopath at Amen Clinics; ILADS member). |
-| Founded | **About 2020–2021.** Basis: the site says the Brain Trust formed in 2019, and the earliest press and podcast items date from Jan–Mar 2022. Exact launch date not verified because the Wayback Machine was not reachable. |
+| Founder(s) | **Ben Ahrens**, co-founder and the public face (CEO in 2022 press). He is a former semi-pro surfer, personal trainer and corrective exercise specialist (NY, 2007–09). His credentials are HHP/CPT/CSP and AADP "Board Certified Holistic Health Practitioner," plus certificates in biological medicine and integrative nutrition. He was formerly EVP at Innovative Medicine (NY). He reports being bedridden about 3 years with "chronic neurological Lyme"/CFS from age 25, and gave a TEDx talk, "One deep breath" (TEDxBushwick, posted May 2015). **Co-founders** listed on /about-us are Lindsay Alpert and Mo Pritzker, with no credentials given. Current co-CEOs are Natalie Rivans and Cherrie West. **Science advisory "Brain Trust":** Ken Gorfinkle PhD (medical psychology; formerly NY-Presbyterian/Columbia), Kelly Kent PhD (neuroscience; PhD on stroke-recovery mechanisms), Martin Alpert MD (family medicine), and Brian Plante ND (naturopath at Amen Clinics; ILADS member). |
+| Founded | **About 2020–2021.** The domain was a GoDaddy parking page in Wayback captures from Aug 2018 and Aug 2019. A full re-origin site (online course, weekly "Momentum" Zoom coaching, Ahrens, Kent and Gorfinkle on the team page) is captured by 23 Oct 2021. The site says the Brain Trust formed in 2019, and the earliest press items date from Jan 2022. No exact launch date is published. |
 | Format / delivery | Self-paced online course in a web and mobile app (Mighty Networks platform, which the company says it is leaving). Includes a 28-day / 4-week core video course, worksheets, self-assessments, a community forum, live classes and somatic follow-along sessions. Paid add-ons: group coaching, 1:1 brain-retraining coaching, somatic 1:1 coaching and "deep-dive" modules. Side products: Yoga Nidra guide, Brain Retraining Toolkit, POTS Recovery Blueprint, and free "Relax"/"Reset" workshops. |
 | Business model | Commercial, sold as an annual subscription. There is a free lead-in tier (free workshops, online self-assessment quizzes, blog). |
 | Direct cost | Program + Community USD 379/yr, auto-renewing; often USD 297 with code "HEAL" (Oct 2026). Group coaching ("Momentum") USD 329, discounted to USD 279, for 10 weekly 60-min Zoom sessions; requires the base program and recurs annually. 1:1 coaching price not public. "Results Guarantee": refund possible if no value after 6 months of daily practice, with conditions. |
@@ -15,7 +15,7 @@
 | Mainstream adoption | None found. No health-system, payer or guideline uptake. |
 | Insurance reimbursable | No. Direct-to-consumer only, with no HSA/FSA statement found. |
 | Evidence (peer-reviewed trials) | **None of the program itself.** Support comes from unpublished internal surveys (N=108 pre/post at 6 weeks; "200 members" self-report) and from citations of trials of other programs (PRT, MAIR). |
-| Popularity signals | Trustpilot 156 reviews at 4.4, 93% 5-star, earliest written Jul 2023. About 17 listed press/podcast items (2022–2025), mostly podcasts and paid/sponsored placements. A "~12,000 participants" figure appeared in project scoping, but it could not be confirmed on the current site, which says "hundreds of members." Small relative to DNRS or Gupta. |
+| Popularity signals | Trustpilot 156 reviews at 4.4, 93% 5-star (re-checked Oct 2026); earliest review written Jul 2023. About 17 listed press/podcast items (2022–2025), mostly podcasts and paid/sponsored placements. A "~12,000 participants" figure from project scoping appears nowhere on the current site or in Wayback captures of the home and about pages (2022–2025). Those pages consistently say "hundreds of re-origin's members." Small relative to DNRS or Gupta. |
 
 ## 1. Proposed mechanism(s)
 - **Limbic "conditioning" / "limbic cross-wiring" (site's own term; it acknowledges this is a hypothesis, not a diagnosis):**
@@ -73,14 +73,15 @@
 ## 7. Popularity and trajectory
 | Year | Indicators |
 |---|---|
-| 2015 | Ahrens's TEDx talk on recovering via neuroplasticity (pre-company). |
-| 2019 | Brain Trust formed (per site). |
+| 2015 | Ahrens's TEDx talk "One deep breath" (TEDxBushwick, posted May 2015; about 41k YouTube views by Oct 2026). Pre-company. |
+| 2019 | Brain Trust formed (per site). Domain still a parking page (Wayback, Aug 2019). |
+| 2021 | Site live with course, Momentum group coaching and community (Wayback, Oct 2021). |
 | 2022 | Launch/visibility phase: about 15 podcast, Instagram and niche-media items, Jan–Sep. Long-COVID positioning (Rehab Management, AMODRN, WebMD mention). |
 | 2023–2024 | Authority Magazine interview (Jun 2023), Project Lyme story (Feb 2024), NY Weekly (Jul 2024), Business Insider release for a free "Neuroplasticity in Motion" workshop (Oct 2024). First Trustpilot reviews (written 2023, posted 2024). |
 | 2025–2026 | Leadership change to co-CEOs Natalie Rivans and Cherrie West. Large SEO content push: about 35 condition pages and 50+ articles in Nov–Dec 2025, plus 2026 self-assessment quizzes. Coaching roster expanded (about 10 coaches by 2026). Trustpilot: 156 reviews total, about 20 in the last 12 months. |
 
-- **Reach:** probably low thousands to about 10^4 cumulative members. The site says "hundreds"; the about-12,000 claim is unverified.
-- **Not checked:** Reddit and Google Trends (search quota exhausted). Anecdotally, the brand appears much less often than DNRS or Gupta in r/cfs and r/LongCovid limbic-retraining threads, but this was not verified here.
+- **Reach:** probably about 10^3 cumulative members. The site has said "hundreds" of members since at least 2023, and the ~12,000 figure has no public source.
+- **Reddit and Google Trends:** not measured. Reddit refused automated access (search JSON and pages blocked), web search was unavailable for this item, and Google Trends has no API. No re-origin subreddit was found.
 
 ## 8. Controversies / criticisms
 - **Overstated scientific framing:** marketing says the program was "designed by PhD neuroscientists and doctors," but there is no published evaluation. Outcome percentages are uncontrolled, inconsistent across pages, and shown next to other programs' RCTs in a way that may suggest they come from those trials.
@@ -103,10 +104,13 @@
 - https://www.re-origin.com/testimonials
 - https://rehabpub.com/conditions/neurological/neuroplasticity-training-via-re-origin-relief-for-long-covid/ (Apr 13, 2022)
 - https://www.bayarealyme.org/blog/story/ben-a
-- https://www.trustpilot.com/review/re-origin.com
-- PubMed E-utilities search ("re-origin" AND neuroplasticity/brain retraining): 0 results, 2026-10-12
+- https://www.trustpilot.com/review/re-origin.com (re-checked 2026-10-13)
+- https://web.archive.org/web/20190806184727/http://re-origin.com/ (parking page) and https://web.archive.org/web/20211023172654/https://www.re-origin.com/ (live site)
+- https://web.archive.org/web/2023/https://www.re-origin.com/about-us ("hundreds of re-origin's members")
+- https://www.youtube.com/watch?v=k751T8_Q0BY (TEDxBushwick, "One deep breath," uploaded 2015-05-26)
+- PubMed E-utilities search ("re-origin" AND neuroplasticity/brain retraining/limbic): 0 results, 2026-10-12 and 2026-10-13
 - ClinicalTrials.gov API search: no re-origin study
 - Ashar YK et al. JAMA Psychiatry 2022;79(1):13–23. doi:10.1001/jamapsychiatry.2021.2669 (cited by re-origin; not a trial of re-origin)
 - Sanabria-Mazo JP et al. J Clin Med 2020;9(10):3246 (cited by re-origin; not a trial of re-origin)
 
-*Fact-checked 2026-10-12; corrections: N=108 6-week outcomes shown as 0% placeholders on /science (noted); Brain Trust credential inconsistency (Alpert MD vs PhD) and Ashar citation year inconsistency noted; founders, advisors, pricing ($379/yr, $297 with HEAL), guarantee terms, 'hundreds of members' and PubMed 0 hits re-verified; founding year 2020–2021 remains unverified (web search quota exhausted, no Wayback).*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: founding window narrowed via Wayback (parked 2019, live by Oct 2021); Trustpilot figures and group-coaching price (USD 279/329) re-verified; TEDx talk dated (TEDxBushwick, May 2015); ~12,000 member claim found nowhere on site or in archives; PubMed 0 hits re-confirmed; Reddit and Google Trends not measurable (access blocked).*

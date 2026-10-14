@@ -21,8 +21,8 @@
         "YouTube"
     ],
     "business_model": "freemium/hybrid",
-    "cost_summary": "Free podcast, YouTube and JournalSpeak 3-step guide. Prices verified Oct 2026: BreakAwake membership $9.99/mo or $99/yr; Heal with Nicole membership $99/mo or $999/yr; coaching $160/session or $640 for a 4-pack. The two 14-lesson courses (1-year access) have no public price; estimated at a few hundred USD (unverified). Mind Your Body book (2025) sells at standard retail price. Retreats priced separately.",
-    "cost_usd_typical": 250,
+    "cost_summary": "Free podcast, YouTube and JournalSpeak 3-step guide. Prices verified Oct 2026: courses Freedom from Chronic Pain and Freedom from an Anxious Life $349 each (14 lessons, 1-year access); BreakAwake membership $9.99/mo or $99/yr; Heal with Nicole membership $99/mo or $999/yr; coaching $160/session or $640 for a 4-pack. Practitioner training (Sarno x Sachs Solution) $595, or $695 with 18.75 CE credits. Mind Your Body book (2025) sells at standard retail price. Retreats priced separately.",
+    "cost_usd_typical": 349,
     "conditions_claimed": [
         "chronic pain (general)",
         "chronic back/neck pain",
@@ -82,7 +82,7 @@
         "1:1 coaching with certified coaches"
     ],
     "mainstream_adoption": "limited",
-    "mainstream_notes": "No health-system, guideline or insurer adoption. Influence runs through the TMS/mindbody physician network: John Stracks MD wrote the book's foreword and is a long-time referrer; Howard Schubiner MD and David Clarke MD have been podcast guests. There is also a practitioner training ('Sarno x Sachs Solution', 18.75 CE; accrediting body not stated) and cross-promotion with the Curable app. The book is published by Avery (Penguin Random House), 2025.",
+    "mainstream_notes": "No health-system, guideline or insurer adoption. Influence runs through the TMS/mindbody physician network: John Stracks MD wrote the book's foreword and is a long-time referrer; Howard Schubiner MD and David Clarke MD have been podcast guests. There is also a practitioner training ('Sarno x Sachs Solution', 18.75 CE co-sponsored by Amedco, a jointly accredited provider approved by APA and ASWB ACE) and cross-promotion with the Curable app. The book is published by Avery (Penguin Random House), 2025.",
     "insurance": "no",
     "insurance_notes": "All offerings are self-pay. Coaching is by in-house certified recovered-patient coaches with no stated licensure, so it is not billable psychotherapy. Sachs no longer offers 1:1 sessions.",
     "evidence_level": "none",
@@ -143,6 +143,18 @@
                 "metric": "celebrity testimonials",
                 "value": "Ricki Lake, Rachel Platten, Catherine Oxenberg, Michael Porter Jr.",
                 "source": "podcast RSS",
+                "year": 2026
+            },
+            {
+                "metric": "Instagram followers",
+                "value": "~187K (@nicolesachslcsw)",
+                "source": "https://www.instagram.com/nicolesachslcsw/",
+                "year": 2026
+            },
+            {
+                "metric": "YouTube subscribers",
+                "value": "~31.2K subscribers, 124 videos",
+                "source": "https://www.youtube.com/channel/UC-tz1Du69PhcBkC3-9_Mgmw",
                 "year": 2026
             }
         ],
@@ -206,7 +218,7 @@
                 "relative_activity": 9.5
             }
         ],
-        "method_notes": "Anchored on dated indicators: memoir 2013; course and YouTube before 2018; podcast launch Oct 2018; RSS episode counts per year; 2M downloads Oct 2021 and 5.5M by 2026; book Feb 2025; membership, coaching and practitioner-training expansion 2024-26. Google Trends and Reddit counts were not checked, so trajectory values are judgement-based."
+        "method_notes": "Anchored on dated indicators: memoir 2013; course and YouTube before 2018; podcast launch Oct 2018; RSS episode counts per year; 2M downloads Oct 2021 and 5.5M by 2026; book Feb 2025; membership, coaching and practitioner-training expansion 2024-26. Instagram (~187K) and YouTube (~31.2K) counts checked Oct 2026. Google Trends was not compiled and Reddit blocked automated access, so trajectory values are judgement-based."
     },
     "sources": [
         "https://www.yourbreakawake.com/",
@@ -223,6 +235,13 @@
         "https://openlibrary.org/search.json?author=Nicole+Sachs",
         "https://pubmed.ncbi.nlm.nih.gov/?term=journalspeak",
         "https://clinicaltrials.gov/api/v2/studies?query.term=JournalSpeak",
-        "https://pubmed.ncbi.nlm.nih.gov/15784801/"
+        "https://pubmed.ncbi.nlm.nih.gov/15784801/",
+        "https://www.yourbreakawake.com/course",
+        "https://www.yourbreakawake.com/anxiety-course",
+        "https://www.sarnosachs.com/",
+        "https://course.sarnosachs.com/offers/CKgd8YyT/checkout",
+        "https://drive.google.com/file/d/13djS-cW_eIDg7tFvRD1LPaelwrhZ-xjK/view",
+        "https://www.instagram.com/nicolesachslcsw/",
+        "https://www.youtube.com/channel/UC-tz1Du69PhcBkC3-9_Mgmw"
     ]
 }

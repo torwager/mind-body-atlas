@@ -7,7 +7,7 @@
 |---|---|
 | Website | https://www.noigroup.com/ (NOI Group, Adelaide). Public offshoots: tamethebeast.org, painrevolution.org, flippinpain.co.uk, retrainpain.org. US line: Adriaan Louw's *Why You Hurt* / Evidence in Motion (EIM) Therapeutic Pain Specialist certification. |
 | Founder(s) | NOI / *Explain Pain*: **David S. Butler**, Australian physiotherapist and educator who founded the Neuro Orthopaedic Institute and wrote *Mobilisation of the Nervous System* (1991). **G. Lorimer Moseley**, physiotherapist and clinical neuroscientist; Professor of Clinical Neuroscience and Chair in Physiotherapy, University of South Australia; NeuRA fellow. Separately, **Adriaan Louw**, PT, PhD (International Spine and Pain Institute, US) developed the parallel "Therapeutic Neuroscience Education" (TNE) line and the *Why You Hurt* patient book. He is not an NOI founder, though he has co-authored with Butler. |
-| Founded | NOI as a physiotherapy education company from the early 1990s (approximate, dated by Butler's 1991 neurodynamics text). Moseley's first PNE trials 2002–2004. *Explain Pain* book 2003; 2nd ed. 2013; *Protectometer* handbook ~2015; *Explain Pain Supercharged* ~2017. Louw's TNE book and *Why You Hurt* ~2013. Pain Revolution ~2017. Tame the Beast ~2017. Flippin' Pain ~2021 (approximate). |
+| Founded | NOI (Neuro Orthopaedic Institute) in the early 1990s, per Butler's OPTP biography (exact year not published). Moseley's first PNE trials 2002–2004. *Explain Pain* book 2003; 2nd ed. 2013; *Protectometer* handbook 2015; *Explain Pain Supercharged* Feb 2017. Louw's *Therapeutic Neuroscience Education* book 2013 (*Why You Hurt* patient book same era). Pain Revolution 2017. Tame the Beast video July 2017. Flippin' Pain first event September 2019 (Boston, Lincolnshire). |
 | Format / delivery | Patient education delivered one-to-one or in groups by clinicians, usually physiotherapists, typically 1–4 sessions alongside graded exercise. Books, metaphors and illustrated handouts. Clinician courses (live and self-paced). Free public videos, podcasts, rural roadshows and community educators. |
 | Business model | Clinician-delivered core. NOI is commercial (books, courses). Public offshoots are free (Pain Revolution is university-hosted and donation-funded; Flippin' Pain is a Cora Health initiative with NHS/government partners). Overall a hybrid. |
 | Direct cost | *Explain Pain* 2nd ed. AUD 75 (+GST). *Explain Pain Supercharged* AUD 140. Bundle AUD 221.85 (noigroup.com, Oct 2026). Clinician courses are paid. Patients pay standard physio fees. Public resources are free. Pain Revolution's Local Pain Educator training costs AUD 10,000 for self-funded applicants, with scholarships available. |
@@ -15,7 +15,7 @@
 | Mainstream adoption | **Substantial** in physiotherapy and pain medicine. Part of physio curricula and multidisciplinary pain programs in Australia, the UK, Europe and the US. Endorsed in UK public-health campaigns. Patient education/reassurance appears in LBP guidelines. |
 | Insurance reimbursable | Indirectly. It is billed within physiotherapy or pain-clinic visits (e.g. US therapeutic activity or self-care codes; Australian Medicare allied-health items; NHS-funded care). Books and courses are not reimbursed. |
 | Evidence (peer-reviewed trials) | Many RCTs and several meta-analyses. Pooled effects of PNE vs control on pain are small and often non-significant (Watson 2019). Clearer benefits appear for kinesiophobia, catastrophizing and, when PNE is added to exercise, short-term pain and disability (low-moderate certainty). Several large or pragmatic trials were null on their primary outcomes: acute LBP (PREVENT), breast-cancer surgery (EduCan), and PT-training cluster RCT (Lane 2022). |
-| Popularity signals | Translated into at least 5 languages. Moseley's TEDxAdelaide talk "Why things hurt" (2011) is widely viewed (view count not verified). Pain Revolution reports 20,000+ people and 150+ communities reached. Flippin' Pain reports 180,000+ people reached in the UK. PNE is the conceptual backbone of Curable, Pathways, PRT and the "pain science" content on social media. |
+| Popularity signals | Translated into at least 5 languages. Moseley's TEDxAdelaide talk "Why things hurt" (Nov 2011) has about 1.6 million YouTube views. The Tame the Beast video (2017) has about 780,000 (both checked Oct 2026). Pain Revolution reports 20,000+ people and 150+ communities reached. Flippin' Pain reports 180,000+ people reached in the UK on its home page and 280,000 "engaged" on its approach page. PNE is the conceptual backbone of Curable, Pathways, PRT and the "pain science" content on social media. |
 
 ## 1. Proposed mechanism(s)
 - **Pain is an output of the brain, not an input from tissue.** Pain is a protective perception, constructed when the brain evaluates "credible evidence of danger" to body tissue. It is not a readout of tissue damage. The NOI book frames this as "pain is a protector" and "pain is not an accurate measure of tissue health."
@@ -100,15 +100,15 @@ Unlike ANS Rewire or DNRS, PNE does not claim that ME/CFS, MCS, EHS or POTS are 
 - **1990s:** NOI runs neurodynamics courses internationally.
 - **2002–2004:** Moseley's first RCTs.
 - **2003:** *Explain Pain* published. It became a staple physio text and was later translated into Dutch, French, Portuguese, German, Hebrew and other languages.
-- **2011:** Moseley's TEDxAdelaide talk "Why things hurt" brings PNE to a large lay audience.
+- **2011:** Moseley's TEDxAdelaide talk "Why things hurt" brings PNE to a large lay audience (~1.6M YouTube views by Oct 2026).
 - **2013:** *Explain Pain* 2nd ed. and Louw's *Why You Hurt* / TNE books. Rapid growth of US uptake via EIM and ISPI (Louw's International Spine and Pain Institute).
 - **2015:** Moseley & Butler, "Fifteen years of explaining pain" (*J Pain*). Protectometer handbook.
-- **~2017:** *Explain Pain Supercharged*. Pain Revolution's Rural Outreach Tour begins (annual through 2026, Tweed Heads–Port Macquarie on 15–23 Oct 2026). Tame the Beast video released (Moseley, Dave Moen and a communicator; site refreshed 2024).
+- **2017:** *Explain Pain Supercharged* (Feb). Pain Revolution's Rural Outreach Tour begins (annual through 2026, Tweed Heads–Port Macquarie on 15–23 Oct 2026). Tame the Beast video released 26 July 2017 (Moseley, physio Dave Moen and communicator Sam Chisholm; site refreshed 2024; ~780k YouTube views).
 - **2018–2019:** Major trials and meta-analyses (Malfliet, Traeger, Watson, Wood).
 - **2022–2024:** RESOLVE (Bagg 2022) and further null or mixed pragmatic/surgical trials (Lane 2022, EduCan 2023, Huysmans 2023).
-- **~2021 onward:** Flippin' Pain UK campaign (180,000+ reached). PNE becomes the education layer of apps (Curable, Pathways) and of Pain Reprocessing Therapy. The PRT trial (Ashar 2022) boosted public interest in "pain is in the brain" messaging that descends from PNE.
+- **2019 onward:** Flippin' Pain UK campaign, starting with Lincolnshire events in Sept 2019 (now 180,000+ reached; 280,000 "engaged" by its own count). PNE becomes the education layer of apps (Curable, Pathways) and of Pain Reprocessing Therapy. The PRT trial (Ashar 2022) boosted public interest in "pain is in the brain" messaging that descends from PNE.
 - **2020s:** Pain Revolution reports 20,000+ lives changed, 150+ communities, 80+ communities with a trained Local Pain Educator, and AUD 700k+ raised.
-- **Reddit/social:** PNE concepts are pervasive in r/ChronicPain, r/TMSdiscovery and physio Twitter/X. Usually referenced as "pain science" rather than by brand.
+- **Reddit/social:** PNE concepts are pervasive in r/ChronicPain, r/TMSdiscovery and physio Twitter/X. Usually referenced as "pain science" rather than by brand. There is no brand subreddit; subscriber counts could not be retrieved (Reddit JSON endpoints blocked automated access in Oct 2026).
 
 ## 8. Controversies / criticisms
 - **Small effects on pain.** Critics, including meta-researchers in the physio and pain community, note modest effects and possible over-promotion relative to the evidence. Commonly cited are the null PREVENT trial (acute LBP), whose co-authors include Moseley, the null EduCan and Lane 2022 trials, and Watson 2019's non-significant pooled pain effect.
@@ -126,6 +126,13 @@ Unlike ANS Rewire or DNRS, PNE does not claim that ME/CFS, MCS, EHS or POTS are 
 - https://www.painrevolution.org/
 - https://www.flippinpain.co.uk/
 - https://www.retrainpain.org/
+- https://www.optp.com/innovators/davidbutler (NOI founded early 1990s)
+- https://painrevolution.org/mission-vision-history/ (started 2017)
+- https://www.flippinpain.co.uk/news/pain-do-you-get-it-comes-to-boston (first event, 25 Sept 2019)
+- https://www.flippinpain.co.uk/our-approach (280,000 engaged)
+- https://www.youtube.com/watch?v=gwd-wLdIHjs (TEDxAdelaide, uploaded 21 Nov 2011)
+- https://www.youtube.com/watch?v=ikUzvSph7Z4 (Tame the Beast, uploaded 26 Jul 2017)
+- https://openlibrary.org (ISBN 9780648022701, Explain Pain Supercharged, 2017; Explain Pain Handbook Protectometer, 2015; Louw, Therapeutic Neuroscience Education, 2013)
 - Moseley GL, Butler DS. Fifteen years of explaining pain: the past, present, and future. J Pain 2015;16(9):807–813.
 - Moseley GL, Nicholas MK, Hodges PW. Clin J Pain 2004;20(5):324–330.
 - Meeus M et al. Arch Phys Med Rehabil 2010;91(8):1153–1159.
@@ -145,4 +152,4 @@ Unlike ANS Rewire or DNRS, PNE does not claim that ME/CFS, MCS, EHS or POTS are 
 - Louw A et al. J Spine Surg 2016;2(4):289–298.
 - Europe PMC abstracts (https://europepmc.org) used for verification.
 
-*Fact-checked 2026-10-12; corrections: Louw relabelled as an independent TNE developer, not an NOI founder; Moseley 2002 and 2004 results corrected (2002 tested a combined program; 2004 had no pain outcome, only a small RMDQ effect); Meeus 2010 limited to immediate post-session outcomes; Van Oosterwijck 2013 is a double-blind RCT, not a pilot; Malfliet 2018 benefits were on CSI, disability and SF-36 rather than clearly on pain intensity; Watson 2019 pooled pain effect was non-significant (was described as small-to-moderate benefit); Louw 2014's 45% cost reduction is in the 2014 paper; added null or mixed trials (Lane 2022, EduCan 2023, Huysmans 2023); TEDx view count flagged as unverified.*
+*Fact-checked 2026-10-12; open items completed 2026-10-13: TEDx views (~1.6M) and Tame the Beast views (~780k) added; Flippin' Pain start corrected from ~2021 to Sept 2019; Pain Revolution (2017), Supercharged (2017), Protectometer (2015), Tame the Beast (Jul 2017) and Louw TNE (2013) dates confirmed; NOI founding stays "early 1990s" (no exact year published); Reddit counts unavailable (API blocked). Earlier corrections (2026-10-12): Louw relabelled as an independent TNE developer, not an NOI founder; Moseley 2002 and 2004 results corrected (2002 tested a combined program; 2004 had no pain outcome, only a small RMDQ effect); Meeus 2010 limited to immediate post-session outcomes; Van Oosterwijck 2013 is a double-blind RCT, not a pilot; Malfliet 2018 benefits were on CSI, disability and SF-36 rather than clearly on pain intensity; Watson 2019 pooled pain effect was non-significant (was described as small-to-moderate benefit); Louw 2014's 45% cost reduction is in the 2014 paper; added null or mixed trials (Lane 2022, EduCan 2023, Huysmans 2023).*
