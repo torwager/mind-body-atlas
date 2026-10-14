@@ -32,7 +32,7 @@ body { margin: 0; } [hidden] { display: none !important; } img { max-width: 100%
 * { box-sizing: border-box; }
 body { background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 15px; line-height: 1.5; }
 .wrap { max-width: none; margin: 0; padding-inline: clamp(16px, 2.5vw, 40px); padding-block: 28px 64px; }
-header.mast { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 24px; align-items: end; border-bottom: 1px solid var(--rule); padding-bottom: 20px; }
+header.mast { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 16px 24px; align-items: end; border-bottom: 1px solid var(--rule); padding-bottom: 20px; }
 .eyebrow { font-family: var(--f-data); font-size: 11.5px; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); }
 h1 { font-family: var(--f-display); font-weight: 600; font-size: clamp(30px, 4.4vw, 48px); line-height: 1.05; margin: 6px 0 10px; text-wrap: balance; }
 .lede { grid-column: 1 / -1; color: var(--ink-2); margin: 0; font-size: 14.5px; line-height: 1.55; column-gap: 40px; column-rule: 1px solid var(--rule); }
@@ -41,6 +41,14 @@ h1 { font-family: var(--f-display); font-weight: 600; font-size: clamp(30px, 4.4
 .lede p { margin: 0 0 9px; }
 .lede-sub { column-span: all; font-size: 13.5px; color: var(--muted); border-top: 1px solid var(--rule); padding-top: 10px; margin: 6px 0 0 !important; }
 .stats { display: flex; gap: 22px; flex-wrap: wrap; }
+.mast-side { position: relative; display: grid; justify-items: end; gap: 8px; }
+.about-btn, .more-btn { font: 500 12.5px var(--f-body); color: var(--accent); background: none; border: 1px solid var(--rule); border-radius: 999px; padding: 3px 12px; cursor: pointer; }
+.about-btn:hover, .more-btn:hover { background: var(--accent-wash); }
+.about-pop { position: absolute; top: 100%; right: 0; margin-top: 6px; z-index: 10; width: min(340px, 90vw); background: var(--surface); border: 1px solid var(--rule); border-radius: 8px; box-shadow: 0 8px 28px rgba(0,0,0,.14); padding: 12px 14px; font-size: 13px; color: var(--ink-2); }
+.more-btn { grid-column: 1 / -1; justify-self: start; margin-top: -10px; }
+.lede.collapsed { column-count: 1 !important; }
+.lede.collapsed p:not(:first-child) { display: none; }
+.lede.collapsed p:first-child { margin: 0; }
 .stat { display: grid; }
 .stat b { font-family: var(--f-display); font-size: 30px; font-weight: 600; line-height: 1; }
 .stat span { font-size: 12px; color: var(--muted); }
@@ -54,6 +62,8 @@ h2 { font-family: var(--f-display); font-weight: 600; font-size: 26px; margin: 0
 h3 { font-family: var(--f-display); font-weight: 600; font-size: 19px; margin: 28px 0 6px; }
 .guide { font-size: 13.5px; color: var(--ink-2); border-left: 2px solid var(--rule); padding-left: 14px; }
 .guide p { margin: 0 0 6px; }
+.plate-head.single { grid-template-columns: minmax(0, 1fr); }
+.guide-below { margin-top: 10px; display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 360px), 1fr)); gap: 4px 28px; }
 .controls { display: flex; flex-wrap: wrap; gap: 10px 18px; align-items: center; margin: 8px 0 12px; font-size: 13px; color: var(--ink-2); }
 .seg { display: inline-flex; border: 1px solid var(--rule); border-radius: 6px; overflow: hidden; }
 .seg button { font: 500 12.5px var(--f-body); background: var(--surface); color: var(--ink-2); border: 0; padding: 6px 10px; cursor: pointer; }
@@ -113,14 +123,18 @@ input[type="search"] { font: 14px var(--f-body); padding: 7px 10px; border: 1px 
       <div class="eyebrow">Survey · compiled 12 Oct 2026</div>
       <h1>Mind–Body Program Atlas</h1>
     </div>
-    <div class="stats" id="stats"></div>
-      <div class="lede">
+    <div class="mast-side">
+      <div class="stats" id="stats"></div>
+      <button class="about-btn" id="aboutBtn" aria-expanded="false" aria-controls="aboutPop">About this</button>
+      <div class="about-pop" id="aboutPop" hidden>74 programs, each researched and then fact-checked by a separate AI agent. Click any program in the charts or table to open its profile. See the Methods tab for how the data were gathered.</div>
+    </div>
+      <div class="lede collapsed" id="lede">
         <p>Many people suffer from a complex set of overlapping health conditions that can be difficult to understand from a mainstream medical perspective. They appear to involve interactions between pain, fatigue, stress, sleep dysregulation, brain–body communication (autonomic, endocrine, and immune systems), emotion, physical activity — and the brain systems that coordinate and govern them.</p>
         <p>A colleague told me recently that he was really helped by a program for long COVID called <a href="https://ansrewire.com/" target="_blank" rel="noopener">ansrewire.com</a>. I got curious. How many programs like this are out there? What are their underlying theories of disease? What disorders do they claim to treat, and how? Who started them, and who is using them? Evidence on these questions is scarce or absent in the peer-reviewed scientific literature: There are too many programs, few scientific studies (which take years to conduct and publish!), and too much new growth to keep up and keep track. Enter this Claude Code–generated survey (with some ideas and adjustments from me). Authoritative information here does not exist: There is a lot of guesswork from social media, subscriptions, etc., so take it with a grain of salt.</p>
         <p>Integrating information available on these approaches to chronic disease and restoring wellness is revealing. A number of programs claim to help with a wide variety of disorders: Chronic pain, ME/CFS, POTS, TMS, multiple sensitivities, FNDs, mold illness, anxiety, depression, and more. Many were founded by people suffering from these chronic diseases that found relief. Many are commercial. Many have roots in older ideas, some going back millennia. And they converge on a few broad, common theories of disease: A persistent, hypervigilant threat state expressed in brain and body, with different triggers and manifestations for different individuals. A common premise is that this threat state can be ‘unlearned’ over time, harnessing cognitive reappraisal, neuroplasticity, and calibrated exposure to challenges to retrain the brain and body.</p>
         <p>I have enjoyed building and exploring this site, and I hope you enjoy it too.</p>
-        <p class="lede-sub">74 programs, each researched and then fact-checked by a separate AI agent. Click any program in the charts or table to open its profile.</p>
       </div>
+      <button class="more-btn" id="moreBtn" aria-expanded="false" aria-controls="lede">Read more</button>
   </header>
 
   <nav class="tabs" role="tablist" id="tabs">
@@ -133,7 +147,7 @@ input[type="search"] { font: 14px var(--f-body); padding: 7px 10px; border: 1px 
   </nav>
 
   <section class="plate" id="p-timeline">
-    <div class="plate-head">
+    <div class="plate-head single">
       <div>
         <h2>When programs appeared, and how many people they reach</h2>
         <div class="controls">
@@ -147,12 +161,12 @@ input[type="search"] { font: 14px var(--f-body); padding: 7px 10px; border: 1px 
         </div>
         <div class="legend" id="famLegend"></div>
       </div>
-      <div class="guide">
-        <p>Each band is one program, grouped and colored by family. Thickness is the estimated number of <em>new people engaged</em> each year: people who enrolled, were treated or used the program, not just people who saw content.</p>
-        <p>Estimates are order-of-magnitude. The Methods tab explains how they were derived. "Log-compressed" makes small programs visible; "People per year" shows true scale, which meditation apps dominate.</p>
-      </div>
     </div>
     <div class="fig" id="streamFig"></div>
+    <div class="guide guide-below">
+      <p>Each band is one program, grouped and colored by family. Thickness is the estimated number of <em>new people engaged</em> each year: people who enrolled, were treated or used the program, not just people who saw content.</p>
+      <p>Estimates are order-of-magnitude. The Methods tab explains how they were derived. "Log-compressed" makes small programs visible; "People per year" shows true scale, which meditation apps dominate.</p>
+    </div>
     <h3>Founding year vs. cumulative reach</h3>
     <p class="note" style="margin-top:0">Circle area scales with estimated cumulative people engaged. The axis is compressed before 1960.</p>
     <div class="fig" id="foundFig"></div>
@@ -273,7 +287,12 @@ function openProgram(slug) {
   drawer.hidden = false; drawer.querySelector('.close').focus();
   drawer.querySelector('.close').onclick = () => { drawer.hidden = true; };
 }
-addEventListener('keydown', e => { if (e.key === 'Escape') drawer.hidden = true; });
+addEventListener('keydown', e => { if (e.key === 'Escape') { drawer.hidden = true; aboutPop.hidden = true; aboutBtn.setAttribute('aria-expanded', 'false'); } });
+const aboutBtn = document.getElementById('aboutBtn'), aboutPop = document.getElementById('aboutPop');
+aboutBtn.onclick = e => { e.stopPropagation(); aboutPop.hidden = !aboutPop.hidden; aboutBtn.setAttribute('aria-expanded', String(!aboutPop.hidden)); };
+document.addEventListener('click', e => { if (!aboutPop.hidden && !aboutPop.contains(e.target)) { aboutPop.hidden = true; aboutBtn.setAttribute('aria-expanded', 'false'); } });
+const lede = document.getElementById('lede'), moreBtn = document.getElementById('moreBtn');
+moreBtn.onclick = () => { const c = lede.classList.toggle('collapsed'); moreBtn.textContent = c ? 'Read more' : 'Show less'; moreBtn.setAttribute('aria-expanded', String(!c)); };
 
 // ---------- header stats
 (() => {
